@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<header class="masthead">
+  <nav class="masthead-nav">
+    {% for nav in site.nav %}
+    <a href="{{ nav.href }}">{{ nav.name }}&nbsp&nbsp&nbsp/</a>
+    {% endfor %}
+  </nav>
+  <h1 class="masthead-title">
+    {{ site.name }}
+  </h1>
+
+  <p><em>Brain, behavior and cognition, science and scientists,
+    and the dream that our ideas and not our data limit the questions we can ask.</em></p>
+
+  <p>Rehabilitation Institute of Chicago, Northwestern University<br>
+    345 E Superior St, Rm 1479, Chicago, IL
+    <br>
+    <br>
+  <a href="http://klab.smpp.northwestern.edu/wiki/index.php5/Main_Page"><i class="fa fa-share-alt"></i> website</a><br>
+  <a href="https://github.com/KordingLab"><i class="fa fa-github"></i> Github</a><br>
+  <a href="https://twitter.com/KordingLab"><i class="fa fa-twitter"></i> Twitter</a>
+  </p>
+</header>

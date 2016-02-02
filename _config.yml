@@ -1,0 +1,48 @@
+# # # # # # # #
+#   K i k o   #
+# # # # # # # #
+
+# Basic
+name:               "kording lab's blog"
+title:              "blog for kording lab"
+description:        "this is an awesome blog for kording lab"
+
+
+# URL
+url:                http://kordinglab.github.io
+baseurl:
+#baseurl:            "" #For Root Domain
+permalink:          /:year/:month/:day/:title.html
+
+# Markdown
+markdown:           kramdown
+
+# Navigation
+nav:
+  - name:           "home"
+    href:           "//kordinglab.github.io/"
+  - name:           "about"
+    href:           "//kordinglab.github.io/about"
+  - name:           "blog"
+    href:           "//kordinglab.github.io/blog"
+  - name:           "reference"
+    href:           "//kordinglab.github.io/reference"
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
