@@ -74,6 +74,8 @@ p {
 }
 
 ul, ol, dl {
+  font-family: Helvetica, 'Ubuntu Mono';
+  font-size: 0.8rem;
   margin-top: 0;
   margin-bottom: 1rem;
 }
@@ -157,8 +159,8 @@ abbr[title] {
 blockquote {
   padding: 0 0 0 1.5rem;
   margin: 0 2rem 1rem 0;
-  color: #999;
-  border-left: .5rem solid #e5e5e5;
+  //color: #999;
+  border-left: .5rem; //solid #e5e5e5
 
   p:last-child {
     margin-bottom: 0;

@@ -29,7 +29,7 @@ and view it on mobile.
 
 <div class="content list">
   {% for post in site.posts %}
-    {% if post.categories contains 'student' %}
+    {% if post.categories contains 'students' %}
     <div class="list-item">
       <p class="list-post-title">
         <a href="{{ site.baseurl }}{{ post.url }}">- {{ post.title }}</a>
@@ -45,7 +45,7 @@ and view it on mobile.
 
 <div class="content list">
   {% for post in site.posts %}
-    {% if post.categories contains 'blog' %}
+    {% if post.categories contains 'discussion' %}
     <div class="list-item">
       <p class="list-post-title">
         <a href="{{ site.baseurl }}{{ post.url }}">- {{ post.title }}</a>
