@@ -26,3 +26,17 @@ Our research group is remarkably interdisciplinary. Our interests span statistic
 ### publications
 
 For PDFs of our work, visit our [publications page](http://klab.smpp.northwestern.edu/wiki/index.php5/Publications).
+
+
+### collaborators
+
+*Here are some cool people in fields that interest us.* **note:** *This list is in no way complete. We have a lot of collaborators -- if you've collaborated with us and want a link here, let us know!*
+
+**Northwestern University:** [Jay Gottfried - Dept of Neurology](http://labs.feinberg.northwestern.edu/gottfried/), [Lee Miller - Depts of Physiology and BME
+](http://physio.northwestern.edu/), [Mark Segraves - Dept of Neurobiology and Physiology
+](http://www.neurobiology.northwestern.edu/people/core-faculty/mark-segraves.html), [Sara Solla - Depts of Physiology and Physics](http://www.physics.northwestern.edu/people/personalpages/ssolla.html), [Matt Tresch - Depts of Physiology and BME](http://www.mccormick.northwestern.edu/biomedical/)
+
+
+**External:** Scott Grafton - UCSB, Nicho Hatsopoulos - University of Chicago, Peter Strick - University of Pittsburgh, Mriganka Sur - MIT, Christine Thomas - University of Miami, Rob Turner - University of Pittsburgh
+
+**Organization:** Northwestern University, RIC: Rehabilitation Institute of Chicago, SMPP: Sensory Motor Performance Program, Department of Physiology, Department of Physical Medicine and Rehabilitation, Department of Engineering Sciences and Applied Math, Interdepartmental Neuroscience Program
