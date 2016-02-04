@@ -34,6 +34,7 @@ The reviewer provides three things.
 - If reviewers indicate with convincing evidence that the paper is not relevant enough or has errors that can not be overcome the the paper will be rejected. Relevance criteria are soft and there are no alternatives. When editing for PLOS CB my relevance criterion is "if one of my students wanted to work in that general field, would I recommend they read the paper?" For relevance I read between the lines of all the reviewers. For errors the situation is different. If one reviewer shows a real mistake in the logic of the manuscript, then they overrule the rest. Basically, relevance benefits from democracy, correctness does not.
 
 ###**Who should review a paper**
+
 - For relevance having someone with a good overview of the wider field is superuseful. Relevance evaluations can be spot on and yet very short. Authors hate it. But the "the only thing added over paper xxx is yyy and that combination is not overly surprising" are actually very indicative to editors and I believe rightfully so.
 - For correctness having someone who is meticulous is important. If a paper uses complicated methods (stats/experimental) then someone who knows those techniques is also important. Good correctness evaluations are usually quite long.
 - Ideal reviewer pools combine people that are good at evaluating relevance with those that are good at evaluating correctness. I find that young people are better at evaluating correctness.
