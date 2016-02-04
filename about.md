@@ -37,6 +37,14 @@ For PDFs of our work, visit our [publications page](http://klab.smpp.northwester
 ](http://www.neurobiology.northwestern.edu/people/core-faculty/mark-segraves.html), [Sara Solla - Depts of Physiology and Physics](http://www.physics.northwestern.edu/people/personalpages/ssolla.html), [Matt Tresch - Depts of Physiology and BME](http://www.mccormick.northwestern.edu/biomedical/)
 
 
-**External:** Scott Grafton - UCSB, Nicho Hatsopoulos - University of Chicago, Peter Strick - University of Pittsburgh, Mriganka Sur - MIT, Christine Thomas - University of Miami, Rob Turner - University of Pittsburgh
+**External:** [Scott Grafton - UCSB](https://www.psych.ucsb.edu/people/faculty/grafton), [Nicho Hatsopoulos - University of Chicago](http://pondside.uchicago.edu/oba/faculty/Hatsopoulos/lab/), [Peter Strick - University of Pittsburgh](http://www.cnbc.cmu.edu/faculty/strick-peter-l/view-details), [Mriganka Sur - MIT](http://surlab.mit.edu/), [Christine Thomas - University of Miami](http://www.miamiproject.med.miami.edu/page.aspx?pid=325), [Rob Turner - University of Pittsburgh](http://www.neurobio.pitt.edu/faculty/turner.htm)
 
-**Organization:** Northwestern University, RIC: Rehabilitation Institute of Chicago, SMPP: Sensory Motor Performance Program, Department of Physiology, Department of Physical Medicine and Rehabilitation, Department of Engineering Sciences and Applied Math, Interdepartmental Neuroscience Program
+**Organization:**
+
+- Northwestern University
+- RIC: Rehabilitation Institute of Chicago
+- SMPP: Sensory Motor Performance Program
+- Department of Physiology
+- Department of Physical Medicine and Rehabilitation
+- Department of Engineering Sciences and Applied Math
+- Interdepartmental Neuroscience Program
