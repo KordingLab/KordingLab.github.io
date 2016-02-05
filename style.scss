@@ -31,6 +31,10 @@ body {
       -ms-text-size-adjust: 100%;
 }
 
+.MathJax_Display{
+  font-size: 80%;
+}
+
 a {
   color: #268bd2;
   text-decoration: none;
@@ -145,7 +149,7 @@ strong {
 }
 
 abbr {
-  font-size: 85%;
+  font-size: 80%;
   font-weight: bold;
   color: #555;
   text-transform: uppercase;
