@@ -16,7 +16,7 @@ body {
 html {
   font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 18px;
-  font-weight: 300;
+  // font-weight: 300;
   line-height: 1.6;
 
   @media (min-width: 38em) {
@@ -48,8 +48,8 @@ a {
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   margin-bottom: .5rem;
-  font-weight: 200;
-  font-family: Molengo, "Source Sans Pro";
+  font-weight: 600;
+  font-family: "Source Sans Pro";
   line-height: 1.1;
   color: #333;
   letter-spacing: -.025rem;
@@ -72,13 +72,13 @@ h4, h5, h6 {
 }
 
 p {
-  font-family: Helvetica, 'Ubuntu Mono';
+  font-family: "Helvetica Neue", Helvetica, 'Ubuntu Mono';
   margin: 0 0 1rem;
   font-size: 0.8rem;
 }
 
 ul, ol, dl {
-  font-family: Helvetica, 'Ubuntu Mono';
+  font-family: "Helvetica Neue", Helvetica, 'Ubuntu Mono';
   font-size: 0.8rem;
   margin-top: 0;
   margin-bottom: 1rem;
