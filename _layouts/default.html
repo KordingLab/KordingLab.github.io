@@ -23,13 +23,14 @@
   <!-- open graph -->
 
   {% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
+  {% capture description %}{% if page.description %}{{ page.description }}{% else %}{{ content }}{% endif %}{% endcapture %}
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="article">
   <meta property="og:url" content="{{ canonical }}">
   <!-- <meta property="og:title" content="{{ site.title }}"> -->
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta property="og:site_name" content="{{ site.title }}">
-  <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:description" content="{{ description | strip_html | condense_spaces | truncate:150 }}" />
   <meta property="og:image" content="{{ site.url }}/images/logo/logo_square.jpg">
 
 </head>
