@@ -1,26 +1,27 @@
 ---
 title: How to add blog post on Jekyll
+description: simple way to add post on Jekyll for Kording lab's blog
 categories: blog
 ---
 
 We use Jekyll to creat Kording lab blog. Not only us that use Jekyll as an organization blog, [Stack Overflow Blog](http://blog.stackoverflow.com/) also use Jekyll. They host all the blog on Github  [StackExchange/stack-blog](https://github.com/StackExchange/stack-blog) which has really nice instruction to add new posts.
 
-Using Jekyll, it's very easy to add post on `kordinglab.github.io`. All the posts are located in `_posts` folder located in [KordingLab.github.io](https://github.com/KordingLab/KordingLab.github.io). Post arrangement is based on date. Each posts can be written in markdown format (also in `html` too, like `<br>` means new line). File name of each post is in `year-month-date-post-name.md` format such as `2016-02-05-how-to-add-blog.md` or `2016-01-22-bayesian-theory.md`. On top of each post, you just have to state 2 main things in markdown, `title` and `categories` as follows
+Using Jekyll, it's very easy to add post on `kordinglab.github.io`. All the posts are located in `_posts` folder located in [`KordingLab.github.io`](https://github.com/KordingLab/KordingLab.github.io). Post arrangement is based on date. Each posts can be written in markdown format (also in `html` too, like `<br>` means new line). File name of each post is in `year-month-date-post-name.md` format such as `2016-02-05-how-to-add-blog.md` or `2016-01-22-bayesian-theory.md`. On top of each post, you just have to state 3 main things in markdown before writing a post: `title`, `description` and `categories` as follows
 
 {% highlight markdown %}
 ---
 title: Summer School in Computational Sensory-Motor Neuroscience (CoSMo)
+description: all links to CoSMo summer school in computational neuroscience materials
 categories: scientists
 ---
 {% endhighlight %}
 
-where `categories` can be only 4 choices: `scientists`, `students`, `discussion`, `blog`. It will automatically put that blog post on the page depending on categories you put.
+where `categories` can be only 4 choices: `scientists`, `students`, `discussion`, `blog`. It will automatically put that blog post on the page depending on categories you put. `description` will be shown when you share on social media like Facebook or Twitter.
 
 There are multiple ways for someone to add posts:
 
 - First way is going directly to [KordingLab.github.io](https://github.com/KordingLab/KordingLab.github.io) then go to `_post` folder and directly add markdown file. Github allows you to see preview of the markdown too so you can check before you submit any file.
 - Second way is to clone the repository and add post in your local computer then push to the repository. This way you can install `Jekyll` and test to see your post on local computer by running `jekyll serve` on terminal (after you follow [instruction](http://jekyllrb.com/)) and go to `localhost:4000`. For example, this post has `blog` categories, I can see preview of my blog on `localhost:4000/blog` before I push to [KordingLab.github.io](https://github.com/KordingLab/KordingLab.github.io).
-
 
 
 <hr>
