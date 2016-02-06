@@ -8,18 +8,18 @@ categories: scientists
 I think what is wrong with the publishing system is different to what others complain about.
 From my perspective the main problem is that it confounds three things.
 
-- (1) Truth - each paper has a truth value associated with it. Is it significant? How p-hacked is it? Will it generalize?
-- (2) Innovativeness - to which level does a paper break new ground? Opens up new avenues?
-- (3) Relevance - who relates to the message of the paper?
+  **1. Truth** - each paper has a truth value associated with it. Is it significant? How p-hacked is it? Will it generalize?<br>
+  **2. Innovativeness** - to which level does a paper break new ground? Opens up new avenues?<br>
+  **3. Relevance** - who relates to the message of the paper?
 
 
 **Examples**
 
-The "profile" of a journal mixes these three things together and glamour journals heavily overweigh (3). But these points should really be evaluated separately. A few examples.
+The "profile" of a journal mixes these three things together and glamour journals heavily overweigh **3**. But these points should really be evaluated separately. A few examples:
 
-- (1) I want my doctor to read cochrane reports not nature papers. On the truth axis they are far better than the entire rest of the biomedical literature.
-- (2) I want to read the innovative papers in my narrow field. For example, a paper that speeds up fitting of GLMs to data is superimportant to me. And the other 10 people building methods based on it.
-- (3) My students should read the easily readable papers in the broader field to have an overview.
+  -  I want my doctor to read cochrane reports not nature papers. On the truth axis they are far better than the entire rest of the biomedical literature.
+  - I want to read the innovative papers in my narrow field. For example, a paper that speeds up fitting of GLMs to data is super important to me. And the other 10 people building methods based on it.
+  - My students should read the easily readable papers in the broader field to have an overview.
 
 A glamor journal is defined as a journal that is read by many people and hence cited by many people. So it goes for relevance. As it should - and it is good because it provides visibility for good introductory papers to the field.
 
