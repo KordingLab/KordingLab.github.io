@@ -21,13 +21,16 @@
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.url }}/images/logo/apple-touch-icon-144x144-precomposed.png">
 
   <!-- open graph -->
+
+  {% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="article">
-  <meta property="og:url" content="{{ site.url }}">
-  <meta property="og:title" content="{{ site.title }}">
+  <meta property="og:url" content="{{ canonical }}">
+  <!-- <meta property="og:title" content="{{ site.title }}"> -->
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:image" content="{{ site.url }}/images/logo/logo_square.jpg">
-  <meta property="og:description" content="{{ site.description }}" />
 
 </head>
 

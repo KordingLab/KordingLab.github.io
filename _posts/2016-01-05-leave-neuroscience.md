@@ -1,5 +1,6 @@
 ---
 title: Leave Neuroscience to become a data scientist?
+description: how to leave neuroscience to become scientist guideline
 categories: scientists
 ---
 
