@@ -11,7 +11,7 @@ layout: default
 <div class="content post">
   <strong><h3>{{ page.title }}</strong><br></h3>
   <hr>
-  <!-- <p>{{ page.date | date_to_string }}</p> -->
   {{ content }}
+  {% include social-share.html %}
   <div id="disqus_thread"></div>
 </div>

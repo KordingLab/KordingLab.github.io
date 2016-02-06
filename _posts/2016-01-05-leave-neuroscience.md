@@ -8,7 +8,7 @@ A bunch of helpful links
 - [http://kaggle.com](http://kaggle.com)
 - [http://insightdatascience.com/](http://insightdatascience.com/)
 
-#### **Some very helpful thoughts by Jeong-Yoon Lee who very successfully made the transition**
+### **Some very helpful thoughts by Jeong-Yoon Lee who very successfully made the transition**
 
 First, I'd like to say that data science is a relatively new field (like computational neuroscience), and you don't need to feel bad to make the transition after your Ph.D.
 
@@ -35,11 +35,12 @@ SQL is an old technology but still widely used. Most of data are stored in the d
 
 Fortunately, I had a chance to work with many of top competitors such as the 1st and 2nd place teams at Netflix competitions, and learn how they do at competitions. Here are some tips I found helpful.
 
-- (1) Don't jump into the algorithms too fast. Spend enough time to understand data. Algorithms are important, but no matter how good algorithm you use, if you put garbage in it, you will get garbage out of it. Many regression algorithms assume the Gaussian distributed variables, and fail to make good predictions if you provide non-Gaussian distributed variables. So, standardization, normalization, non-linear transformation, discretization, binning are very important.
+- **Don't jump into the algorithms too fast.** Spend enough time to understand data. Algorithms are important, but no matter how good algorithm you use, if you put garbage in it, you will get garbage out of it. Many regression algorithms assume the Gaussian distributed variables, and fail to make good predictions if you provide non-Gaussian distributed variables. So, standardization, normalization, non-linear transformation, discretization, binning are very important.
 
-- (2) Use different algorithms and blend. There is no universal optimal algorithm. Most of times (if not all), the winning algorithms are ensembles of many individual models with tens of different algorithms. Combining different kinds of models can improve prediction performance a lot. For individual models, I find random forest, gradient boosting machine, factorization machine, neural network, support vector machine, logistic/linear regression, naive bayes, and collaborative filtering are mostly useful, and gradient boosting machine and factorization machine are often the best individual models.
+- **Use different algorithms and blend.** There is no universal optimal algorithm. Most of times (if not all), the winning algorithms are ensembles of many individual models with tens of different algorithms. Combining different kinds of models can improve prediction performance a lot. For individual models, I find random forest, gradient boosting machine, factorization machine, neural network, support vector machine, logistic/linear regression, naive bayes, and collaborative filtering are mostly useful, and gradient boosting machine and factorization machine are often the best individual models.
 
-- (3) Optimize at last. Each competition has a different evaluation metric, and optimizing algorithms to do the best for that metric can improve your chance to win. Two most popular metrics are RMSE and AUC (area under the ROC curve), and algorithms optimizing one metric is not the optimal for the other metric. If you use the standard library as it is, it often provides only RMSE optimization, so for AUC (or other metric) optimization, you need to implement it by yourself.
+- **Optimize at last. Each competition has a different evaluation metric**, and optimizing algorithms to do the best for that metric can improve your chance to win. Two most popular metrics are RMSE and AUC (area under the ROC curve), and algorithms optimizing one metric is not the optimal for the other metric. If you use the standard library as it is, it often provides only RMSE optimization, so for AUC (or other metric) optimization, you need to implement it by yourself.
 
 
-see more at <i class="fa fa-linkedin-square"></i> [`jeongyoonlee`](www.linkedin.com/in/jeongyoonlee)
+see more at <i class="fa fa-linkedin-square"></i>
+[`jeongyoonlee`](https://www.linkedin.com/in/jeongyoonlee)
