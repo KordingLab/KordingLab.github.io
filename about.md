@@ -32,12 +32,24 @@ For PDFs of our work, visit our [publications page](http://klab.smpp.northwester
 
 *Here are some cool people in fields that interest us.* **note:** *This list is in no way complete. We have a lot of collaborators -- if you've collaborated with us and want a link here, let us know!*
 
-**Northwestern University:** [Jay Gottfried - Dept of Neurology](http://labs.feinberg.northwestern.edu/gottfried/), [Lee Miller - Depts of Physiology and BME
-](http://physio.northwestern.edu/), [Mark Segraves - Dept of Neurobiology and Physiology
-](http://www.neurobiology.northwestern.edu/people/core-faculty/mark-segraves.html), [Sara Solla - Depts of Physiology and Physics](http://www.physics.northwestern.edu/people/personalpages/ssolla.html), [Matt Tresch - Depts of Physiology and BME](http://www.mccormick.northwestern.edu/biomedical/)
+
+**Northwestern University:**
+
+- [Jay Gottfried - Dept of Neurology](http://labs.feinberg.northwestern.edu/gottfried/)
+- [Lee Miller - Depts of Physiology and BME](http://physio.northwestern.edu/)
+- [Mark Segraves - Depts of Neurobiology and Physiology](http://www.neurobiology.northwestern.edu/people/core-faculty/mark-segraves.html)
+- [Sara Solla - Depts of Physiology and Physics](http://www.physics.northwestern.edu/people/personalpages/ssolla.html)
+- [Matt Tresch - Depts of Physiology and BME](http://www.mccormick.northwestern.edu/biomedical/)
 
 
-**External:** [Scott Grafton - UCSB](https://www.psych.ucsb.edu/people/faculty/grafton), [Nicho Hatsopoulos - University of Chicago](http://pondside.uchicago.edu/oba/faculty/Hatsopoulos/lab/), [Peter Strick - University of Pittsburgh](http://www.cnbc.cmu.edu/faculty/strick-peter-l/view-details), [Mriganka Sur - MIT](http://surlab.mit.edu/), [Christine Thomas - University of Miami](http://www.miamiproject.med.miami.edu/page.aspx?pid=325), [Rob Turner - University of Pittsburgh](http://www.neurobio.pitt.edu/faculty/turner.htm)
+**External:**
+
+- [Scott Grafton - UCSB](https://www.psych.ucsb.edu/people/faculty/grafton)
+- [Nicho Hatsopoulos - University of Chicago](http://pondside.uchicago.edu/oba/faculty/Hatsopoulos/lab/)
+- [Peter Strick - University of Pittsburgh](http://www.cnbc.cmu.edu/faculty/strick-peter-l/view-details) - [Mriganka Sur - MIT](http://surlab.mit.edu/)
+- [Christine Thomas - University of Miami](http://www.miamiproject.med.miami.edu/page.aspx?pid=325)
+- [Rob Turner - University of Pittsburgh](http://www.neurobio.pitt.edu/faculty/turner.htm)
+
 
 **Organization:**
 
