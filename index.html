@@ -2,11 +2,6 @@
 layout: default
 ---
 <header class="masthead">
-  <nav class="masthead-nav">
-    {% for nav in site.nav %}
-    <a href="{{ nav.href }}">{{ nav.name }}&nbsp&nbsp&nbsp/</a>
-    {% endfor %}
-  </nav>
   <h1 class="masthead-title">
     {{ site.name }}
   </h1>
@@ -25,6 +20,5 @@ layout: default
 
   <a class="twitter-timeline" href="https://twitter.com/KordingLab" data-widget-id="695051708246941697">Tweets by @KordingLab</a>
   <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-
 
 </header>
