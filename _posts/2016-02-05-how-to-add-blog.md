@@ -39,7 +39,7 @@ $$\cfrac{d}{dt}\cfrac{\partial L}{\partial \dot{q}} = \cfrac{\partial L}{\partia
 
 #### Add code snippet
 
-For inline code, it's the same format as simple markdown. However, if you want to add multiple line, see [jekyllrb.com/docs/templates/](http://jekyllrb.com/docs/templates/). Bacially we will use `highlight <programming language>` and `endhighlight` as beginning and end tag for code snippet.
+For inline code, it's the same format as simple markdown. However, if you want to add multiple line, see [jekyllrb.com/docs/templates/](http://jekyllrb.com/docs/templates/). Basically we will use liquid tag `highlight <programming language>` and `endhighlight` as beginning and end tag for code snippet.
 
 
 #### Add images link or Youtube video
@@ -68,3 +68,9 @@ For Youtube, you can just copy embed link from Youtube (`share` > `embed`). For 
 <center>
 <iframe width="420" height="315" src="https://www.youtube.com/embed/pF5xBtaL3YI" frameborder="0" allowfullscreen></iframe>
 </center>
+
+<hr>
+
+#### Again, why Jekyll?
+
+First, Jekyll allows very easy way to transform and render plain markdown file (lingua franca of open-source community) to html which is our blog. It's free hosting on with Github pages which just updating to Jekyll 3.0 which is much faster. See more at [GitHub Pages now faster and simpler with Jekyll 3.0](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0) blog. It uses `kramdown` markdown which is very intuitive way to write.
