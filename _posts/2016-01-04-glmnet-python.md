@@ -14,9 +14,9 @@ Requirements:
 
 **clone repository from github**
 
-{% highlight bash %}
+```bash
 $ git clone https://github.com/dwf/glmnet-python
-{% endhighlight %}
+```
 
 **change directory and compile**
 

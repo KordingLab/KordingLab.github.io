@@ -33,8 +33,8 @@ One example of the problem is the following. Assume someone develops a new techn
 
 **Solutions**
 
-- (1) Reviewers should, perhaps above all else, come up with an evaluation of truth. How solid is the finding? Would it generalize? Hey, let the reviewers put a p-value to replication and have them bet their own money on it ;)
-- (2) Reviewers should evaluate innovativeness while setting aside the relevance.
-- (3) Reviewers should describe in a machine readable format who should care about a paper. But, and this is important, we need algorithms that quickly estimate to whom a paper is relevant and only recommend it to exactly those people.
+  1. Reviewers should, perhaps above all else, come up with an evaluation of truth. How solid is the finding? Would it generalize? Hey, let the reviewers put a p-value to replication and have them bet their own money on it ;)
+  2. Reviewers should evaluate innovativeness while setting aside the relevance.
+  3. Reviewers should describe in a machine readable format who should care about a paper. But, and this is important, we need algorithms that quickly estimate to whom a paper is relevant and only recommend it to exactly those people.
 
 I think it would be nice to build a journal around these ideas.

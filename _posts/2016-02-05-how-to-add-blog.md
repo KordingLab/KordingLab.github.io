@@ -39,7 +39,7 @@ $$\cfrac{d}{dt}\cfrac{\partial L}{\partial \dot{q}} = \cfrac{\partial L}{\partia
 
 #### Add code snippet
 
-For inline code, it's the same format as simple markdown. However, if you want to add multiple line, see [jekyllrb.com/docs/templates/](http://jekyllrb.com/docs/templates/). Basically we will use liquid tag `highlight <programming language>` and `endhighlight` as beginning and end tag for code snippet.
+For inline code, it's the same format as simple markdown format. Use back tick (symbol below tilde) to highlight inline code. If you want to add multiple line of codes, see [jekyllrb.com/docs/templates/](http://jekyllrb.com/docs/templates/) for more information. Basically we will use liquid tag `highlight <programming language>` and `endhighlight` as beginning and end tag for code snippet. Or you can simple use triple back tick same as when you write `README.md` on Github repository.
 
 
 #### Add images link or Youtube video
