@@ -17,6 +17,9 @@ permalink:          /:year/:month/:day/:title.html
 # Markdown
 markdown:           kramdown
 
+# Highlighter
+highlighter: rouge
+
 # Navigation
 nav:
   - name:           "home"

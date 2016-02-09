@@ -8,13 +8,13 @@ We use Jekyll to creat Kording lab blog. Not only us that use Jekyll as an organ
 
 Using Jekyll, it's very easy to add post on `kordinglab.github.io`. All the posts are located in `_posts` folder located in [`KordingLab.github.io`](https://github.com/KordingLab/KordingLab.github.io). Post arrangement is based on date. Each posts can be written in markdown format (also in `html` too, like `<br>` means new line). File name of each post is in `year-month-date-post-name.md` format such as `2016-02-05-how-to-add-blog.md` or `2016-01-22-bayesian-theory.md`. On top of each post, you just have to state 3 main things in markdown before writing a post: `title`, `description` and `categories` as follows
 
-{% highlight markdown %}
+```
 ---
 title: Summer School in Computational Sensory-Motor Neuroscience (CoSMo)
 description: all links to CoSMo summer school in computational neuroscience materials
 categories: scientists
 ---
-{% endhighlight %}
+```
 
 where `categories` can be only 4 choices: `scientists`, `students`, `discussion`, `blog`. It will automatically put that blog post on the page depending on categories you put. `description` will be shown when you share on social media like Facebook or Twitter.
 
@@ -46,11 +46,11 @@ For inline code, it's the same format as simple markdown. However, if you want t
 
 For images link, we can add `html` as follows
 
-{% highlight html %}
+```html
 <figure><center>
   <img width="300" src="http://explainxkcd.com/wiki/images/4/4d/git.png"/>
 </center></figure>
-{% endhighlight %}
+```
 
 <figure><center>
   <img width="300" src="http://explainxkcd.com/wiki/images/4/4d/git.png"/>
@@ -59,11 +59,11 @@ For images link, we can add `html` as follows
 
 For Youtube, you can just copy embed link from Youtube (`share` > `embed`). For example,
 
-{% highlight html %}
+```html
 <center>
 <iframe width="420" height="315" src="https://www.youtube.com/embed/pF5xBtaL3YI" frameborder="0" allowfullscreen></iframe>
 </center>
-{% endhighlight %}
+```
 
 <center>
 <iframe width="420" height="315" src="https://www.youtube.com/embed/pF5xBtaL3YI" frameborder="0" allowfullscreen></iframe>
