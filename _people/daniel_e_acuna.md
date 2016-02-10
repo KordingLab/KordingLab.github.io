@@ -1,6 +1,11 @@
 ---
-title: Daniel E. Acuna, Postdoctoral Researcher
+name: Daniel E. Acuna
+position: postdoc
+avatar: daniel.jpg
+twitter: daniel_akuna
 ---
+
+<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}">
 
 Research Associate at the *Rehabilitation Institute of Chicago*<br/>
 Research Affiliate in the *Department of Biomedical Engineering* at *Northwestern University*
@@ -62,7 +67,7 @@ We have recently acquire a large database of abstracts and full-texts that will 
 ### Publications
 
 - **Acuna, DE**, Berniker, M, Fernandes, H, Kording, K, (2015) “Using psychophysics to ask if the brain samples or maximizes”, Journal of Vision
-- **Acuna, DE**, Wymbs, Nicholas F.,  Reynolds, Chelsea A., Picard, Nathalie, Turner, Robert S., Strick, Peter L., Grafton,  Scott T., 
+- **Acuna, DE**, Wymbs, Nicholas F.,  Reynolds, Chelsea A., Picard, Nathalie, Turner, Robert S., Strick, Peter L., Grafton,  Scott T.,
 Kording, Konrad P. (2014) Multi-faceted aspects of chunking enable robust algorithms, Journal of Neurophysiology, [Link](http://jn.physiology.org/content/early/2014/07/23/jn.00028.2014), [code](http://github.com/daniel-acuna/chunk_inference)
 - **Acuna, DE**, Penner, Orion, Orton CG, (2013)  The future h-index is an excellent way to predict scientists' future impact, Med. Phys. 40, 110601 ([Link](http://scitation.aip.org/content/aapm/journal/medphys/40/11/10.1118/1.4816659))
 - **Acuna, DE**, Allesina, S., Kording, KP, (2012) Future impact: Predicting scientific success, Nature, Volume 489, Number 7415, 201-202
