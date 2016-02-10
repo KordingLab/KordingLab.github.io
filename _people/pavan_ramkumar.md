@@ -15,10 +15,15 @@ _Departments of Neurobiology and Physical Medicine & Rehabilitation, Northwester
 <i class="fa fa-mobile"></i> (312) 608-7178<br>
 <i class="fa fa-envelope-o"></i> `pavan.ramkumar@northwestern.edu`
 
+Visit my website [pavanramkumar.github.io](http://pavanramkumar.github.io/)
+
+<hr>
 
 ## News and updates
 
-- Poster. _SFN_, Oct 2015. **Ramkumar P**, Cooler S, Dekleva BM, Miller EL, Körding KP. A reinforcement signal in motor and premotor cortices.
+- **Invited workshop talk.** _CoSyNe, Feb 2016_. On the computational complexity of movement sequence learning. Workshop Title: Towards the real world: Naturalistic experiments and analysis.
+- **Poster.** _CoSyNe, Feb 2016_. **Ramkumar P**, Acuna DE, Berniker M, Grafton ST, Turner RS, Körding KP. Optimization costs underlying movement sequence chunking in basal ganglia.
+- **Poster.** _SFN, Oct 2015_. **Ramkumar P**, Cooler S, Dekleva BM, Miller EL, Körding KP. A reinforcement signal in motor and premotor cortices.
 - **Summer School.** GRC, July 2015. Gordon Research Conference on Eye Movements.
 - **Poster.** VSS, May 2015. **Ramkumar P**, Hansen BC, Pannasch S, Loschky LC. A rapid whole-brain neural portrait of scene category inference [poster](https://www.dropbox.com/s/qzve8er5s6hhdby/Ramkumar_Scenes_VSS2015.pdf?dl=0).
 - **Journal paper.** _March 2015_. In Journal of Vision, we investigate gaze strategies at multiple time scales during natural scene search by modeling the effects of peripheral visual acuity [paper](http://jov.arvojournals.org/article.aspx?articleid=2278659).
@@ -37,34 +42,4 @@ _Departments of Neurobiology and Physical Medicine & Rehabilitation, Northwester
 - **Journal paper.** _May 2013_. In Journal of Neuroscience, we report successful time-resolved decoding of low-level visual features — orientation, spatial frequency and direction of rotation — of large gratings, from single-trial MEG data. Our results constitute primary data on the timing of information processing in human visual cortex. [<i class="fa fa-file-pdf-o"></i> paper](http://www.jneurosci.org/content/33/18/7691.full.pdf+html)
 - **Journal paper.** _March 2013_. In Frontiers in Human Neuroscience, we present a method to reject and cluster independent component clusters obtained from multi-subject resting-state fMRI data, based on a principled null hypothesis. [paper]
 
-<hr>
 
-## About
-
-#### Background
-
-I obtained my PhD at Aalto University, Helsinki, Finland, at the [Brain Research Unit](http://ltl.tkk.fi/wiki/BRU), an independent experimental neuroimaging research institute within the [OV Lounasmaa Laboratory](http://ltl.tkk.fi/). The BRU pioneered the development of the first commercial systems for whole-scalp, human [magnetoencephalography](https://en.wikipedia.org/wiki/Magnetoencephalography), a technique that measures the electrical activity of the brain by sensing weak magnetic fields outside the head. I worked with Profs. Riitta Hari, Lauri Parkkonen, and Aapo Hyvärinen, studying neuromagnetic oscillations, resting-state networks, signal processing for inverse modeling, and building decoding models of visual perception. For details, see list of publications below and a research statement from my time in graduate school.
-
-I also have an undergraduate degree in Electronics and Communication Engineering from the Indian Institute of Technology Guwahati in Guwahati, India, and a Masters degree in Bioinformatics from Helsinki University of Technology (subsequently, Aalto University).
-
-#### Long-term goals
-
-I would like to apply my background in signal processing, neural data analysis, statistics and applied machine learning to produce integrative accounts of sensory and perceptual phenomena of the mind/brain spanning the David Marr levels of description — computational, algorithmic, and mechanistic.
-
-During this postdoc phase, I intend to enrich my understanding of concepts in theoretical neuroscience, psychophysics, and Bayesian modeling of behavior, while seeking to enhance my neural data analysis and machine learning skills. I primarily analyze single-unit and multi-unit array electrophysiology recordings from chronic electrodes in monkeys.
-
-#### Guiding principle
-
-How do I know if what I'm doing is important? In other words, what criteria do I use for saying no to a project?
-
-As I navigate a transition in my research direction, both in terms of tools and questions, I am very inspired by the idea of Inventing on Principle, which I interpret as a talisman that one can occasionally consult in the process of picking fruitful fields of endeavor. A talisman I occasionally consult is to ask myself: in whatever I publish, am I furthering the bridges between Marr's three levels?
-
-<hr>
-
-## Ongoing projects
-
-The common thread in my projects is neural data analysis; in particular, encoding models of, and functional connectivity between populations of spiking neurons recorded from chronic extracellular arrays in monkeys. I use generalized linear models (GLM) of linear-nonlinear Poisson (LNP) spiking neurons (see [1], [2], [3]).
-
-GLMs applied to time series of spike trains are multiple linear regression models followed by an exponential or similar nonlinearity that guarantees positive firing rates and captures Poisson-like variability of neurons. They are closely related to multivariate point-process models and ARMAX models in statistical signal processing. They have a rich expressive power — capturing phenomena such as bursting, adaptation, and gain modulation — while simultaneously guaranteeing global optima owing to their convex likelihood functions. Here is an excellent NIPS tutorial talk by Jonathan Pillow.
-
-My current projects include:
