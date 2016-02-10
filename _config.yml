@@ -23,13 +23,15 @@ highlighter: rouge
 # Navigation
 nav:
   - name:           "home"
-    href:           "//kordinglab.github.io/"
+    href:           "/"
   - name:           "about"
-    href:           "//kordinglab.github.io/about"
+    href:           "/about"
   - name:           "blog"
-    href:           "//kordinglab.github.io/blog"
+    href:           "/blog"
+  - name:           "people"
+    href:           "/people"
   - name:           "reference"
-    href:           "//kordinglab.github.io/reference"
+    href:           "/reference"
 
 # Sass
 sass:
@@ -49,3 +51,14 @@ defaults:
       type:         "posts"
     values:
       layout:       "post"
+  -
+    scope:
+      path:         ""
+      type:         "people"
+    values:
+      layout:       "profile"
+
+collections:
+  people:
+    output: true
+    permalink: /people/:title/index.html
