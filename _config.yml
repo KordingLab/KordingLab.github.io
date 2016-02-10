@@ -51,3 +51,14 @@ defaults:
       type:         "posts"
     values:
       layout:       "post"
+  -
+    scope:
+      path:         ""
+      type:         "people"
+    values:
+      layout:       "profile"
+
+collections:
+  people:
+    output: true
+    permalink: /people/:title/index.html

@@ -1,6 +1,5 @@
 ---
 title: Daniel E. Acuna, Postdoctoral Researcher
-categories: people
 ---
 
 Research Associate at the *Rehabilitation Institute of Chicago*<br/>
