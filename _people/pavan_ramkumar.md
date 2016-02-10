@@ -19,6 +19,8 @@ Visit my website [pavanramkumar.github.io](http://pavanramkumar.github.io/)
 
 <hr>
 
+<!---
+
 ## News and updates
 
 - **Invited workshop talk.** _CoSyNe, Feb 2016_. On the computational complexity of movement sequence learning. Workshop Title: Towards the real world: Naturalistic experiments and analysis.
@@ -40,6 +42,6 @@ Visit my website [pavanramkumar.github.io](http://pavanramkumar.github.io/)
 - **Invited talk.** _June 2013_. I visited Sophie Deneve's lab at the Group for Neural Theory in Paris. I presented some ongoing work about uncertainty representation in the brain [slides](https://dl.dropboxusercontent.com/u/4521272/Ramkumar_June2013_ENS_GNT_Paris.pdf).
 - **Poster.** _VSS, May 2013_. I presented some predictions of primate gaze locations in a natural scene search task based on computational models of priority maps. Our main result is that visual features of fixated locations enroute to the target show a weak but significant bias towards target orientation [<i class="fa fa-file-pdf-o"></i> poster](https://dl.dropboxusercontent.com/u/4521272/Ramkumar_VSS2013.pdf)
 - **Journal paper.** _May 2013_. In Journal of Neuroscience, we report successful time-resolved decoding of low-level visual features — orientation, spatial frequency and direction of rotation — of large gratings, from single-trial MEG data. Our results constitute primary data on the timing of information processing in human visual cortex. [<i class="fa fa-file-pdf-o"></i> paper](http://www.jneurosci.org/content/33/18/7691.full.pdf+html)
-- **Journal paper.** _March 2013_. In Frontiers in Human Neuroscience, we present a method to reject and cluster independent component clusters obtained from multi-subject resting-state fMRI data, based on a principled null hypothesis. [paper]
+- **Journal paper.** _March 2013_. In Frontiers in Human Neuroscience, we present a method to reject and cluster independent component clusters obtained from multi-subject resting-state fMRI data, based on a principled null hypothesis. [paper])
 
-
+-->
