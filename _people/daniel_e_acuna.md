@@ -27,20 +27,19 @@ Research interests
 We have been awarded an [Amazon Web Services (AWS) grant](http://aws.amazon.com/grants/)! This will allow us to analyze big datasets with [arbitrary software](http://aws.amazon.com/ec2/) or [with many of the frameworks that they already have available](http://aws.amazon.com/products/).
 
 
-###"Big Data" Science of Science
+### "Big Data" Science of Science
 
 I study large data sets to make sense of the scientific enterprise. In a manner similar to what Google, Amazon, and Netflix do, my colleagues and I try to find statistical regularities in large, unstructured data from heterogeneous sources to better understand publication, funding, and teaching activities. By using machine learning techniques, we hope to distill the rules that tell apart successful from less successful ways of doing science and that predict quantities such as the h-index, yearly funding cost, and students' teaching evaluations.
 
-###Projects
+### Projects
 
 I am currently involved in projects that span many areas of research. While I keep my interest in sequential decision-making under uncertainty, I have expanded my interests toward applying machine learning to [scientometrics](http://en.wikipedia.org/wiki/Scientometrics) on large to very-large data sets (recently known as ["big data"](http://en.wikipedia.org/wiki/Big_data) science). Following are projects in reverse chronological order
 
-
-###Predicting scientific career trajectories
+### Predicting scientific career trajectories
 
 Thanks to the recent advance of "open access" projects ([publications](http://www.ncbi.nlm.nih.gov/pmc/tools/ftp/) , [collaboration networks](http://neurotree.org/neurotree/peopleinfo.php?pid=49103), [funding](http://exporter.nih.gov/)), it is now easier than ever to quantitatively answer questions about the scientific enterprise. In a recent research article, we (together with Konrad Kording and [Stefano Allesina](http://allesinalab.uchicago.edu/)) built a large-scale data set starting from 38K scientists (mainly from neuroscience) and their publication history---among other things. Our aim was to predict [h-index](http://en.wikipedia.org/wiki/H-index) (a simple measure of publication 'success'), new funding, and teaching scores. In a [Nature commentary](http://www.nature.com/nature/journal/v489/n7415/full/489201a.html), we investigated the features that are most important and predictive of future h-index. Try the [Online calculator](http://klab.smpp.northwestern.edu/h-index.html).
 
-###Large-scale automated reviewer suggestion
+### Large-scale automated reviewer suggestion
 
 We have recently acquire a large database of abstracts and full-texts that will be used to study and improve the reliability, quality, and turnaround time of reviews. This is a collaboration project with the [Amaral Lab](http://amaral.northwestern.edu/).
 
