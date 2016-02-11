@@ -320,17 +320,17 @@ Berniker M, Voss M, and Körding KP <br>
 PLoS ONE ([Abstract](http://www.plosone.org/article/info:doi/10.1371/journal.pone.0012686),  PDF)
 
 
-_Sensory adaptation and short term plasticity as Bayesian correction for a changing brain_<br>  
+_Sensory adaptation and short term plasticity as Bayesian correction for a changing brain_<br>
 Stevenson IH\*, Cronin B\*, Sur M, and Körding KP (\* contributed equally) <br>
 PLoS ONE ([Abstract](http://www.plosone.org/article/info:doi/10.1371/journal.pone.0012436), PDF)
 
 
-_Rewiring neural interactions by micro-stimulation_<br>  
+_Rewiring neural interactions by micro-stimulation_<br>
 Rebesco JM, Stevenson IH, Körding KP, Solla SA, and Miller LE <br>
 Frontiers in Systems Neuroscience ([Abstract](http://www.frontiersin.org/Systems_Neuroscience/10.3389/fnsys.2010.00039/abstract), PDF)
 
 
-_Uncertainty of feedback and state estimation determines the speed of motor adaptation_<br>  
+_Uncertainty of feedback and state estimation determines the speed of motor adaptation_<br>
 Wei K and Körding KP <br>
 Frontiers in Computational Neuroscience ([Abstract](http://www.frontiersin.org/computational_neuroscience/10.3389/fncom.2010.00011/abstract), PDF)
 
@@ -340,7 +340,7 @@ Dokka K, Kenyon RV, Keshner EA, and Körding KP <br>
 PLoS Computational Biology ([Abstract](http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1000680), PDF)
 
 
-_On the similarity of functional connectivity between neurons estimated across timescales_<br>  
+_On the similarity of functional connectivity between neurons estimated across timescales_<br>
 Stevenson IH and Körding KP <br>
 PLoS ONE ([Abstract](http://www.plosone.org/article/info:doi/10.1371/journal.pone.0009206), PDF)
 
