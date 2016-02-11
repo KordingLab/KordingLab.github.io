@@ -1,10 +1,10 @@
 ---
-name: Roozbeh Farhoodi
+name: Cong Yin (Lily)
 position: visiting
-avatar: roozbeh.jpg
+avatar: lily.jpg
 twitter:
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}">
 
-This is still empty, waiting for Roozbeh to add his information.
+This is still empty, waiting for Lily to add her information.

@@ -160,7 +160,7 @@ Albert MV, Toledo S, Shapiro M, and Kording KP <br>
 Frontiers in Neurology ([Abstract](http://www.frontiersin.org/movement_disorders/10.3389/fneur.2012.00158/abstract))
 
 
-_Functional Connectivity and Tuning Curves in Populations of Simultaneously Recorded Neurons_<br> 
+_Functional Connectivity and Tuning Curves in Populations of Simultaneously Recorded Neurons_<br>
 Stevenson IH, London BM, Oby ER, Sachs NA, Reimer J, et al. <br>
 PLoS Computational Biology ([Article](http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002775))
 
@@ -224,6 +224,75 @@ IEEE Transactions on Haptics ([Abstract](http://origin-www.computer.org/csdl/tra
 _Decoding with limited neural data: a mixture of time-warped trajectory models for directional reaches_<br>
 Corbett EA, Perreault EJ and Kording KP <br>
 Journal of Neural Engineering, (PDF)
+
+<hr>
+
+### 2011
+
+_Of toasters and molecular ticker tapes_,<br>
+Konrad Kording<br>
+PLoS Computational Biology 7(12): e1002291. doi:10.1371/journal.pcbi.1002291 ([PDF](http://klab.smpp.northwestern.edu/wiki/images/7/7d/Kording_Toaster_Molecular_Ticket_Tapes_2011.pdf))
+
+_Inferring spike-timing-dependent plasticity from spike train data_,<br>
+Stevenson IH and Kording KP<br>
+Advances in Neural Information Processing Systems 24, ([PDF](http://klab.smpp.northwestern.edu/wiki/images/2/2b/Stevenson_Inferring_Plasticity_2011.pdf)).
+
+_Estimating the Relevance of World Disturbances to Explain Savings, Interference and Long-Term Motor Adaptation Effects_<br>
+Berniker M and Kording KP<br>
+PLoS Computational Biology 7(10): e1002210. ([PDF](http://klab.smpp.northwestern.edu/wiki/images/1/11/Estimate_Disturbances_explainSavings_adaptation_Berniker_2011.pdf))
+
+_Bayesian approaches to modeling action selection_<br>
+Berniker, M, Wei, K and Kording, KP<br>
+CUP book: Modeling natural action selection, Anil Seth, editor ([PDF](http://klab.smpp.northwestern.edu/wiki/images/b/bd/CUPProofs.pdf))
+
+_Sensory Cue Integration_<br>
+Trommershauser, J, Kording, K and Landy, M, (eds)<br>
+Oxford University Press [Book Info](http://ukcatalogue.oup.com/product/9780195387247.do)
+
+_Causal inference in sensorimotor learning and control_<br>
+Wei, K. and Kording, K.<br>
+Sensory Cue Integration eds: Trommershauser, J., Kording, K., and Landy, M.S.<br>
+Oxford University Press [Book info](http://klab.smpp.northwestern.edu/wiki/images/8/85/2011_Bayes_approach_sense_integrate_motor.pdf)
+
+_Bayesian Approaches to Sensory Integration for Motor Control_<br>
+Berniker, M. and Kording, KP
+Chapter, WIREs Cognitive Science ([PDF](http://klab.smpp.northwestern.edu/wiki/images/8/85/2011_Bayes_approach_sense_integrate_motor.pdf))
+
+_Statistical assessment of the stability of neural movement representations_<br>
+Stevenson IH, Cherian A, London BM, Sachs N, Lindberg E, Reimer J, Slutzky MW, Hatsopoulos NG, Miller LE, and Kording KP.<br>
+Journal of Neurophysiology 106: 764-774. ([Abstract](http://jn.physiology.org/content/106/2/764), [PDF](http://klab.smpp.northwestern.edu/wiki/images/f/fb/JNeurophysiol-2011-Stevenson-Neural_represent.pdf))
+
+_Measuring generalization of visuomotor perturbations in wrist movements using mobile phones_<br>
+Fernandes HL\*, Albert MV\*, Kording KP. (\* contributed equally)<br>
+PLoS ONE 6(5): e20290. ([Abstract](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0020290), [PDF](http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0020290&representation=PDF))
+
+_Mixture of time-warped trajectory models for movement decoding_<br>
+Corbett, E, Perreault, E and Kording, KP<br>
+Advances in Neural Information Processing Systems 22 (abstract)
+
+_Bayesian models: the structure of the world, uncertainty, behavior, and the brain_<br>
+Vilares I and Körding KP.<br>
+Annals of the New York Academy of Sciences, 1224: 22–39. ([Abstract](http://onlinelibrary.wiley.com/doi/10.1111/j.1749-6632.2011.05965.x/abstract), [PDF](http://klab.smpp.northwestern.edu/wiki/images/1/1c/Bayesian_models_the_structure_of_the_world%2C_uncertainty%2C_behavior_and_the_brain.pdf))
+
+_Trust and Reciprocity: Are effort and money equivalent?_<br>
+Vilares I, Dam G, and Körding KP.<br>
+PLoS ONE 6(2): e17113. ([Abstract](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0017113), [PDF](http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0017113&representation=PDF))
+
+_How advances in neural recording affect data analysis_
+Stevenson IH and Körding KP.<br>
+Nature Neuroscience 14, 139–142. ([Abstract](http://www.nature.com/neuro/journal/v14/n2/abs/nn.2731.html), [PDF](http://www.nature.com/neuro/journal/v14/n2/pdf/nn.2731.pdf), [Supp](http://www.nature.com/neuro/journal/v14/n2/extref/nn.2731-S1.pdf))
+
+_Discrete-time local dynamic programming_<br>
+Berniker M and Körding KP.
+American Control Conference, 2011, pp. 618-625. ([Abstract](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5990808&tag=1), [PDF](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5990808))
+
+<hr>
+
+### 2010
+
+<hr>
+
+### 2009
 
 <hr>
 

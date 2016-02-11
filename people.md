@@ -56,4 +56,20 @@ Visit each member's page to see photos, lists of publications, or to learn somet
 
 <hr>
 
+### Visiting Scholars
+
+<div class="content list">
+  {% for profile in site.people %}
+    {% if profile.position contains 'visiting' %}
+    <div class="list-item">
+      <p class="list-post-title">
+        <img width="200" src="{{site.baseurl}}/images/people/{{profile.avatar}}">
+        <a href="{{ site.baseurl }}{{ profile.url }}">{{ profile.name }}</a>
+      </p>
+    </div>
+    {% endif %}
+  {% endfor %}
+</div>
+
+
 ### Alumni
