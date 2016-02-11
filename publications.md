@@ -150,7 +150,80 @@ PLOS ONE 8(2): e55352. doi:10.1371/journal.pone.0055352 (PDF)
 
 ### 2012
 
+_Saccadic gain adaptation is predicted by the statistics of natural fluctuations in oculomotor function_<br>
+Albert MV, Catz N, Thier P, and Kording KP <br>
+Frontiers in Computational Neuroscience ([Abstract](http://www.frontiersin.org/computational_neuroscience/10.3389/fncom.2012.00096/abstract))
 
+
+_Using mobile phones for activity recognition in Parkinson's patients_<br>
+Albert MV, Toledo S, Shapiro M, and Kording KP <br>
+Frontiers in Neurology ([Abstract](http://www.frontiersin.org/movement_disorders/10.3389/fneur.2012.00158/abstract))
+
+
+_Functional Connectivity and Tuning Curves in Populations of Simultaneously Recorded Neurons_<br> 
+Stevenson IH, London BM, Oby ER, Sachs NA, Reimer J, et al. <br>
+PLoS Computational Biology ([Article](http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002775))
+
+
+_Motion games improve balance control in stroke survivors: a preliminary study based on the principle of constraint-induced movement therapy_<br>
+Q Ding, IH Stevenson, N Wang, W Li, Y Sun, Q Wang, K Kording, K Wei <br>
+Displays, ([PDF](http://klab.smpp.northwestern.edu/wiki/images/7/79/Motion_Games_Kunlin.pdf))
+
+
+_Generalization of unconstrained reaching with hand weight changes_<br>
+Yan X, Wang Q, Lu Z, Stevenson IH, Kording KP, Wei K <br>
+J. Neurophys, ([PDF](http://jn.physiology.org/content/early/2012/10/05/jn.00498.2012.full.pdf))
+
+
+_Advanced User Interfaces for Upper Limb FES_<br>
+Corbett E, Ethier C, Oby ER, Kording K, Perreault E J, Miller LE <br>
+Book chapter in "Introduction to neural engineering for motor rehabilitation"
+eds. Farina, D,  Jensen, W,  Akay, M., in press
+
+
+_What silly postures tell us about the brain_<br>
+Sober SJ and Koerding KP <br>
+Frontiers in Neuroscience ([Article](http://www.frontiersin.org/Neuroscience/10.3389/fnins.2012.00154/full paper))
+
+
+_Future impact: Predicting scientific success_<br>
+D. E. Acuna, S. Allesina, K. P. Kording <br>
+Nature ([Nature website](http://www.nature.com/nature/journal/v489/n7415/full/489201a.html), [PDF](http://www.nature.com/nature/journal/v489/n7415/pdf/489201a.pdf), [Online h-index calculator](http://klab.smpp.northwestern.edu/h-index.html Online h-index calculator))
+
+
+_Temporal Integration of Olfactory Perceptual Evidence in Human Orbitofrontal Cortex_<br>
+Nicholas E. Bowman, Konrad P. Kording, Jay A. Gottfried <br>
+Neuron, Volume 75, Issue 5, 916-927 (PDF)
+
+
+_Measuring Cation Dependent DNA Polymerase Fidelity Landscapes by Deep Sequencing_<br>
+Zamft B, Marblestone A, Kording K, Schmidt D, Martin-Alarcon D, TyoK, Boyden E, Church GM <br>
+PLoS ONE ([PDF](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0043876), [Supplementary data](http://goo.gl/As7XU))
+
+
+_Generalization of stochastic visuomotor rotations_<br>
+Fernandes HL, Stevenson IH, Kording KP <br>
+PLoS ONE ([Abstract](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0043016?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+plosone%2FNeuroscience+%28PLoS+ONE+Alerts%3A+Neuroscience%29), [PDF](http://www.plosone.org/article/fetchObjectAttachment.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0043016&representation=PDF))
+
+
+_Differential Representations of Prior and Likelihood Uncertainty in the Human Brain_<br>
+Vilares I, Howard JD, Fernandes HL, Gottfried JA, Kording KP <br>
+Current Biology ([Abstract](http://www.cell.com/current-biology/abstract/S0960-9822(12)00801-9 ), PDF)
+
+
+_Fall classification by machine learning using mobile phones_<br>
+Albert MV, Kording KP, Herrmann M, Jayaraman A <br>
+PLoS ONE ([Abstract](http://www.plosone.org/article/info:doi%2F10.1371%2Fjournal.pone.0036556), PDF)
+
+
+_Towards Perceiving Robots as Humans – Three handshake models face the Turing-like Handshake Test_<br>
+Avraham G, Nisky I, Fernandes HL, Acuna DE, Kording KP, Loeb GE, Karniel A <br>
+IEEE Transactions on Haptics ([Abstract](http://origin-www.computer.org/csdl/trans/th/2012/03/tth2012030196-abs.html), PDF)
+
+
+_Decoding with limited neural data: a mixture of time-warped trajectory models for directional reaches_<br>
+Corbett EA, Perreault EJ and Kording KP <br>
+Journal of Neural Engineering, (PDF)
 
 <hr>
 
