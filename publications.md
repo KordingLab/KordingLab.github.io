@@ -11,6 +11,26 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 ### 2015
 
+_Neural coordination during reach-to-grasp_<br>
+M Vaidya, K Körding, M Saleh, K Takahashi, NG Hatsopoulos <br>
+Journal of Neurophysiology ([Abstract](http://jn.physiology.org/content/early/2015/07/27/jn.00349.2015))
+
+_Mobile phone sensor correlates of depressive symptom severity in daily-life behavior: an exploratory study_<br>
+S Saeb, M Zhang, CJ Karr, SM Schueller, ME Corden, KP Körding, DC Mohr <br>
+Journal of Medical Internet Research ([Article](http://www.jmir.org/2015/7/e175/))
+
+_Similar trial-by-trial adaptation behavior across transhumeral amputees and able-bodied subjects_<br>
+RE Johnson, KP Kording, LJ Hargrove, JW Sensinger <br>
+IEEE/EMBS Conference on Neural Engineering (NER) ([Abstract](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7146737&url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel7%2F7131936%2F7146535%2F07146737.pdf%3Farnumber%3D7146737))
+
+_The relationship between clinical, momentary, and sensor-based assessment of depression_<br>
+S Saeb, M Zhang, M Kwasny, CJ Karr, K Kording, DC Mohr <br>
+Conference on Pervasive Computing Technologies for Healthcare ([Abstract](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7349404&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7349404))
+
+_Self-Expressive Decompositions for Matrix Approximation and Clustering_<br>
+EL Dyer, TA Goldstein, R Patel, KP Körding, RG Baraniuk <br>
+arXiv preprint ([Abstrat](http://arxiv.org/abs/1505.00824), [PDF](http://arxiv.org/pdf/1505.00824v1.pdf))
+
 _Automatic discovery of cell types and microcircuitry from neural connectomics_<br>
 Eric Jonas, Konrad Körding<br>
 eLIFE ([Article](http://lens.elifesciences.org/04250/index.html), [PDF](http://cdn.elifesciences.org/elife-articles/04250/pdf/elife04250.pdf))
