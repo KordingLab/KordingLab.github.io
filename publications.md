@@ -51,7 +51,7 @@ _High-Reproducibility and High-Accuracy Method for Automated Topic Classificatio
 Lancichinetti A, Sirer MI, Wang JX, Acuna D, Körding K, Amaral LAN<br>
 PHYSICAL REVIEW X
 
-Spatial Information in Large-Scale Neural Recordings<br>
+_Spatial Information in Large-Scale Neural Recordings_<br>
 Thaddeus R. Cybulski*, Joshua I. Glaser*, Adam H. Marblestone, Bradley M. Zamft, Edward S. Boyden, George M. Church, Konrad P. Kording<br>
 Frontiers in Computational Neuroscience ([Paper](http://journal.frontiersin.org/article/10.3389/fncom.2014.00172/full))
 
@@ -60,21 +60,21 @@ Frontiers in Computational Neuroscience ([Paper](http://journal.frontiersin.org/
 
 ### 2014
 
-Conceptualizing Cancer Drugs as Classifiers<br>
+_Conceptualizing Cancer Drugs as Classifiers_<br>
 Patrick Lawlor, Tomer Kalisky, Robert Rosner, Marsha Rich Rosner, Konrad Paul Kording<br>
 PLOS ONE ([Abstract](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0106444), [PDF](http://klab.smpp.northwestern.edu/wiki/images/8/8f/Journal.pone.0106444.pdf))
 
-Saliency and saccade encoding in the frontal eye field during natural scene search<br>
+_Saliency and saccade encoding in the frontal eye field during natural scene search_<br>
 Fernandes HL, Stevenson IH, Phillips AN, Segraves MA, Kording KP<br>
 Cerebral Cortex ([Abstract](http://cercor.oxfordjournals.org/content/early/2013/07/16/cercor.bht179.short?rss=1), [PDF](http://klab.smpp.northwestern.edu/wiki/images/3/3f/Cereb._Cortex-2013-Fernandes-cercor-bht179.pdf), [Supp](http://klab.smpp.northwestern.edu/wiki/images/7/76/Bht179supp_Fernandes_CC.pdf))
 
 
-Serotonin Affects Movement Gain Control in the Spinal Cord<br>
+_Serotonin Affects Movement Gain Control in the Spinal Cord_<br>
 Kunlin Wei, Joshua I. Glaser, Linna Deng, Christopher K. Thompson, Ian H. Stevenson, Qining Wang, Thomas George Hornby, Charles J. Heckman, Konrad P. Kording<br>
 Journal of Neuroscience ([Abstract](http://www.jneurosci.org/content/34/38/12690.short), [PDF](http://klab.smpp.northwestern.edu/wiki/images/8/81/Serotonin_gain_control.pdf))
 
 
-The generalization of prior uncertainty during reaching<br>
+_The generalization of prior uncertainty during reaching_<br>
 Fernandes HL, Stevenson IH, Vilares I, Kording KP
 Journal of Neuroscience ([Abstract](http://www.jneurosci.org/content/34/34/11470.short), [PDF](http://klab.smpp.northwestern.edu/wiki/images/e/ee/The_generalization_of_prior_uncertainty_during_learning.pdf))
 
@@ -82,7 +82,7 @@ _Multi-faceted aspects of chunking enable robust algorithms_<br>
 DE Acuna, NF Wymbs, CA Reynolds, N Picard, RS Turner, PL Strick, ST Grafton, and K Kording<br>
 Journal of neurophysiology ([Abstract](http://classic.jn.physiology.org/content/early/2014/07/23/jn.00028.2014.abstract))
 
-Bayesian statistics: relevant for the brain?<br>
+_Bayesian statistics: relevant for the brain?_<br>
 Kording, KP<br>
 Current opinion in neurobiology ([Abstract](http://www.sciencedirect.com/science/article/pii/S0959438814000117))
 
