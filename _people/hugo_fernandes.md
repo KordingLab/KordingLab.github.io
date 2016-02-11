@@ -24,13 +24,13 @@ Web: [Google Scholar](https://scholar.google.com/citations?user=JG7xb2AAAAAJ) | 
 <sup>with Ramkumar P, Smith MA and Körding KP</sup>
 
 ###### Others
-+ Learning in Aphasia: The Impact of Break versus Blocked Treatment Schedules<br>
+Learning in Aphasia: The Impact of Break versus Blocked Treatment Schedules<br>
 <sup>Lee, Braun, **Fernandes**, Hurwitz, Kording, van Vuuren, Cherney</sup>
 
-+ Quantifying mesoscale neuroanatomy using X-ray microtomography <br>
+Quantifying mesoscale neuroanatomy using X-ray microtomography <br>
 <sup>Dyer EL, **Fernandes HL**, Roncal WG, Vogelstein JT, Gursoy D, Xiao X, Jacobsen C, Körding KP, Kasthuri N</sup>
 
-+ Cracking the neural code: a cryptography-inspired approach to brain decoding <br>
+Cracking the neural code: a cryptography-inspired approach to brain decoding <br>
 <sup>Azar MG, Dyer EL, **Fernandes HL**, Perich MG , Lee ME, Körding KP</sup>
 
 <hr>
