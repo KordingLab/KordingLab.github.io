@@ -5,9 +5,10 @@ avatar: luca.jpg
 twitter:
 ---
 
+<img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}">
 
-Postdoctoral Fellow<br>
-Rehabilitation Institute of Chicago
+_Postdoctoral Fellow_<br>
+_Rehabilitation Institute of Chicago_
 
 345 East Superior Street, Suite 1725<br>
 Chicago IL, 60611

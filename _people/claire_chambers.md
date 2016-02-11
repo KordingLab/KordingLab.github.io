@@ -1,12 +1,14 @@
 ---
 name: Claire Chambers
-position: Postdoctoral fellow
-avatar: 
+position: postdoc
+avatar: clair_profile.jpg
 ---
+
+<img width="250" src="{{site.baseurl}}/images/people/clair.jpg">
 
 ### Contact
 
-<i class="fa fa-envelope-o"></i>  `cchambers@ric.org`<br>
+<i class="fa fa-envelope-o"></i> `cchambers@ric.org`<br>
 <i class="fa fa-building"></i> RIC 1479
 
 <hr>
@@ -29,4 +31,3 @@ avatar:
 <hr>
 
 ### Talks/Posters
-
