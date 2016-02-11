@@ -10,7 +10,7 @@ Office Rm#: RIC 1479
 345 East Superior Street<br>
 Chicago IL, 60611<br>
 Phone: (312) 238-6515<br>
-Email: `hugo-fernandes@northwestern.edu`
+Email: `hugo-fernandes@northwestern.edu`<br>
 Web: [Google Scholar](https://scholar.google.com/citations?user=JG7xb2AAAAAJ) | [ResearchGate](https://www.researchgate.net/profile/Hugo_Fernandes5) | [Neurotree](http://neurotree.org/neurotree/tree.php?pid=23445) | [on Cargo Cult Science](http://www.californiachaparral.com/images/CargoCult.pdf)
 
 

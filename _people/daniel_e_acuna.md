@@ -19,6 +19,7 @@ Check my new webpage [http://scienceofscience.org](http://scienceofscience.org)
 [Follow me on Twitter](http://twitter.com/daniel_akuna)
 <br>
 
+<hr>
 
 Recent news
 ------------------
@@ -54,6 +55,8 @@ We have recently acquire a large database of abstracts and full-texts that will 
  - Predicting scientific success (September 13, 2012), Nature Podcast  [Podcast](http://www.nature.com/nature/podcast/index-2012-09-13.html)
  - Science Friday, NPR Spanish, [Podcast](http://sciencefriday.com/blogs/09/20/2012/-20-neurociencia-para-todos-la-migraci-n-de-las-monarca-y-predecir-el-futuro.html?audience=3&series=24)
 
+<hr>
+
 ### Talks
 
 - October, 2015 - Lightning talk - "Should we allow authors to suggest reviewers?", Quantifying Science satellite conference, Tempe, AZ
@@ -63,6 +66,8 @@ We have recently acquire a large database of abstracts and full-texts that will 
 - August 2014, "Automatic detection of figure element reuse in biological science articles", Science of Team Science Conference, Austin, TX
 - May 2014, "Big data machine learning for prediction and classification" (invited academic speaker, plenary), The Tenth Workshop on the Development of Advanced Algorithms for Security Applications (ADSA10)
 - March 2013, "An investigation of how prior beliefs influence decision-making under uncertainty in a 2AFC task", (plenary) COSYNE 2013
+
+<hr>
 
 ### Publications
 
