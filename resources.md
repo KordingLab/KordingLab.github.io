@@ -3,9 +3,9 @@ title: Reference
 permalink: /resources/
 ---
 
-We move all of [resources page](http://klab.smpp.northwestern.edu/wiki/index.php5/Resources)
-from Kording lab page to here. We hope it will be must better and faster for people who want to share
-and view it on mobile.
+We moved the [resources page](http://klab.smpp.northwestern.edu/wiki/index.php5/Resources)
+from Kording lab page to here. We hope it will be much better and faster for people who want to share it
+and view it on cell phones.
 
 <hr>
 
