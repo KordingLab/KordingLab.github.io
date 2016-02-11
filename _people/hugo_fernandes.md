@@ -38,8 +38,9 @@ Web: [Google Scholar](https://scholar.google.com/citations?user=JG7xb2AAAAAJ) | 
 ### Publications
 
 ###### 2016
-Predicting difficult laryngoscopy using ultrasound-based measurement of distance from skin to epiglottis (to appear in Journal of Critical Care) <br>
-<sup>Pinto J, Cordeiro L, Pereira C, Gama R, **Fernandes HL**, Assunção J </sup>
+Predicting difficult laryngoscopy using ultrasound-based measurement of distance from skin to epiglottis <br>
+<sup>Pinto J, Cordeiro L, Pereira C, Gama R, **Fernandes HL**, Assunção J <br>
+(to appear in Journal of Critical Care)</sup>
 
 
 ###### 2015
