@@ -32,6 +32,8 @@ nav:
     href:           "/people"
   - name:           "reference"
     href:           "/reference"
+  - name:           "publication"
+    href:           "/publication"
 
 # Sass
 sass:
@@ -57,6 +59,7 @@ defaults:
       type:         "people"
     values:
       layout:       "profile"
+
 
 collections:
   people:
