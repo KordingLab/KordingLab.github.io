@@ -109,11 +109,11 @@ Bayesian integration and non-linear feedback control in a full-body motor task (
 
 
 Functional Classification of Genes Using Non-Negative Independent Component Analysis (2008) <br>
-<sup>Chagoyen M, Fernandes H, Carazo JM and Pascual-Montano A <br>
-Progress in Industrial Mathematics ([Abstract](http://www.springerlink.com/content/q18780j7h1870612/)) </sup>
+<sup>Chagoyen M, **Fernandes H**, Carazo JM and Pascual-Montano A <br>
+**Progress in Industrial Mathematics** ([Abstract](http://www.springerlink.com/content/q18780j7h1870612/)) </sup>
 
 
 Detection of Lung Nodule Candidates in Chest Radiographs (2007) <br>
-<sup>Pereira CS, Fernandes H, Mendonça AM, Campilho A <br>
-Pattern Recognition and Image Analysis ([Abstract](http://www.springerlink.com/content/y42r75p31740m471)) </sup>
+<sup>Pereira CS, **Fernandes H**, Mendonça AM, Campilho A <br>
+**Pattern Recognition and Image Analysis** ([Abstract](http://www.springerlink.com/content/y42r75p31740m471)) </sup>
 
