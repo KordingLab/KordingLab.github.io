@@ -23,15 +23,15 @@ Web: [Google Scholar](https://scholar.google.com/citations?user=JG7xb2AAAAAJ) | 
 + Modeling the representation of hue in visual area V4 during natural scene viewing <br>
 <sup>with Ramkumar P, Smith MA and Körding KP</sup>
 
-###### Others
+###### Other
 Learning in Aphasia: The Impact of Break versus Blocked Treatment Schedules<br>
 <sup>Lee, Braun, **Fernandes**, Hurwitz, Kording, van Vuuren, Cherney</sup>
 
 Quantifying mesoscale neuroanatomy using X-ray microtomography <br>
-<sup>Dyer EL, Roncal WG, **Fernandes HL**, Vogelstein JT, Gursoy D, Xiao X, Jacobsen C, Körding KP, Kasthuri N</sup>
+<sup>Dyer EL, Roncal WG, **Fernandes HL**, Gursoy D, Xiao X, Vogelstein JT, Jacobsen C, Kasthuri N, Körding KP</sup>
 
 Cracking the neural code: a cryptography-inspired approach to brain decoding <br>
-<sup>Azar MG, Dyer EL, **Fernandes HL**, Perich MG , Lee ME, Körding KP</sup>
+<sup>Azar MG\*, Dyer EL\*, **Fernandes HL**, Perich MG , Lee ME, Körding KP (\*authors contributed equally)</sup>
 
 <hr>
 
@@ -50,7 +50,7 @@ Modeling peripheral visual acuity enables discovery of gaze strategies at multip
 
 
 Using psychophysics to ask if the brain samples or maximizes <br>
-<sup>Acuna DE\*, Berniker M\*, **Fernandes HL**\*, Körding KP <br>
+<sup>Acuna DE\*, Berniker M\*, **Fernandes HL**\*, Körding KP (\*authors contributed equally) <br>
  **Journal of Vision** ([Article](http://www.journalofvision.org/content/15/3/7.abstract), [F1000 recommendation](http://f1000.com/prime/725389756?key=KfDGGy3MWelYpcg)) </sup>
 
 
@@ -92,7 +92,7 @@ Towards perceiving robots as humans – three handshake models face the Turing-l
 
 
 Measuring generalization of visuomotor perturbations in wrist movements using mobile phones (2011) <br>
-<sup>**Fernandes HL**\*, Albert MV\*, Körding KP <br>
+<sup>**Fernandes HL**\*, Albert MV\*, Körding KP (\*authors contributed equally) <br>
 **PLoS ONE** ([Article](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0020290),  [PDF](http://www.plosone.org/article/fetchObjectAttachment.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0020290&representation=PDF)) </sup>
 
 
