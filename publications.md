@@ -12,48 +12,48 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 ### 2015
 
 _Automatic discovery of cell types and microcircuitry from neural connectomics_<br>
-Eric Jonas, Konrad Kording<br>
-elife ([Paper](http://lens.elifesciences.org/04250/index.html)) 4 e04250
+Eric Jonas, Konrad Körding<br>
+eLIFE ([Article](http://lens.elifesciences.org/04250/index.html), [PDF](http://cdn.elifesciences.org/elife-articles/04250/pdf/elife04250.pdf))
 
 _Puzzle Imaging: Using Large-scale Dimensionality Reduction Algorithms for Localization_<br>
-Joshua I. Glaser, Bradley M. Zamft, George M. Church, Konrad P. Kording<br>
-Plos One ([Paper](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0131593))
+Joshua I Glaser, Bradley M Zamft, George M Church, Konrad P Körding<br>
+Plos One ([Article](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0131593), [PDF](http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0131593&representation=PDF))
 
 _Self-Expressive Decompositions for Matrix Approximation and Clustering_<br>
 Dyer EL, Goldstein TA, Patel R, Körding KP, Baraniuk RG<br>
-arXiv ([Paper](http://arxiv.org/abs/1505.00824))
+arXiv ([Abstract](http://arxiv.org/abs/1505.00824),[PDF](http://arxiv.org/pdf/1505.00824v1.pdf))
 
 _Carrot or stick in motor learning_<br>
 Sternad D, Körding KP<br>
-Nature Neuroscience | News and Views
+Nature Neuroscience | News and Views ([Abstract](http://www.nature.com/neuro/journal/v18/n4/full/nn.3978.html))
 
 _Modeling peripheral visual acuity enables discovery of gaze strategies at multiple time scales during natural scene search_<br>
-Ramkumar P, Fernandes H, Kording K, Segraves M <br>
+Ramkumar P, Fernandes H, Körding K, Segraves M <br>
 Journal of Vision ([Article](http://www.journalofvision.org/content/15/3/19.abstract))
 
 _Over my fake body: body ownership illusions for studying the multisensory basis of own-body perception_<br>
-Kilteni K, Maselli A, Kording KP, Slater M<br>
-Frontiers in Human Neuroscience
+Kilteni K, Maselli A, Körding KP, Slater M<br>
+Frontiers in Human Neuroscience ([Article](http://journal.frontiersin.org/article/10.3389/fnhum.2015.00141/full))
 
 _Deep networks for motor control functions_<br>
-Berniker M, Kording KP<br>
-Frontiers in Computational Neuroscience
+Berniker M, Körding KP<br>
+Frontiers in Computational Neuroscience ([Article](http://journal.frontiersin.org/article/10.3389/fncom.2015.00032/full))
 
 _Using psychophysics to ask if the brain samples or maximizes_<br>
 Acuna DE\*, Berniker M\*, Fernandes HL\*, Körding KP (\*authors contributed equally) <br>
 Journal of Vision ([Article](http://www.journalofvision.org/content/15/3/7.abstract), [F1000 recommendation](http://f1000.com/prime/725389756?key=KfDGGy3MWelYpcg))
 
 _Predicting cognitive function from clinical measures of physical function and health status in older adults_<br>
-Bolandzadeh N, Kording K, Salowitz N, Davis JC, Hsu L, Chan A, Sharma D, Blohm G, Liu-Ambrose T<br>
-PLOS ONE
+Bolandzadeh N, Körding K, Salowitz N, Davis JC, Hsu L, Chan A, Sharma D, Blohm G, Liu-Ambrose T<br>
+PLoS ONE ([Article](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0119075), [PDF](http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0119075&representation=PDF))
 
 _High-Reproducibility and High-Accuracy Method for Automated Topic Classification_<br>
 Lancichinetti A, Sirer MI, Wang JX, Acuna D, Körding K, Amaral LAN<br>
-PHYSICAL REVIEW X
+PHYSICAL REVIEW X ([Abstract](http://journals.aps.org/prx/abstract/10.1103/PhysRevX.5.011007), [PDF](http://journals.aps.org/prx/pdf/10.1103/PhysRevX.5.011007))
 
 _Spatial Information in Large-Scale Neural Recordings_<br>
-Thaddeus R. Cybulski*, Joshua I. Glaser*, Adam H. Marblestone, Bradley M. Zamft, Edward S. Boyden, George M. Church, Konrad P. Kording<br>
-Frontiers in Computational Neuroscience ([Paper](http://journal.frontiersin.org/article/10.3389/fncom.2014.00172/full))
+Thaddeus R Cybulski*, Joshua I Glaser*, Adam H Marblestone, Bradley M Zamft, Edward S Boyden, George M Church, Konrad P Körding<br>
+Frontiers in Computational Neuroscience ([Article](http://journal.frontiersin.org/article/10.3389/fncom.2014.00172/full),[PDF](http://www.readcube.com/articles/10.3389/fncom.2014.00172))
 
 
 <hr>
