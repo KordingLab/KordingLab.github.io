@@ -28,8 +28,8 @@ Sternad D, Körding KP<br>
 Nature Neuroscience | News and Views
 
 _Modeling peripheral visual acuity enables discovery of gaze strategies at multiple time scales during natural scene search_<br>
-Ramkumar P, Fernandes H, Kording K, Segraves M<br>
-Journal of Vision ([Abstract](http://jov.arvojournals.org/article.aspx?articleid=2278659), [PDF](http://jov.arvojournals.org/article.aspx?articleid=2278659))
+Ramkumar P, Fernandes H, Kording K, Segraves M <br>
+Journal of Vision ([Article](http://www.journalofvision.org/content/15/3/19.abstract))
 
 _Over my fake body: body ownership illusions for studying the multisensory basis of own-body perception_<br>
 Kilteni K, Maselli A, Kording KP, Slater M<br>
@@ -40,8 +40,8 @@ Berniker M, Kording KP<br>
 Frontiers in Computational Neuroscience
 
 _Using psychophysics to ask if the brain samples or maximizes_<br>
-Acuna DE\*, Berniker M\*, Fernandes HL\*, Körding KP<br>
-Journal of Vision ([Abstract](http://jov.arvojournals.org/article.aspx?articleid=2213288), [PDF](http://jov.arvojournals.org/article.aspx?articleid=2213288))
+Acuna DE\*, Berniker M\*, Fernandes HL\*, Körding KP (\*authors contributed equally) <br>
+Journal of Vision ([Article](http://www.journalofvision.org/content/15/3/7.abstract), [F1000 recommendation](http://f1000.com/prime/725389756?key=KfDGGy3MWelYpcg))
 
 _Predicting cognitive function from clinical measures of physical function and health status in older adults_<br>
 Bolandzadeh N, Kording K, Salowitz N, Davis JC, Hsu L, Chan A, Sharma D, Blohm G, Liu-Ambrose T<br>
@@ -66,17 +66,15 @@ PLOS ONE ([Abstract](http://journals.plos.org/plosone/article?id=10.1371/journal
 
 _Saliency and saccade encoding in the frontal eye field during natural scene search_<br>
 Fernandes HL, Stevenson IH, Phillips AN, Segraves MA, Kording KP<br>
-Cerebral Cortex ([Abstract](http://cercor.oxfordjournals.org/content/early/2013/07/16/cercor.bht179.short?rss=1), [PDF](http://klab.smpp.northwestern.edu/wiki/images/3/3f/Cereb._Cortex-2013-Fernandes-cercor-bht179.pdf), [Supp](http://klab.smpp.northwestern.edu/wiki/images/7/76/Bht179supp_Fernandes_CC.pdf))
-
+Cerebral Cortex ([Abstract](http://cercor.oxfordjournals.org/content/early/2013/07/16/cercor.bht179.short?rss=1), [PDF](http://cercor.oxfordjournals.org/content/24/12/3232.full.pdf), [Supp](http://klab.smpp.northwestern.edu/wiki/images/7/76/Bht179supp_Fernandes_CC.pdf))
 
 _Serotonin Affects Movement Gain Control in the Spinal Cord_<br>
 Kunlin Wei, Joshua I. Glaser, Linna Deng, Christopher K. Thompson, Ian H. Stevenson, Qining Wang, Thomas George Hornby, Charles J. Heckman, Konrad P. Kording<br>
 Journal of Neuroscience ([Abstract](http://www.jneurosci.org/content/34/38/12690.short), [PDF](http://klab.smpp.northwestern.edu/wiki/images/8/81/Serotonin_gain_control.pdf))
 
-
 _The generalization of prior uncertainty during reaching_<br>
 Fernandes HL, Stevenson IH, Vilares I, Kording KP
-Journal of Neuroscience ([Abstract](http://www.jneurosci.org/content/34/34/11470.short), [PDF](http://klab.smpp.northwestern.edu/wiki/images/e/ee/The_generalization_of_prior_uncertainty_during_learning.pdf))
+Journal of Neuroscience ([Abstract](http://www.jneurosci.org/content/34/34/11470.short), [PDF](http://klab.smpp.northwestern.edu/wiki/images/e/ee/The_generalization_of_prior_uncertainty_during_learning.pdf), [Review paper](http://www.jneurosci.org/content/35/2/439.short))
 
 _Multi-faceted aspects of chunking enable robust algorithms_<br>
 DE Acuna, NF Wymbs, CA Reynolds, N Picard, RS Turner, PL Strick, ST Grafton, and K Kording<br>
@@ -203,12 +201,12 @@ PLoS ONE ([PDF](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.po
 
 _Generalization of stochastic visuomotor rotations_<br>
 Fernandes HL, Stevenson IH, Kording KP <br>
-PLoS ONE ([Abstract](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0043016?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+plosone%2FNeuroscience+%28PLoS+ONE+Alerts%3A+Neuroscience%29), [PDF](http://www.plosone.org/article/fetchObjectAttachment.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0043016&representation=PDF))
+PLoS ONE ([Article](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0043016), [PDF](http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0043016&representation=PDF))
 
 
 _Differential Representations of Prior and Likelihood Uncertainty in the Human Brain_<br>
 Vilares I, Howard JD, Fernandes HL, Gottfried JA, Kording KP <br>
-Current Biology ([Abstract](http://www.cell.com/current-biology/abstract/S0960-9822(12)00801-9 ), PDF)
+Current Biology ([Abstract](http://www.cell.com/current-biology/abstract/S0960-9822(12)00801-9), [PDF](http://ac.els-cdn.com/S0960982212008019/1-s2.0-S0960982212008019-main.pdf?_tid=f7636e20-d0f9-11e5-8a50-00000aab0f6c&acdnat=1455220952_61d8cb51d451e942c94641e7ffc9665d))
 
 
 _Fall classification by machine learning using mobile phones_<br>
@@ -218,7 +216,7 @@ PLoS ONE ([Abstract](http://www.plosone.org/article/info:doi%2F10.1371%2Fjournal
 
 _Towards Perceiving Robots as Humans – Three handshake models face the Turing-like Handshake Test_<br>
 Avraham G, Nisky I, Fernandes HL, Acuna DE, Kording KP, Loeb GE, Karniel A <br>
-IEEE Transactions on Haptics ([Abstract](http://origin-www.computer.org/csdl/trans/th/2012/03/tth2012030196-abs.html), PDF)
+IEEE Transactions on Haptics ([Abstract](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=6185551))
 
 
 _Decoding with limited neural data: a mixture of time-warped trajectory models for directional reaches_<br>
@@ -263,8 +261,8 @@ Stevenson IH, Cherian A, London BM, Sachs N, Lindberg E, Reimer J, Slutzky MW, H
 Journal of Neurophysiology 106: 764-774. ([Abstract](http://jn.physiology.org/content/106/2/764), [PDF](http://klab.smpp.northwestern.edu/wiki/images/f/fb/JNeurophysiol-2011-Stevenson-Neural_represent.pdf))
 
 _Measuring generalization of visuomotor perturbations in wrist movements using mobile phones_<br>
-Fernandes HL\*, Albert MV\*, Kording KP. (\* contributed equally)<br>
-PLoS ONE 6(5): e20290. ([Abstract](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0020290), [PDF](http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0020290&representation=PDF))
+Fernandes HL\*, Albert MV\*, Kording KP. (\*authors contributed equally)<br>
+PLoS ONE 6(5): e20290. ([Article](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0020290),  [PDF](http://www.plosone.org/article/fetchObjectAttachment.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0020290&representation=PDF))
 
 _Mixture of time-warped trajectory models for movement decoding_<br>
 Corbett, E, Perreault, E and Kording, KP<br>
@@ -297,7 +295,7 @@ Advances in Neural Information Processing Systems ([Abstract](http://nips.cc/Con
 
 _In praise of “false” models and rich data_<br>
 Fernandes HL, and Körding KP <br>
-Journal of Motor Behavior ([Abstract](http://www.informaworld.com/smpp/content~content=a929880009~db=all~jumptype=rss), PDF)
+Journal of Motor Behavior ([Abstract](http://www.informaworld.com/smpp/content~content=a929880009~db=all~jumptype=rss))
 
 
 _The nervous system uses nonspecific motor learning in response to random perturbations of varying nature_<br>
@@ -355,7 +353,7 @@ Journal of Neurophysiology 103: 591-602. ([Abstract](http://jn.physiology.org/cg
 
 _Bayesian integration and non-linear feedback control in a full-body motor task_<br>
 Stevenson IH, Fernandes HL, Vilares I, Wei K, and Körding KP <br>
-PLoS Computational Biology ([Abstract](http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1000629), PDF)
+PLoS Computational Biology ([Article](http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1000629), [PDF](http://www.ploscompbiol.org/article/fetchObjectAttachment.action?uri=info%3Adoi%2F10.1371%2Fjournal.pcbi.1000629&representation=PDF))
 
 
 _Comparing Bayesian models for multisensory cue combination without mandatory integration_<br>
