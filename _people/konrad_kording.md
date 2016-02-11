@@ -1,13 +1,13 @@
 ---
 name: Konrad Kording
 position: pi
-avatar: konrad.jpg
-twitter:
+avatar: konrad_profile.jpg
+twitter: KordingLab
 ---
 
 <img width="200" src="{{site.baseurl}}/images/people/{{page.avatar}}">
 
-- _Associate Professor, Northwestern University, Physical Medicine and Rehabilitation, Physiology, and Applied Mathematics_<br>
+- _Professor, Northwestern University, Physical Medicine and Rehabilitation, Physiology, and Applied Mathematics_<br>
 - _Research scientist and CI Chair, Rehabilitation Institute of Chicago_
 
 <i class="fa fa-envelope-o"></i> `kk@northwestern.edu`
