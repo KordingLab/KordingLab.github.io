@@ -283,18 +283,345 @@ Stevenson IH and Körding KP.<br>
 Nature Neuroscience 14, 139–142. ([Abstract](http://www.nature.com/neuro/journal/v14/n2/abs/nn.2731.html), [PDF](http://www.nature.com/neuro/journal/v14/n2/pdf/nn.2731.pdf), [Supp](http://www.nature.com/neuro/journal/v14/n2/extref/nn.2731-S1.pdf))
 
 _Discrete-time local dynamic programming_<br>
-Berniker M and Körding KP.
+Berniker M and Körding KP.<br>
 American Control Conference, 2011, pp. 618-625. ([Abstract](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5990808&tag=1), [PDF](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5990808))
 
 <hr>
 
 ### 2010
 
+_Mixture of time-warped trajectory models for movement decoding_<br>
+Corbett E, Perreault EJ, and Kording KP <br>
+Advances in Neural Information Processing Systems ([Abstract](http://nips.cc/Conferences/2010/Program/event.php?ID=2104), [PDF](http://books.nips.cc/papers/files/nips23/NIPS2010_0509.pdf))  
+
+
+_In praise of “false” models and rich data_<br>
+Fernandes HL, and Körding KP <br>
+Journal of Motor Behavior ([Abstract](http://www.informaworld.com/smpp/content~content=a929880009~db=all~jumptype=rss), PDF)
+
+
+_The nervous system uses nonspecific motor learning in response to random perturbations of varying nature_<br>
+Wei K, Wert D, and Körding KP <br>
+Journal of Neurophysiology ([Abstract](http://jn.physiology.org/content/104/6/3053.abstract), [PDF](ttp://klab.wikidot.com/local--files/work/J%20Neurophysiol-2010-Wei-3053-63.pdf))
+
+
+_Looking for synergies between the equilibrium point hypothesis and internal models, Commentary on the Paper by Mark Latash: “Equilibrium Point Hypothesis”_<br>
+Shapiro, M and Kording, KP <br>
+Motor Control ([PDF](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4007354/pdf/nihms315423.pdf))
+
+
+_The uncertainty associated with visual flow fields and their influence on postural sway: Weber's law suffices to explain the nonlinearity of vection_<br>
+Wei K, Stevenson IH, and Körding KP <br>
+Journal of Vision ([Abstract](http://www.journalofvision.org/content/10/14/4), [PDF](http://www.journalofvision.org/content/10/14/4.full.pdf+html))
+
+
+_Learning priors for Bayesian computations in the nervous system_<br>
+Berniker M, Voss M, and Körding KP <br>
+PLoS ONE ([Abstract](http://www.plosone.org/article/info:doi/10.1371/journal.pone.0012686),  PDF)
+
+
+_Sensory adaptation and short term plasticity as Bayesian correction for a changing brain_<br>  
+Stevenson IH\*, Cronin B\*, Sur M, and Körding KP (\* contributed equally) <br>
+PLoS ONE ([Abstract](http://www.plosone.org/article/info:doi/10.1371/journal.pone.0012436), PDF)
+
+
+_Rewiring neural interactions by micro-stimulation_<br>  
+Rebesco JM, Stevenson IH, Körding KP, Solla SA, and Miller LE <br>
+Frontiers in Systems Neuroscience ([Abstract](http://www.frontiersin.org/Systems_Neuroscience/10.3389/fnsys.2010.00039/abstract), PDF)
+
+
+_Uncertainty of feedback and state estimation determines the speed of motor adaptation_<br>  
+Wei K and Körding KP <br>
+Frontiers in Computational Neuroscience ([Abstract](http://www.frontiersin.org/computational_neuroscience/10.3389/fncom.2010.00011/abstract), PDF)
+
+
+_Self versus Environment Motion in Postural Control_<br> 
+Dokka K, Kenyon RV, Keshner EA, and Körding KP <br>
+PLoS Computational Biology ([Abstract](http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1000680), PDF)
+
+
+_On the similarity of functional connectivity between neurons estimated across timescales_<br>  
+Stevenson IH and Körding KP <br>
+PLoS ONE ([Abstract](http://www.plosone.org/article/info:doi/10.1371/journal.pone.0009206), PDF)
+
+
+_Hierarchical Bayesian modeling and Markov chain Monte Carlo sampling for tuning curve analysis_<br> 
+Cronin B\*, Stevenson IH\*, Sur M, and Körding KP (* contributed equally) <br>
+Journal of Neurophysiology 103: 591-602. ([Abstract](http://jn.physiology.org/cgi/content/abstract/103/1/591),  PDF, Code)
+
 <hr>
 
 ### 2009
 
+_Bayesian integration and non-linear feedback control in a full-body motor task_<br>
+Stevenson IH, Fernandes HL, Vilares I, Wei K, and Körding KP <br>
+PLoS Computational Biology ([Abstract](http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1000629), PDF)
+
+
+_Comparing Bayesian models for multisensory cue combination without mandatory integration_<br>
+Beierholm U, Kording KP, Shams L, Ma WJ <br>
+Advances in Neural Information Processing Systems ([PDF](http://shamslab.psych.ucla.edu/publications/NIPS2008a.pdf))
+
+
+_Statistics of natural movements are reflected in motor errors_<br>
+Howard IS, Ingram JN, Kording KP, and Wolpert DM <br>
+Journal of Neurophysiology ([Abstract](http://jn.physiology.org/content/102/3/1902.abstract), [PDF](http://learning.eng.cam.ac.uk/pub/Public/Wolpert/Publications/HowIngKoerWol09.pdf))
+
+
+_Structural inference affects depth perception in the context of potential occlusion_<br> 
+Stevenson IH and Körding KP <br>
+Advances in Neural Information Processing Systems ([Abstract](http://nips.cc/Conferences/2009/Program/event.php?ID=1798), PDF)
+
+
+_Bayesian Statistics (with Particular Focus on the Motor System)_<br>
+Berniker, M, and Kording, KP <br> 
+Encyclopedia of Neuroscience (PDF)
+
+
+_Bayesian inference of functional connectivity and network structure from spikes_<br> 
+Stevenson IH, Rebesco JM, Hatsopoulos NG, Haga Z, Miller LE, and Körding KP <br>
+IEEE TNSRE (Special Issue on Brain Connectivity) ([Abstract](http://ieeexplore.ieee.org/xpls/abs_all.jsp?isnumber=5089923&arnumber=4703283&count=13&index=1&tag=1), PDF, Code)
+
+
+_Relevance of error: what drives motor adaptation?_<br>
+Wei K and Kording KP <br>
+Journal of Neurophysiology ([Abstract](http://jn.physiology.org/cgi/content/full/101/2/655), PDF)
+
 <hr>
+
+### 2008
+
+_Inferring functional connections between neurons_<br> 
+Stevenson IH, Rebesco JM, Miller LE, and Körding KP <br>
+Current Opinion in Neurobiology ([Abstract](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6VS3-4V3RCH3-3&_user=1458830&_coverDate=12/08/2008&_rdoc=3&_fmt=high&_orig=browse&_srch=doc-info(%23toc%236251%239999%23999999999%2399999%23FLA%23display%23Articles)&_cdi=6251&_sort=d&_docanchor=&_ct=7&_acct=C000052790&_version=1&_urlVersion=0&_userid=1458830&md5=2da6ad84fd91482c9017145ebd2cc8b7), PDF)
+
+
+_Exploration and exploitation during sequential search_<br>
+Dam G and Kording KP <br>
+Cognitive Science (PDF)
+
+
+_A probabilistic model of meetings that combines words and discourse features_<br>
+Dowman, M., Savova, V., Griffiths, T.L., Kording, K.P., Tenenbaum, J.B., Purver, M. <br>
+IEEE Transactions on Audio, Speech, and Language Processing ([Abstract](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4599394&tag=1), [PDF](http://godel.stanford.edu/twiki/pub/Public/SemlabPublications/dowman-et-al08ieee.pdf))
+
+
+_Estimating the sources of motor errors for adaptation and generalization_<br> 
+Berniker M and Kording KP <br>
+Nature Neuroscience ([Abstract](http://www.nature.com/neuro/journal/v11/n12/abs/nn.2229.html), PDF)
+
+
+_The statistics of natural hand movements_<br>
+Ingram JN, Kording KP, Howard IS, Wolpert DM <br>
+Experimental Brain Research (PDF)
+
+
+_A probabilistic model of meetings that combines words and discourse features_<br>
+Dowman, M., Savova, V., Griffiths, T. L., Kording, K. P., Tenenbaum, J. B., Purver, M. <br>
+IEEE Transactions on Audio, Speech, and Language Processing (PDF)
+
+<hr>
+
+### 2007
+
+_Dynamics of orientation tuning in cat V1 neurons depend on location within layers and orientation map_<br>
+Schummers, J Cronin, B , Wimmer, K, Stimberg, M , Martin, R, Obermayer, K , Kording, K and Sur, M <br>
+Frontiers in Neuroscience (PDF)
+
+
+_Causal Inference in Multisensory Perception_<br>
+Kording, KP, Beierholm, U., Ma, W., Quartz, S., Tenenbaum, J., Shams, L. <br>
+PLoS ONE (PDF)
+
+
+_Decision theory: what should the nervous system do?_<br>
+Kording KP <br>
+Science (PDF)
+
+
+_The dynamics of memory as a consequence of optimal adaptation to a changing body_<br>
+Kording KP, Tenenbaum JB, and Shadmehr R <br>
+Nature Neuroscience (PDF)
+
+
+<hr>
+
+### 2006
+
+_Causal Inference in sensorimotor integration_<br>
+Kording, K. and Tenenbaum, J. B.  <br>
+Advances in Neural Information Processing Systems (PDF)
+
+
+_Probabilistic mechanisms in sensorimotor control_<br> 
+Kording, KP and Wolpert, D <br>
+Novartis Foundation symposium ([Abstract](http://onlinelibrary.wiley.com/doi/10.1002/9780470034989.ch15/summary))
+
+
+_Multiple timescales and uncertainty in motor adaptation_<br>
+Kording, KP., Tenenbaum, JB., and Shadmehr, R. <br>
+Advances in Neural Information Processing Systems ([PDF](http://books.nips.cc/papers/files/nips19/NIPS2006_0116.pdf))
+
+
+_Bayesian decision theory in sensorimotor control_<br>
+Kording and Wolpert, D. <br>
+Trends in Cognitive Sciences (PDF)
+
+
+_Unsupervised topic modelling for multi-party spoken discourse_<br>
+Purver, M., Kording, K. P., Griffiths, T. L., & Tenenbaum, J. B. <br>
+Proceedings of Coling/ACL (PDF)
+
+<hr>
+
+### 2004
+
+_Bayesian Integration in Force Estimation_<br>
+Kording, KP, Ku, SP and Wolpert, D. <br> 
+Journal of Neurophysiology ([PDF](http://learning.eng.cam.ac.uk/pub/Public/Wolpert/Publications/KorKuWol04.pdf))
+
+
+_Processing of complex stimuli and natural scenes in the visual cortex_<br>
+Kayser, C, Körding, KP, König, P <br>
+Opinion in Neurobiology (PDF)
+
+
+_Bayesian Statistics and Utility Functions in Sensorimotor Control_<br>
+Kording, KP and Wolpert, DM <br>
+In Bayesian Brain, Doya, K., Ishii, S, Pouget, A. and Rao, RPN (eds), MIT Press ([Book Info](http://mitpress.mit.edu/catalog/item/default.asp?tid=11106&ttype=2))
+
+
+_Predicting Properties of the Rat Somatosensory System by Sparse Coding_<br>
+Hafner, VV. , Fend, M. , König, P. and Körding, KP. <br>
+Neural Information Processing Letters and Reviews (PDF)
+
+
+_A Neuroeconomics Approach to Inferring Utility Functions in Sensorimotor Control_<br>
+Körding, KP., Fukunaga, I., Howard, IS., Ingram, J. and Wolpert, D. <br> 
+PLoS Biology (PDF)
+
+
+_The loss function of sensorimotor learning_<br>
+Körding, KP. and Wolpert, D. <br>
+Proceedings of the National Academy of Sciences (PDF)
+
+
+_Bayesian Integration in Sensorimotor Learning_<br>
+Körding, KP. and Wolpert, D. <br>
+Nature (PDF)
+
+
+_The world from a cat's perspective -- statistics of natural videos_<br>
+Betsch, B, Einhäuser, W., Körding, KP and König, P <br> 
+Biological Cybernetics (PDF)
+
+<hr>
+
+### 2003
+
+_How are complex cell properties adapted to the statistics of natural scenes?_<br>
+Körding, KP, Kayser, C., Einhäuser, W. and König,P. <br>
+Journal of Neurophysiology (PDF)
+
+
+_Probabilistic Inference in Human Sensorimotor Processing_<br>
+Körding, KP. and Wolpert, D. <br>
+NIPS (PDF)
+
+
+_Optimal coding for naturally occurring whisker deflections_<br>
+Hafner, V. V., Fend, M., Lungarella, M., Pfeifer, R., König, P., Körding, K. P. <br>
+Proceedings of the Joint International Conference on Artificial Neural Networks and Neural Information Processing (ICANN/ICONIP) (PDF)
+
+
+_Learning distinct and complementary feature-selectivities from natural colour videos_<br>
+Einhäuser, W., Kayser, C., Körding, K.P. and König,P. <br>
+Reviews in the Neurosciences (PDF)
+
+
+_Sparse spectrotemporal coding of sounds_<br>
+Klein, D.J., König, P. and Körding, K.P. <br>
+EURASIP Journal on Applied Signal Processing (PDF)
+
+
+_On the choice of a sparse prior_<br>
+Körding, K.P., Kayser, C. and König, P. <br>
+Reviews in the Neurosciences (PDF)
+
+
+_Learning the nonlinearity of neurons from natural visual stimuli_<br>
+Kayser C, Körding KP, König P. <br> 
+Neural Computation (PDF)
+
+<hr>
+
+### 2002
+
+_Learning Multiple Feature Representations from Natural Image Sequences_<br> 
+Einhäuser,W. Kayser,C. Körding K.P. and König,P. <br>
+Artificial Neural Networks:ICANN 2002, Springer Verlag Berlin Heidelberg New York. (PDF)
+
+
+_Learning the invariance properties of complex cells from their responses to natural stimuli_<br>
+Einhäuser, W., Kayser, C. , König, P. and Körding, K.P. <br>
+Eur J Neurosci (PDF)
+
+
+_Learning of sparse auditory receptive fields_<br>
+Konrad P. Körding, Peter König, and David J. Klein <br>
+IJCNN  (PDF)
+
+<hr>
+
+### 2001
+
+_Non contact eye-tracking on cats_<br>
+Körding, K.P., Kayser C., Betsch, B. and König, P. <br>
+J Neurosci Methods (PDF)
+
+
+_Neurons with two sites of synaptic integration learn invariant representations_<br> 
+Körding, K.P. and König,P. <br>
+Neural Computation (PDF)
+
+
+_Extracting slow subspaces from natural videos leads to complex cells_<br>
+Kayser, C., Einhäuser, W., Dümmer, O., König, P. and Körding, K.P. <br>
+International conference on artificial neural networks (PDF)
+
+
+_Supervised and unsupervised learning with two sites of synaptic integration_<br>
+Körding, K.P. and König ,P. <br>
+Journal of Computational Neuroscience (PDF)
+
+<hr>
+
+### 2000
+
+_A spike based learning rule for the generation of invariant representations_<br> 
+Körding, K.P. and König, P. <br>
+Journal of Physiology Paris (PDF)
+
+
+_A learning rule for local decorrelation and dynamic recruitment_<br>
+Körding, K.P. and König, P. <br>
+Neural Networks (PDF)
+
+
+_Integrating top-down and bottom-up sensory processing by somato-dendritic interactions_<br>
+Siegel,M. Körding,K.P. and König, P. <br>
+J. Comp. Neurosci (PDF)
+
+
+_Learning with two sites of synaptic integration_<br> 
+Konrad P. Körding and Peter König <br>
+Network: Computation in Neural Systems (PDF)
+
+
+_Two sites of synaptic integration: Relevant for learning?_<br>
+Körding, K.P. and König, P. <br>
+International Joint Conference on Neural Networks  (PDF)
+
 
 ### Copyright Notice
 
