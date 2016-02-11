@@ -67,10 +67,10 @@ Saliency and saccade encoding in the frontal eye field during natural scene sear
 
 Visualizing Armed Groups: The Democratic Republic of the Congo’s M23 in Focus <br>
 <sup>Nangini C, Jas M, **Fernandes HL**, Muggah R <br>
-**Stability** ([Article](http://www.stabilityjournal.org/article/view/207), [PDF](http://www.stabilityjournal.org/article/download/sta.dd/178)) </sup>
+**Stability** ([Article](http://www.stabilityjournal.org/article/view/207), [PDF](http://www.stabilityjournal.org/article/download/sta.dd/178), [Visualization](http://www.stabilityjournal.org/hosted/m23-rebel-support-in-drc/)) </sup>
 
 
-###### 2009-2013
+###### 2009-2013 PhD
 Primary motor cortical discharge during force field adaptation reflects muscle-like dynamics (2013) <br>
 <sup>Cherian A, **Fernandes HL**, Miller LE <br>
 **Journal of Neurophysiology** ([Article](http://jn.physiology.org/content/110/3/768), [PDF](http://jn.physiology.org/content/jn/110/3/768.full.pdf)) </sup>
@@ -105,4 +105,15 @@ Bayesian integration and non-linear feedback control in a full-body motor task (
 <sup>Stevenson IH, **Fernandes HL**, Vilares I, Wei K, and Körding KP <br>
 **PLoS Computational Biology** ([Article](http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1000629), [PDF](http://www.ploscompbiol.org/article/fetchObjectAttachment.action?uri=info%3Adoi%2F10.1371%2Fjournal.pcbi.1000629&representation=PDF)) </sup>
 
+###### Before 2009
+
+
+Functional Classification of Genes Using Non-Negative Independent Component Analysis (2008) <br>
+<sup>Chagoyen M, Fernandes H, Carazo JM and Pascual-Montano A <br>
+Progress in Industrial Mathematics ([Abstract](http://www.springerlink.com/content/q18780j7h1870612/)) </sup>
+
+
+Detection of Lung Nodule Candidates in Chest Radiographs (2007) <br>
+<sup>Pereira CS, Fernandes H, Mendonça AM, Campilho A <br>
+Pattern Recognition and Image Analysis ([Abstract](http://www.springerlink.com/content/y42r75p31740m471)) </sup>
 
