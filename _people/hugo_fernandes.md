@@ -52,7 +52,7 @@ Web: [Google Scholar](https://scholar.google.com/citations?user=JG7xb2AAAAAJ) | 
 <sup>Acuna DE\*, Berniker M\*, **Fernandes HL**\*, Körding KP <br>
  **Journal of Vision** ([Abstract](http://www.journalofvision.org/content/15/3/7.abstract), [PDF](http://www.journalofvision.org/content/15/3/7.full.pdf), [**F1000 recommendation**](http://f1000.com/prime/725389756?key=KfDGGy3MWelYpcg)) </sup>
 
-<span style="color:red">red</span>
+
 ###### 2014
 + The generalization of prior uncertainty during reaching <br>
 <sup>**Fernandes HL**, Stevenson IH, Vilares I, Körding KP <br>
@@ -90,7 +90,7 @@ Web: [Google Scholar](https://scholar.google.com/citations?user=JG7xb2AAAAAJ) | 
 
 
 + Measuring generalization of visuomotor perturbations in wrist movements using mobile phones (2011) <br>
-<sup>**Fernandes HL**\*, Albert MV\*, Körding KP <br>
+<sup> <br>**Fernandes HL**\*, Albert MV\*, Körding KP <br>
 **PLoS ONE** ([Abstract](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0020290 Abstract),  [PDF](http://www.plosone.org/article/fetchObjectAttachment.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0020290&representation=PDF)) </sup>
 
 
