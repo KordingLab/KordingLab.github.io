@@ -71,5 +71,27 @@ Visit each member's page to see photos, lists of publications, or to learn somet
   {% endfor %}
 </div>
 
+<hr>
+
+### Others
+
+<div class="content list">
+  {% for profile in site.people %}
+    {% if profile.position contains 'others' %}
+    <div class="list-item">
+      <p class="list-post-title">
+        <img width="200" src="{{site.baseurl}}/images/people/{{profile.avatar}}">
+        <a href="{{ site.baseurl }}{{ profile.url }}">{{ profile.name }}</a>
+      </p>
+    </div>
+    {% endif %}
+  {% endfor %}
+</div>
+
+<hr>
 
 ### Alumni
+
+we are updating alumni page. we will put them up soon!
+
+<hr>
