@@ -13,7 +13,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 _The Development and Analysis of Integrated Neuroscience Data_<br>
 Joshua I Glaser and Konrad P Kording <br>
-frontiers in Computational Neuroscience | Perpective Article ([Article](http://journal.frontiersin.org/article/10.3389/fncom.2016.00011/full?field=&journalName=Frontiers_in_Computational_Neuroscience&id=171004&utm_content=buffer21f1c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer))
+Frontiers in Computational Neuroscience | Perpective Article ([Article](http://journal.frontiersin.org/article/10.3389/fncom.2016.00011/full?field=&journalName=Frontiers_in_Computational_Neuroscience&id=171004&utm_content=buffer21f1c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer))
 
 <hr>
 
