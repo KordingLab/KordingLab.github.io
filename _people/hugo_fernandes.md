@@ -37,12 +37,12 @@ Web: [Google Scholar](https://scholar.google.com/citations?user=JG7xb2AAAAAJ) | 
 
 ### Publications
 
-######2016
+###### 2016
 + Predicting difficult laryngoscopy using ultrasound-based measurement of distance from skin to epiglottis (to appear in Journal of Critical Care) <br>
 <sup>Pinto J, Cordeiro L, Pereira C, Gama R, **Fernandes HL**, Assunção J </sup>
 
 
-######2015
+###### 2015
 + Modeling peripheral visual acuity enables discovery of gaze strategies at multiple time scales during natural scene search <br>
 <sup>Ramkumar P, **Fernandes H**, Kording K, Segraves M <br>
 **Journal of Vision** ([Abstract](http://www.journalofvision.org/content/15/3/19.abstract), [PDF](http://www.journalofvision.org/content/15/3/19.full.pdf PDF))</sup>
@@ -53,7 +53,7 @@ Web: [Google Scholar](https://scholar.google.com/citations?user=JG7xb2AAAAAJ) | 
  **Journal of Vision** ([Abstract](http://www.journalofvision.org/content/15/3/7.abstract), [PDF](http://www.journalofvision.org/content/15/3/7.full.pdf), [**F1000 recommendation**](http://f1000.com/prime/725389756?key=KfDGGy3MWelYpcg)) </sup>
 
 
-######2014 
+###### 2014 
 + The generalization of prior uncertainty during reaching <br>
 <sup>**Fernandes HL**, Stevenson IH, Vilares I, Körding KP <br>
 **Journal of Neuroscience** ([Abstract](http://www.jneurosci.org/content/34/34/11470.short), [PDF](http://klab.smpp.northwestern.edu/wiki/images/e/ee/The_generalization_of_prior_uncertainty_during_learning.pdf), [**Review paper**](http://www.jneurosci.org/content/35/2/439.short)) </sup>
@@ -69,7 +69,7 @@ Web: [Google Scholar](https://scholar.google.com/citations?user=JG7xb2AAAAAJ) | 
 **Stability** ([Abstract](http://www.stabilityjournal.org/article/view/207), [PDF](http://www.stabilityjournal.org/article/download/sta.dd/178), [Visualization](http://www.stabilityjournal.org/hosted/m23-rebel-support-in-drc/ Visualization)) </sup>
 
 
-######2009-2013
+###### 2009-2013
 + Primary motor cortical discharge during force field adaptation reflects muscle-like dynamics (2013) <br>
 <sup>Cherian A, **Fernandes HL**, Miller LE <br>
 **Journal of Neurophysiology** ([Abstract](http://jn.physiology.org/content/early/2013/05/03/jn.00109.2012.abstract Abstract)) </sup>
