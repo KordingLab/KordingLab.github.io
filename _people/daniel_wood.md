@@ -1,8 +1,9 @@
 ---
 name: Daniel Wood
 position: postdoc
-avatar: daneilwood.jpg
+avatar: 
 twitter:
+joined: 2014
 ---
 
 

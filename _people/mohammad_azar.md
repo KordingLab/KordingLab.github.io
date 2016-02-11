@@ -1,8 +1,9 @@
 ---
 name: Mohammad Azar
 position: postdoc
-avatar: mohammad.jpg
+avatar: 
 twitter:
+joined: 2013
 ---
 
 Please visit my academic [page](http://mgazar.net/academic/)

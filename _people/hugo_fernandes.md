@@ -1,8 +1,9 @@
 ---
 name: Hugo Fernandes
 position: postdoc
-avatar: hugo.jpg
+avatar: 
 twitter:
+joined: 2009
 ---
 
 Office Rm#: RIC 1479

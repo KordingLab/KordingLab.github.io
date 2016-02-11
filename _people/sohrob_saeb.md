@@ -1,8 +1,9 @@
 ---
 name: Sohrob Saeb
 position: postdoc
-avatar: sohrob.jpg
+avatar: 
 twitter:
+joined: 2014
 ---
 
 

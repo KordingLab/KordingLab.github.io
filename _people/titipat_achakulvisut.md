@@ -4,6 +4,7 @@ position: gradstudent
 avatar: titipat.jpg
 twitter: titipat_a
 github: titipata
+joined: 2014
 ---
 
 <img width="200" src="{{site.baseurl}}/images/people/{{page.avatar}}">

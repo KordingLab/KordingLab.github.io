@@ -3,6 +3,7 @@ name: Luca Lonini
 position: postdoc
 avatar: luca.jpg
 twitter:
+joined: 2014
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}">

@@ -3,6 +3,7 @@ name: Pavan Ramkumar
 position: postdoc
 avatar: pavan.jpg
 twitter:
+joined: 2013
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}">

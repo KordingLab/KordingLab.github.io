@@ -9,43 +9,22 @@ and view it on mobile.
 
 <hr>
 
-### **For scientists**<br>
 
-<div class="content list">
-  {% for post in site.posts %}
-    {% if post.categories contains 'scientists' %}
-    <div class="list-item">
-      <p class="list-post-title">
-        <a href="{{ site.baseurl }}{{ post.url }}">- {{ post.title }}</a>
-      </p>
-    </div>
-    {% endif %}
-  {% endfor %}
-</div>
+{% assign reference_types = "scientists|students|discussion" | split: "|" %}
 
-<hr>
+{% for type in reference_types %}
 
-### **For students, lab members**<br>
-
-<div class="content list">
-  {% for post in site.posts %}
-    {% if post.categories contains 'students' %}
-    <div class="list-item">
-      <p class="list-post-title">
-        <a href="{{ site.baseurl }}{{ post.url }}">- {{ post.title }}</a>
-      </p>
-    </div>
-    {% endif %}
-  {% endfor %}
-</div>
-
-<hr>
-
+{% if type == 'scientists' %}
+### **For scientists**
+ {% elsif type == 'students' %}
+### **For students, lab members**
+ {% elsif type == 'discussion' %}
 ### **Random bits of discussion**
+{% endif %}
 
 <div class="content list">
   {% for post in site.posts %}
-    {% if post.categories contains 'discussion' %}
+    {% if post.categories contains type %}
     <div class="list-item">
       <p class="list-post-title">
         <a href="{{ site.baseurl }}{{ post.url }}">- {{ post.title }}</a>
@@ -54,3 +33,6 @@ and view it on mobile.
     {% endif %}
   {% endfor %}
 </div>
+
+<hr>
+{% endfor %}

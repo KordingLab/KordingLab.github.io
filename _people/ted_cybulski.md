@@ -1,8 +1,9 @@
 ---
 name: Ted Cybulski
 position: gradstudent
-avatar: ted.jpg
+avatar: 
 twitter:
+joined: 2012
 ---
 
 

@@ -3,6 +3,7 @@ name: Daniel E. Acuna
 position: postdoc
 avatar: daniel.jpg
 twitter: daniel_akuna
+joined: 2011
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}">

@@ -2,6 +2,7 @@
 name: Subject Zero
 position: others
 avatar: subject_zero.jpg
+joined: -300000000
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}">

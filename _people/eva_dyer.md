@@ -1,8 +1,9 @@
 ---
 name: Eva Dyer
 position: postdoc
-avatar: eva.jpg
+avatar: 
 twitter:
+joined: 2014
 ---
 
 <i class="fa fa-building"></i> 345 East Superior Street, Chicago IL, 60611<br>
