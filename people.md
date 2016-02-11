@@ -17,7 +17,7 @@ permalink: /people/
  {% elsif item == 'visiting' %}
 ### Visiting Scholars
  {% elsif item == 'others' %}
-### Visiting Scholars
+### Honorary Members
 {% endif %}
 
 <div class="content list">
