@@ -1,6 +1,6 @@
 ---
 title: Reference
-permalink: /reference/
+permalink: /resources/
 ---
 
 We move all of [resources page](http://klab.smpp.northwestern.edu/wiki/index.php5/Resources)

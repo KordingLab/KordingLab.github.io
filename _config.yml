@@ -26,14 +26,14 @@ nav:
     href:           "/"
   - name:           "about"
     href:           "/about"
-  - name:           "blog"
-    href:           "/blog"
-  - name:           "people"
-    href:           "/people"
-  - name:           "reference"
-    href:           "/reference"
   - name:           "publication"
     href:           "/publication"
+  - name:           "people"
+    href:           "/people"
+  - name:           "blog"
+    href:           "/blog"
+  - name:           "resources"
+    href:           "/resources"
 
 # Sass
 sass:
