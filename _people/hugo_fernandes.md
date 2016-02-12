@@ -3,17 +3,18 @@ name: Hugo Fernandes
 position: postdoc
 avatar: 
 twitter:
-joined: 2009
+joined: 2013
 ---
 
-Office Rm#: RIC 1479
 
-345 East Superior Street<br>
-Chicago IL, 60611<br>
-Phone: (312) 238-6515<br>
-Email: `hugo-fernandes@northwestern.edu`<br>
-Web: [Google Scholar](https://scholar.google.com/citations?user=JG7xb2AAAAAJ) | [on Cargo Cult Science](http://www.californiachaparral.com/images/CargoCult.pdf) | [Sci-Hub](http://sci-hub.io)
+### Contact
 
+<i class="fa fa-envelope-o"></i>  `hugo-fernandes@northwestern.edu`<br>
+<i class="fa fa-building"></i> RIC 1479 <br>
+<i class="fa fa-bar-chart"></i> [Google Scholar](https://scholar.google.com/citations?user=JG7xb2AAAAAJ) <br>
+<i class="fa fa-futbol-o"></i> [on Cargo Cult Science](http://www.californiachaparral.com/images/CargoCult.pdf) <br>
+
+<hr>
 
 ### Ongoing projects
 
