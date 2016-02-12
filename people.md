@@ -22,10 +22,10 @@ permalink: /people/
 {% endif %}
 </div>
 
-<div class="content list">
+<div class="content list people">
   {% for profile in people_sorted %}
     {% if profile.position contains item %}
-    <div class="list-item">
+    <div class="list-item-people">
       <p class="list-post-title">
         {% if profile.avatar %}
         <a href="{{ site.baseurl }}{{ profile.url }}"><img width="200" src="{{site.baseurl}}/images/people/{{profile.avatar}}"></a>

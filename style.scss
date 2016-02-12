@@ -456,13 +456,13 @@ tbody tr:nth-child(odd) th {
   margin-left: 2rem;
 }
 
-.content .list {
+.people {
   margin: auto;
   text-align: center;
   margin-top: 0.75em;
 }
 
-.list-item {
+.list-item-people {
   display: inline-block;
   padding-right: 1em;
 }
@@ -476,6 +476,10 @@ tbody tr:nth-child(odd) th {
   font-size: 18px;
 }
 
-.list-post-title .name:hover {
+.list-item a:hover, .list-post-title:hover .name, .list-post-title .name:hover {
   color: #c42929;
+}
+
+.page-title {
+  margin-bottom: 0.6em;
 }
