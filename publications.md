@@ -361,7 +361,7 @@ Wei K and Körding KP <br>
 Frontiers in Computational Neuroscience ([Abstract](http://www.frontiersin.org/computational_neuroscience/10.3389/fncom.2010.00011/abstract), PDF)
 
 
-_Self versus Environment Motion in Postural Control_<br> 
+_Self versus Environment Motion in Postural Control_<br>
 Dokka K, Kenyon RV, Keshner EA, and Körding KP <br>
 PLoS Computational Biology ([Abstract](http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1000680), PDF)
 
@@ -371,7 +371,7 @@ Stevenson IH and Körding KP <br>
 PLoS ONE ([Abstract](http://www.plosone.org/article/info:doi/10.1371/journal.pone.0009206), PDF)
 
 
-_Hierarchical Bayesian modeling and Markov chain Monte Carlo sampling for tuning curve analysis_<br> 
+_Hierarchical Bayesian modeling and Markov chain Monte Carlo sampling for tuning curve analysis_<br>
 Cronin B\*, Stevenson IH\*, Sur M, and Körding KP (* contributed equally) <br>
 Journal of Neurophysiology 103: 591-602. ([Abstract](http://jn.physiology.org/cgi/content/abstract/103/1/591),  PDF, Code)
 
@@ -394,17 +394,17 @@ Howard IS, Ingram JN, Kording KP, and Wolpert DM <br>
 Journal of Neurophysiology ([Abstract](http://jn.physiology.org/content/102/3/1902.abstract), [PDF](http://learning.eng.cam.ac.uk/pub/Public/Wolpert/Publications/HowIngKoerWol09.pdf))
 
 
-_Structural inference affects depth perception in the context of potential occlusion_<br> 
+_Structural inference affects depth perception in the context of potential occlusion_<br>
 Stevenson IH and Körding KP <br>
 Advances in Neural Information Processing Systems ([Abstract](http://nips.cc/Conferences/2009/Program/event.php?ID=1798), PDF)
 
 
 _Bayesian Statistics (with Particular Focus on the Motor System)_<br>
-Berniker, M, and Kording, KP <br> 
+Berniker, M, and Kording, KP <br>
 Encyclopedia of Neuroscience (PDF)
 
 
-_Bayesian inference of functional connectivity and network structure from spikes_<br> 
+_Bayesian inference of functional connectivity and network structure from spikes_<br>
 Stevenson IH, Rebesco JM, Hatsopoulos NG, Haga Z, Miller LE, and Körding KP <br>
 IEEE TNSRE (Special Issue on Brain Connectivity) ([Abstract](http://ieeexplore.ieee.org/xpls/abs_all.jsp?isnumber=5089923&arnumber=4703283&count=13&index=1&tag=1), PDF, Code)
 
@@ -417,7 +417,7 @@ Journal of Neurophysiology ([Abstract](http://jn.physiology.org/cgi/content/full
 
 ### 2008
 
-_Inferring functional connections between neurons_<br> 
+_Inferring functional connections between neurons_<br>
 Stevenson IH, Rebesco JM, Miller LE, and Körding KP <br>
 Current Opinion in Neurobiology ([Abstract](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6VS3-4V3RCH3-3&_user=1458830&_coverDate=12/08/2008&_rdoc=3&_fmt=high&_orig=browse&_srch=doc-info(%23toc%236251%239999%23999999999%2399999%23FLA%23display%23Articles)&_cdi=6251&_sort=d&_docanchor=&_ct=7&_acct=C000052790&_version=1&_urlVersion=0&_userid=1458830&md5=2da6ad84fd91482c9017145ebd2cc8b7), PDF)
 
@@ -432,7 +432,7 @@ Dowman, M., Savova, V., Griffiths, T.L., Kording, K.P., Tenenbaum, J.B., Purver,
 IEEE Transactions on Audio, Speech, and Language Processing ([Abstract](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4599394&tag=1), [PDF](http://godel.stanford.edu/twiki/pub/Public/SemlabPublications/dowman-et-al08ieee.pdf))
 
 
-_Estimating the sources of motor errors for adaptation and generalization_<br> 
+_Estimating the sources of motor errors for adaptation and generalization_<br>
 Berniker M and Kording KP <br>
 Nature Neuroscience ([Abstract](http://www.nature.com/neuro/journal/v11/n12/abs/nn.2229.html), PDF)
 
@@ -479,7 +479,7 @@ Kording, K. and Tenenbaum, J. B.  <br>
 Advances in Neural Information Processing Systems (PDF)
 
 
-_Probabilistic mechanisms in sensorimotor control_<br> 
+_Probabilistic mechanisms in sensorimotor control_<br>
 Kording, KP and Wolpert, D <br>
 Novartis Foundation symposium ([Abstract](http://onlinelibrary.wiley.com/doi/10.1002/9780470034989.ch15/summary))
 
@@ -503,7 +503,7 @@ Proceedings of Coling/ACL (PDF)
 ### 2004
 
 _Bayesian Integration in Force Estimation_<br>
-Kording, KP, Ku, SP and Wolpert, D. <br> 
+Kording, KP, Ku, SP and Wolpert, D. <br>
 Journal of Neurophysiology ([PDF](http://learning.eng.cam.ac.uk/pub/Public/Wolpert/Publications/KorKuWol04.pdf))
 
 
@@ -523,7 +523,7 @@ Neural Information Processing Letters and Reviews (PDF)
 
 
 _A Neuroeconomics Approach to Inferring Utility Functions in Sensorimotor Control_<br>
-Körding, KP., Fukunaga, I., Howard, IS., Ingram, J. and Wolpert, D. <br> 
+Körding, KP., Fukunaga, I., Howard, IS., Ingram, J. and Wolpert, D. <br>
 PLoS Biology (PDF)
 
 
@@ -538,7 +538,7 @@ Nature (PDF)
 
 
 _The world from a cat's perspective -- statistics of natural videos_<br>
-Betsch, B, Einhäuser, W., Körding, KP and König, P <br> 
+Betsch, B, Einhäuser, W., Körding, KP and König, P <br>
 Biological Cybernetics (PDF)
 
 <hr>
@@ -576,14 +576,14 @@ Reviews in the Neurosciences (PDF)
 
 
 _Learning the nonlinearity of neurons from natural visual stimuli_<br>
-Kayser C, Körding KP, König P. <br> 
+Kayser C, Körding KP, König P. <br>
 Neural Computation (PDF)
 
 <hr>
 
 ### 2002
 
-_Learning Multiple Feature Representations from Natural Image Sequences_<br> 
+_Learning Multiple Feature Representations from Natural Image Sequences_<br>
 Einhäuser,W. Kayser,C. Körding K.P. and König,P. <br>
 Artificial Neural Networks:ICANN 2002, Springer Verlag Berlin Heidelberg New York. (PDF)
 
@@ -606,7 +606,7 @@ Körding, K.P., Kayser C., Betsch, B. and König, P. <br>
 J Neurosci Methods (PDF)
 
 
-_Neurons with two sites of synaptic integration learn invariant representations_<br> 
+_Neurons with two sites of synaptic integration learn invariant representations_<br>
 Körding, K.P. and König,P. <br>
 Neural Computation (PDF)
 
@@ -624,7 +624,7 @@ Journal of Computational Neuroscience (PDF)
 
 ### 2000
 
-_A spike based learning rule for the generation of invariant representations_<br> 
+_A spike based learning rule for the generation of invariant representations_<br>
 Körding, K.P. and König, P. <br>
 Journal of Physiology Paris (PDF)
 
@@ -639,7 +639,7 @@ Siegel,M. Körding,K.P. and König, P. <br>
 J. Comp. Neurosci (PDF)
 
 
-_Learning with two sites of synaptic integration_<br> 
+_Learning with two sites of synaptic integration_<br>
 Konrad P. Körding and Peter König <br>
 Network: Computation in Neural Systems (PDF)
 
@@ -648,6 +648,7 @@ _Two sites of synaptic integration: Relevant for learning?_<br>
 Körding, K.P. and König, P. <br>
 International Joint Conference on Neural Networks  (PDF)
 
+<hr>
 
 ### Copyright Notice
 

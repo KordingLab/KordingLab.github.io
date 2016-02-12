@@ -49,3 +49,7 @@ joined: 2014
 If you don't have information, just leave it blank. The avatar will bring photo from `images/people` folder and display it on people page. You can also add photo in your own personal page the same way your add photo in blog post.
 
 For position, you can choose position from 4 choices including `postdoc`, `gradstudent`, `visiting`, `others` (Honorary members). It will put you in section that you choose.
+
+### How to add new publications
+
+All publications from the lab are located in `publications.md`. Please upload new publication on your own!
