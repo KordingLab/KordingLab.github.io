@@ -59,22 +59,22 @@ A Farajidavar, S Gharibzadeh, F Towhidkhah, **S Saeb**, “A cybernetic view on 
 
 ### Conference Papers
 
-**S Saeb**, M Zhang, MM Kwasny, CJ Karr, K Körding, DC Mohr, “The Relationship between Clinical, Momentary, and Sensor-based Assessment of Depression,” In 9th International Conference on Pervasive Computing Technologies for Healthcare (Pervasive Health), 2015. (PDF)
+**S Saeb**, M Zhang, MM Kwasny, CJ Karr, K Körding, DC Mohr, “The Relationship between Clinical, Momentary, and Sensor-based Assessment of Depression,” In 9th International Conference on Pervasive Computing Technologies for Healthcare (Pervasive Health), 2015. ([PDF](http://klab.smpp.northwestern.edu/wiki/images/c/c9/SaebPerHealth15.pdf))
 
-**S Saeb**, C Weber, J Triesch, “A Neural Model for the Adaptive Control of Saccadic Eye Movements,” International Joint Conference on Neural Networks (IJCNN), Atlanta, Georgia, USA, 2009, pp. 2740-2747. (PDF)
+**S Saeb**, C Weber, J Triesch, “A Neural Model for the Adaptive Control of Saccadic Eye Movements,” International Joint Conference on Neural Networks (IJCNN), Atlanta, Georgia, USA, 2009, pp. 2740-2747. ([PDF](http://klab.smpp.northwestern.edu/wiki/images/2/20/SaebIJCNN09.pdf))
 
-**S Saeb**, A Farajidavar, S Gharibzadeh, “A model of wind-up based on short-term and long-term synaptic plasticity mechanisms,” International Joint Conference on Neural Networks (IJCNN), Orlando, Florida, USA, 2007, pp. 1055-1060. (PDF)
+**S Saeb**, A Farajidavar, S Gharibzadeh, “A model of wind-up based on short-term and long-term synaptic plasticity mechanisms,” International Joint Conference on Neural Networks (IJCNN), Orlando, Florida, USA, 2007, pp. 1055-1060. ([PDF](http://klab.smpp.northwestern.edu/wiki/images/8/87/SaebIJCNN07.pdf))
 
-**S Saeb**, M Amiri, MJ Yazdanpanah, “Analysis of the dynamical behavior of a feedback auto-associative memory,” IEEE International Symposium on Neural Networks (ISNN), Nanjing, China, 2007. (PDF)
+**S Saeb**, M Amiri, MJ Yazdanpanah, “Analysis of the dynamical behavior of a feedback auto-associative memory,” IEEE International Symposium on Neural Networks (ISNN), Nanjing, China, 2007. ([PDF](http://klab.smpp.northwestern.edu/wiki/images/8/87/SaebISNN07.pdf))
 
 ### Conference Abstracts
 
-**S Saeb**, K Körding, DC Mohr, “Human vs. machine: Improving physical activity tracking in the presence of deceptive human behavior,” Society for Neuroscience (SfN), Chicago, IL, USA, 2015. (abstract)
+**S Saeb**, K Körding, DC Mohr, “Human vs. machine: Improving physical activity tracking in the presence of deceptive human behavior,” Society for Neuroscience (SfN), Chicago, IL, USA, 2015. ([abstract](http://klab.smpp.northwestern.edu/wiki/images/1/1e/SaebSfN15.pdf))
 
-**S Saeb**, C Weber, J Triesch, “Development of coordinated eye and head movements during gaze shifts,” Vision Sciences Society Annual Meeting, Naples, Florida, USA, 2011. (poster)
+**S Saeb**, C Weber, J Triesch, “Development of coordinated eye and head movements during gaze shifts,” Vision Sciences Society Annual Meeting, Naples, Florida, USA, 2011. ([poster](http://klab.smpp.northwestern.edu/wiki/images/f/f6/SaebVSS11.pdf))
 
-**S Saeb**, C Weber, J Triesch, Learning coordinated eye and head movements: unifying principles and architectures. Frontiers in Computational Neuroscience, Conference Abstract: Bernstein Conference on Computational Neuroscience, Berlin, Germany, 27 Sep - 1 Oct, 2010. (abstracttalk)
+**S Saeb**, C Weber, J Triesch, Learning coordinated eye and head movements: unifying principles and architectures. Frontiers in Computational Neuroscience, Conference Abstract: Bernstein Conference on Computational Neuroscience, Berlin, Germany, 27 Sep - 1 Oct, 2010. ([abstract](http://www.frontiersin.org/10.3389/conf.fncom.2010.51.00065/event_abstract), [talk](http://klab.smpp.northwestern.edu/wiki/images/3/37/SaebBCCN_talk.pdf))
 
-**S Saeb**, C Weber. Toward a goal-directed construction of state spaces. Frontiers in Computational Neuroscience, Conference Abstract: Bernstein Conference on Computational Neuroscience, Frankfurt am Main, Germany, 30 Sep - 2 Oct, 2009. (abstractposter)
+**S Saeb**, C Weber. Toward a goal-directed construction of state spaces. Frontiers in Computational Neuroscience, Conference Abstract: Bernstein Conference on Computational Neuroscience, Frankfurt am Main, Germany, 30 Sep - 2 Oct, 2009. ([abstract](http://www.frontiersin.org/10.3389/conf.neuro.10.2009.14.019/event_abstract), [poster](http://klab.smpp.northwestern.edu/wiki/images/0/05/SaebBCCN09_poster.pdf))
 
-**S Saeb**, A Farajidavar, “Spike-time dependent plasticity could explain temporal tuning of auditory cortical cells,” Computational and Systems Neuroscience (COSYNE), Salt Lake City, Utah, USA, 2008. (abstract)
+**S Saeb**, A Farajidavar, “Spike-time dependent plasticity could explain temporal tuning of auditory cortical cells,” Computational and Systems Neuroscience (COSYNE), Salt Lake City, Utah, USA, 2008. ([abstract](http://klab.smpp.northwestern.edu/wiki/images/8/8b/SaebCOSYNE08.pdf))
