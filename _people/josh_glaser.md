@@ -1,10 +1,12 @@
 ---
 name: Josh Glaser
 position: gradstudent
-avatar: 
+avatar: josh.jpg
 twitter:
 joined: 2012
 ---
+
+<img width="200" src="{{site.baseurl}}/images/people/{{page.avatar}}">
 
 ### Contact
 
