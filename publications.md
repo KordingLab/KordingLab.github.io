@@ -12,7 +12,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 ### 2016
 
 _The Development and Analysis of Integrated Neuroscience Data_<br>
-Joshua I Glaser and Konrad P Kording <br>
+Joshua I Glaser and Konrad P Körding <br>
 Frontiers in Computational Neuroscience | Perpective Article ([Article](http://journal.frontiersin.org/article/10.3389/fncom.2016.00011/full?field=&journalName=Frontiers_in_Computational_Neuroscience&id=171004&utm_content=buffer21f1c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer))
 
 <hr>
@@ -28,11 +28,11 @@ S Saeb, M Zhang, CJ Karr, SM Schueller, ME Corden, KP Körding, DC Mohr <br>
 Journal of Medical Internet Research ([Article](http://www.jmir.org/2015/7/e175/))
 
 _Similar trial-by-trial adaptation behavior across transhumeral amputees and able-bodied subjects_<br>
-RE Johnson, KP Kording, LJ Hargrove, JW Sensinger <br>
+RE Johnson, KP Körding, LJ Hargrove, JW Sensinger <br>
 IEEE/EMBS Conference on Neural Engineering (NER) ([Abstract](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7146737&url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel7%2F7131936%2F7146535%2F07146737.pdf%3Farnumber%3D7146737))
 
 _The relationship between clinical, momentary, and sensor-based assessment of depression_<br>
-S Saeb, M Zhang, M Kwasny, CJ Karr, K Kording, DC Mohr <br>
+S Saeb, M Zhang, M Kwasny, CJ Karr, K Körding, DC Mohr <br>
 Conference on Pervasive Computing Technologies for Healthcare ([Abstract](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7349404&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7349404))
 
 _Self-Expressive Decompositions for Matrix Approximation and Clustering_<br>
@@ -49,7 +49,7 @@ Plos One ([Article](http://journals.plos.org/plosone/article?id=10.1371/journal.
 
 _Self-Expressive Decompositions for Matrix Approximation and Clustering_<br>
 Dyer EL, Goldstein TA, Patel R, Körding KP, Baraniuk RG<br>
-arXiv ([Abstract](http://arxiv.org/abs/1505.00824),[PDF](http://arxiv.org/pdf/1505.00824v1.pdf))
+arXiv ([Abstract](http://arxiv.org/abs/1505.00824), [PDF](http://arxiv.org/pdf/1505.00824v1.pdf))
 
 _Carrot or stick in motor learning_<br>
 Sternad D, Körding KP<br>
@@ -81,7 +81,7 @@ PHYSICAL REVIEW X ([Abstract](http://journals.aps.org/prx/abstract/10.1103/PhysR
 
 _Spatial Information in Large-Scale Neural Recordings_<br>
 Thaddeus R Cybulski*, Joshua I Glaser*, Adam H Marblestone, Bradley M Zamft, Edward S Boyden, George M Church, Konrad P Körding<br>
-Frontiers in Computational Neuroscience ([Article](http://journal.frontiersin.org/article/10.3389/fncom.2014.00172/full),[PDF](http://www.readcube.com/articles/10.3389/fncom.2014.00172))
+Frontiers in Computational Neuroscience ([Article](http://journal.frontiersin.org/article/10.3389/fncom.2014.00172/full), [PDF](http://www.readcube.com/articles/10.3389/fncom.2014.00172))
 
 
 <hr>
