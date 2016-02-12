@@ -8,17 +8,19 @@ permalink: /people/
 
 {% for item in people_array %}
 
+<div class="pos_header">
 {% if item == 'postdoc' %}
-### Postdoctoral Fellows
+<h3>Postdoctoral Fellows</h3>
  {% elsif item == 'pi' %}
-### Principal Investigator
+<h3>Principal Investigator</h3>
  {% elsif item == 'gradstudent' %}
-### Graduate Students
+<h3>Graduate Students</h3>
  {% elsif item == 'visiting' %}
-### Visiting Scholars
+<h3>Visiting Scholars</h3>
  {% elsif item == 'others' %}
-### Honorary Members
+<h3>Honorary Members</h3>
 {% endif %}
+</div>
 
 <div class="content list">
   {% for profile in people_sorted %}
@@ -30,7 +32,7 @@ permalink: /people/
         {% else %}
         <a href="{{ site.baseurl }}{{ profile.url }}"><img width="200" src="http://evansheline.com/wp-content/uploads/2011/02/facebook-Storm-Trooper.jpg"></a>
         {% endif %}
-        <a href="{{ site.baseurl }}{{ profile.url }}">{{ profile.name }}</a>
+        <a class="name" href="{{ site.baseurl }}{{ profile.url }}">{{ profile.name }}</a>
       </p>
     </div>    
     {% endif %}
