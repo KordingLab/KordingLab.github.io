@@ -1,6 +1,9 @@
-# Kording lab's blog
+# Kording lab (Bayesian Behavior Lab) page
 
-Follow instruction [here](https://jekyllrb.com/) to install Jekyll. To run jekyll server locally on your computer, use `jekyll serve`.
+
+To run locally, follow instruction [here](https://jekyllrb.com/) to install Jekyll then run `jekyll serve` to see in `localhost:4000`.
+
+We are welcome for other people to contribute to our site not just lab member. Feel free to fork and pull-request!
 
 
 ### How to add posts
@@ -27,3 +30,22 @@ we have only 4 categories: `scientists`, `students`, `discussion`, `blog` you ca
 **Clone the repo**, kind of the same as directly add post on Github. You just have to clone the repository. Then add more file, commit and push to the repo.
 
 It will take half a minute and you can see the new posts or changes on [kordinglab.github.io](http://kordinglab.github.io/)!
+
+
+### How to add yourself to lab page
+
+You can also add yourself to the page in `_people` folder just create file name `<firstname>_<lastname>.md` in the folder. We require few line of header before you start writing your page. See the following
+
+```
+---
+name: Eva Dyer
+position: postdoc
+avatar: eva.jpg
+twitter:
+joined: 2014
+---
+```
+
+If you don't have information, just leave it blank. The avatar will bring photo from `images/people` folder and display it on people page. You can also add photo in your own personal page the same way your add photo in blog post.
+
+For position, you can choose position from 4 choices including `postdoc`, `gradstudent`, `visiting`, `others` (Honorary members). It will put you in section that you choose.
