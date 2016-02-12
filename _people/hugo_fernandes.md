@@ -1,11 +1,12 @@
 ---
 name: Hugo Fernandes
 position: postdoc
-avatar: 
+avatar: hugo_profile.jpg
 twitter:
 joined: 2013
 ---
 
+<img width="250" src="{{site.baseurl}}/images/people/hugo.jpg">
 
 ### Contact
 
@@ -56,7 +57,7 @@ Using psychophysics to ask if the brain samples or maximizes <br>
  **Journal of Vision** ([Article](http://www.journalofvision.org/content/15/3/7.abstract), [F1000 recommendation](http://f1000.com/prime/725389756?key=KfDGGy3MWelYpcg)) </sup>
 
 
-###### 2014 
+###### 2014
 The generalization of prior uncertainty during reaching <br>
 <sup>**Fernandes HL**, Stevenson IH, Vilares I, Körding KP <br>
 **Journal of Neuroscience** ([Abstract](http://www.jneurosci.org/content/34/34/11470.short), [PDF](http://klab.smpp.northwestern.edu/wiki/images/e/ee/The_generalization_of_prior_uncertainty_during_learning.pdf), [Review paper](http://www.jneurosci.org/content/35/2/439.short)) </sup>
@@ -118,4 +119,3 @@ Functional Classification of Genes Using Non-Negative Independent Component Anal
 Detection of Lung Nodule Candidates in Chest Radiographs (2007) <br>
 <sup>Pereira CS, **Fernandes H**, Mendonça AM, Campilho A <br>
 **Pattern Recognition and Image Analysis** ([Abstract](http://www.springerlink.com/content/y42r75p31740m471)) </sup>
-

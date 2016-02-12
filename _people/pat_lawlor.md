@@ -1,12 +1,12 @@
 ---
 name: Pat Lawlor
 position: gradstudent
-avatar: 
+avatar: pat.jpg
 twitter:
 joined: 2012
 ---
 
-<img width="150" src="{{site.baseurl}}/images/people/pat_jump.jpg">
+<img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}">
 
 **Contact**
 
