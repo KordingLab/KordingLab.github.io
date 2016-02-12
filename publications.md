@@ -101,7 +101,7 @@ Kunlin Wei, Joshua I. Glaser, Linna Deng, Christopher K. Thompson, Ian H. Steven
 Journal of Neuroscience ([Abstract](http://www.jneurosci.org/content/34/38/12690.short), [PDF](http://klab.smpp.northwestern.edu/wiki/images/8/81/Serotonin_gain_control.pdf))
 
 _The generalization of prior uncertainty during reaching_<br>
-Fernandes HL, Stevenson IH, Vilares I, Kording KP
+Fernandes HL, Stevenson IH, Vilares I, Kording KP<br>
 Journal of Neuroscience ([Abstract](http://www.jneurosci.org/content/34/34/11470.short), [PDF](http://klab.smpp.northwestern.edu/wiki/images/e/ee/The_generalization_of_prior_uncertainty_during_learning.pdf), [Review paper](http://www.jneurosci.org/content/35/2/439.short))
 
 _Multi-faceted aspects of chunking enable robust algorithms_<br>
