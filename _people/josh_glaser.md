@@ -6,12 +6,15 @@ twitter:
 joined: 2012
 ---
 
-<img width="200" src="{{site.baseurl}}/images/people/josh.jpg">
+<img width="200" src="{{site.baseurl}}/images/people/josh_profile.jpg">
 
 ### Contact
 
 <i class="fa fa-envelope-o"></i>  `j-glaser@u.northwestern.edu`<br>
 <i class="fa fa-building"></i> RIC 1479
+
+[<i class="fa fa-google"></i> Google Scholar Profile](https://scholar.google.com/citations?user=tbfWCDgAAAAJ&hl=en)
+
 
 <hr>
 
