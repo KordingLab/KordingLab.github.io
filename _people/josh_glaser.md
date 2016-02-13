@@ -11,7 +11,6 @@ joined: 2012
 ### Contact
 
 <i class="fa fa-envelope-o"></i>  `j-glaser@u.northwestern.edu`<br>
-<i class="fa fa-phone"></i> lab phone (312)238-6515<br>
 <i class="fa fa-building"></i> RIC 1479
 
 <hr>
@@ -25,14 +24,21 @@ joined: 2012
 
 ### Current projects
 
-- Neural data analysis in order to understand the mechanisms of visual search behavior in natural scenes (In collaboration with the [Segraves Lab](http://sites.northwestern.edu/segraves-lab/))
+- Understanding movement planning during natural behavior<br>
+ - Understanding FEF activity during eye movements in natural scenes (In collaboration with the [Segraves Lab](http://sites.northwestern.edu/segraves-lab/))<br>
+ - Understanding PMd activity during reaching movements in naturalistic experiments (In collaboration with the [Miller Lab](http://labs.feinberg.northwestern.edu/lee-miller/index.html))<br>
+- Using motion tracking to understand how proprioceptive inputs are represented in the brain (In collaboration with the [Miller Lab](http://labs.feinberg.northwestern.edu/lee-miller/index.html))<br>
 - Developing and statistically analyzing technologies for large-scale neuroscience
 
 <hr>
 
 ### Peer-reviewed publications
 
-* _Puzzle Imaging: Using Large-scale Dimensionality Reduction Algorithms for Localization_<br>
+* _The Development and Analysis of Integrated Neuroscience Data_<br>
+**Joshua I. Glaser**, Konrad P. Kording<br>
+Frontiers in Computational Neuroscience ([Paper] (http://journal.frontiersin.org/article/10.3389/fncom.2016.00011/full))
+
+- _Puzzle Imaging: Using Large-scale Dimensionality Reduction Algorithms for Localization_<br>
   **Joshua I. Glaser**, Bradley M. Zamft, George M. Church, Konrad P. Kording<br>
   Plos One ([Paper](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0131593))
 
@@ -42,23 +48,23 @@ Frontiers in Computational Neuroscience ([Paper](http://journal.frontiersin.org/
 
 - _Statistical Analysis of Molecular Signal Recording_<br>
 **Joshua I. Glaser**, Bradley M. Zamft, Adam H. Marblestone, Jeffrey R. Moffitt, Keith Tyo, Edward S. Boyden, George Church, Konrad P. Kording<br>
-PLoS Comput Biol 9(7): e1003145. doi:10.1371/journal.pcbi.1003145 ([Abstract](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003145#abstract0), [PDF](http://www.ploscompbiol.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pcbi.1003145&representation=PDF))
+PLoS Computational Biology ([Paper](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003145))
 
 - _Physical Principles for Scalable Neural Recording_<br>
-Adam H. Marblestone, Bradley M. Zamft, Yael G. Maguire, Mikhail G. Shapiro, Thaddeus R. Cybulski, **Joshua I. Glaser**, P. Benjamin Stranges, Reza Kalhor, David A. Dalrymple, Dongjin Seo, Elad Alon, Michel M. Maharbiz, Jose M. Carmena, Jan M. Rabaey, Edward S. Boyden, George M. Church, Konrad P. Kording
-Frontiers in Computational Neuroscience. 7:137. doi: 10.3389/fncom.2013.00137 paper
+Adam H. Marblestone, Bradley M. Zamft, Yael G. Maguire, Mikhail G. Shapiro, Thaddeus R. Cybulski, **Joshua I. Glaser**, P. Benjamin Stranges, Reza Kalhor, David A. Dalrymple, Dongjin Seo, Elad Alon, Michel M. Maharbiz, Jose M. Carmena, Jan M. Rabaey, Edward S. Boyden, George M. Church, Konrad P. Kording<br>
+Frontiers in Computational Neuroscience ([Paper] (http://journal.frontiersin.org/article/10.3389/fncom.2013.00137/abstract))
 
 - _Modeling the Effect of Selection History on Pop-Out Visual Search_<br>
-Yuan-Chi Tseng, **Joshua I. Glaser**, Eamon Caddigan, Alejandro Lleras
-PLoS ONE 9(3): e89996. doi:10.1371/journal.pone.0089996 [paper](http://journal.frontiersin.org/article/10.3389/fncom.2013.00137/abstract)
+Yuan-Chi Tseng, **Joshua I. Glaser**, Eamon Caddigan, Alejandro Lleras<br>
+PLoS ONE ([Paper] (http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0089996))
 
 - _Serotonin Affects Movement Gain Control in the Spinal Cord_<br>
-Kunlin Wei, **Joshua I. Glaser**, Linna Deng, Christopher K. Thompson, Ian H. Stevenson, Qining Wang, Thomas George Hornby, Charles J. Heckman, Konrad P. Kording
-Journal of Neuroscience (Abstract, PDF)
+Kunlin Wei, **Joshua I. Glaser**, Linna Deng, Christopher K. Thompson, Ian H. Stevenson, Qining Wang, Thomas George Hornby, Charles J. Heckman, Konrad P. Kording<br>
+Journal of Neuroscience ([Abstract] (http://www.jneurosci.org/content/34/38/12690.short))
 
 - _Adoption of a High-Impact Innovation in a Homogeneous Population_<br>
-Curtis H. Weiss, Julia Poncela-Casasnovas, **Joshua I. Glaser**, Adam R. Pah, Stephen D. Persell, David W. Baker, Richard G. Wunderink, and Luís A. Nunes Amaral
-Physical Review X (Abstract, PDF)
+Curtis H. Weiss, Julia Poncela-Casasnovas, **Joshua I. Glaser**, Adam R. Pah, Stephen D. Persell, David W. Baker, Richard G. Wunderink, and Luís A. Nunes Amaral<br>
+Physical Review X ([Paper] (http://journals.aps.org/prx/abstract/10.1103/PhysRevX.4.041008))
 
 <hr>
 
