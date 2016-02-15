@@ -39,7 +39,7 @@ joined: 2012
 
 * _The Development and Analysis of Integrated Neuroscience Data_<br>
 **Joshua I. Glaser**, Konrad P. Kording<br>
-Frontiers in Computational Neuroscience ([Paper] (http://journal.frontiersin.org/article/10.3389/fncom.2016.00011/full))
+Frontiers in Computational Neuroscience ([Paper](http://journal.frontiersin.org/article/10.3389/fncom.2016.00011/full))
 
 * _Puzzle Imaging: Using Large-scale Dimensionality Reduction Algorithms for Localization_<br>
   **Joshua I. Glaser**, Bradley M. Zamft, George M. Church, Konrad P. Kording<br>
@@ -55,19 +55,19 @@ PLoS Computational Biology ([Paper](http://journals.plos.org/ploscompbiol/articl
 
 * _Physical Principles for Scalable Neural Recording_<br>
 Adam H. Marblestone, Bradley M. Zamft, Yael G. Maguire, Mikhail G. Shapiro, Thaddeus R. Cybulski, **Joshua I. Glaser**, P. Benjamin Stranges, Reza Kalhor, David A. Dalrymple, Dongjin Seo, Elad Alon, Michel M. Maharbiz, Jose M. Carmena, Jan M. Rabaey, Edward S. Boyden, George M. Church, Konrad P. Kording<br>
-Frontiers in Computational Neuroscience ([Paper] (http://journal.frontiersin.org/article/10.3389/fncom.2013.00137/abstract))
+Frontiers in Computational Neuroscience ([Paper](http://journal.frontiersin.org/article/10.3389/fncom.2013.00137/abstract))
 
 * _Modeling the Effect of Selection History on Pop-Out Visual Search_<br>
 Yuan-Chi Tseng, **Joshua I. Glaser**, Eamon Caddigan, Alejandro Lleras<br>
-PLoS ONE ([Paper] (http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0089996))
+PLoS ONE ([Paper](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0089996))
 
 * _Serotonin Affects Movement Gain Control in the Spinal Cord_<br>
 Kunlin Wei, **Joshua I. Glaser**, Linna Deng, Christopher K. Thompson, Ian H. Stevenson, Qining Wang, Thomas George Hornby, Charles J. Heckman, Konrad P. Kording<br>
-Journal of Neuroscience ([Abstract] (http://www.jneurosci.org/content/34/38/12690.short))
+Journal of Neuroscience ([Abstract](http://www.jneurosci.org/content/34/38/12690.short))
 
 * _Adoption of a High-Impact Innovation in a Homogeneous Population_<br>
 Curtis H. Weiss, Julia Poncela-Casasnovas, **Joshua I. Glaser**, Adam R. Pah, Stephen D. Persell, David W. Baker, Richard G. Wunderink, and Luís A. Nunes Amaral<br>
-Physical Review X ([Paper] (http://journals.aps.org/prx/abstract/10.1103/PhysRevX.4.041008))
+Physical Review X ([Paper](http://journals.aps.org/prx/abstract/10.1103/PhysRevX.4.041008))
 
 <hr>
 
