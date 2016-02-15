@@ -9,7 +9,7 @@ You can follow the instruction below. If you have any problem, feel free to ask 
 
 #### How to add yourself to lab page
 
-You can also add yourself to the page in `_people` folder just create file name `<firstname>_<lastname>.md` in the folder. We require few line of header before you start writing your page. See the following
+You can add yourself to the page in `_people` folder just create file name `<firstname>_<lastname>.md` in the folder. We require few line of header before you start writing your page. See the following
 
 ```
 ---
