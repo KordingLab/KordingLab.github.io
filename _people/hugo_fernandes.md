@@ -18,10 +18,9 @@ joined: 2013
 <hr>
 ### Koyote
 
-<center>
-<iframe width="460" height="259" src="https://embed.bambuser.com/broadcast/6104971" frameborder="0"></iframe>
-</center>
 
+<iframe width="460" height="259" src="https://embed.bambuser.com/broadcast/6104971" frameborder="0"></iframe>
+<br>
 
 ### Ongoing projects
 
