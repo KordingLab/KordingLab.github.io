@@ -15,12 +15,7 @@ joined: 2013
 <i class="fa fa-bar-chart"></i> [Google Scholar](https://scholar.google.com/citations?user=JG7xb2AAAAAJ) <br>
 <i class="fa fa-futbol-o"></i> [on Cargo Cult Science](http://www.californiachaparral.com/images/CargoCult.pdf) <br>
 
-<hr>
-### Koyote
 
-
-<iframe width="460" height="259" src="http://embed.bambuser.com/broadcast/6106817" frameborder="0"></iframe>
-<br>
 
 ### Ongoing projects
 
@@ -48,7 +43,7 @@ Cracking the neural code: a cryptography-inspired approach to brain decoding <br
 ###### 2016
 Predicting difficult laryngoscopy using ultrasound-based measurement of distance from skin to epiglottis <br>
 <sup>Pinto J, Cordeiro L, Pereira C, Gama R, **Fernandes HL**, Assunção J <br>
-(to appear in Journal of Critical Care)</sup>
+**Journal of Critical Care** ([Abstract](http://www.jccjournal.org/article/S0883-9441(16)00057-5/abstract))</sup>
 
 
 ###### 2015
