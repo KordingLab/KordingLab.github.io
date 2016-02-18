@@ -15,12 +15,17 @@ joined: 2013
 [<i class="fa fa-bar-chart"></i> google scholar](https://scholar.google.com/citations?user=JG7xb2AAAAAJ) <br>
 [<i class="fa fa-futbol-o"></i> on cargo cult science](http://www.californiachaparral.com/images/CargoCult.pdf) <br>
 
+<hr>
+
 ### News
 + Feb 2016: New publication on predicting difficulty of intubation using ultrasound and decision trees <br>
 
 <figure><center>
   <img width="400" src="http://www.jccjournal.org/cms/attachment/2047122840/2057911097/gr3_lrg.jpg"/>
-</center></figure>
+</center></figure> 
+<br>
+
+<hr>
 
 ### Ongoing projects
 
