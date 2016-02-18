@@ -20,10 +20,9 @@ joined: 2013
 ### News
 + Feb 2016: New publication on predicting difficulty of intubation using ultrasound and decision trees <br>
 
-<figure><center>
-  <img width="400" src="http://www.jccjournal.org/cms/attachment/2047122840/2057911097/gr3_lrg.jpg"/>
-</center></figure> 
-<br>
+<figure>
+  <img width="500" src="http://www.jccjournal.org/cms/attachment/2047122840/2057911097/gr3_lrg.jpg"/>
+</figure> 
 
 <hr>
 
