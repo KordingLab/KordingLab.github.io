@@ -11,11 +11,16 @@ joined: 2013
 ### Contact
 
 <i class="fa fa-envelope-o"></i>  `hugo-fernandes@northwestern.edu`<br>
-<i class="fa fa-building"></i> RIC 1479 <br>
-<i class="fa fa-bar-chart"></i> [Google Scholar](https://scholar.google.com/citations?user=JG7xb2AAAAAJ) <br>
-<i class="fa fa-futbol-o"></i> [on Cargo Cult Science](http://www.californiachaparral.com/images/CargoCult.pdf) <br>
+<i class="fa fa-building"></i> RIC 1481 <br>
+[<i class="fa fa-bar-chart"></i> google scholar](https://scholar.google.com/citations?user=JG7xb2AAAAAJ) <br>
+[<i class="fa fa-futbol-o"></i> on cargo cult science](http://www.californiachaparral.com/images/CargoCult.pdf) <br>
 
+### News
++ Feb 2016: New publication on predicting difficulty of intubation using ultrasound and decision trees <br>
 
+<figure><center>
+  <img width="400" src="http://www.jccjournal.org/cms/attachment/2047122840/2057911097/gr3_lrg.jpg"/>
+</center></figure>
 
 ### Ongoing projects
 
