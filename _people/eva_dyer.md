@@ -1,10 +1,12 @@
 ---
 name: Eva Dyer
 position: postdoc
-avatar:
+avatar: eva.jpg
 twitter:
 joined: 2014
 ---
+
+<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}">
 
 <i class="fa fa-building"></i> 345 East Superior Street, Chicago IL, 60611<br>
 <i class="fa fa-envelope-o"></i> `edyer@ric.org`<br>

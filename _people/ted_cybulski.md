@@ -1,11 +1,12 @@
 ---
 name: Ted Cybulski
 position: gradstudent
-avatar: 
+avatar: ted.jpg
 twitter:
 joined: 2012
 ---
 
+<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}">
 
 ### Contact, etc.
 
