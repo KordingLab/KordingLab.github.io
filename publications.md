@@ -5,7 +5,7 @@ permalink: /publication/
 
 For those interested in numbers, see Konrad's [google scholar citations profile](https://scholar.google.com/citations?user=MiFqJGcAAAAJ).
 
-We try to include links for all of our papers. Some of the links open PDFs, others direct you to a journal's site where that particular publication is available for download. If you cannot access one of our papers, let us know. Here's the copyright notice of the works listed below.
+We try to include links for all of our papers. Some of the links open PDFs, others direct you to a journal's site where that particular publication is available for download. If you cannot access one of our papers, let us know. The copyright notice for all papers is listed at the bottom of the page.
 
 <hr>
 
@@ -37,7 +37,7 @@ Conference on Pervasive Computing Technologies for Healthcare ([Abstract](http:/
 
 _Self-Expressive Decompositions for Matrix Approximation and Clustering_<br>
 EL Dyer, TA Goldstein, R Patel, KP Körding, RG Baraniuk <br>
-arXiv preprint ([Abstrat](http://arxiv.org/abs/1505.00824), [PDF](http://arxiv.org/pdf/1505.00824v1.pdf))
+arXiv preprint ([Abstract](http://arxiv.org/abs/1505.00824), [PDF](http://arxiv.org/pdf/1505.00824v1.pdf))
 
 _Automatic discovery of cell types and microcircuitry from neural connectomics_<br>
 Eric Jonas, Konrad Körding<br>
@@ -46,10 +46,6 @@ eLIFE ([Article](http://lens.elifesciences.org/04250/index.html), [PDF](http://c
 _Puzzle Imaging: Using Large-scale Dimensionality Reduction Algorithms for Localization_<br>
 Joshua I Glaser, Bradley M Zamft, George M Church, Konrad P Körding<br>
 Plos One ([Article](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0131593), [PDF](http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0131593&representation=PDF))
-
-_Self-Expressive Decompositions for Matrix Approximation and Clustering_<br>
-Dyer EL, Goldstein TA, Patel R, Körding KP, Baraniuk RG<br>
-arXiv ([Abstract](http://arxiv.org/abs/1505.00824), [PDF](http://arxiv.org/pdf/1505.00824v1.pdf))
 
 _Carrot or stick in motor learning_<br>
 Sternad D, Körding KP<br>
