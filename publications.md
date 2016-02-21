@@ -43,9 +43,13 @@ _Automatic discovery of cell types and microcircuitry from neural connectomics_<
 Eric Jonas, Konrad Körding<br>
 eLIFE ([Article](http://lens.elifesciences.org/04250/index.html), [PDF](http://cdn.elifesciences.org/elife-articles/04250/pdf/elife04250.pdf))
 
+_Making activity recognition robust against deceptive behavior_<br>
+Sohrab Saeb, Konrad P Kording, David C Mohr<br>
+PLOS ONE ([Article](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0144795))
+
 _Puzzle Imaging: Using Large-scale Dimensionality Reduction Algorithms for Localization_<br>
 Joshua I Glaser, Bradley M Zamft, George M Church, Konrad P Körding<br>
-Plos One ([Article](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0131593), [PDF](http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0131593&representation=PDF))
+PLOS ONE ([Article](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0131593), [PDF](http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0131593&representation=PDF))
 
 _Carrot or stick in motor learning_<br>
 Sternad D, Körding KP<br>
