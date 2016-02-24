@@ -18,7 +18,7 @@ joined: 2013
 <hr>
 
 ### News
-+ Feb 2016: New publication on predicting difficulty of intubation using ultrasound and decision trees <br>
++ Feb 2016: New [publication](http://www.jccjournal.org/article/S0883-9441(16)00057-5/abstract) on predicting difficult laryngoscopy using ultrasound and decision trees <br>
 
 <figure>
   <img width="500" src="http://www.jccjournal.org/cms/attachment/2047122840/2057911097/gr3_lrg.jpg"/>
@@ -39,11 +39,8 @@ joined: 2013
 Learning in Aphasia: The Impact of Break versus Blocked Treatment Schedules<br>
 <sup>Lee, Braun, **Fernandes**, Hurwitz, Kording, van Vuuren, Cherney</sup>
 
-Quantifying mesoscale neuroanatomy using X-ray microtomography <br>
-<sup>Dyer EL, Roncal WG, **Fernandes HL**, Gursoy D, Xiao X, Vogelstein JT, Jacobsen C, Kasthuri N, Körding KP</sup>
-
 Cracking the neural code: a cryptography-inspired approach to brain decoding <br>
-<sup>Azar MG\*, Dyer EL\*, **Fernandes HL**, Perich MG , Lee ME, Körding KP (\*authors contributed equally)</sup>
+<sup> Dyer EL\*, Azar MG\*, **Fernandes HL**, Perich MG , Lee ME, Körding KP (\*authors contributed equally)</sup>
 
 <hr>
 
