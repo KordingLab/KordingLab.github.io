@@ -3,15 +3,28 @@ title: Microsoft SQL example
 categories: students
 ---
 
-I have to take EDW exam (Northwestern Data Warehouse exam) this coming week which is an SQL exam which I think people who will work with EDW in order to access medical data that they provide have to take that too. The database that they have is Microsoft SQL 2008 (MSSQL). There is an easy way to query MSSQL on my Mac by installing
-native app called [SQLPro for MSSQL](http://www.macsqlclient.com/). I still cannot use [`pymssql`](https://github.com/PyMySQL/PyMySQL) to connect to the database. I will update the post if I'm able to do that.
+I have to take EDW exam (Northwestern Data Warehouse exam) this coming week which is an SQL exam. I think people/ lab members who will work with EDW in order to access medical data that they provide have to take that too. The database that they have is Microsoft SQL 2008 (MSSQL). There is an easy way to query MSSQL on my Mac by installing
+native app called [SQLPro for MSSQL](http://www.macsqlclient.com/). Also there is a way to connect using Python with  Pandas library and [`pymssql`](https://github.com/PyMySQL/PyMySQL) to connect to the database as follows:
 
-The following is my answer to the questions:
+
+```python
+import pandas as pd
+import pymssql
+conn = pymssql.connect(server='<serve_name>.database.windows.net',
+                       user='<user_name>@<server_name>.database.windows.net',
+                       password='<password>',
+                       database='<database_name>',
+                       port='1433',
+                       login_timeout=15) # create connection
+pd.read_sql("select * from information_schema.tables", conn) # put any query in first argument
+```
+
+The following is my answer to the example questions:
 
 List tables available
 
-```
-SELECT * FROM information_schema.tables;
+```sql
+select * from information_schema.tables;
 ```
 
 List all gender codes available in the system sorted alphabetically by title.
@@ -78,10 +91,11 @@ group by d.code, d.title
 
 The clinical application has some basic built-in reporting functionality and it reports that only 17 valid encounters exist. The “encounters” table has 18 rows. Why might the system only believe 17 of those rows are valid?
 
-**ans.** there is a column name delected_ind that indicates whether that row is still existed or not
+**ans.** there is a column name `deleted_ind` that indicates whether that row is still existed or not
 
 ```sql
-select COUNT(*) from edw_emr_ods.encounters
+select COUNT(*) from edw_emr_ods.encounters -- give 18
+select COUNT(*) from edw_emr_ods.encounters as e where e.deleted_ind = 0 -- give 17
 ```
 
 List all encounter types that have been charted on valid encounters and how many times each was charted. If the encounter type is missing, use the title “Unknown.”
