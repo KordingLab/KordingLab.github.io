@@ -14,21 +14,22 @@ joined: 2015
 
 <hr>
 
-### Background
+### Current interests
 
-- I am a postdoctoral fellow at Northwestern University.
-- I did a PhD in cognitive science at the Ecole Normale in Paris, where I studied context effects in hearing.
+Differences and similarities between perceptual and visuo-motor representations. 
 
-<hr>
-
-### Current projects
-
+Bayesian integration in young and clinical populations.
 
 <hr>
 
 ### Publications
 
+Chambers, C., Shamma, S. & Pressnitzer, D. (in preparation). The influence of perceptual organisation on an auditory context effect.
+
+Chambers, C., Shamma, S. & Pressnitzer, D. (in preparation). Attentional modulation of an auditory context effect.
+
+Chambers, C., Akram, S., Adam, V., Pelofi, C., Sahani, M., Shamma, S. & Pressnitzer, D. (submitted). Prior acoustic context adaptively shapes auditory perception.
+
+Chambers, C. & Pressnitzer, D. (2014). Perceptual hysteresis in the judgment of auditory pitch shift. Attention, Perception, & Psychophysics, 76: 1271-1279.
 
 <hr>
-
-### Talks/Posters
