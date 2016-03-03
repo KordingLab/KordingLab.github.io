@@ -9,9 +9,9 @@
   <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Roboto" />
   <link href='http://fonts.googleapis.com/css?family=Molengo' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
   <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
   <link rel="stylesheet" href="{{ site.baseurl }}/style.css">
-
   <!-- favicon -->
   <link rel="shortcut icon" href="{{ site.url }}/favicon.ico">
   <link rel="shortcut icon" href="{{ site.url }}/favicon.png">
@@ -27,7 +27,6 @@
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="article">
   <meta property="og:url" content="{{ canonical }}">
-  <!-- <meta property="og:title" content="{{ site.title }}"> -->
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta property="og:site_name" content="{{ site.title }}">
   <meta property="og:description" content="{{ description | strip_html | condense_spaces | truncate:150 }}" />
@@ -57,11 +56,21 @@ s.setAttribute('data-timestamp', +new Date());
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 
-<body>
-  <div class="container">
+<body id="page-top" style="padding-top: 70px;">
+    
     {% include navbar.html %}
     {{ content }}
-  </div>
-  <script id="dsq-count-scr" src="//kordinglab.disqus.com/count.js" async></script>
+    
+    <script id="dsq-count-scr" src="//kordinglab.disqus.com/count.js" async></script>
+    <script src="http://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+    <script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    var pageTracker = _gat._getTracker("UA-34145995-1");
+    pageTracker._trackPageview();
+    </script>
 </body>
 </html>

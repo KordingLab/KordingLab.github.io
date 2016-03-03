@@ -1,6 +1,30 @@
-<nav style="padding-bottom: 1em;" class="masthead-nav">
-  {% for nav in site.nav %}
-  <a style="color: gray; text-decoration: none;" href="{{ nav.href }}">{{ nav.name }}&nbsp&nbsp&nbsp/</a>
-  {% endfor %}
-  <br>
+<nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class='navbar-brand page-scroll' href='/'>
+              <img style="float:left; margin-right: 10px; max-height: 38px; max-width:45px; margin-top: -7px;vertical-align:middle;" src="/images/logo/klab_logo_only.svg">
+              <span style='text-decoration:none;'>{{ site.name }}</span>
+              </a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <ul class="nav navbar-nav navbar-right">
+                      {% for nav in site.nav %}
+                      <li><a class='name' href="{{ nav.href }}">{{ nav.name }}</a></li>
+                      {% endfor %}
+                    </ul>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
 </nav>
