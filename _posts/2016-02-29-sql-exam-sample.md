@@ -60,7 +60,7 @@ left join edw_emr_ods.patient_mrns pm
 on (p.patient_id = pm.patient_id and pm.mrn_type = 'NMH')
 ```
 
-Dr. Nick Riviera wants a list of all his encounters showing the encounter ID, departmentname,andencounterdate. He'salsorequestedthattheearliest encounter display first.
+Dr. Nick Riviera wants a list of all his encounters showing the encounter ID, department name,and encounter date. He's also requested that the earliest encounter display first.
 
 ```sql
 select d.department_id, d.department_nm, e.start_dts
