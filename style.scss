@@ -1,6 +1,7 @@
 ---
 ---
 
+
 * {
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
@@ -482,4 +483,8 @@ tbody tr:nth-child(odd) th {
 
 .page-title {
   margin-bottom: 0.6em;
+}
+
+.navbar {
+    background-color: white;
 }
