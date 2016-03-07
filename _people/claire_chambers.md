@@ -16,7 +16,7 @@ joined: 2015
 
 ### Current interests
 
-Differences and similarities between perceptual and visuo-motor representations. 
+Differences and similarities between perceptual and visuo-motor representations.
 
 Bayesian integration in young and clinical populations.
 
@@ -24,12 +24,12 @@ Bayesian integration in young and clinical populations.
 
 ### Publications
 
-Chambers, C., Shamma, S. & Pressnitzer, D. (in preparation). The influence of perceptual organisation on an auditory context effect.
+Chambers, C., Shamma, S. & Pressnitzer, D. (in preparation). _The influence of perceptual organisation on an auditory context effect_.
 
-Chambers, C., Shamma, S. & Pressnitzer, D. (in preparation). Attentional modulation of an auditory context effect.
+Chambers, C., Shamma, S. & Pressnitzer, D. (in preparation). _Attentional modulation of an auditory context effect_.
 
-Chambers, C., Akram, S., Adam, V., Pelofi, C., Sahani, M., Shamma, S. & Pressnitzer, D. (submitted). Prior acoustic context adaptively shapes auditory perception.
+Chambers, C., Akram, S., Adam, V., Pelofi, C., Sahani, M., Shamma, S. & Pressnitzer, D. (submitted). _Prior acoustic context adaptively shapes auditory perception_.
 
-Chambers, C. & Pressnitzer, D. (2014). Perceptual hysteresis in the judgment of auditory pitch shift. Attention, Perception, & Psychophysics, 76: 1271-1279.
+Chambers, C. & Pressnitzer, D. (2014). _Perceptual hysteresis in the judgment of auditory pitch shift. Attention, Perception, & Psychophysics_, 76: 1271-1279.
 
 <hr>

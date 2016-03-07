@@ -51,12 +51,12 @@ I'm interested in using computational and statistical tools to solve problems in
 
 ### Posters/Presentations
 
-- **Lawlor, P.N.**, Cybulski, T., Kording K.P. 2015. Linear-Nonlinear-Time warp-Poisson models of neural activity. Oral presentation, 2015 Statistical Analysis of Neural Data (SAND) Conference. Pittsburgh, PA.
-- **Lawlor, P.N.**, Hattori, S., Weiss, C., Disterhoft, J.D., Kording, K.P. 2015. Characterizing memory formation and storage at the mesoscopic scale. Poster presentation, 2015 CoSyNe Conference. Salt Lake City, UT. PDF
-- Glaser, J.**, Lawlor, P.N.**, Wood, D., Ramkumar, P., Kording, K.P., Segraves, M.A. 2014. Reward expectation modulates Frontal Eye Field activity during natural scene search. Poster presentation, 2014 Society for Neuroscience Annual Meeting, Washington D.C. PDF
-- Wood, D., Ramkumar, P., Glaser, J., **Lawlor, P.N.**, Kording, K.P., Segraves, M.A. 2014. Task-relevant features predict gaze behavior but not neural activity in FEF during natural scene search. Poster presentation, 2014 Society for Neuroscience Annual Meeting, Washington D.C. PDF
-- **Lawlor, P.N.**, Hattori, S., Weiss, C., Disterhoft, J.F., Kording, K.P. Decoding techniques predict conditioned blink responses, revealing dynamics of associative learning. Poster presentation, 2013 Society for Neuroscience Annual Meeting, San Diego, CA
-- **Lawlor, P.N.**, Kalisky, T., Rosner, R., Rosner, M., Kording, K.P. Designing the optimal drug for cancer therapy. 2013 MSTP Retreat, Lake Geneva, WI
+- **Lawlor, P.N.**, Cybulski, T., Kording K.P. 2015. _Linear-Nonlinear-Time warp-Poisson models of neural activity_. Oral presentation, 2015 Statistical Analysis of Neural Data (SAND) Conference. Pittsburgh, PA.
+- **Lawlor, P.N.**, Hattori, S., Weiss, C., Disterhoft, J.D., Kording, K.P. 2015. _Characterizing memory formation and storage at the mesoscopic scale_. Poster presentation, 2015 CoSyNe Conference. Salt Lake City, UT. PDF
+- Glaser, J.**, Lawlor, P.N.**, Wood, D., Ramkumar, P., Kording, K.P., Segraves, M.A. 2014. _Reward expectation modulates Frontal Eye Field activity during natural scene search_. Poster presentation, 2014 Society for Neuroscience Annual Meeting, Washington D.C. PDF
+- Wood, D., Ramkumar, P., Glaser, J., **Lawlor, P.N.**, Kording, K.P., Segraves, M.A. 2014. _Task-relevant features predict gaze behavior but not neural activity in FEF during natural scene search. Poster presentation_, 2014 Society for Neuroscience Annual Meeting, Washington D.C. PDF
+- **Lawlor, P.N.**, Hattori, S., Weiss, C., Disterhoft, J.F., Kording, K.P. _Decoding techniques predict conditioned blink responses, revealing dynamics of associative learning_. Poster presentation, 2013 Society for Neuroscience Annual Meeting, San Diego, CA
+- **Lawlor, P.N.**, Kalisky, T., Rosner, R., Rosner, M., Kording, K.P. _Designing the optimal drug for cancer therapy_. 2013 MSTP Retreat, Lake Geneva, WI
 - Longoria Casias, R.A., Leidel, C., **Lawlor, P.N.**, Barrera, L.A., Shubeita, G.T. An In Vitro Assay To Probe The Coordination Of Opposite Polarity Molecular Motors. 2010 Biophysical Society Meeting, San Francisco, CA
 
 <hr>
