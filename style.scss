@@ -15,9 +15,9 @@ body {
 }
 
 html {
-  font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans", "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 18px;
-  // font-weight: 300;
+  font-weight: 300;
   line-height: 1.6;
 
   @media (min-width: 38em) {
@@ -50,7 +50,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   margin-bottom: .5rem;
   font-weight: 600;
-  font-family: "Source Sans Pro";
+  font-family: "Open Sans", "Source Sans Pro";
   line-height: 1.1;
   color: #333;
   letter-spacing: -.025rem;
@@ -73,13 +73,15 @@ h4, h5, h6 {
 }
 
 p {
-  font-family: "Helvetica Neue", Helvetica, 'Ubuntu Mono';
+  font-family: "Open Sans", "Helvetica Neue", Helvetica;
+  font-weight: 300;
   margin: 0 0 1rem;
   font-size: 0.8rem;
 }
 
 ul, ol, dl {
-  font-family: "Helvetica Neue", Helvetica, 'Ubuntu Mono';
+  font-family: "Open Sans", "Helvetica Neue", Helvetica;
+  font-weight: 300;
   font-size: 0.8rem;
   margin-top: 0;
   margin-bottom: 1rem;
@@ -98,7 +100,7 @@ dd {
 }
 
 ul {
-  font-family: Helvetica, 'Ubuntu Mono';
+  /*font-family: Helvetica, 'Ubuntu Mono';*/
   font-size: 0.8rem;
   list-style: inside circle;
   padding-left: 0;
@@ -497,7 +499,7 @@ tbody tr:nth-child(odd) th {
 // change font for navbar
 .navbar, .navbar-nav>li>a {
   background-color: white;
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 // fix menu bar spacing for mobile

@@ -29,15 +29,15 @@ I am currently a Postdoctoral Fellow in the [Bayesian Behavior Lab](http://klab.
 
 ### In the pipeline...
 
-- Sparse self-expressive decompositions for matrix approximation and clustering ([Paper](http://arxiv.org/abs/1505.00824), [Code]())<br>
+- _Sparse self-expressive decompositions for matrix approximation and clustering_ ([Paper](http://arxiv.org/abs/1505.00824), [Code]())<br>
 E.L. Dyer, T.A. Goldstein, R.J. Patel, K.P. Körding, and R.G. Baraniuk
-- Cracking the neural code: A cryptography-inspired approach to brain decoding<br>
+- _Cracking the neural code: A cryptography-inspired approach to brain decoding_<br>
 E.L. Dyer\*, M. Azar\*, H.L. Fernandes, M. Perich, L.E. Miller, and K.P. Körding (\*authors contributed equally)
-- X-BRAIN: X-ray methods for Brain Research and Analytics In Neuroscience<br> ([CrossYourEyes](http://klab.smpp.northwestern.edu/wiki/images/1/1e/0072.gif))
+- _X-BRAIN: X-ray methods for Brain Research and Analytics In Neuroscience_<br> ([CrossYourEyes](http://klab.smpp.northwestern.edu/wiki/images/1/1e/0072.gif))
 E.L. Dyer, W.G. Roncal, H.L. Fernandes, D. Gürsoy, X. Xiao, J.T. Vogelstein, C. Jacobsen, N. Kasthuri, and K.P. Körding
-- Localization and classification of neurons with high-density electrode arrays<br>
+- _Localization and classification of neurons with high-density electrode arrays_<br>
 E.L. Dyer, R. Farhoudi, M. Azar, and K.P. Körding
-- Convex relaxation regression: Efficient optimization of smooth functions by approximating their convex envelopes ([Paper](http://arxiv.org/abs/1602.02191))<br>
+- _Convex relaxation regression: Efficient optimization of smooth functions by approximating their convex envelopes_ ([Paper](http://arxiv.org/abs/1602.02191))<br>
 M. Azar, E.L. Dyer, and K.P. Körding
 
 <hr>
