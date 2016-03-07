@@ -27,10 +27,10 @@ Drawn to neat applications of all sorts of math and biology. Particularly intere
 
 ### Publications
 
-- **Thaddeus R Cybulski**, Joshua I Glaser, Adam H Marblestone, Bradley M Zamft, Edward S Boyden, George M Church, Konrad P Kording, _"Spatial Information in Large-Scale Neural Recordings."_ [arXiv:1402.3375](http://arxiv.org/abs/1402.3375) [q-bio.NC]. 2014.
+- **Thaddeus R Cybulski**, Joshua I Glaser, Adam H Marblestone, Bradley M Zamft, Edward S Boyden, George M Church, Konrad P Kording, _Spatial Information in Large-Scale Neural Recordings._ [arXiv:1402.3375](http://arxiv.org/abs/1402.3375) [q-bio.NC]. 2014.
 
-- Zhang W, You Chen, **Thaddeus R. Cybulski**, Daniel Fabbri, Carl A. Gunter, Patrick Lawlor, David Liebovitz and Bradley Malin, "Decide Now or Decide Later? Quantifying the Tradeoff between Prospective and Retrospective Access Decisions". Proceedings of the 21st ACM Conference on Computer and Communications Security (CCS). 2014.
+- Zhang W, You Chen, **Thaddeus R. Cybulski**, Daniel Fabbri, Carl A. Gunter, Patrick Lawlor, David Liebovitz and Bradley Malin, _Decide Now or Decide Later? Quantifying the Tradeoff between Prospective and Retrospective Access Decisions_. Proceedings of the 21st ACM Conference on Computer and Communications Security (CCS). 2014.
 
-- Adam H Marblestone, Bradley M Zamft, Yael G Maguire, Mikhail G Shapiro, **Thaddeus R Cybulski**, Joshua I Glaser, Dario Amodei, P Benjamin Stranges, Reza Kalhor, David A Dalrymple, Dongjin Seo, Elad Alon, Michel M Maharbiz, Jose M Carmena, Jan M Rabaey, Edward S Boyden, George M Church, Konrad P Kording, "Physical principles for scalable neural recording." Front. Comput. Neurosci. 7. [doi: 10.3389/fncom.2013.00137](http://journal.frontiersin.org/article/10.3389/fncom.2013.00137/abstract). 2013.
+- Adam H Marblestone, Bradley M Zamft, Yael G Maguire, Mikhail G Shapiro, **Thaddeus R Cybulski**, Joshua I Glaser, Dario Amodei, P Benjamin Stranges, Reza Kalhor, David A Dalrymple, Dongjin Seo, Elad Alon, Michel M Maharbiz, Jose M Carmena, Jan M Rabaey, Edward S Boyden, George M Church, Konrad P Kording, _Physical principles for scalable neural recording._ Front. Comput. Neurosci. 7. [doi: 10.3389/fncom.2013.00137](http://journal.frontiersin.org/article/10.3389/fncom.2013.00137/abstract). 2013.
 
 <hr>
