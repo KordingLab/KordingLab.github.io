@@ -28,8 +28,8 @@ joined: 2012
 ### Current projects
 
 * Understanding movement planning during natural behavior<br>
- * Understanding FEF activity during eye movements in natural scenes (In collaboration with the [Segraves Lab](http://sites.northwestern.edu/segraves-lab/))<br>
- * Understanding PMd activity during reaching movements in naturalistic experiments (In collaboration with the [Miller Lab](http://labs.feinberg.northwestern.edu/lee-miller/index.html))<br>
+  * Understanding FEF activity during eye movements in natural scenes (In collaboration with the [Segraves Lab](http://sites.northwestern.edu/segraves-lab/))<br>
+  * Understanding PMd activity during reaching movements in naturalistic experiments (In collaboration with the [Miller Lab](http://labs.feinberg.northwestern.edu/lee-miller/index.html))<br>
 * Using motion tracking to understand how proprioceptive inputs are represented in the brain (In collaboration with the [Miller Lab](http://labs.feinberg.northwestern.edu/lee-miller/index.html))<br>
 * Developing and statistically analyzing technologies for large-scale neuroscience
 
