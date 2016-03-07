@@ -85,6 +85,10 @@ ul, ol, dl {
   margin-bottom: 1rem;
 }
 
+li > ul > li {
+    margin-left: 1rem;
+}
+
 dt {
   font-weight: bold;
 }
