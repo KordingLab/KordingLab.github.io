@@ -60,27 +60,27 @@ We have recently acquire a large database of abstracts and full-texts that will 
 
 ### Talks
 
-- October, 2015 - Lightning talk - "Should we allow authors to suggest reviewers?", Quantifying Science satellite conference, Tempe, AZ
-- July, 2015 - "Tools and software to accelerate science", Metaknowledge Network Summer Retreat, Asilomar, California
-- March, 2015 - "Science of science", Metaknowledge Network Spring Retreat, University of Chicago
-- November, 2014 - Plenary talk - "Big data science of science", Science Week 2014, Loyola University, Chicago
-- August 2014, "Automatic detection of figure element reuse in biological science articles", Science of Team Science Conference, Austin, TX
-- May 2014, "Big data machine learning for prediction and classification" (invited academic speaker, plenary), The Tenth Workshop on the Development of Advanced Algorithms for Security Applications (ADSA10)
-- March 2013, "An investigation of how prior beliefs influence decision-making under uncertainty in a 2AFC task", (plenary) COSYNE 2013
+- October, 2015 - Lightning talk - _Should we allow authors to suggest reviewers?_, Quantifying Science satellite conference, Tempe, AZ
+- July, 2015 - _Tools and software to accelerate science_, Metaknowledge Network Summer Retreat, Asilomar, California
+- March, 2015 - _Science of science_, Metaknowledge Network Spring Retreat, University of Chicago
+- November, 2014 - Plenary talk - _Big data science of science_, Science Week 2014, Loyola University, Chicago
+- August 2014, _Automatic detection of figure element reuse in biological science articles_, Science of Team Science Conference, Austin, TX
+- May 2014, _Big data machine learning for prediction and classification_ (invited academic speaker, plenary), The Tenth Workshop on the Development of Advanced Algorithms for Security Applications (ADSA10)
+- March 2013, _An investigation of how prior beliefs influence decision-making under uncertainty in a 2AFC task_, (plenary) COSYNE 2013
 
 <hr>
 
 ### Publications
 
-- **Acuna, DE**, Berniker, M, Fernandes, H, Kording, K, (2015) “Using psychophysics to ask if the brain samples or maximizes”, Journal of Vision
+- **Acuna, DE**, Berniker, M, Fernandes, H, Kording, K, (2015) _Using psychophysics to ask if the brain samples or maximizes_, Journal of Vision
 - **Acuna, DE**, Wymbs, Nicholas F.,  Reynolds, Chelsea A., Picard, Nathalie, Turner, Robert S., Strick, Peter L., Grafton,  Scott T.,
-Kording, Konrad P. (2014) Multi-faceted aspects of chunking enable robust algorithms, Journal of Neurophysiology, [Link](http://jn.physiology.org/content/early/2014/07/23/jn.00028.2014), [code](http://github.com/daniel-acuna/chunk_inference)
-- **Acuna, DE**, Penner, Orion, Orton CG, (2013)  The future h-index is an excellent way to predict scientists' future impact, Med. Phys. 40, 110601 ([Link](http://scitation.aip.org/content/aapm/journal/medphys/40/11/10.1118/1.4816659))
-- **Acuna, DE**, Allesina, S., Kording, KP, (2012) Future impact: Predicting scientific success, Nature, Volume 489, Number 7415, 201-202
-- Avraham G, Nisky I, Fernandes HL, **Acuna DE**, Kording KP, Loeb GE, Karniel A, (2011) Towards Perceiving Robots as Humans – Three handshake models face the Turing-like Handshake Test, IEEE Transactions on Haptics
-- **Acuna, DE**, (2011) Rational Bayesian Analysis of Sequential Decision-Making Under Uncertainty In Humans and Machines, Ph.D. Thesis, University of Minnesota-Twin Cities
-- **Acuna, DE** & Schrater, P. (2010). Structure Learning in Human Sequential Decision-Making, PLoS Computational Biology 6(12): e1001003
-- **Acuna, DE** & Parada, V. (2010). People Efficiently Explore the Solution Space of the Computationally Intractable Traveling Salesman Problem to Find Near-Optimal Tours, PLoS ONE 5(7):e11685
-- **Acuna, DE** & Schrater, P. (2009). Improving Bayesian Reinforcement Learning using Transition Abstraction. ICML/UAI/CLT Workshop on Abstraction in Reinforcement Learning 2009
-- **Acuna, DE** & Schrater, P. (2009). Structure Learning in Human Sequential Decision-Making. NIPS 2009
-- **Acuna, DE** & Schrater, P. (2008). Bayesian Modeling of Human Sequential Decision-Making on the Multi-Armed Bandit Problem. In V. Sloutsky, B. Love, & K. McRae (Eds.), Proceedings of the 30th Annual Conference of the Cognitive Science Society. Washington, DC: Cognitive Science
+Kording, Konrad P. (2014) _Multi-faceted aspects of chunking enable robust algorithms_, Journal of Neurophysiology, [Link](http://jn.physiology.org/content/early/2014/07/23/jn.00028.2014), [code](http://github.com/daniel-acuna/chunk_inference)
+- **Acuna, DE**, Penner, Orion, Orton CG, (2013)  _The future h-index is an excellent way to predict scientists' future impact_, Med. Phys. 40, 110601 ([Link](http://scitation.aip.org/content/aapm/journal/medphys/40/11/10.1118/1.4816659))
+- **Acuna, DE**, Allesina, S., Kording, KP, (2012) _Future impact: Predicting scientific success_, Nature, Volume 489, Number 7415, 201-202
+- Avraham G, Nisky I, Fernandes HL, **Acuna DE**, Kording KP, Loeb GE, Karniel A, (2011) _Towards Perceiving Robots as Humans – Three handshake models face the Turing-like Handshake Test_, IEEE Transactions on Haptics
+- **Acuna, DE**, (2011) _Rational Bayesian Analysis of Sequential Decision-Making Under Uncertainty In Humans and Machines_, Ph.D. Thesis, University of Minnesota-Twin Cities
+- **Acuna, DE** & Schrater, P. (2010). _Structure Learning in Human Sequential Decision-Making_, PLoS Computational Biology 6(12): e1001003
+- **Acuna, DE** & Parada, V. (2010). _People Efficiently Explore the Solution Space of the Computationally Intractable Traveling Salesman Problem to Find Near-Optimal Tours_, PLoS ONE 5(7):e11685
+- **Acuna, DE** & Schrater, P. (2009). _Improving Bayesian Reinforcement Learning using Transition Abstraction_. ICML/UAI/CLT Workshop on Abstraction in Reinforcement Learning 2009
+- **Acuna, DE** & Schrater, P. (2009). _Structure Learning in Human Sequential Decision-Making_. NIPS 2009
+- **Acuna, DE** & Schrater, P. (2008). _Bayesian Modeling of Human Sequential Decision-Making on the Multi-Armed Bandit Problem_. In V. Sloutsky, B. Love, & K. McRae (Eds.), Proceedings of the 30th Annual Conference of the Cognitive Science Society. Washington, DC: Cognitive Science
