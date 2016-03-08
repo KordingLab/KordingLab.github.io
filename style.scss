@@ -220,6 +220,7 @@ pre code {
 .highlight {
   margin-bottom: 1rem;
   border-radius: 4px;
+  border: none;
 }
 
 .highlight pre {
@@ -528,9 +529,4 @@ tbody tr:nth-child(odd) th {
 .navbar-toggle, .navbar-default .navbar-toggle:hover {
   border: none;
   background-color: #FFF;
-}
-
-
-.highlight-rogue {
-  border: none;
 }
