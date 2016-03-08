@@ -3,7 +3,7 @@ title: Blog
 permalink: /blog/
 ---
 
-**All the blog post from the lab**
+### **Blog posts from the lab**
 
 <div class="content list">
   {% for post in site.posts %}
