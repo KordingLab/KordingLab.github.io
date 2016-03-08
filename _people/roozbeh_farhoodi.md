@@ -6,7 +6,7 @@ twitter:
 joined: 2015
 ---
 
-<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}">
+<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 <a href="https://github.com/RoozbehFarhoodi"><i class="fa fa-github"></i> Github</a><br>
 

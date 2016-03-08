@@ -6,7 +6,7 @@ twitter:
 joined: 2014
 ---
 
-<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}">
+<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 Research fellow at the [Center for Behavioral Intervention Technologies](http://www.cbits.northwestern.edu/), Feinberg School of Medicine, Northwestern University<br>
 Research fellow at [Bayesian Behavior lab](http://klab.smpp.northwestern.edu/wiki/index.php5/Welcome), Rehabilitation Institute of Chicago

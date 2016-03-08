@@ -6,7 +6,7 @@ twitter:
 joined: 2013
 ---
 
-<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}">
+<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 _Research Associate at the Rehabilitation Institute of Chicago_<br>
 _Departments of Neurobiology and Physical Medicine & Rehabilitation, Northwestern University_<br>

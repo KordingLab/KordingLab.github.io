@@ -5,7 +5,7 @@ avatar: subject_zero.jpg
 joined: -300000000
 ---
 
-<img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}">
+<img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 Subject Zero is the lab mascot; he joined the lab January 10th, 2013. The name Subject Zero comes from the fact that a particular experiment in the lab took a long time to publish; thus, subjects must have been recruited when dinosaurs roamed the earth. Even though his brethren fell to (ClimateChange / Volcanoes / Asteroids / Hemorrhoids / Disease / MammalianCompetition / ContinentalDrift / PlungingStockMarkets / ConservativeControlledSenate / Hipsters), Subject Zero still survives. We believe he may have cryogenically frozen himself, scheduling his thaw date to be the year 2013 in order to bring joy to a research laboratory in Chicago. His body, alas, has not been located. (Though if it ever is, we will have to hang it on the wall in the other room directly opposite his head...)
 

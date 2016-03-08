@@ -6,7 +6,7 @@ twitter:
 joined: 2012
 ---
 
-<img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}">
+<img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 **Contact**
 

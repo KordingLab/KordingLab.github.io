@@ -6,7 +6,7 @@ twitter:
 joined: 2014
 ---
 
-<img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}">
+<img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 _Postdoctoral Fellow_<br>
 _Rehabilitation Institute of Chicago_
@@ -35,7 +35,7 @@ I am currently a postdoctoral researcher in the Bayesian Behavior lab and in the
 > As spinal cord injury individuals learn to walk with an exoskeleton they improve, making their movements progressively safe enough for everyday life use. Extensive training is necessary, usually provided in a clinical setting. How can we detect if a patient still needs training? We compute a set of features from body accelerations of paraplegic individuals trained to walk with an exoskeleton and combine the features into a score that measures the likelihood of a patient being an expert user. Our model aims at supporting clinicians' decisions on whether a patient is ready to walk independently with an exoskeleton.
 
 <figure><center>
-  <img src="{{site.baseurl}}/images/others/RewalkKpage.jpg"/>
+  <img src="{{site.baseurl}}/images/others/RewalkKpage.jpg" data-action="zoom"/>
 </center></figure>
 
 
@@ -44,7 +44,7 @@ I am currently a postdoctoral researcher in the Bayesian Behavior lab and in the
 > It has been argued that computer controlled orthoses, e.g. the C-brace ([http://c-brace.ottobock.com](http://c-brace.ottobock.com)) allow people affected by lower limb disabilities to be more active. This should be expected as a traditional stance control orthosis (SCO) does not allow the same adaptive setting of impedance. Here we use machine-learning enabled measurements of everyday activity using an accelerometer to compare the physical activities between the two types of orthoses, as patients wear them over one month.
 
 <figure><center>
-  <img src="{{site.baseurl}}/images/others/CbraceSmall.jpg"/>
+  <img src="{{site.baseurl}}/images/others/CbraceSmall.jpg" data-action="zoom"/>
 </center></figure>
 
 

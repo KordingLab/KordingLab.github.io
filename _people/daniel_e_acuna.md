@@ -6,7 +6,7 @@ twitter: daniel_akuna
 joined: 2011
 ---
 
-<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}">
+<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 Research Associate at the *Rehabilitation Institute of Chicago*<br/>
 Research Affiliate in the *Department of Biomedical Engineering* at *Northwestern University*
