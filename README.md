@@ -1,9 +1,18 @@
 # Kording lab (Bayesian Behavior Lab) page
 
 
-To run locally, follow instruction [here](https://jekyllrb.com/) to install Jekyll then run `jekyll serve` to see in `localhost:4000`.
+This is ropository for Kording lab page. We are welcome for other people to contribute to our site not just lab members. Feel free to fork and pull-request!
 
-We are welcome for other people to contribute to our site not just lab member. Feel free to fork and pull-request!
+
+## Install and run the page
+
+To run locally, follow instruction [here](https://jekyllrb.com/) to install Jekyll then run `jekyll serve` to see in `localhost:4000`. Here is a brief install guidelines.
+
+```bash
+gem install jekyll
+gem install rogue
+jekyll serve
+```
 
 
 ### How to add posts

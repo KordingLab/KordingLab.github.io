@@ -3,12 +3,12 @@ title: About
 permalink: /about/
 ---
 
-### about us
+### About us
 
 Our research fluctuates a bit based on what interests us and the strengths of our lab members. We invite you to contact us with collaboration ideas. We tend to focus on Bayesian and data analysis methods and we want to help in the production of data.
 
 
-### research
+### Research
 
 We are data scientists with an interest in understanding the brain. Making sense of data is possibly the biggest problem in Neuroscience. We build algorithms to analyze data. We also use theory as well as computational and [neural modeling](https://en.wikipedia.org/wiki/Computational_neuroscience) to understand how information is processed in the nervous system, explaining data obtained in collaboration with [electrophysiologists](https://en.wikipedia.org/wiki/Electrophysiology) and in [psychophysical](https://en.wikipedia.org/wiki/Psychophysics) experiments. Lastly, we constrain and develop new technologies aimed at obtaining data about brains.
 
@@ -18,19 +18,19 @@ Our conceptual work in the Bayesian Behavior Lab addresses information processin
 We've pursued projects that involve handshake greetings, human movement, [cell-phone related parkinson's research](http://journal.frontiersin.org/article/10.3389/fneur.2012.00158/abstract), competitions at [Kaggle](https://www.kaggle.com/), [meta-science analysis](http://www.nature.com/nature/journal/v489/n7415/full/489201a.html), data sharing initiatives, and [recording from all neurons in a mouse](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002291).
 
 
-### lab members
+### Lab Members
 
 Our research group is remarkably interdisciplinary. Our interests span statistics, physics, biology, applied mathematics, molecular biology, metascience, cognitive science, and many other disciplines. Visit our [people page](http://klab.smpp.northwestern.edu/wiki/index.php5/People) to see more information on each person who works in the lab (publications, contact information, photos).
 
 
-### publications
+### Publications
 
-For PDFs of our work, visit our [publications page](http://klab.smpp.northwestern.edu/wiki/index.php5/Publications).
+For PDFs of our work, visit our [publications page](http://kordinglab.com/publication/). Feel free to [issue on Github](https://github.com/KordingLab/KordingLab.github.io/issues) if links don't work or obsolete.
 
 
-### collaborators
+### Collaborators
 
-*Here are some cool people in fields that interest us.* **note:** *This list is in no way complete. We have a lot of collaborators -- if you've collaborated with us and want a link here, let us know!*
+Here are some cool people in fields that interest us. **note:** This list is in no way complete. We have a lot of collaborators -- if you've collaborated with us and want a link here, let us know!
 
 
 **Northwestern University:**
@@ -46,7 +46,8 @@ For PDFs of our work, visit our [publications page](http://klab.smpp.northwester
 
 - [Scott Grafton - UCSB](https://www.psych.ucsb.edu/people/faculty/grafton)
 - [Nicho Hatsopoulos - University of Chicago](http://pondside.uchicago.edu/oba/faculty/Hatsopoulos/lab/)
-- [Peter Strick - University of Pittsburgh](http://www.cnbc.cmu.edu/faculty/strick-peter-l/view-details) - [Mriganka Sur - MIT](http://surlab.mit.edu/)
+- [Peter Strick - University of Pittsburgh](http://www.cnbc.cmu.edu/faculty/strick-peter-l/view-details)
+- [Mriganka Sur - MIT](http://surlab.mit.edu/)
 - [Christine Thomas - University of Miami](http://www.miamiproject.med.miami.edu/page.aspx?pid=325)
 - [Rob Turner - University of Pittsburgh](http://www.neurobio.pitt.edu/faculty/turner.htm)
 
