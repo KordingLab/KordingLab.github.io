@@ -170,7 +170,7 @@ PLoS ONE 8(1), January, 2013 ([Abstract](http://journals.plos.org/plosone/articl
 
 _Credit Assignment during Movement Reinforcement Learning_<br>
 G Dam, KP Kording, K Wei<br>
-PLOS ONE 8(2): e55352. doi:10.1371/journal.pone.0055352 (PDF)
+PLOS ONE 8(2): e55352. doi:10.1371/journal.pone.0055352 ([Abstract](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0055352), [PDF](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0055352))
 
 <hr>
 
@@ -204,7 +204,7 @@ J. Neurophys, ([PDF](http://jn.physiology.org/content/early/2012/10/05/jn.00498.
 _Advanced User Interfaces for Upper Limb FES_<br>
 Corbett E, Ethier C, Oby ER, Kording K, Perreault E J, Miller LE <br>
 Book chapter in "Introduction to neural engineering for motor rehabilitation"
-eds. Farina, D,  Jensen, W,  Akay, M., in press
+eds. Farina, D,  Jensen, W,  Akay, M., in press ([PDF](http://onlinelibrary.wiley.com/doi/10.1002/9781118628522.ch19/summary))
 
 
 _What silly postures tell us about the brain_<br>
@@ -219,7 +219,7 @@ Nature ([Nature website](http://www.nature.com/nature/journal/v489/n7415/full/48
 
 _Temporal Integration of Olfactory Perceptual Evidence in Human Orbitofrontal Cortex_<br>
 Nicholas E. Bowman, Konrad P. Kording, Jay A. Gottfried <br>
-Neuron, Volume 75, Issue 5, 916-927 (PDF)
+Neuron, Volume 75, Issue 5, 916-927 ([Abstract](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3441053/), [PDF](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3441053/pdf/nihms395813.pdf))
 
 
 _Measuring Cation Dependent DNA Polymerase Fidelity Landscapes by Deep Sequencing_<br>
@@ -249,7 +249,7 @@ IEEE Transactions on Haptics ([Abstract](http://ieeexplore.ieee.org/xpl/articleD
 
 _Decoding with limited neural data: a mixture of time-warped trajectory models for directional reaches_<br>
 Corbett EA, Perreault EJ and Kording KP <br>
-Journal of Neural Engineering, (PDF)
+Journal of Neural Engineering, ([Abstract](http://www.ncbi.nlm.nih.gov/pubmed/22488128), [PDF](http://www.smpp.northwestern.edu/research/neuromuscular/pubs/2012%20J%20Neural%20Eng%20-%20Decoding%20limited%20neural%20data.pdf))
 
 <hr>
 
@@ -294,7 +294,7 @@ PLoS ONE 6(5): e20290. ([Article](http://www.plosone.org/article/info%3Adoi%2F10
 
 _Mixture of time-warped trajectory models for movement decoding_<br>
 Corbett, E, Perreault, E and Kording, KP<br>
-Advances in Neural Information Processing Systems 22 (abstract)
+Advances in Neural Information Processing Systems 22 ([Abstract](http://papers.nips.cc/paper/3989-mixture-of-time-warped-trajectory-models-for-movement-decoding), [PDF](http://papers.nips.cc/paper/3989-mixture-of-time-warped-trajectory-models-for-movement-decoding.pdf))
 
 _Bayesian models: the structure of the world, uncertainty, behavior, and the brain_<br>
 Vilares I and Körding KP.<br>
@@ -363,7 +363,7 @@ Frontiers in Computational Neuroscience ([Abstract](http://www.frontiersin.org/c
 
 _Self versus Environment Motion in Postural Control_<br>
 Dokka K, Kenyon RV, Keshner EA, and Körding KP <br>
-PLoS Computational Biology ([Abstract](http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1000680), PDF)
+PLoS Computational Biology ([Abstract](http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1000680), [PDF](http://klab.smpp.northwestern.edu/wiki/images/7/75/Dokka_2010_Self_vs_Env_Motion_Posture_Ctrl.pdf))
 
 
 _On the similarity of functional connectivity between neurons estimated across timescales_<br>
@@ -373,7 +373,7 @@ PLoS ONE ([Abstract](http://www.plosone.org/article/info:doi/10.1371/journal.pon
 
 _Hierarchical Bayesian modeling and Markov chain Monte Carlo sampling for tuning curve analysis_<br>
 Cronin B\*, Stevenson IH\*, Sur M, and Körding KP (* contributed equally) <br>
-Journal of Neurophysiology 103: 591-602. ([Abstract](http://jn.physiology.org/cgi/content/abstract/103/1/591),  PDF, Code)
+Journal of Neurophysiology 103: 591-602. ([Abstract](http://jn.physiology.org/cgi/content/abstract/103/1/591),  [PDF](http://jn.physiology.org/content/103/1/591.full.pdf), Code)
 
 <hr>
 
@@ -572,7 +572,7 @@ EURASIP Journal on Applied Signal Processing ([Abstract](http://journals.plos.or
 
 _On the choice of a sparse prior_<br>
 Körding, K.P., Kayser, C. and König, P. <br>
-Reviews in the Neurosciences (PDF)
+Reviews in the Neurosciences ([Abstract](http://www.ncbi.nlm.nih.gov/pubmed/12929918), [PDF](http://www.ini.uzh.ch/admin/extras/doc_get.php?id=42068))
 
 
 _Learning the nonlinearity of neurons from natural visual stimuli_<br>
