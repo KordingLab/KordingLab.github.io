@@ -55,3 +55,8 @@ Some photos from the full professorship ceremony this year, including Prof. Konr
   <sup>Prof. Yasin Dhaher and Prof. Sandro Mussa-Ivaldi</sup>
   <img width="500" src="{{site.baseurl}}/images/post/konrad_professor/10.jpg" data-action="zoom">
 </center></figure>
+
+<figure><center>
+  <sup>Thumps up!</sup>
+  <img width="500" src="{{site.baseurl}}/images/post/konrad_professor/11.jpg" data-action="zoom">
+</center></figure>
