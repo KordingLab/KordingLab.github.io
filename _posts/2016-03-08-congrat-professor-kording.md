@@ -1,5 +1,5 @@
 ---
-title: Congratulation Prof. Konrad for the full professorship
+title: Congratulations Prof. Konrad for the full professorship
 description: full professorship ceremony
 categories: blog
 ---
@@ -7,7 +7,7 @@ categories: blog
 Some photos from the full professorship ceremony this year, including Prof. Konrad Kording, Prof. Christina Marciniak and Prof. Yasin Dhaher from the Rehabilitation Institute of Chicago and Northwestern University. Congratulations Konrad!
 
 <figure><center>
-  <sup>Prof. Konrad Kording, Prof. Ioana Marinescu, Prof. Mark Segrave, Prof. Sandro Mussa-Ivaldi and lab members</sup>
+  <sup>Prof. Konrad Kording, Prof. Ioana Marinescu, Prof. Mark Segraves, Prof. Sandro Mussa-Ivaldi and lab members</sup>
   <img width="500" src="{{site.baseurl}}/images/post/konrad_professor/1.jpg" data-action="zoom">
 </center></figure>
 
@@ -22,7 +22,7 @@ Some photos from the full professorship ceremony this year, including Prof. Konr
 </center></figure>
 
 <figure><center>
-  <sup>Prof. Lee Miller and Prof. Yasin Dhaher who was awarded full professorship this year also </sup>
+  <sup>Prof. Lee Miller and Prof. Yasin Dhaher who was also awarded full professorship this year </sup>
   <img width="500" src="{{site.baseurl}}/images/post/konrad_professor/4.jpg" data-action="zoom">
 </center></figure>
 
@@ -37,7 +37,7 @@ Some photos from the full professorship ceremony this year, including Prof. Konr
 </center></figure>
 
 <figure><center>
-  <sup>Prof. Sandro giving a speech for Konrad</sup>
+  <sup>Prof. Sandro Mussa-Ivaldi giving a speech for Konrad</sup>
   <img width="500" src="{{site.baseurl}}/images/post/konrad_professor/7.jpg" data-action="zoom">
 </center></figure>
 
@@ -47,7 +47,7 @@ Some photos from the full professorship ceremony this year, including Prof. Konr
 </center></figure>
 
 <figure><center>
-  <sup>Pat and Prof. Mark Segrave</sup>
+  <sup>Pat and Prof. Mark Segraves</sup>
   <img width="500" src="{{site.baseurl}}/images/post/konrad_professor/9.jpg" data-action="zoom">
 </center></figure>
 
