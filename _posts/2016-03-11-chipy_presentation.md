@@ -10,14 +10,14 @@ categories: blog
 their work before ~80 Python developers from the Chicago Python user group [ChiPy](http://chipy.org). 
 
 Their talk explained how they use Python to improve [scientific conferences](http://scholarfy.net)
-and [peer review](http://pr.scienceofscience.org). They shared the tools, workflows, and open
+and [peer review](http://pr.scienceofscience.org). They shared their tools, workflows, and open
 source projects, which you can find in [Daniel's Github repo](http://github.com/daniel-acuna) and
 [Titipat's Github repo](http://github.com/titipata).
 
 #### About ChiPy
 
 The [ChiPy](http://chipy.org) community is extremely friendly and open to new ideas. They welcome everybody, even people
-who have no experience programming! Recently, they have create Special Interest Groups (SIG) for Science and Finance
+who have no programming experience! Recently, they have created Special Interest Groups (SIG) for Science and Finance
 developers ([more info about SIG](http://www.chipy.org/pages/SIGs/)).
 
 #### The presentation
