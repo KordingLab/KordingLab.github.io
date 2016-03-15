@@ -2,7 +2,8 @@
 layout: default
 ---
 <div class="container content post">
-  <strong><h3>{{ page.title }}</strong><br></h3>
+  <h3><strong>{{ page.title }}</strong><br/>
+  <small>posted on {{ page.date | date: '%B %-d, %Y'}}</small></h3>
   <hr>
   {{ content }}
   {% include social-share.html %}
