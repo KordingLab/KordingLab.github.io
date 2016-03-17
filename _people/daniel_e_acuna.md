@@ -60,6 +60,8 @@ We have recently acquire a large database of abstracts and full-texts that will 
 
 ### Talks
 
+- March, 2016 - Lighting talk - _Predicting who will agree to review_, Washington, DC
+- March, 2016 - Plenary talk - [_Data science to understand knowledge discovery and expertise_](/2016/03/11/chipy_presentation.html), [ChiPy](http://chipy.org), Chicago, IL
 - October, 2015 - Lightning talk - _Should we allow authors to suggest reviewers?_, Quantifying Science satellite conference, Tempe, AZ
 - July, 2015 - _Tools and software to accelerate science_, Metaknowledge Network Summer Retreat, Asilomar, California
 - March, 2015 - _Science of science_, Metaknowledge Network Spring Retreat, University of Chicago
