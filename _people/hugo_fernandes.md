@@ -17,15 +17,6 @@ joined: 2013
 
 <hr>
 
-### News
-+ Feb 2016: New [publication](http://www.jccjournal.org/article/S0883-9441(16)00057-5/abstract) on predicting difficult laryngoscopy using ultrasound and decision trees <br>
-
-<figure>
-  <img width="500" src="http://www.jccjournal.org/cms/attachment/2047122840/2057911097/gr3_lrg.jpg" data-action="zoom"/>
-</figure>
-
-<hr>
-
 ### Ongoing projects
 
 ###### Main
