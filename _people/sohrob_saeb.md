@@ -12,8 +12,7 @@ Research fellow at the [Center for Behavioral Intervention Technologies](http://
 Research fellow at [Bayesian Behavior lab](http://klab.smpp.northwestern.edu/wiki/index.php5/Welcome), Rehabilitation Institute of Chicago
 
 
-<i class="fa fa-phone"></i>  (312) 503-4626<br>
-<i class="fa fa-envelope-o"></i>  `s-saeb@northwestern.edu`
+<i class="fa fa-envelope-o"></i>  `s-saeb aht northwestern doht edu`
 
 ### About
 
