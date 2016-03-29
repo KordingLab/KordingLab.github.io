@@ -11,7 +11,7 @@ joined: 2014
 Research fellow at the [Center for Behavioral Intervention Technologies](http://www.cbits.northwestern.edu/), Feinberg School of Medicine, Northwestern University<br>
 Research fellow at [Bayesian Behavior lab](http://klab.smpp.northwestern.edu/wiki/index.php5/Welcome), Rehabilitation Institute of Chicago
 
-10th Floor, 750 N Lake Shore Dr, Chicago, IL 60611
+10th Floor, 750 N Lake Shore Dr, Chicago, IL 60611<br>
 <i class="fa fa-envelope-o"></i>  `s-saeb aht northwestern doht edu`
 
 ### About
@@ -20,7 +20,7 @@ I received my PhD in Computer Science (Computational Neuroscience) from Goethe-U
 
 <hr>
 
-## Current Projects
+## Projects
 
 ### Context Sensing
 
@@ -33,6 +33,14 @@ Current mobile phone and wearable sensor technologies allow us to track a person
 ### Speaker Authentication
 
 Previous studies have shown that there is a strong relationship between the amount of social activity and the severity of depression. One main aspect of sociability is daily face-to-face communications. Traditionally, researchers and clinicians measure this factor based on the patients’ weekly or daily self-reports. The aim of this project is to develop machine learning algorithms that can passively infer the amount of face-to-face communication in depressed patients by analyzing the audio data collected from their smartphones, and thereby provide a momentary, objective assessment of the sociability factor in the context of their daily lives.
+
+<hr>
+
+## News
+
+The fitness tracker that knows if you’re faking: Researchers train smartphones to spot cheaters. ([Daily Mail](http://www.dailymail.co.uk/sciencetech/article-3396194/The-fitness-tracker-knows-faking-Researchers-train-smartphones-spot-cheaters.html)), January 2016.
+
+Activity trackers could be better. So why aren’t they? ([Fortune](http://fortune.com/2016/01/22/fitness-tracker-cheating-study/)), January 2016.
 
 <hr>
 
