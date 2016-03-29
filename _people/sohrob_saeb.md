@@ -38,15 +38,25 @@ Previous studies have shown that there is a strong relationship between the amou
 
 ## News
 
-The fitness tracker that knows if you’re faking: Researchers train smartphones to spot cheaters. ([Daily Mail](http://www.dailymail.co.uk/sciencetech/article-3396194/The-fitness-tracker-knows-faking-Researchers-train-smartphones-spot-cheaters.html)), January 2016.
 
-Activity trackers could be better. So why aren’t they? ([Fortune](http://fortune.com/2016/01/22/fitness-tracker-cheating-study/)), January 2016.
+The fitness tracker that knows if you’re faking: Researchers train smartphones to spot cheaters. [Daily Mail](http://www.dailymail.co.uk/sciencetech/article-3396194/The-fitness-tracker-knows-faking-Researchers-train-smartphones-spot-cheaters.html), January 2016.
+
+Activity trackers could be better. So why aren’t they? [Fortune](http://fortune.com/2016/01/22/fitness-tracker-cheating-study/), January 2016.
+
+Your phone knows if you’re depressed. [TIME](http://time.com/3958128/smartphone-depression/), July 2015.
+
+Can your smartphone tell you if you have depression? [CNN](http://www.cnn.com/2015/07/15/health/smartphone-depression-diagnosis/), July 2015.
+
+Can your phone really know you’re depressed? [Kurzweil Accelerating Intelligence](http://www.kurzweilai.net/can-your-phone-really-know-youre-depressed), July 2015.
+
+Your phone can tell whether you’re depressed. [TechCrunch](http://techcrunch.com/2015/07/16/your-phone-can-tell-whether-youre-depressed/), July 2015.
 
 <hr>
 
 ## Publications
 
 ### Journals
+
 
 **S Saeb**, K Körding, DC Mohr, _"Making activity recognition robust against deceptive behavior,"_ PLoS ONE 10(12), 2015, e0144795. ([link](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0144795))
 
