@@ -14,21 +14,25 @@ Research fellow at [Bayesian Behavior lab](http://klab.smpp.northwestern.edu/wik
 10th Floor, 750 N Lake Shore Dr, Chicago, IL 60611<br>
 <i class="fa fa-envelope-o"></i>  `s-saeb aht northwestern doht edu`
 
+---
+
 ### About
 
 I received my PhD in Computer Science (Computational Neuroscience) from Goethe-Universität Frankfurt, Germany. My PhD research focused on modeling the neurocomputational mechanisms of saccadic eye and head movements in primate brain. My current research at Northwestern University focuses on the application of context sensing to mental health, particularly depression and anxiety. Context sensing is about the use of sensor data collected from smartphones and wearable devices to infer information about different aspects of patients’ daily lives and their environments.
 
-## Projects
+---
 
-### Context Sensing
+### Projects
+
+#### Context Sensing
 
 Depression is a major health concern and a growing problem in the modern society. Depression increases the risk of other major medical problems and medical costs, and is a source of pain and suffering for patients and their families. Depression can be effectively treated using psychotherapy or medication, however, there are obstacles for many in obtaining timely treatment. It often takes months or years for depression to be identified and treated in our healthcare system - when it is treated at all - increasing the severity of the problem. The ability to monitor at-risk populations can significantly reduce the time to treatment, reducing people’s misery, improving their health, and reducing medical costs. The goal of this project is to use smartphone sensors - such as GPS, accelerometer, gyroscope, light, temperature, and microphone, to assess the trajectory of depressive symptoms and other behaviors that are potentially related to depression throughout life.
 
-### Activity Recognition
+#### Activity Recognition
 
 Current mobile phone and wearable sensor technologies allow us to track a person's physical activities. In many circumstances, however, there are strong incentives for users to trick the activity recognition systems into detecting activities that are different from the actual ones. For example, users can make their pedometers count steps by shaking their smartwatch. In fact, the current activity recognition technology is only reliable in normal conditions, and thus vulnerable to deceptive behavior. The aim of this project is to develop a methodology that enables smartphone-based activity recognition to overcome this limitation.
 
-### Speaker Authentication
+#### Speaker Authentication
 
 Previous studies have shown that there is a strong relationship between the amount of social activity and the severity of depression. One main aspect of sociability is daily face-to-face communications. Traditionally, researchers and clinicians measure this factor based on the patients’ weekly or daily self-reports. The aim of this project is to develop machine learning algorithms that can passively infer the amount of face-to-face communication in depressed patients by analyzing the audio data collected from their smartphones, and thereby provide a momentary, objective assessment of the sociability factor in the context of their daily lives.
 
