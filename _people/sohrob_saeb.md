@@ -18,8 +18,6 @@ Research fellow at [Bayesian Behavior lab](http://klab.smpp.northwestern.edu/wik
 
 I received my PhD in Computer Science (Computational Neuroscience) from Goethe-Universität Frankfurt, Germany. My PhD research focused on modeling the neurocomputational mechanisms of saccadic eye and head movements in primate brain. My current research at Northwestern University focuses on the application of context sensing to mental health, particularly depression and anxiety. Context sensing is about the use of sensor data collected from smartphones and wearable devices to infer information about different aspects of patients’ daily lives and their environments.
 
-<hr>
-
 ## Projects
 
 ### Context Sensing
@@ -34,10 +32,7 @@ Current mobile phone and wearable sensor technologies allow us to track a person
 
 Previous studies have shown that there is a strong relationship between the amount of social activity and the severity of depression. One main aspect of sociability is daily face-to-face communications. Traditionally, researchers and clinicians measure this factor based on the patients’ weekly or daily self-reports. The aim of this project is to develop machine learning algorithms that can passively infer the amount of face-to-face communication in depressed patients by analyzing the audio data collected from their smartphones, and thereby provide a momentary, objective assessment of the sociability factor in the context of their daily lives.
 
-<hr>
-
 ## News
-
 
 The fitness tracker that knows if you’re faking: Researchers train smartphones to spot cheaters. [Daily Mail](http://www.dailymail.co.uk/sciencetech/article-3396194/The-fitness-tracker-knows-faking-Researchers-train-smartphones-spot-cheaters.html), January 2016.
 
@@ -51,12 +46,9 @@ Can your phone really know you’re depressed? [Kurzweil Accelerating Intelligen
 
 Your phone can tell whether you’re depressed. [TechCrunch](http://techcrunch.com/2015/07/16/your-phone-can-tell-whether-youre-depressed/), July 2015.
 
-<hr>
-
 ## Publications
 
 ### Journals
-
 
 **S Saeb**, K Körding, DC Mohr, _"Making activity recognition robust against deceptive behavior,"_ PLoS ONE 10(12), 2015, e0144795. ([link](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0144795))
 
