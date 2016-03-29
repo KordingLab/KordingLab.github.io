@@ -36,7 +36,9 @@ Current mobile phone and wearable sensor technologies allow us to track a person
 
 Previous studies have shown that there is a strong relationship between the amount of social activity and the severity of depression. One main aspect of sociability is daily face-to-face communications. Traditionally, researchers and clinicians measure this factor based on the patients’ weekly or daily self-reports. The aim of this project is to develop machine learning algorithms that can passively infer the amount of face-to-face communication in depressed patients by analyzing the audio data collected from their smartphones, and thereby provide a momentary, objective assessment of the sociability factor in the context of their daily lives.
 
-## News
+---
+
+### News
 
 The fitness tracker that knows if you’re faking: Researchers train smartphones to spot cheaters. [Daily Mail](http://www.dailymail.co.uk/sciencetech/article-3396194/The-fitness-tracker-knows-faking-Researchers-train-smartphones-spot-cheaters.html), January 2016.
 
@@ -50,9 +52,11 @@ Can your phone really know you’re depressed? [Kurzweil Accelerating Intelligen
 
 Your phone can tell whether you’re depressed. [TechCrunch](http://techcrunch.com/2015/07/16/your-phone-can-tell-whether-youre-depressed/), July 2015.
 
-## Publications
+---
 
-### Journals
+### Publications
+
+#### Journals
 
 **S Saeb**, K Körding, DC Mohr, _"Making activity recognition robust against deceptive behavior,"_ PLoS ONE 10(12), 2015, e0144795. ([link](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0144795))
 
@@ -70,7 +74,7 @@ M Amiri, **S Saeb**, MJ Yazdanpanah, SA Seyyedsalehi, _Analysis of the dynamical
 
 A Farajidavar, S Gharibzadeh, F Towhidkhah, **S Saeb**, _A cybernetic view on wind-up,_ Medical Hypotheses, 67(2), 2006, pp. 304-6. ([link](http://www.sciencedirect.com/science/article/pii/S0306987706001216))
 
-### Conference Papers
+#### Conference Papers
 
 **S Saeb**, M Zhang, MM Kwasny, CJ Karr, K Körding, DC Mohr, _The Relationship between Clinical, Momentary, and Sensor-based Assessment of Depression,_ In 9th International Conference on Pervasive Computing Technologies for Healthcare (Pervasive Health), 2015. ([PDF](http://klab.smpp.northwestern.edu/wiki/images/c/c9/SaebPerHealth15.pdf))
 
@@ -80,7 +84,9 @@ A Farajidavar, S Gharibzadeh, F Towhidkhah, **S Saeb**, _A cybernetic view on wi
 
 **S Saeb**, M Amiri, MJ Yazdanpanah, _Analysis of the dynamical behavior of a feedback auto-associative memory,_ IEEE International Symposium on Neural Networks (ISNN), Nanjing, China, 2007. ([PDF](http://klab.smpp.northwestern.edu/wiki/images/8/87/SaebISNN07.pdf))
 
-### Conference Abstracts
+#### Conference Talks/Posters
+
+**S Saeb**, CJ Karr, SM Schueller, DC Mohr, _Passive detection of depression using features of GPS location: two studies,_ International Society for Research on Internet Interventions (ISRII) Scientific Meeting, Seattle, Washington, USA, 7-9 April 2016.
 
 **S Saeb**, K Körding, DC Mohr, _Human vs. machine: Improving physical activity tracking in the presence of deceptive human behavior,_ Society for Neuroscience (SfN), Chicago, IL, USA, 2015. ([abstract](http://klab.smpp.northwestern.edu/wiki/images/1/1e/SaebSfN15.pdf))
 
