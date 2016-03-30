@@ -44,14 +44,16 @@ The fitness tracker that knows if you’re faking: Researchers train smartphones
 
 Activity trackers could be better. So why aren’t they? [Fortune](http://fortune.com/2016/01/22/fitness-tracker-cheating-study/), January 2016.
 
-Your phone knows if you’re depressed. [TIME](http://time.com/3958128/smartphone-depression/), July 2015.
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Time_Magazine_logo.svg" style="width: 75px;float: left;PADDING-RIGHT: 20px"/>
+[Your phone knows if you’re depressed.](http://time.com/3958128/smartphone-depression/) July 2015.
 
-Can your smartphone tell you if you have depression? [CNN](http://www.cnn.com/2015/07/15/health/smartphone-depression-diagnosis/), July 2015.
+<img src="http://www.i.cdn.cnn.com/.a/1.255.0/assets/logo_cnn_badge_2up.png" style="width: 65px;float: left;PADDING-RIGHT: 20px"/>
+[Can your smartphone tell you if you have depression?](http://www.cnn.com/2015/07/15/health/smartphone-depression-diagnosis/) July 2015.
 
 <img src="http://www.kurzweilai.net/wp-content/themes/kurzweilai/images/layout/logo_2.png" style="width: 150px;float: left;PADDING-RIGHT: 20px"/>
 [Can your phone really know you’re depressed?](http://www.kurzweilai.net/can-your-phone-really-know-youre-depressed) July 2015.
 
-<img src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/logo.svg" style="width: 50px;float: left;PADDING-RIGHT: 20px"/>
+<img src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/logo.svg" style="width: 65px;float: left;PADDING-RIGHT: 20px"/>
 [Your phone can tell whether you’re depressed.](http://techcrunch.com/2015/07/16/your-phone-can-tell-whether-youre-depressed/) July 2015.
 
 ---
