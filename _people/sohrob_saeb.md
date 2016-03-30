@@ -43,10 +43,10 @@ Previous studies have shown that there is a strong relationship between the amou
 <img src="http://i.dailymail.co.uk/i/sitelogos/dailymailcom_sml.png" style="width:125px;float:left;PADDING-RIGHT:20px"/>
 [The fitness tracker that knows if you’re faking: Researchers train smartphones to spot cheaters.](http://www.dailymail.co.uk/sciencetech/article-3396194/The-fitness-tracker-knows-faking-Researchers-train-smartphones-spot-cheaters.html) January 2016.
 
-<img src="https://www.closingthegap.co/wp-content/uploads/2015/11/fortune-logo.png" style="width: 100px;float:left;PADDING-RIGHT:20px;background-color:black"/>
+<img src="https://www.closingthegap.co/wp-content/uploads/2015/11/fortune-logo.png" style="width: 125px;float:left;PADDING-RIGHT:20px"/>
 [Activity trackers could be better. So why aren’t they?](http://fortune.com/2016/01/22/fitness-tracker-cheating-study/) January 2016.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Time_Magazine_logo.svg" style="width: 75px;float: left;PADDING-RIGHT: 20px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Time_Magazine_logo.svg" style="width: 85px;float: left;PADDING-RIGHT: 20px"/>
 [Your phone knows if you’re depressed.](http://time.com/3958128/smartphone-depression/) July 2015.
 
 <img src="http://assets.fontsinuse.com/static/use-media-items/28/27013/full-1400x817/5670256f/cnn-logo.png" style="width: 60px;float: left;PADDING-RIGHT: 20px"/>
