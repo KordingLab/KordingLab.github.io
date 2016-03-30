@@ -40,11 +40,10 @@ Previous studies have shown that there is a strong relationship between the amou
 
 ### Media
 
-
-<img src="http://i.dailymail.co.uk/i/sitelogos/dailymailcom_sml.png" style="width: 125px;float: left;PADDING-RIGHT: 20px"/>
+<img src="http://i.dailymail.co.uk/i/sitelogos/dailymailcom_sml.png" style="width:125px;float:left;PADDING-RIGHT:20px"/>
 [The fitness tracker that knows if you’re faking: Researchers train smartphones to spot cheaters.](http://www.dailymail.co.uk/sciencetech/article-3396194/The-fitness-tracker-knows-faking-Researchers-train-smartphones-spot-cheaters.html) January 2016.
 
-<img src="http://www.fortuneconferences.com/wp-content/themes/fortuneconferences-v3/images/fortune-logo-white.png" style="width: 100px;float:left;background-color:black"/>
+<img src="https://www.closingthegap.co/wp-content/uploads/2015/11/fortune-logo.png" style="width: 100px;float:left;PADDING-RIGHT:20px;background-color:black"/>
 [Activity trackers could be better. So why aren’t they?](http://fortune.com/2016/01/22/fitness-tracker-cheating-study/) January 2016.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Time_Magazine_logo.svg" style="width: 75px;float: left;PADDING-RIGHT: 20px"/>
@@ -52,7 +51,6 @@ Previous studies have shown that there is a strong relationship between the amou
 
 <img src="http://assets.fontsinuse.com/static/use-media-items/28/27013/full-1400x817/5670256f/cnn-logo.png" style="width: 60px;float: left;PADDING-RIGHT: 20px"/>
 [Can your smartphone tell you if you have depression?](http://www.cnn.com/2015/07/15/health/smartphone-depression-diagnosis/) July 2015.
-
 
 <img src="http://www.kurzweilai.net/wp-content/themes/kurzweilai/images/layout/logo_2.png" style="width: 150px;float: left;PADDING-RIGHT: 20px"/>
 [Can your phone really know you’re depressed?](http://www.kurzweilai.net/can-your-phone-really-know-youre-depressed) July 2015.
