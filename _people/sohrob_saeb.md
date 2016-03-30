@@ -49,7 +49,7 @@ Previous studies have shown that there is a strong relationship between the amou
 <br><img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Time_Magazine_logo.svg" style="width: 85px;float: left;PADDING-RIGHT: 20px"/>
 [Your phone knows if you’re depressed.](http://time.com/3958128/smartphone-depression/) July 2015.
 
-<br><img src="http://assets.fontsinuse.com/static/use-media-items/28/27013/full-1400x817/5670256f/cnn-logo.png" style="width: 60px;float: left;PADDING-RIGHT: 20px"/>
+<br><img src="http://assets.fontsinuse.com/static/use-media-items/28/27013/full-1400x817/5670256f/cnn-logo.png" style="width: 75px;float: left;PADDING-RIGHT: 20px"/>
 [Can your smartphone tell you if you have depression?](http://www.cnn.com/2015/07/15/health/smartphone-depression-diagnosis/) July 2015.
 
 <br><img src="http://www.kurzweilai.net/wp-content/themes/kurzweilai/images/layout/logo_2.png" style="width: 170px;float: left;PADDING-RIGHT: 20px"/>
