@@ -40,9 +40,10 @@ Previous studies have shown that there is a strong relationship between the amou
 
 ### Media
 
-The fitness tracker that knows if you’re faking: Researchers train smartphones to spot cheaters. [Daily Mail](http://www.dailymail.co.uk/sciencetech/article-3396194/The-fitness-tracker-knows-faking-Researchers-train-smartphones-spot-cheaters.html), January 2016.
+<img src="http://i.dailymail.co.uk/i/sitelogos/dailymailcom_sml.png" style="width: 100px;float: left;PADDING-RIGHT: 20px"/>
+[The fitness tracker that knows if you’re faking: Researchers train smartphones to spot cheaters.](http://www.dailymail.co.uk/sciencetech/article-3396194/The-fitness-tracker-knows-faking-Researchers-train-smartphones-spot-cheaters.html) January 2016.
 
-<img src="http://www.fortuneconferences.com/wp-content/themes/fortuneconferences-v3/images/fortune-logo-white.png" style="width: 75px;float:left;PADDING-RIGHT:20px;background-color:black"/>
+<img src="http://www.fortuneconferences.com/wp-content/themes/fortuneconferences-v3/images/fortune-logo-white.png" style="width: 100px;float:left;background-color:black"/>
 [Activity trackers could be better. So why aren’t they?](http://fortune.com/2016/01/22/fitness-tracker-cheating-study/) January 2016.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Time_Magazine_logo.svg" style="width: 75px;float: left;PADDING-RIGHT: 20px"/>
