@@ -51,7 +51,7 @@ Can your smartphone tell you if you have depression? [CNN](http://www.cnn.com/20
 <img src="http://www.kurzweilai.net/wp-content/themes/kurzweilai/images/layout/logo_2.png" style="width: 150px;float: left;PADDING-RIGHT: 20px"/>
 [Can your phone really know you’re depressed?](http://www.kurzweilai.net/can-your-phone-really-know-youre-depressed) July 2015.
 
-<img src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/logo.svg" style="width: 150px;float: left;PADDING-RIGHT: 20px"/>
+<img src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/logo.svg" style="width: 50px;float: left;PADDING-RIGHT: 20px"/>
 [Your phone can tell whether you’re depressed.](http://techcrunch.com/2015/07/16/your-phone-can-tell-whether-youre-depressed/) July 2015.
 
 ---
