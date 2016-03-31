@@ -22,7 +22,7 @@ joined: 2013
 ###### Main
 Synthetic neurophysiology using deep convolutional neural networks<br>
 <sup>with Ramkumar P, Smith MA and Körding KP</sup> <br>
-<sup>Tools: Python (Caffe, Lasagne, Theano, XGBoost,...) </sup> <br>
+<sup>Tools: Python (Caffe, Lasagne, Theano, XGBoost, ...) </sup> <br>
 <br>
 Modeling the representation of hue in visual area V4 during natural scene viewing <br>
 <sup>with Ramkumar P, Smith MA and Körding KP</sup><br>
