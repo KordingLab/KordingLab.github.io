@@ -55,7 +55,7 @@ Modeling peripheral visual acuity enables discovery of gaze strategies at multip
 Using psychophysics to ask if the brain samples or maximizes <br>
 <sup>Acuna DE\*, Berniker M\*, **Fernandes HL**\*, Körding KP (\*authors contributed equally) <br>
  **Journal of Vision** ([Article](http://www.journalofvision.org/content/15/3/7.abstract), [F1000 recommendation](http://f1000.com/prime/725389756?key=KfDGGy3MWelYpcg)) </sup><br>
-<sup>**Typo!** Should read: "To create the splashes, we sampled **four** dots from a Gaussian distribution centered on the hidden coin's location using distributions with two different standard deviations (**2.5%** of the screen width and **10%** of the screen width)."  </sup>
+<sup>**Typo!** It should read: "To create the splashes, we sampled **four** dots from a Gaussian distribution centered on the hidden coin's location using distributions with two different standard deviations (**2.5%** of the screen width and **10%** of the screen width)."  </sup>
 
 ###### 2014
 The generalization of prior uncertainty during reaching <br>
