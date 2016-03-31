@@ -21,18 +21,21 @@ joined: 2013
 
 ###### Main
 + Synthetic neurophysiology using deep convolutional neural networks<br>
-<sup>with Ramkumar P, Smith MA and Körding KP</sup>
+<sup>with Ramkumar P, Smith MA and Körding KP</sup> <br>
+<sup>Tools: python (Caffe, Lasagne, Theano, XGBoost, ...) </sup> <br>
 <br>
 + Modeling the representation of hue in visual area V4 during natural scene viewing <br>
-<sup>with Ramkumar P, Smith MA and Körding KP</sup>
+<sup>with Ramkumar P, Smith MA and Körding KP</sup><br>
+<sup>Tools: MATLAB (glmfit, glmnet) </sup> <br>
 
 ###### Other
 Learning in Aphasia: The Impact of Break versus Blocked Treatment Schedules<br>
-<sup>Lee, Braun, **Fernandes**, Hurwitz, Kording, van Vuuren, Cherney</sup>
+<sup>Lee, Braun, **Fernandes**, Hurwitz, Kording, van Vuuren, Cherney</sup><br>
+<sup>Tools: R (KnitR, R-Markdown, ggplot2) </sup>
 
 Cracking the neural code: a cryptography-inspired approach to brain decoding <br>
-<sup> Dyer EL\*, Azar MG\*, **Fernandes HL**, Perich MG , Lee ME, Körding KP (\*authors contributed equally)</sup>
-
+<sup> Dyer EL\*, Azar MG\*, **Fernandes HL**, Perich MG , Lee ME, Körding KP (\*authors contributed equally)</sup><br>
+<sup>Tools: MATLAB </sup>
 <hr>
 
 ### Publications
