@@ -16,7 +16,7 @@ Research fellow at [Bayesian Behavior lab](http://klab.smpp.northwestern.edu/wik
 
 ---
 
-I received my PhD in Computer Science (Computational Neuroscience) from Goethe-Universität Frankfurt, Germany, focusing on modeling the neurocomputational mechanisms of saccadic eye and head movements in primate brain. I used neural networks and reinforcement learning for [adaptive control of saccades](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002253) and handling [uncertainty in active vision](http://www.sciencedirect.com/science/article/pii/S0893608009001245?np=y). My current research at Northwestern University focuses on the application of machine learning and sensor technology to mental healthcare, in which I use sensor data collected from smartphones and wearable devices to infer information about different aspects of individuals' daily-life behaviors and their environments (see Projects).
+I received my PhD in Computer Science (Computational Neuroscience) from Goethe-Universität Frankfurt, Germany, focusing on modeling the neurocomputational mechanisms of saccadic eye and head movements in primate brain. I used neural networks and reinforcement learning to model [adaptive control of saccades](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002253) and to deal with [uncertainty in active vision](http://www.sciencedirect.com/science/article/pii/S0893608009001245?np=y). My current research at Northwestern University focuses on the application of machine learning and sensor technology to mental healthcare, in which I use sensor data collected from smartphones and wearable devices to infer information about different aspects of individuals' daily-life behaviors and their environments (see Projects).
 
 ---
 
