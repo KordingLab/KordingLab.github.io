@@ -20,23 +20,23 @@ I received my PhD in Computer Science (Computational Neuroscience) from Goethe-U
 
 ---
 
-### Projects
+### Current Projects
 
-#### Context Sensing
+##### Life Sensing
 
-Depression is a major health concern and a growing problem in the modern society. Depression increases the risk of other major medical problems and medical costs, and is a source of pain and suffering for patients and their families. Depression can be effectively treated using psychotherapy or medication, however, there are obstacles for many in obtaining timely treatment. It often takes months or years for depression to be identified and treated in our healthcare system - when it is treated at all - increasing the severity of the problem. The ability to monitor at-risk populations can significantly reduce the time to treatment, reducing people’s misery, improving their health, and reducing medical costs. The goal of this project is to use smartphone sensors - such as GPS, accelerometer, gyroscope, light, temperature, and microphone, to assess the trajectory of depressive symptoms and other behaviors that are potentially related to depression throughout life.
+Depression and anxiety are among major health concerns and a growing problem in the modern society. Smartphones and wearable devices, with the variety of sensors (e.g. GPS, accelerometer, and microphone) and other sources of information (e.g., call, sms, and games) can potentially act as bio-markers of depression and anxiety in daily life, providing an opportinuty to more closely investigate the life-long trajectory of these illnesses.
 
-#### Activity Recognition
+The goal of this project is to investigate if smartphone sensor data can be used to (1) distinguish between depressed and non-depressed individuals, (2) predict the severity of the disease, and (3) predict the future trajectory that the disease takes in an individual. We have been able to do this using GPS data in a [small study](http://www.jmir.org/2015/7/e175/), which was successfully replicated on an independent dataset [StudentLife](http://studentlife.cs.dartmouth.edu/). We are now collecting data from 240 individuals to extend our findings to other aspects of life including sleep, social interactions, and physical activity.
 
-Current mobile phone and wearable sensor technologies allow us to track a person's physical activities. In many circumstances, however, there are strong incentives for users to trick the activity recognition systems into detecting activities that are different from the actual ones. For example, users can make their pedometers count steps by shaking their smartwatch. In fact, the current activity recognition technology is only reliable in normal conditions, and thus vulnerable to deceptive behavior. The aim of this project is to develop a methodology that enables smartphone-based activity recognition to overcome this limitation.
+##### Adversarial Activity Recognition
 
-#### Speaker Authentication
+Current smartphone and wearable sensor technologies allow us to detect a person's physical activities such as walking, biking, or being still. In many circumstances, however, there are strong incentives for users to trick the activity trackers into detecting activities other than the ones they actually perform. For example, one can make their pedometer count steps by shaking their device (many more ways shown [here](http://www.unfitbits.com/)). In fact, current activity recognition technology is only reliable in normal conditions, and thus vulnerable to deceptive behavior. The aim of this project is to develop a methodology that enables smartphone-based activity recognition to overcome this limitation.
 
-Previous studies have shown that there is a strong relationship between the amount of social activity and the severity of depression. One main aspect of sociability is daily face-to-face communications. Traditionally, researchers and clinicians measure this factor based on the patients’ weekly or daily self-reports. The aim of this project is to develop machine learning algorithms that can passively infer the amount of face-to-face communication in depressed patients by analyzing the audio data collected from their smartphones, and thereby provide a momentary, objective assessment of the sociability factor in the context of their daily lives.
+We have already conducted a [study](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0144795), in which we asked volunteers to deliberately make the activity tracker fail, and then used those data to re-adapt the tracker. We aim to extend our methodology to more challenging tasks as well as other modalities in future.
 
 ---
 
-### Media
+### In the Media
 
 <br><img src="https://www.closingthegap.co/wp-content/uploads/2015/11/fortune-logo.png" style="width: 125px;float:left;PADDING-RIGHT:20px"/>
 [Activity trackers could be better. So why aren’t they?](http://fortune.com/2016/01/22/fitness-tracker-cheating-study/) January 2016.
