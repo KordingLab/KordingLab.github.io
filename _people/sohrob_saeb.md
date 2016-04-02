@@ -6,15 +6,18 @@ twitter:
 joined: 2014
 ---
 
-<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+<img width="200" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-Research fellow at the [Center for Behavioral Intervention Technologies](http://www.cbits.northwestern.edu/), Feinberg School of Medicine, Northwestern University<br>
-Research fellow at [Bayesian Behavior lab](http://klab.smpp.northwestern.edu/wiki/index.php5/Welcome), Rehabilitation Institute of Chicago
+Postdoctoral Fellow<br>
+Department of Preventive Medicine, Northwestern University<br>
 
-10th Floor, 750 N Lake Shore Dr, Chicago, IL 60611<br>
-<i class="fa fa-envelope-o"></i>  `s-saeb aht northwestern doht edu`
+<i class="fa fa-envelope-o"></i>  `s-saeb/aht/northwestern/doht/edu`
+<i class="fa fa-twitter"></i> [@sosata](https://twitter.com/sosata)
+<i class="fa fa-google"></i> [Google Scholar](https://scholar.google.com/citations?user=9jqURCEAAAAJ&hl=en)<br>
 
 ---
+
+### About
 
 I received my PhD in Computer Science (Computational Neuroscience) from Goethe-Universität Frankfurt, Germany, focusing on modeling the neurocomputational mechanisms of saccadic eye and head movements in primate brain. I used neural networks and reinforcement learning to model [adaptive control of saccades](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002253) and to deal with [uncertainty in active vision](http://www.sciencedirect.com/science/article/pii/S0893608009001245?np=y). My current research at Northwestern University focuses on the application of machine learning and sensor technology to mental healthcare, in which I use sensor data collected from smartphones and wearable devices to infer information about different aspects of individuals' daily-life behaviors and their environments (see Projects).
 
