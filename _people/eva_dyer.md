@@ -29,16 +29,13 @@ I am currently a Postdoctoral Fellow in the [Bayesian Behavior Lab](http://klab.
 
 ### In the pipeline...
 
-- _Sparse self-expressive decompositions for matrix approximation and clustering_ ([Paper](http://arxiv.org/abs/1505.00824), [Code]())<br>
-E.L. Dyer, T.A. Goldstein, R.J. Patel, K.P. Körding, and R.G. Baraniuk
-- _Cracking the neural code: A cryptography-inspired approach to brain decoding_<br>
-E.L. Dyer\*, M. Azar\*, H.L. Fernandes, M. Perich, L.E. Miller, and K.P. Körding (\*authors contributed equally)
-- _X-BRAIN: X-ray methods for Brain Research and Analytics In Neuroscience_<br> ([CrossYourEyes](http://klab.smpp.northwestern.edu/wiki/images/1/1e/0072.gif))
-E.L. Dyer, W.G. Roncal, H.L. Fernandes, D. Gürsoy, X. Xiao, J.T. Vogelstein, C. Jacobsen, N. Kasthuri, and K.P. Körding
-- _Localization and classification of neurons with high-density electrode arrays_<br>
-E.L. Dyer, R. Farhoudi, M. Azar, and K.P. Körding
-- _Convex relaxation regression: Efficient optimization of smooth functions by approximating their convex envelopes_ ([Paper](http://arxiv.org/abs/1602.02191))<br>
-M. Azar, E.L. Dyer, and K.P. Körding
+- E.L. Dyer, T.A. Goldstein, R.J. Patel, K.P. Körding, and R.G. Baraniuk: _Sparse self-expressive decompositions for matrix approximation and clustering_ ([Paper](http://arxiv.org/abs/1505.00824), [Code]())<br>
+
+- E.L. Dyer\*, M. Azar\*, H.L. Fernandes, M. Perich, L.E. Miller, and K.P. Körding: _Cracking the neural code: A cryptography-inspired approach to brain decoding_ (\*authors contributed equally)<br>
+
+- E.L. Dyer, W.G. Roncal, H.L. Fernandes, D. Gürsoy, X. Xiao, J.T. Vogelstein, C. Jacobsen, N. Kasthuri\* and K.P. Körding\*: _Quantifying mesoscale neuroanatomy with X-ray microtomography_ ([CrossYourEyes](http://klab.smpp.northwestern.edu/wiki/images/1/1e/0072.gif)) (\*authors contributed equally)<br>
+
+- E.L. Dyer\*, W.G. Roncal\*, D. Gürsoy, K.P. Körding, N. Kasthuri: _Images to Knowledge: Towards an Integrated Approach for Neuroscience Discovery_ (\*authors contributed equally) <br>
 
 <hr>
 
@@ -50,6 +47,7 @@ M. Azar, E.L. Dyer, and K.P. Körding
 - **E.L. Dyer**, A.C. Sankaranarayanan, and R.G. Baraniuk, _Greedy feature selection for subspace clustering_, The Journal of Machine Learning Research 14 (1), 2487-2517, September, 2013. ([Paper](https://www.dropbox.com/s/ll13utoiezvnbc6/Dyer_JMLR13.pdf?dl=0))
 
 **Conference**
+- M. Azar, **E.L. Dyer**, and K.P. Körding, _Convex relaxation regression: Efficient optimization of smooth functions by approximating their convex envelopes_ ([Paper](http://arxiv.org/abs/1602.02191))<br>
 
 - R.J. Patel, T.A. Goldstein, **E.L. Dyer**, A. Mirhoseini, and R.G. Baraniuk, _Deterministic column sampling for low rank approximation: Nystrom vs. Incomplete Cholesky Decomposition_, to appear in SIAM Data Mining Conference, May 2016. ([Paper](https://www.dropbox.com/s/o4wl96k2hdxxuhf/Patel_SDM2016.pdf?dl=0), [Code](https://bitbucket.org/rjp2/oasis/))
 - **E.L. Dyer**, C. Studer, J.T. Robinson, and R.G Baraniuk, _A robust and efficient method to recover neural events from noisy and corrupted data_, IEEE EMBS Neural Engineering (NER) Conference, 2013. ([Paper](https://www.dropbox.com/s/9bse7aly4bqh2d0/Dyer_EMBS2014.pdf?dl=0), [Code](https://github.com/KordingLab/nerds))
@@ -61,6 +59,8 @@ M. Azar, E.L. Dyer, and K.P. Körding
 
 
 **Abstracts**
+- R. Vescovi, E. Miqueles, D. Gursoy, V. De Andrade, E. Dyer, K. Kording, M. Cardoso, F. De Carlo, C. Jacobsen, N. Kasthuri. TOMOSAIC: Towards Terabyte Tomography, submitted to X-ray microscopy (XRM), 2016.
+
 - **E.L. Dyer**, H.L. Fernandes, X. Xiao, W. Gray Roncal, J.T. Vogelstein, C. Jacobsen, K.P. Körding and N. Kasthuri, Quantifying mesoscale neuroanatomy using X-ray microtomography, presented at the Society for Neuroscience (SFN) Annual Meeting in October 2015 and the Annual Statistical Analysis of Neural Data (SAND) Meeting in May 2015.([Abstract](https://www.dropbox.com/s/dcp0gp8bttgf3bz/Dyer_SFN2015.pdf?dl=0))
 - **E.L. Dyer**, T.A. Goldstein, R. Patel, K.P. Körding, and R.G. Baraniuk, Sparse Self-Expressive Decompositions for Dimensionality Reduction and Clustering, Signal Processing with Adaptive Sparse Structured Representations (SPARS), July, 2015. ([Abstract](https://www.dropbox.com/s/vle719pfb6os1cy/Dyer_SPARS2015.pdf?dl=0))
 - **E.L. Dyer**, D.B. Murphy, R.G. Baraniuk, and J.T Robinson, Compressive neural circuit reconstruction using patterned optical stimulation, Society for Neuroscience (SFN) Annual Meeting, 2013.
