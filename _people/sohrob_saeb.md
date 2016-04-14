@@ -11,8 +11,8 @@ joined: 2014
 Postdoctoral Fellow<br>
 Department of Preventive Medicine, Northwestern University<br>
 
-<i class="fa fa-envelope-o"></i>  `s-saeb aht northwestern doht edu`
-<i class="fa fa-twitter"></i> [@sosata](https://twitter.com/sosata)
+<i class="fa fa-envelope-o"></i>  `s-saeb aht northwestern doht edu`<br>
+<i class="fa fa-twitter"></i> [@sosata](https://twitter.com/sosata)<br>
 <i class="fa fa-google"></i> [Google Scholar](https://scholar.google.com/citations?user=9jqURCEAAAAJ&hl=en)<br>
 
 ---
