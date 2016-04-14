@@ -6,6 +6,10 @@ twitter:
 joined: 2014
 ---
 
+.markdown-here-wrapper {
+  font-family: Verdana, sans;
+}
+
 <img width="200" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 Postdoctoral Fellow<br>
