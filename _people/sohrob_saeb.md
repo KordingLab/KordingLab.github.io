@@ -6,11 +6,11 @@ twitter:
 joined: 2014
 ---
 
+<img width="200" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+
 .markdown-here-wrapper {
   font-family: Verdana, sans;
 }
-
-<img width="200" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 Postdoctoral Fellow<br>
 Department of Preventive Medicine, Northwestern University<br>
