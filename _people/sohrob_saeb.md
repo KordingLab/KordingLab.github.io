@@ -8,8 +8,8 @@ joined: 2014
 
 <img width="200" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-Postdoctoral Fellow<br>
-Department of Preventive Medicine, Northwestern University<br>
+**Postdoctoral Fellow**<br>
+**Department of Preventive Medicine, Northwestern University**<br>
 
 <i class="fa fa-envelope-o"></i>  `s-saeb/aht/northwestern/doht/edu`
 <i class="fa fa-twitter"></i> [@sosata](https://twitter.com/sosata)
@@ -29,7 +29,7 @@ I received my PhD in Computer Science (Computational Neuroscience) from Goethe-U
 
 Depression and anxiety are among major health concerns and a growing problem in the modern society. Smartphones and wearable devices, with the variety of sensors (e.g. GPS, accelerometer, and microphone) and other sources of information (e.g., call, sms, and games) can potentially act as bio-markers of depression and anxiety in daily life, providing an opportinuty to more closely investigate the life-long trajectory of these illnesses.
 
-The goal of this project is to investigate if smartphone sensor data can be used to (1) distinguish between depressed and non-depressed individuals, (2) predict the severity of the disease, and (3) predict the future trajectory that the disease takes in an individual. We have been able to do this using GPS data in a [small study](http://www.jmir.org/2015/7/e175/), which was successfully replicated on an independent dataset [StudentLife](http://studentlife.cs.dartmouth.edu/). We are now collecting data from 240 individuals to extend our findings to other aspects of life including sleep, social interactions, and physical activity.
+The goal of this project is to investigate if smartphone sensor data can be used to (1) distinguish between depressed and non-depressed individuals, (2) predict the severity of the disease, and (3) predict the future trajectory that the disease takes in an individual. We have been able to do this using GPS data in a [**small study**](http://www.jmir.org/2015/7/e175/), which was successfully replicated on an independent dataset [StudentLife](http://studentlife.cs.dartmouth.edu/). We are now collecting data from 240 individuals to extend our findings to other aspects of life including sleep, social interactions, and physical activity.
 
 ##### Adversarial Activity Recognition
 
