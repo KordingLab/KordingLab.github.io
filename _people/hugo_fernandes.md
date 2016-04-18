@@ -48,7 +48,7 @@ Quantifying mesoscale neuroanatomy using X-ray microtomography <br>
 ###### 2016
 Predicting difficult laryngoscopy using ultrasound-based measurement of distance from skin to epiglottis <br>
 <sup>Pinto J, Cordeiro L, Pereira C, Gama R, **Fernandes HL**, Assunção J <br>
-**Journal of Critical Care** ([Abstract](http://www.jccjournal.org/article/S0883-9441(16)00057-5/abstract))</sup>
+**Journal of Critical Care** ([Abstract](http://www.jccjournal.org/article/S0883-9441(16)00057-5/abstract), [Letter to Editor](http://www.jccjournal.org/article/S0883-9441(16)30014-4/fulltext), [Reply to Letter](http://www.sciencedirect.com/science/article/pii/S0883944116300132))</sup>
 
 
 ###### 2015
