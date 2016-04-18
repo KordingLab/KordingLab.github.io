@@ -62,6 +62,7 @@ Using psychophysics to ask if the brain samples or maximizes <br>
  **Journal of Vision** ([Article](http://www.journalofvision.org/content/15/3/7.abstract), [F1000 recommendation](http://f1000.com/prime/725389756?key=KfDGGy3MWelYpcg)) </sup><br>
 <sup>**Typos:** 1. It should read: "To create the splashes, we sampled **four** dots from ... with two different standard deviations (**2.5%** of the screen width and **10%** of the screen width)."; 2. In Equation 6: **s2** instead of **c2**.</sup>
 
+
 ###### 2014
 The generalization of prior uncertainty during reaching <br>
 <sup>**Fernandes HL**, Stevenson IH, Vilares I, Körding KP <br>
