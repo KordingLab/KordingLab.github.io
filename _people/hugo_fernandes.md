@@ -22,21 +22,24 @@ joined: 2013
 ###### Main
 Synthetic neurophysiology using deep convolutional neural networks<br>
 <sup>with Ramkumar P, Smith MA and Körding KP</sup> <br>
-<sup>Tools: Python (Caffe, Lasagne, Theano, XGBoost, ...) </sup> <br>
+<sup>Tools: Python </sup> <br>
 <br>
 Modeling the representation of hue in visual area V4 during natural scene viewing <br>
 <sup>with Ramkumar P, Smith MA and Körding KP</sup><br>
-<sup>Tools: MATLAB (glmfit, glmnet) </sup> <br>
+<sup>Tools: MATLAB </sup> <br>
 
 ###### Other
 Learning in Aphasia: The Impact of Break versus Blocked Treatment Schedules<br>
 <sup>Lee, Braun, **Fernandes**, Hurwitz, Kording, van Vuuren, Cherney</sup><br>
-<sup>Tools: R (KnitR, R Markdown, ggplot2) </sup>
+<sup>Tools: R </sup>
 
 Cracking the neural code: a cryptography-inspired approach to brain decoding <br>
 <sup> Dyer EL\*, Azar MG\*, **Fernandes HL**, Perich MG , Lee ME, Körding KP (\*authors contributed equally)</sup><br>
 <sup>Tools: MATLAB </sup>
-<hr>
+
+Quantifying mesoscale neuroanatomy using X-ray microtomography <br>
+<sup> Dyer EL, Roncal, WG, **Fernandes HL**, Gursoy D, Xiao X, Vogelstein JT, Jacobsen C, Körding KP, Kasthuri N</sup><br>
+<hr>Tools: MATLAB/Python
 
 ### Publications
 
@@ -55,7 +58,7 @@ Modeling peripheral visual acuity enables discovery of gaze strategies at multip
 Using psychophysics to ask if the brain samples or maximizes <br>
 <sup>Acuna DE\*, Berniker M\*, **Fernandes HL**\*, Körding KP (\*authors contributed equally) <br>
  **Journal of Vision** ([Article](http://www.journalofvision.org/content/15/3/7.abstract), [F1000 recommendation](http://f1000.com/prime/725389756?key=KfDGGy3MWelYpcg)) </sup><br>
-<sup>**Typo!** It should read: "To create the splashes, we sampled **four** dots from a Gaussian distribution centered on the hidden coin's location using distributions with two different standard deviations (**2.5%** of the screen width and **10%** of the screen width)."  </sup>
+<sup>**Typos:** 1. It should read: "To create the splashes, we sampled **four** dots from ... with two different standard deviations (**2.5%** of the screen width and **10%** of the screen width)."; 2. In Equation 6: **s2** instead of **c2**.</sup>
 
 ###### 2014
 The generalization of prior uncertainty during reaching <br>
