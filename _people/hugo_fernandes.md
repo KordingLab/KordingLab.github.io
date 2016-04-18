@@ -39,7 +39,9 @@ Cracking the neural code: a cryptography-inspired approach to brain decoding <br
 
 Quantifying mesoscale neuroanatomy using X-ray microtomography <br>
 <sup> Dyer EL, Roncal, WG, **Fernandes HL**, Gursoy D, Xiao X, Vogelstein JT, Jacobsen C, Körding KP, Kasthuri N</sup><br>
-<hr>Tools: MATLAB/Python
+<sup>Tools: MATLAB/Python </sup>
+
+<hr>
 
 ### Publications
 
