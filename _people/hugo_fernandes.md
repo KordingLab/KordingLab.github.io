@@ -37,9 +37,10 @@ Cracking the neural code: a cryptography-inspired approach to brain decoding <br
 <sup> Dyer EL\*, Azar MG\*, **Fernandes HL**, Perich MG , Lee ME, Körding KP (\*authors contributed equally)</sup><br>
 <sup>Tools: MATLAB </sup>
 
+###### In arXiv
 Quantifying mesoscale neuroanatomy using X-ray microtomography <br>
 <sup> Dyer EL, Roncal, WG, **Fernandes HL**, Gursoy D, Xiao X, Vogelstein JT, Jacobsen C, Körding KP, Kasthuri N</sup><br>
-<sup>Tools: MATLAB/Python </sup>
+<sup>**arXiv** ([Article](http://arxiv.org/pdf/1604.03629.pdf)) </sup>
 
 <hr>
 
