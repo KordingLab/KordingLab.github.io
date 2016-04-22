@@ -14,7 +14,7 @@ joined: 2014
  [Google Scholar](https://scholar.google.com/citations?user=Sb_jcHcAAAAJ&hl=en&oi=ao), [CV](https://www.dropbox.com/s/5ynd3f9uixkdb1e/Dyer_CV.pdf?dl=0)
 
 ### News
-
+- [Methods for mapping brains with X-rays!](https://arxiv.org/abs/1604.03629) This paper develops an end-to-end pipeline for collecting, analyzing, and quantifying neuroanatomical structure using X-ray microtomography. We also have preliminary X-ray datasets in our repo in github [(xbrain/data)](http://github.com/neurodata/xbrain/tree/master/data). These datasets also contain training data (labels) which can be used to train/test algorithms for cell detection and vessel segmentation.
 - [Convex Relaxation Regression (CoRR)](http://arxiv.org/abs/1602.02191) We have a new paper on arXiv! CoRR is a new black-box approach for global optimization that finds a solution to a non-convex problem by (1) learning a tight convex lower bound to the function and (2) optimizing this convex surrogate instead of the original problem. 
 - [BigNeuro 2015: Making sense of big neural data](http://evadyer.github.io/) We organized a workshop to discuss new approaches for tackling big neural datasets. The workshop was held Dec. 12th, 2015 in Montreal as part of the NIPS workshop series. Video will be made available soon.
 
@@ -23,20 +23,18 @@ joined: 2014
 ### Bio
 
 
-I am currently a Postdoctoral Fellow in the [Bayesian Behavior Lab](http://klab.smpp.northwestern.edu/wiki/index.php5/Main_Page) at the Rehabilitation Institute of Chicago, where I work with Konrad Kording on numerous projects related to large-scale neuroanatomy and optimization. Before joining, I completed my Ph.D. in Electrical & Computer Engineering at Rice University under the supervision of [Richard Baraniuk](http://web.ece.rice.edu/richb/). In 2007, I received a BSEE from the University of Miami with a double major in Audio Engineering and Physics. While at the University of Miami, I worked for the Edward Arnold Center for Confluent Media Studies as a multimedia designer and an assistant sound designer for the documentary [One Water: A collaborative effort for a sustainable future](http://www.onewater.org/movie). In 2014, I co-designed and served as the Matlab content guru for the initial launch of [301x](https://www.edx.org/course/discrete-time-signals-systems-part-1-ricex-elec301-1x), an edX course on Discrete-Time Signals and Systems.
+I am currently a Postdoctoral Fellow in the [Bayesian Behavior Lab](http://klab.smpp.northwestern.edu/wiki/index.php5/Main_Page) at the Rehabilitation Institute of Chicago, where I work with Konrad Kording on numerous projects related to large-scale neuroanatomy and optimization. I completed my Ph.D. in Electrical & Computer Engineering at Rice University under the supervision of [Richard Baraniuk](http://web.ece.rice.edu/richb/) in 2014. Before that, I received a BSEE from the University of Miami, where I completed a double major in Audio Engineering and Physics. At Rice, I had the opportunity to co-design and serve as the Matlab content guru for the initial launch of [301x](https://www.edx.org/course/discrete-time-signals-systems-part-1-ricex-elec301-1x), an edX course on Discrete-Time Signals and Systems. While at the University of Miami, I worked for the Edward Arnold Center for Confluent Media Studies as a multimedia designer and an assistant sound designer for the documentary [One Water: A collaborative effort for a sustainable future](http://www.onewater.org/movie).
 
 <hr>
 
 ### In the pipeline...
+- E.L. Dyer, W.G. Roncal, H.L. Fernandes, D. Gürsoy, X. Xiao, J.T. Vogelstein, C. Jacobsen, K.P. Körding and N. Kasthuri: _Quantifying mesoscale neuroanatomy using X-ray microtomography_ ([Paper](http://arxiv.org/abs/1604.03629), [Data](http://github.com/neurodata/xbrain/tree/master/data))<br>
 
 - E.L. Dyer, T.A. Goldstein, R.J. Patel, K.P. Körding, and R.G. Baraniuk: _Sparse self-expressive decompositions for matrix approximation and clustering_ ([Paper](http://arxiv.org/abs/1505.00824), [Code]())<br>
 
 - E.L. Dyer\*, M. Azar\*, H.L. Fernandes, M. Perich, L.E. Miller, and K.P. Körding: _Cracking the neural code: A cryptography-inspired approach to brain decoding_ (\*authors contributed equally)<br>
 
-- E.L. Dyer, W.G. Roncal, H.L. Fernandes, D. Gürsoy, X. Xiao, J.T. Vogelstein, C. Jacobsen, N. Kasthuri\* and K.P. Körding\*: _Quantifying mesoscale neuroanatomy with X-ray microtomography_ ([CrossYourEyes](http://klab.smpp.northwestern.edu/wiki/images/1/1e/0072.gif)) (\*authors contributed equally)<br>
-
-- E.L. Dyer\*, W.G. Roncal\*, D. Gürsoy, K.P. Körding, N. Kasthuri: _Images to Knowledge: Towards an Integrated Approach for Neuroscience Discovery_ (\*authors contributed equally) <br>
-
+- E.L. Dyer\*, W.G. Roncal\*, D. Gürsoy, R. Vescovi, K.P. Körding, N. Kasthuri: _From sample to knowledge: Towards an integrated approach for neuroscience discovery_ (\*authors contributed equally) <br>
 <hr>
 
 ### Publications
@@ -59,17 +57,18 @@ I am currently a Postdoctoral Fellow in the [Bayesian Behavior Lab](http://klab.
 
 
 **Abstracts**
-- R. Vescovi, E. Miqueles, D. Gursoy, V. De Andrade, E. Dyer, K. Kording, M. Cardoso, F. De Carlo, C. Jacobsen, N. Kasthuri. TOMOSAIC: Towards Terabyte Tomography, submitted to X-ray microscopy (XRM), 2016.
+- R. Vescovi, E. Miqueles, D. Gursoy, V. De Andrade, **E.L. Dyer**, K. Kording, M. Cardoso, F. De Carlo, C. Jacobsen, N. Kasthuri. _TOMOSAIC: Towards Terabyte Tomography_, submitted to X-ray microscopy (XRM), 2016.
 
-- **E.L. Dyer**, H.L. Fernandes, X. Xiao, W. Gray Roncal, J.T. Vogelstein, C. Jacobsen, K.P. Körding and N. Kasthuri, Quantifying mesoscale neuroanatomy using X-ray microtomography, presented at the Society for Neuroscience (SFN) Annual Meeting in October 2015 and the Annual Statistical Analysis of Neural Data (SAND) Meeting in May 2015.([Abstract](https://www.dropbox.com/s/dcp0gp8bttgf3bz/Dyer_SFN2015.pdf?dl=0))
-- **E.L. Dyer**, T.A. Goldstein, R. Patel, K.P. Körding, and R.G. Baraniuk, Sparse Self-Expressive Decompositions for Dimensionality Reduction and Clustering, Signal Processing with Adaptive Sparse Structured Representations (SPARS), July, 2015. ([Abstract](https://www.dropbox.com/s/vle719pfb6os1cy/Dyer_SPARS2015.pdf?dl=0))
-- **E.L. Dyer**, D.B. Murphy, R.G. Baraniuk, and J.T Robinson, Compressive neural circuit reconstruction using patterned optical stimulation, Society for Neuroscience (SFN) Annual Meeting, 2013.
-- **E.L. Dyer**, C. Studer, and R.G Baraniuk, Subspace clustering with dense representations, Signal Processing with Adaptive Sparse Structured Representations (SPARS) 2013 Proceedings, Lausanne, Switzerland, 2013.
-- **E.L. Dyer**, U. Rutishauser, and R.G Baraniuk, Group sparse coding with collections of winner-take-all (WTA) circuits, Organization for Computational Neurosciences (OCNS), BMC Neuroscience, 2012.
-- **E.L. Dyer**, A.C. Sankaranarayanan, and R.G. Baraniuk, Learning hybrid linear models via sparse recovery, Signal Processing with Adaptive Sparse Structured Representations (SPARS) 2011 Proceedings.
-- **E.L. Dyer**, D.H. Johnson, and R.G. Baraniuk, Learning modular representations from global sparse coding networks, Organization for Computational Neurosciences (OCNS), BMC Neuroscience 2010, 11(1): P131.
-- **E.L. Dyer**, D.H. Johnson, and R.G. Baraniuk, Sparse coding in modular networks, Computational and systems neuroscience (COSYNE), 2010.
-- **E.L. Dyer**, D.H. Johnson, and R.G Baraniuk, Sparse coding with population sketches, Organization for Computational Neurosciences (OCNS), BMC Neuroscience 2009, 10(1):P132.
+- **E.L. Dyer**, H.L. Fernandes, X. Xiao, W. Gray Roncal, J.T. Vogelstein, C. Jacobsen, K.P. Körding and N. Kasthuri, _Quantifying mesoscale neuroanatomy using X-ray microtomography_, presented at the Society for Neuroscience (SFN) Annual Meeting in October 2015 and the Annual Statistical Analysis of Neural Data (SAND) Meeting in May 2015.([Abstract](https://www.dropbox.com/s/dcp0gp8bttgf3bz/Dyer_SFN2015.pdf?dl=0))
+
+- **E.L. Dyer**, T.A. Goldstein, R. Patel, K.P. Körding, and R.G. Baraniuk, _Sparse Self-Expressive Decompositions for Dimensionality Reduction and Clustering_, Signal Processing with Adaptive Sparse Structured Representations (SPARS), July, 2015. ([Abstract](https://www.dropbox.com/s/vle719pfb6os1cy/Dyer_SPARS2015.pdf?dl=0))
+- **E.L. Dyer**, D.B. Murphy, R.G. Baraniuk, and J.T Robinson, _Compressive neural circuit reconstruction using patterned optical stimulation_, Society for Neuroscience (SFN) Annual Meeting, 2013.
+- **E.L. Dyer**, C. Studer, and R.G Baraniuk, _Subspace clustering with dense representations_, Signal Processing with Adaptive Sparse Structured Representations (SPARS) 2013 Proceedings, Lausanne, Switzerland, 2013.
+- **E.L. Dyer**, U. Rutishauser, and R.G Baraniuk, _Group sparse coding with collections of winner-take-all (WTA) circuits_, Organization for Computational Neurosciences (OCNS), BMC Neuroscience, 2012.
+- **E.L. Dyer**, A.C. Sankaranarayanan, and R.G. Baraniuk, _Learning hybrid linear models via sparse recovery_, Signal Processing with Adaptive Sparse Structured Representations (SPARS) 2011 Proceedings.
+- **E.L. Dyer**, D.H. Johnson, and R.G. Baraniuk, _Learning modular representations from global sparse coding networks_, Organization for Computational Neurosciences (OCNS), BMC Neuroscience 2010, 11(1): P131.
+- **E.L. Dyer**, D.H. Johnson, and R.G. Baraniuk, _Sparse coding in modular networks_, Computational and systems neuroscience (COSYNE), 2010.
+- **E.L. Dyer**, D.H. Johnson, and R.G Baraniuk, _Sparse coding with population sketches_, Organization for Computational Neurosciences (OCNS), BMC Neuroscience 2009, 10(1):P132.
 
 <hr>
 
@@ -87,3 +86,7 @@ I am currently a Postdoctoral Fellow in the [Bayesian Behavior Lab](http://klab.
 - Accelerated Sequential Incoherence Sampling (oASIS) ([Code](https://bitbucket.org/rjp2/oasis/), [Paper](http://arxiv.org/abs/1505.05208))
 - Neural Event Recovery and Detection via Sparsity (NERDS) ([Code](https://github.com/KordingLab/nerds), [Paper](http://www.ece.rice.edu/~eld1/pubs/Dyer_ICASSP2013.pdf))
 - Rapid Characterization of FPGAs with Matrix Completion ([Code](http://www.ece.rice.edu/~eld1/software/RapidFPGA.zip))
+
+**Data**
+- [XBRAIN (micro-CT) data](http://github.com/neurodata/xbrain/tree/master/data)
+
