@@ -30,11 +30,13 @@ I am currently a Postdoctoral Fellow in the [Bayesian Behavior Lab](http://klab.
 ### In the pipeline...
 - E.L. Dyer, W.G. Roncal, H.L. Fernandes, D. Gürsoy, X. Xiao, J.T. Vogelstein, C. Jacobsen, K.P. Körding and N. Kasthuri: _Quantifying mesoscale neuroanatomy using X-ray microtomography_ ([Paper](http://arxiv.org/abs/1604.03629), [Data](http://github.com/neurodata/xbrain/tree/master/data))<br>
 
-- E.L. Dyer, T.A. Goldstein, R.J. Patel, K.P. Körding, and R.G. Baraniuk: _Sparse self-expressive decompositions for matrix approximation and clustering_ ([Paper](http://arxiv.org/abs/1505.00824), [Code]())<br>
+- M. Azar, **E.L. Dyer**, and K.P. Körding, _Convex relaxation regression: Efficient optimization of smooth functions by approximating their convex envelopes_ ([Paper](http://arxiv.org/abs/1602.02191))<br>
+
+- E.L. Dyer\*, W.G. Roncal\*, D. Gürsoy, R. Vescovi, K.P. Körding, N. Kasthuri: _From sample to knowledge: Towards an integrated approach for neuroscience discovery_ (\*authors contributed equally) <br>
 
 - E.L. Dyer\*, M. Azar\*, H.L. Fernandes, M. Perich, L.E. Miller, and K.P. Körding: _Cracking the neural code: A cryptography-inspired approach to brain decoding_ (\*authors contributed equally)<br>
 
-- E.L. Dyer\*, W.G. Roncal\*, D. Gürsoy, R. Vescovi, K.P. Körding, N. Kasthuri: _From sample to knowledge: Towards an integrated approach for neuroscience discovery_ (\*authors contributed equally) <br>
+- E.L. Dyer, T.A. Goldstein, R.J. Patel, K.P. Körding, and R.G. Baraniuk: _Sparse self-expressive decompositions for matrix approximation and clustering_ ([Paper](http://arxiv.org/abs/1505.00824), [Code]())<br>
 <hr>
 
 ### Publications
@@ -42,10 +44,10 @@ I am currently a Postdoctoral Fellow in the [Bayesian Behavior Lab](http://klab.
 **Journal**
 
 - A. Mirhoseini, **E.L. Dyer**, E. Songhori, R.G. Baraniuk, and F. Koushanfar, _RankMap: A platform-aware framework for distributed learning from dense datasets_, in review, March 2015. ([Paper](http://arxiv.org/abs/1503.08169), [Code](https://github.com/azalia/RankMap))
+
 - **E.L. Dyer**, A.C. Sankaranarayanan, and R.G. Baraniuk, _Greedy feature selection for subspace clustering_, The Journal of Machine Learning Research 14 (1), 2487-2517, September, 2013. ([Paper](https://www.dropbox.com/s/ll13utoiezvnbc6/Dyer_JMLR13.pdf?dl=0))
 
 **Conference**
-- M. Azar, **E.L. Dyer**, and K.P. Körding, _Convex relaxation regression: Efficient optimization of smooth functions by approximating their convex envelopes_ ([Paper](http://arxiv.org/abs/1602.02191))<br>
 
 - R.J. Patel, T.A. Goldstein, **E.L. Dyer**, A. Mirhoseini, and R.G. Baraniuk, _Deterministic column sampling for low rank approximation: Nystrom vs. Incomplete Cholesky Decomposition_, to appear in SIAM Data Mining Conference, May 2016. ([Paper](https://www.dropbox.com/s/o4wl96k2hdxxuhf/Patel_SDM2016.pdf?dl=0), [Code](https://bitbucket.org/rjp2/oasis/))
 - **E.L. Dyer**, C. Studer, J.T. Robinson, and R.G Baraniuk, _A robust and efficient method to recover neural events from noisy and corrupted data_, IEEE EMBS Neural Engineering (NER) Conference, 2013. ([Paper](https://www.dropbox.com/s/9bse7aly4bqh2d0/Dyer_EMBS2014.pdf?dl=0), [Code](https://github.com/KordingLab/nerds))
@@ -57,6 +59,7 @@ I am currently a Postdoctoral Fellow in the [Bayesian Behavior Lab](http://klab.
 
 
 **Abstracts**
+
 - R. Vescovi, E. Miqueles, D. Gursoy, V. De Andrade, **E.L. Dyer**, K. Kording, M. Cardoso, F. De Carlo, C. Jacobsen, N. Kasthuri. _TOMOSAIC: Towards Terabyte Tomography_, submitted to X-ray microscopy (XRM), 2016.
 
 - **E.L. Dyer**, H.L. Fernandes, X. Xiao, W. Gray Roncal, J.T. Vogelstein, C. Jacobsen, K.P. Körding and N. Kasthuri, _Quantifying mesoscale neuroanatomy using X-ray microtomography_, presented at the Society for Neuroscience (SFN) Annual Meeting in October 2015 and the Annual Statistical Analysis of Neural Data (SAND) Meeting in May 2015.([Abstract](https://www.dropbox.com/s/dcp0gp8bttgf3bz/Dyer_SFN2015.pdf?dl=0))
@@ -88,5 +91,5 @@ I am currently a Postdoctoral Fellow in the [Bayesian Behavior Lab](http://klab.
 - Rapid Characterization of FPGAs with Matrix Completion ([Code](http://www.ece.rice.edu/~eld1/software/RapidFPGA.zip))
 
 **Data**
-- [XBRAIN (micro-CT) data](http://github.com/neurodata/xbrain/tree/master/data)
+- [XBRAIN (micro-CT) data](http://github.com/neurodata/xbrain/tree/master/data) 
 
