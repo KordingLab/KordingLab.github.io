@@ -41,36 +41,49 @@ I am currently a Postdoctoral Fellow in the [Bayesian Behavior Lab](http://klab.
 
 ### Publications
 
-**Journal**
+***Journal***
 
 - A. Mirhoseini, **E.L. Dyer**, E. Songhori, R.G. Baraniuk, and F. Koushanfar, _RankMap: A platform-aware framework for distributed learning from dense datasets_, in review, March 2015. ([Paper](http://arxiv.org/abs/1503.08169), [Code](https://github.com/azalia/RankMap))
 
 - **E.L. Dyer**, A.C. Sankaranarayanan, and R.G. Baraniuk, _Greedy feature selection for subspace clustering_, The Journal of Machine Learning Research 14 (1), 2487-2517, September, 2013. ([Paper](https://www.dropbox.com/s/ll13utoiezvnbc6/Dyer_JMLR13.pdf?dl=0))
 
-**Conference**
+***Conference***
 
 - R.J. Patel, T.A. Goldstein, **E.L. Dyer**, A. Mirhoseini, and R.G. Baraniuk, _Deterministic column sampling for low rank approximation: Nystrom vs. Incomplete Cholesky Decomposition_, to appear in SIAM Data Mining Conference, May 2016. ([Paper](https://www.dropbox.com/s/o4wl96k2hdxxuhf/Patel_SDM2016.pdf?dl=0), [Code](https://bitbucket.org/rjp2/oasis/))
+
 - **E.L. Dyer**, C. Studer, J.T. Robinson, and R.G Baraniuk, _A robust and efficient method to recover neural events from noisy and corrupted data_, IEEE EMBS Neural Engineering (NER) Conference, 2013. ([Paper](https://www.dropbox.com/s/9bse7aly4bqh2d0/Dyer_EMBS2014.pdf?dl=0), [Code](https://github.com/KordingLab/nerds))
+
 - **E.L. Dyer**, C. Studer, and R.G Baraniuk, _Subspace clustering with dense representations_, IEEE International Conf. on Signal Processing (ICASSP) 2013 Proceedings, Vancouver, BC, 2013. ([Paper](https://www.dropbox.com/s/7yr34ifdhbbp4h7/Dyer_ICASSP2013.pdf?dl=0))
+
 - **E.L. Dyer**, M. Majzoobi, F. Koushanfar, _Hybrid modeling of non-stationary process variations_, IEEE/ACM Design and Automation Conference (DAC) 2011 Proceedings, San Diego, CA, 2011. ([Paper](https://www.dropbox.com/s/ez16ijczply4fvq/Dyer_DAC2011.pdf?dl=0))
+
 - M. Majzoobi, **E.L. Dyer**, A. Enably, and F. Koushanfar, _Rapid FPGA characterization using clock synthesis and signal sparsity_, IEEE International Test Conference (ITC) 2010 Proceedings, Austin, TX, November 2010. ([Paper](https://www.dropbox.com/s/0llytz2o5iw47mq/Majzoobi_ITC2010.pdf?dl=0))
+
 - **E.L. Dyer**, M.F. Duarte, D.H. Johnson, and R.G. Baraniuk, _Recovering spikes from noisy neuronal calcium signals via structured sparse approximation_, Lecture Notes in Computer Science, LVA/ICA 2010, Volume 6365/2010, 604-611. ([Paper](https://www.dropbox.com/s/8qy8n8yeozsyqxf/Dyer_LVA2010.pdf?dl=0))
+
 - G. Fischer, **E.L. Dyer**, C. Csoma, A. Deguet, and G. Fichtinger, _Validation system for MR image overlay and other needle insertion techniques_, Medicine Meets Virtual Reality 15- in vivo, in vitro, in silico: Designing the Next in Medicine, IOS Press, 2007. ([Paper](https://www.dropbox.com/s/qkaaae97gafxug5/Fischer_MMVR15.pdf?dl=0))
 
 
-**Abstracts**
+***Abstracts***
 
 - R. Vescovi, E. Miqueles, D. Gursoy, V. De Andrade, **E.L. Dyer**, K. Kording, M. Cardoso, F. De Carlo, C. Jacobsen, N. Kasthuri. _TOMOSAIC: Towards Terabyte Tomography_, submitted to X-ray microscopy (XRM), 2016.
 
 - **E.L. Dyer**, H.L. Fernandes, X. Xiao, W. Gray Roncal, J.T. Vogelstein, C. Jacobsen, K.P. Körding and N. Kasthuri, _Quantifying mesoscale neuroanatomy using X-ray microtomography_, presented at the Society for Neuroscience (SFN) Annual Meeting in October 2015 and the Annual Statistical Analysis of Neural Data (SAND) Meeting in May 2015.([Abstract](https://www.dropbox.com/s/dcp0gp8bttgf3bz/Dyer_SFN2015.pdf?dl=0))
 
 - **E.L. Dyer**, T.A. Goldstein, R. Patel, K.P. Körding, and R.G. Baraniuk, _Sparse Self-Expressive Decompositions for Dimensionality Reduction and Clustering_, Signal Processing with Adaptive Sparse Structured Representations (SPARS), July, 2015. ([Abstract](https://www.dropbox.com/s/vle719pfb6os1cy/Dyer_SPARS2015.pdf?dl=0))
+
 - **E.L. Dyer**, D.B. Murphy, R.G. Baraniuk, and J.T Robinson, _Compressive neural circuit reconstruction using patterned optical stimulation_, Society for Neuroscience (SFN) Annual Meeting, 2013.
+
 - **E.L. Dyer**, C. Studer, and R.G Baraniuk, _Subspace clustering with dense representations_, Signal Processing with Adaptive Sparse Structured Representations (SPARS) 2013 Proceedings, Lausanne, Switzerland, 2013.
+
 - **E.L. Dyer**, U. Rutishauser, and R.G Baraniuk, _Group sparse coding with collections of winner-take-all (WTA) circuits_, Organization for Computational Neurosciences (OCNS), BMC Neuroscience, 2012.
+
 - **E.L. Dyer**, A.C. Sankaranarayanan, and R.G. Baraniuk, _Learning hybrid linear models via sparse recovery_, Signal Processing with Adaptive Sparse Structured Representations (SPARS) 2011 Proceedings.
+
 - **E.L. Dyer**, D.H. Johnson, and R.G. Baraniuk, _Learning modular representations from global sparse coding networks_, Organization for Computational Neurosciences (OCNS), BMC Neuroscience 2010, 11(1): P131.
+
 - **E.L. Dyer**, D.H. Johnson, and R.G. Baraniuk, _Sparse coding in modular networks_, Computational and systems neuroscience (COSYNE), 2010.
+
 - **E.L. Dyer**, D.H. Johnson, and R.G Baraniuk, _Sparse coding with population sketches_, Organization for Computational Neurosciences (OCNS), BMC Neuroscience 2009, 10(1):P132.
 
 <hr>
