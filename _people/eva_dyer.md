@@ -28,15 +28,15 @@ I am currently a Postdoctoral Fellow in the [Bayesian Behavior Lab](http://klab.
 <hr>
 
 ### In the pipeline...
-- E.L. Dyer, W.G. Roncal, H.L. Fernandes, D. Gürsoy, X. Xiao, J.T. Vogelstein, C. Jacobsen, K.P. Körding and N. Kasthuri: _Quantifying mesoscale neuroanatomy using X-ray microtomography_ ([Paper](http://arxiv.org/abs/1604.03629), [Data](http://github.com/neurodata/xbrain/tree/master/data))<br>
+- **E.L. Dyer**, W.G. Roncal, H.L. Fernandes, D. Gürsoy, X. Xiao, J.T. Vogelstein, C. Jacobsen, K.P. Körding and N. Kasthuri: _Quantifying mesoscale neuroanatomy using X-ray microtomography_ ([Paper](http://arxiv.org/abs/1604.03629), [Data](http://github.com/neurodata/xbrain/tree/master/data))<br>
 
 - M. Azar, **E.L. Dyer**, and K.P. Körding, _Convex relaxation regression: Efficient optimization of smooth functions by approximating their convex envelopes_ ([Paper](http://arxiv.org/abs/1602.02191))<br>
 
-- E.L. Dyer\*, W.G. Roncal\*, D. Gürsoy, R. Vescovi, K.P. Körding, N. Kasthuri: _From sample to knowledge: Towards an integrated approach for neuroscience discovery_ (\*authors contributed equally) <br>
+- **E.L. Dyer**, W.G. Roncal, D. Gürsoy, R. Vescovi, K.P. Körding, N. Kasthuri: _From sample to knowledge: Towards an integrated approach for neuroscience discovery_ <br>
 
-- E.L. Dyer\*, M. Azar\*, H.L. Fernandes, M. Perich, L.E. Miller, and K.P. Körding: _Cracking the neural code: A cryptography-inspired approach to brain decoding_ (\*authors contributed equally)<br>
+- **E.L. Dyer**, M. Azar, H.L. Fernandes, M. Perich, L.E. Miller, and K.P. Körding: _Cracking the neural code: A cryptography-inspired approach to brain decoding_<br>
 
-- E.L. Dyer, T.A. Goldstein, R.J. Patel, K.P. Körding, and R.G. Baraniuk: _Sparse self-expressive decompositions for matrix approximation and clustering_ ([Paper](http://arxiv.org/abs/1505.00824), [Code]())<br>
+- **E.L. Dyer**, T.A. Goldstein, R.J. Patel, K.P. Körding, and R.G. Baraniuk: _Sparse self-expressive decompositions for matrix approximation and clustering_ ([Paper](http://arxiv.org/abs/1505.00824), [Code]())<br>
 <hr>
 
 ### Publications
