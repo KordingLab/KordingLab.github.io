@@ -28,7 +28,7 @@ I am currently a Postdoctoral Fellow in the [Bayesian Behavior Lab](http://klab.
 <hr>
 
 ### In the pipeline...
-- **E.L. Dyer**, W.G. Roncal, H.L. Fernandes, D. Gürsoy, X. Xiao, J.T. Vogelstein, C. Jacobsen, K.P. Körding and N. Kasthuri: _Quantifying mesoscale neuroanatomy using X-ray microtomography_ ([Paper](http://arxiv.org/abs/1604.03629), [Data](http://github.com/neurodata/xbrain/tree/master/data))<br>
+- **E.L. Dyer**, W.G. Roncal, H.L. Fernandes, D. Gürsoy, X. Xiao, J.T. Vogelstein, C. Jacobsen, K.P. Körding and N. Kasthuri: _Quantifying mesoscale neuroanatomy using X-ray microtomography_ ([Paper](http://arxiv.org/abs/1604.03629), [Code](http://github.com/neurodata/xbrain/tree/master/code), [Data](http://github.com/neurodata/xbrain/tree/master/data))<br>
 
 - M. Azar, **E.L. Dyer**, and K.P. Körding, _Convex relaxation regression: Efficient optimization of smooth functions by approximating their convex envelopes_ ([Paper](http://arxiv.org/abs/1602.02191))<br>
 
@@ -93,7 +93,7 @@ I am currently a Postdoctoral Fellow in the [Bayesian Behavior Lab](http://klab.
 <hr>
 
 ### Code ###
-
+- XBRAIN: X-ray Brain Reconstruction, Analytics, and INference ([Code](http://github.com/neurodata/xbrain/tree/master/code))
 - RankMap API for Distributed Learning ([Code](https://github.com/azalia/RankMap), [Paper](http://arxiv.org/abs/1503.08169))
 - Self-Expressive Decomposition (SEED) ([Code](https://github.com/KordingLab/SEED), [Paper](http://arxiv.org/abs/1505.00824))
 - Accelerated Sequential Incoherence Sampling (oASIS) ([Code](https://bitbucket.org/rjp2/oasis/), [Paper](http://arxiv.org/abs/1505.05208))
