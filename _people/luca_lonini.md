@@ -57,14 +57,14 @@ My current research at Northwestern and RIC is focused on using data from wearab
 
 ### Journal Publications
 
-- _Combining multiple features into a robust index of walking ability with exoskeletons_<br>
-**Luca Lonini**, Nicholas Shawen, Kate Scanalan, William Z. Rymer, Konrad P.Kording, Arun Jayaraman<br>
-**Journal of NeuroEngineering and Rehabilitation**,13:35
+- _Accelerometry-enabled measurement of walking performance with a robotic exoskeleton: a pilot study_<br>
+**Luca Lonini**, Nicholas Shawen, Kate Scanalan, William Z. Rymer, Konrad P.Kording, Arun Jayaraman<br> (2016)
+**Journal of NeuroEngineering and Rehabilitation**,2016,13:35
 DOI: 10.1186/s12984-016-0142-9 1.[PDF](http://download.springer.com/static/pdf/450/art%253A10.1186%252Fs12984-016-0142-9.pdf?originUrl=http%3A%2F%2Fjneuroengrehab.biomedcentral.com%2Farticle%2F10.1186%2Fs12984-016-0142-9&token2=exp=1462152638~acl=%2Fstatic%2Fpdf%2F450%2Fart%25253A10.1186%25252Fs12984-016-0142-9.pdf*~hmac=989f7a158dab80ecdb2ff30c0955308e8b66302e906fff4f27864772fcd5ee58)
 
-- _Self-calibrating smooth pursuit through active efficient coding_<br> [PDF](http://www.sciencedirect.com/science/article/pii/S0921889014002486)
-Céline Teulière, S Forestier, L Lonini, C Zhang, Y Zhao, B Shi, J Triesch<br>
-**Robotics and Autonomous Systems**, 2014
+- _Self-calibrating smooth pursuit through active efficient coding_<br> (2015)
+Céline Teulière, S Forestier, **L Lonini**, C Zhang, Y Zhao, B Shi, J Triesch<br>
+**Robotics and Autonomous Systems**,71:3-12,[PDF](http://www.sciencedirect.com/science/article/pii/S0921889014002486)
 
 - Robust active binocular vision through intrinsically motivated learning [PDF](http://journal.frontiersin.org/article/10.3389/fnbot.2013.00020/full), [VIDEO](https://www.youtube.com/watch?v=hcbxzgrYdlo&feature=youtu.be)<br>
 **Lonini, L.**, Forestier, S., Teulière, C., Zhao, Y., Shi, B. E., & Triesch, J.
