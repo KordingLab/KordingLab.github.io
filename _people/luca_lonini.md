@@ -48,11 +48,6 @@ My current research at Northwestern and RIC is focused on using data from wearab
   <img src="{{site.baseurl}}/images/others/CbraceSmall.jpg" data-action="zoom"/>
 </center></figure>
 
-
-#### Studying the physiological basis of fatigue after traumatic Brain Injury
-
-> Fatigue represents one of the most common complaints of individuals following traumatic brain injury (TBI). The causes that are inducing the experience of fatigue are still under debate and are thought to be related to multiple concurrent factors. Here we use regularized linear regression to determine the predominant factors underlying fatigue, including sleep, activity and hormonal levels.
-
 <hr>
 
 ### Journal Publications
