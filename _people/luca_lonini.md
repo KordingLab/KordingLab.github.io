@@ -12,9 +12,8 @@ _Postdoctoral Fellow_<br>
 _Rehabilitation Institute of Chicago_
 
 345 East Superior Street, Suite 1725<br>
-Chicago IL, 60611
+Chicago IL, 60611<br>
 <i class="fa fa-mobile"></i> (312) 238-1619
-
 <i class="fa fa-envelope-o"></i> `llonini@ricres.org`<br>
 <i class="fa fa-twitter"></i> [@LucaLonini](https://twitter.com/LucaLonini)<br>
 [<i class="fa fa-linkedin-square"></i> LinkedIn](https://www.linkedin.com/in/lucalonini)<br>
