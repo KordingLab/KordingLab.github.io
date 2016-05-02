@@ -25,22 +25,22 @@ I received my MSc in Biomedical Engineering from University Campus Bio-medico of
 
 During my MSc I worked on a model of the acquisition and retention of motor tasks to optimize robotic neuro-rehabilitation (in collaboration with the Newman Lab at MIT). Throughout my PhD I worked on a [method](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3819528/) to learn stereo-vision through unsupervised learning on the humanoid robot iCub. Here is a [video](https://www.youtube.com/watch?v=BuA6OU2VdhE&feature=youtu.be) of the result.
 
-I am currently a postdoctoral researcher in the Bayesian Behavior lab and in the Max Näder Lab for Rehabilitation Technologies and Outcomes Research. My current research is focused on using data from wearable sensors to predict patient outcomes in the clinical rehabilitation domain. The overarching goal of this research is to: 1) build models that can help clinicians plan rehabilitation protocols; 2) understand the benefits of new rehab technologies in terms of functional recovery (e.g. does an advanced prosthetic leg allow a patient to walk more?).
+My current research at Northwestern and RIC is focused on using data from wearable sensors to predict patient outcomes in the clinical rehabilitation domain. The overarching goal of this research is to: 1) build models that can help clinicians plan rehabilitation protocols; 2) understand the benefits of new rehab technologies in terms of functional recovery (e.g. does an advanced prosthetic leg allow a patient to walk more?).
 
 <hr>
 
 ### Current projects
 
-- **Evaluating walking skills with a robotic exoskeleton ([http://rewalk.com/](http://rewalk.com/)) from the statistics of body movements**
+#### Evaluating walking skills with a robotic exoskeleton ([http://rewalk.com/](http://rewalk.com/)) from the statistics of body movements**
 
-> As spinal cord injury individuals learn to walk with an exoskeleton they improve, making their movements progressively safe enough for everyday life use. Extensive training is necessary, usually provided in a clinical setting. How can we detect if a patient still needs training? We compute a set of features from body accelerations of paraplegic individuals trained to walk with an exoskeleton and combine the features into a score that measures the likelihood of a patient being an expert user. Our model aims at supporting clinicians' decisions on whether a patient is ready to walk independently with an exoskeleton.
+> As spinal cord injury individuals learn to walk with an exoskeleton they improve, making their movements progressively safe enough for everyday life use. Extensive training is necessary, usually provided in a clinical setting. How can we detect if a patient still needs training? We compute a set of features from body accelerations of paraplegic individuals trained to walk with an exoskeleton and combine the features into a score (naive Bayes Surprise) that measures the likelihood of a patient being an expert user. Our model aims at supporting clinicians' decisions on whether a patient is ready to walk independently with an exoskeleton.
 
 <figure><center>
   <img src="{{site.baseurl}}/images/others/RewalkKpage.jpg" data-action="zoom"/>
 </center></figure>
 
 
-- **Using wearable accelerometers to detect everyday activities in patients walking with a leg brace**
+#### Using wearable accelerometers to detect everyday activities in patients walking with a leg brace**
 
 > It has been argued that computer controlled orthoses, e.g. the C-brace ([http://c-brace.ottobock.com](http://c-brace.ottobock.com)) allow people affected by lower limb disabilities to be more active. This should be expected as a traditional stance control orthosis (SCO) does not allow the same adaptive setting of impedance. Here we use machine-learning enabled measurements of everyday activity using an accelerometer to compare the physical activities between the two types of orthoses, as patients wear them over one month.
 
@@ -49,7 +49,7 @@ I am currently a postdoctoral researcher in the Bayesian Behavior lab and in the
 </center></figure>
 
 
-- **Studying the physiological basis of fatigue after traumatic Brain Injury**
+#### Studying the physiological basis of fatigue after traumatic Brain Injury**
 
 > Fatigue represents one of the most common complaints of individuals following traumatic brain injury (TBI). The causes that are inducing the experience of fatigue are still under debate and are thought to be related to multiple concurrent factors. Here we use regularized linear regression to determine the predominant factors underlying fatigue, including sleep, activity and hormonal levels.
 
@@ -59,7 +59,8 @@ I am currently a postdoctoral researcher in the Bayesian Behavior lab and in the
 
 - _Combining multiple features into a robust index of walking ability with exoskeletons_<br>
 **Luca Lonini**, Nicholas Shawen, Kate Scanalan, William Z. Rymer, Konrad P.Kording, Arun Jayaraman<br>
-Under Revision - **Journal of NeuroEngineering and Rehabilitation**
+**Journal of NeuroEngineering and Rehabilitation**,13:35
+DOI: 10.1186/s12984-016-0142-9 1.[link](http://download.springer.com/static/pdf/450/art%253A10.1186%252Fs12984-016-0142-9.pdf?originUrl=http%3A%2F%2Fjneuroengrehab.biomedcentral.com%2Farticle%2F10.1186%2Fs12984-016-0142-9&token2=exp=1462152638~acl=%2Fstatic%2Fpdf%2F450%2Fart%25253A10.1186%25252Fs12984-016-0142-9.pdf*~hmac=989f7a158dab80ecdb2ff30c0955308e8b66302e906fff4f27864772fcd5ee58)
 
 - _Self-calibrating smooth pursuit through active efficient coding_<br> [PDF](http://www.sciencedirect.com/science/article/pii/S0921889014002486)
 Céline Teulière, S Forestier, L Lonini, C Zhang, Y Zhao, B Shi, J Triesch<br>
