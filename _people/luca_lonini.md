@@ -6,7 +6,7 @@ twitter:
 joined: 2014
 ---
 
-<img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+<img width="200" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 _Postdoctoral Fellow_<br>
 _Rehabilitation Institute of Chicago_
