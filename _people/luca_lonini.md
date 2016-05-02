@@ -15,12 +15,13 @@ _Rehabilitation Institute of Chicago_
 Chicago IL, 60611
 
 <i class="fa fa-envelope-o"></i> `llonini@ricres.org`
+<i class="fa fa-twitter"></i> [@LucaLonini](https://twitter.com/LucaLonini)<br>
 
 <hr>
 
 ### About
 
-I received my MSc in Biomedical Engineering from University Campus Bio-medico in Rome, Italy and my PhD in Computer Science from Goethe University in Frankfurt, Germany.
+I received my MSc in Biomedical Engineering from University Campus Bio-medico of Rome, Italy and my PhD in Computer Science from Goethe University in Frankfurt, Germany.
 
 During my MSc I worked on a model of the acquisition and retention of motor tasks to optimize robotic neuro-rehabilitation (in collaboration with the Newman Lab at MIT). Throughout my PhD I worked towards the development of a method to learn stereo-vision through unsupervised learning on the humanoid robot iCub (http://www.icub.org/). Here is a video of the result.
 
