@@ -59,46 +59,55 @@ My current research at Northwestern and RIC is focused on using data from wearab
 
 _Accelerometry-enabled measurement of walking performance with a robotic exoskeleton: a pilot study_<br>
 **Luca Lonini**, Nicholas Shawen, Kate Scanalan, William Z. Rymer, Konrad P.Kording, Arun Jayaraman<br>
-**Journal of NeuroEngineering and Rehabilitation**,13(1),2016
+Journal of NeuroEngineering and Rehabilitation,13(1),2016
 DOI: 10.1186/s12984-016-0142-9 1.[PDF](http://download.springer.com/static/pdf/450/art%253A10.1186%252Fs12984-016-0142-9.pdf?originUrl=http%3A%2F%2Fjneuroengrehab.biomedcentral.com%2Farticle%2F10.1186%2Fs12984-016-0142-9&token2=exp=1462152638~acl=%2Fstatic%2Fpdf%2F450%2Fart%25253A10.1186%25252Fs12984-016-0142-9.pdf*~hmac=989f7a158dab80ecdb2ff30c0955308e8b66302e906fff4f27864772fcd5ee58)
 
 _Self-calibrating smooth pursuit through active efficient coding_<br>
 Céline Teulière, S Forestier, **L Lonini**, C Zhang, Y Zhao, B Shi, J Triesch<br>
-**Robotics and Autonomous Systems**,71,pp.3-12,2015[PDF](http://www.sciencedirect.com/science/article/pii/S0921889014002486)
+Robotics and Autonomous Systems,71,pp.3-12,2015[PDF](http://www.sciencedirect.com/science/article/pii/S0921889014002486)
 
-Robust active binocular vision through intrinsically motivated learning 
+_Robust active binocular vision through intrinsically motivated learning_<br> 
 **Lonini, L.**, Forestier, S., Teulière, C., Zhao, Y., Shi, B. E., & Triesch, J.
-**Frontiers in Neurorobotics**, 7, 2013
+Frontiers in Neurorobotics, 7, 2013
 [PDF](http://journal.frontiersin.org/article/10.3389/fnbot.2013.00020/full), [VIDEO](https://www.youtube.com/watch?v=hcbxzgrYdlo&feature=youtu.be)<br>
+
+_An internal model for acquisition and retention of motor learning during arm reaching_<br>
+**Lonini, L.**, Dipietro, L., Zollo, L., Guglielmelli, E. and Krebs, H.I.<br>
+Neural computation, 21(7), pp.2009-2027, 2009.[PDF](http://dspace.mit.edu/openaccess-disseminate/1721.1/55996)
 
 <hr>
 
 ### Conference Papers/Abstracts
 
-- _The physiological basis of fatigue after Traumatic Brain Injury_<br>
-David Ripley, **Luca Lonini**, Eric Larson, Korak Sarkar, Sangeeta Patel, Mithra Maneyapanda, Azra Cikmirovic, Ryan Stork<br>
-Abstract submitted to the **11th World Congress on Brain Injury**, 2-5 March, 2016, The World Forum Conference Center, The Hague, The Netherlands
+_Subjective Fatigue is Associated with Higher Resting Energy Expenditure Following Traumatic Brain Injury_<br>
+David Ripley, **Luca Lonini**, Eric Larson, Korak Sarkar, Sangeeta Patel<br>
+PM&R,7(9),S97,2016
 
-- The “Internet Of Things” to Quantify Upper Limb Prosthetic Use: A Novel Outcome Tool<br>
+_The “Internet Of Things” to Quantify Upper Limb Prosthetic Use: A Novel Outcome Tool_<br>
 **L. Lonini** and A. Jayaraman<br>
 Podium presentation Myoelectric Control Symposium (MEC) 2014
 
-- Autonomous learning of active multi-scale binocular vision, [PDF](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=6652541), [VIDEO](https://www.youtube.com/watch?v=BuA6OU2VdhE&feature=youtu.be)<br>
+_Autonomous learning of active multi-scale binocular vision_<br> 
 **Lonini, L.**, Zhao, Y., Chandrashekhariah, P., Shi, B. E., & Triesch, J.<br>
 in Development and Learning and Epigenetic Robotics (ICDL), 2013 IEEE Third Joint International Conference (pp. 1-6).
+[PDF](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=6652541), [VIDEO](https://www.youtube.com/watch?v=BuA6OU2VdhE&feature=youtu.be)<br>
 
-- Learning efficient representations of stereo-disparity perception and vergence movements using the iCub robot. [Program](http://dgr.robotics.tu-berlin.de/index.php/program)<br>
+_Learning efficient representations of stereo-disparity perception and vergence movements using the iCub robot_<br> 
 **L. Lonini** and J. Triesch<br>
 DGR-Tage 2012 Technical University Berlin, 6-7 September 2012
+[Program](http://dgr.robotics.tu-berlin.de/index.php/program)<br>
 
-- A computational model of the effects of training schedules in neurorehabilitation [PDF](http://www.sciencedirect.com/science/article/pii/S1388245711606408)<br>
+_A computational model of the effects of training schedules in neurorehabilitation_<br>
 **L Lonini**, L Dipietro, L Zollo, E Guglielmelli, HI Krebs<br>
 Abstracts of the 14th European Congress of Clinical Neurophysiology, Volume 122, Supplement 1, June 2011, Pages S177
+[PDF](http://www.sciencedirect.com/science/article/pii/S1388245711606408)<br>
 
-- ODEs model of foreign body reaction around peripheral nerve implanted electrode [PDF](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5626825)<br>
+_ODEs model of foreign body reaction around peripheral nerve implanted electrode_<br> 
 G Di Pino, D Formica, **L Lonini**, D Accoto, A Benvenuto, S Micera, PM Rossini, E Guglielmelli<br>
 Engineering in Medicine and Biology Society (EMBC), 2010, pp. 1543-1546, Annual International Conference of the IEEE
+[PDF](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5626825)<br>
 
-- Incremental learning control of the DLR-HIT-Hand II during interaction tasks [PDF](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5627411)<br>
+_Incremental learning control of the DLR-HIT-Hand II during interaction tasks_<br> 
 Alessio Alessi, Loredana Zollo, **Luca Lonini**, Rosanna De Falco, Eugenio Guglielmelli<br>
-**Engineering in Medicine and Biology Society (EMBC)**, 2010, pp. 3194-3197, Annual International Conference of the IEEE
+Engineering in Medicine and Biology Society (EMBC), 2010, pp. 3194-3197, Annual International Conference of the IEEE
+[PDF](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5627411)<br>
