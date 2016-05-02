@@ -75,7 +75,7 @@ Neural computation, 21(7), pp.2009-2027, 2009.[PDF](http://dspace.mit.edu/openac
 
 _Dispensing an enzyme-conjugated solution into an ELISA plate by adapting ink-jet printers_<br>
 **Lonini, L.**, Accoto, D., Petroni, S. and Guglielmelli, E. 
-Journal of biochemical and biophysical methods, 70(6), pp.1180-1184, 2008.
+Journal of biochemical and biophysical methods, 70(6), pp.1180-1184, 2008.[Article](http://www.sciencedirect.com/science/article/pii/S0165022X0700108X)
 
 <hr>
 
