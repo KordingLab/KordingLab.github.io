@@ -14,8 +14,9 @@ _Rehabilitation Institute of Chicago_
 345 East Superior Street, Suite 1725<br>
 Chicago IL, 60611
 
-<i class="fa fa-envelope-o"></i> `llonini@ricres.org`
+<i class="fa fa-envelope-o"></i> `llonini@ricres.org`<br>
 <i class="fa fa-twitter"></i> [@LucaLonini](https://twitter.com/LucaLonini)<br>
+<i class="fa fa-linkedin"></i>(https://www.linkedin.com/in/lucalonini)<br>
 
 <hr>
 
