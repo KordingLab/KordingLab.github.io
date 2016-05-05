@@ -9,7 +9,6 @@ joined: 2013
 <img width="250" src="{{site.baseurl}}/images/people/hugo.jpg" data-action="zoom">
 
 <sup>_Predict first, ask questions later_ <br>
-_We used to know, now we think..._ <br>
 _In my opinion, I mean, and I'm probably totally wrong_ ([Dinosaur Comics](http://arxiv.org/pdf/1604.03629.pdf)) </sup>
 
 ### Contact
