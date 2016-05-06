@@ -13,11 +13,12 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 _Quantifying mesoscale neuroanatomy using X-ray microtomography_<br>
 Eva L Dyer, William Gray Roncal, Hugo L. Fernandes, Doga Gürsoy, Xianghui Xiao, Joshua T. Vogelstein, Chris Jacobsen, Konrad P. Körding, Narayanan Kasthuri <br>
-arXiv ([PDF](http://arxiv.org/abs/1604.03629))
+arXiv ([Article](http://arxiv.org/abs/1604.03629))
 
 _Convex Relaxation Regression: Black-Box Optimization of Smooth Functions by Learning Their Convex Envelopes_<br>
 Mohammad Gheshlaghi Azar, Eva L Dyer, Konrad P Körding <br>
-arXiv ([PDF](http://arxiv.org/abs/1602.02191))
+To appear in the Conference on Uncertainty in Artificial Intelligence (UAI) Proceedings, June 2016
+([Article](http://arxiv.org/abs/1602.02191))
 
 _The Development and Analysis of Integrated Neuroscience Data_<br>
 Joshua I Glaser and Konrad P Körding <br>
