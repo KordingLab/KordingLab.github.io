@@ -6,21 +6,26 @@ twitter:
 joined: 2013
 ---
 
-<img width="250" src="{{site.baseurl}}/images/people/hugo.jpg" data-action="zoom">
+<img width="250" src="{{site.baseurl}}/images/people/hugo_profile.jpg" data-action="zoom">
 
-<sup>_Predict first, ask questions later_ <br>
-_In my opinion, I mean, and I'm probably totally wrong_ ([Dinosaur Comics](http://arxiv.org/pdf/1604.03629.pdf)) </sup>
+<sup>_In my opinion, I mean, and I'm probably totally wrong_ ([Dinosaur Comics](http://arxiv.org/pdf/1604.03629.pdf)) <br>
+(that's Feynman [on cargo cult science](http://www.californiachaparral.com/images/CargoCult.pdf) in the background) </sup>
 
 ### Contact
 
 <i class="fa fa-envelope-o"></i>  `hugo-fernandes@northwestern.edu`<br>
 <i class="fa fa-building"></i> RIC 1481 <br>
 [<i class="fa fa-bar-chart"></i> google scholar](https://scholar.google.com/citations?user=JG7xb2AAAAAJ) <br>
-[<i class="fa fa-futbol-o"></i> on cargo cult science](http://www.californiachaparral.com/images/CargoCult.pdf) <br>
+[<i class="fa fa-futbol-o"></i> kaggle](https://www.kaggle.com/hugoguh) <br>
+[<i class="fa fa-github"></i> github](https://github.com/hugoguh) <br>
+[<i class="fa fa-twitter"></i> twitter](https://twitter.com/jugoguj) <br>
+
 
 <hr>
 
 ### Ongoing projects
+
+<img width="250" src="https://dl.dropboxusercontent.com/u/8858758/predictfirst.jpg" data-action="zoom">
 
 ###### Main
 Synthetic neurophysiology using deep convolutional neural networks<br>
@@ -42,7 +47,7 @@ Cracking the neural code: a cryptography-inspired approach to brain decoding <br
 
 Quantifying mesoscale neuroanatomy using X-ray microtomography <br>
 <sup> Dyer EL, Roncal, WG, Fernandes HL, Gursoy D, Xiao X, Vogelstein JT, Jacobsen C, Körding KP, Kasthuri N</sup><br>
-<sup>([in arXiv](http://arxiv.org/pdf/1604.03629.pdf))</sup>
+<sup>**arXiv** ([wip](http://arxiv.org/pdf/1604.03629.pdf))</sup>
 
 <hr>
 
