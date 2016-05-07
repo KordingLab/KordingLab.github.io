@@ -57,24 +57,24 @@ It has been argued that computer controlled orthoses, e.g. the C-brace ([http://
 _Accelerometry-enabled measurement of walking performance with a robotic exoskeleton: a pilot study_<br>
 **Luca Lonini**, Nicholas Shawen, Kathleen Scanlan, William Z. Rymer, Konrad P.Kording, Arun Jayaraman<br>
 Journal of NeuroEngineering and Rehabilitation,13(1),2016
-DOI: 10.1186/s12984-016-0142-9 1.[PDF](http://download.springer.com/static/pdf/450/art%253A10.1186%252Fs12984-016-0142-9.pdf?originUrl=http%3A%2F%2Fjneuroengrehab.biomedcentral.com%2Farticle%2F10.1186%2Fs12984-016-0142-9&token2=exp=1462152638~acl=%2Fstatic%2Fpdf%2F450%2Fart%25253A10.1186%25252Fs12984-016-0142-9.pdf*~hmac=989f7a158dab80ecdb2ff30c0955308e8b66302e906fff4f27864772fcd5ee58)
+DOI: 10.1186/s12984-016-0142-9 1. [PDF](http://download.springer.com/static/pdf/450/art%253A10.1186%252Fs12984-016-0142-9.pdf?originUrl=http%3A%2F%2Fjneuroengrehab.biomedcentral.com%2Farticle%2F10.1186%2Fs12984-016-0142-9&token2=exp=1462152638~acl=%2Fstatic%2Fpdf%2F450%2Fart%25253A10.1186%25252Fs12984-016-0142-9.pdf*~hmac=989f7a158dab80ecdb2ff30c0955308e8b66302e906fff4f27864772fcd5ee58)
 
 _Self-calibrating smooth pursuit through active efficient coding_<br>
 Céline Teulière, S Forestier, **L Lonini**, C Zhang, Y Zhao, B Shi, J Triesch<br>
-Robotics and Autonomous Systems,71,pp.3-12,2015[PDF](http://www.sciencedirect.com/science/article/pii/S0921889014002486)
+Robotics and Autonomous Systems,71,pp.3-12,2015 [PDF](http://www.sciencedirect.com/science/article/pii/S0921889014002486)
 
 _Robust active binocular vision through intrinsically motivated learning_<br> 
 **Lonini, L.**, Forestier, S., Teulière, C., Zhao, Y., Shi, B. E., & Triesch, J.<br>
 Frontiers in Neurorobotics, 7, 2013
-[PDF](http://journal.frontiersin.org/article/10.3389/fnbot.2013.00020/full), [VIDEO](https://www.youtube.com/watch?v=hcbxzgrYdlo&feature=youtu.be)<br>
+ [PDF](http://journal.frontiersin.org/article/10.3389/fnbot.2013.00020/full), [VIDEO](https://www.youtube.com/watch?v=hcbxzgrYdlo&feature=youtu.be)<br>
 
 _An internal model for acquisition and retention of motor learning during arm reaching_<br>
 **Lonini, L.**, Dipietro, L., Zollo, L., Guglielmelli, E. and Krebs, H.I.<br>
-Neural computation, 21(7), pp.2009-2027, 2009.[PDF](http://dspace.mit.edu/openaccess-disseminate/1721.1/55996)
+Neural computation, 21(7), pp.2009-2027, 2009 [PDF](http://dspace.mit.edu/openaccess-disseminate/1721.1/55996)
 
 _Dispensing an enzyme-conjugated solution into an ELISA plate by adapting ink-jet printers_<br>
 **Lonini, L.**, Accoto, D., Petroni, S. and Guglielmelli, E. 
-Journal of biochemical and biophysical methods, 70(6), pp.1180-1184, 2008.[Article](http://www.sciencedirect.com/science/article/pii/S0165022X0700108X)
+Journal of biochemical and biophysical methods, 70(6), pp.1180-1184, 2008 [PDF](http://www.sciencedirect.com/science/article/pii/S0165022X0700108X)
 
 <hr>
 
@@ -94,7 +94,7 @@ Podium presentation Myoelectric Control Symposium (MEC) 2014
 
 _Autonomous learning of active multi-scale binocular vision_<br> 
 **Lonini, L.**, Zhao, Y., Chandrashekhariah, P., Shi, B. E., & Triesch, J.<br>
-in Development and Learning and Epigenetic Robotics (ICDL), 2013 IEEE Third Joint International Conference (pp. 1-6).
+in Development and Learning and Epigenetic Robotics (ICDL), 2013 IEEE Third Joint International Conference (pp. 1-6) 
 [PDF](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=6652541), [VIDEO](https://www.youtube.com/watch?v=BuA6OU2VdhE&feature=youtu.be)<br>
 
 _Learning efficient representations of stereo-disparity perception and vergence movements using the iCub robot_<br> 
