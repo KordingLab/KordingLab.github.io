@@ -32,20 +32,19 @@ During my MSc I worked on a model of the acquisition and retention of motor task
 
 <hr>
 
+### News
+
+Our new paper **"Activity Recognition in Patients with Lower Limb Impairments: Do we need training data from each patient?"** has been accepted at ([http://embc.embs.org/2016/](EMBC 2016))! This year's topic is _"Empowering Individual Healthcare Decisions through Technology"_<br>
+
+<hr>
+
 ### Current projects
 
-#### Evaluating walking skills with a robotic exoskeleton from the statistics of body movements
-
-> As spinal cord injury individuals learn to walk with an exoskeleton ([http://rewalk.com/](http://rewalk.com/)) they improve, making their movements progressively safe enough for everyday life use. Extensive training is necessary, usually provided in a clinical setting. How can we detect if a patient still needs training? We compute a set of features from body accelerations of paraplegic individuals trained to walk with an exoskeleton and combine the features into a score (naive Bayes Surprise) that measures the likelihood of a patient being an expert user. Our model aims at supporting clinicians' decisions on whether a patient is ready to walk independently with an exoskeleton.
-
-<figure><center>
-  <img src="{{site.baseurl}}/images/others/RewalkKpage.jpg" data-action="zoom"/>
-</center></figure>
-
+#### How specific an activity recognition classifier needs to be?
 
 #### Using wearable accelerometers to detect everyday activities in patients walking with a leg brace
 
-> It has been argued that computer controlled orthoses, e.g. the C-brace ([http://c-brace.ottobock.com](http://c-brace.ottobock.com)) allow people affected by lower limb disabilities to be more active. This should be expected as a traditional stance control orthosis (SCO) does not allow the same adaptive setting of impedance. Here we use machine-learning enabled measurements of everyday activity using an accelerometer to compare the physical activities between the two types of orthoses, as patients wear them over one month.
+It has been argued that computer controlled orthoses, e.g. the C-brace ([http://c-brace.ottobock.com](http://c-brace.ottobock.com)) allow people affected by lower limb disabilities to be more active. This should be expected as a traditional stance control orthosis (SCO) does not allow the same adaptive setting of impedance. Here we use machine-learning enabled measurements of everyday activity using an accelerometer to compare the physical activities between the two types of orthoses, as patients wear them over one month.
 
 <figure><center>
   <img src="{{site.baseurl}}/images/others/CbraceSmall.jpg" data-action="zoom"/>
@@ -80,6 +79,10 @@ Journal of biochemical and biophysical methods, 70(6), pp.1180-1184, 2008.[Artic
 <hr>
 
 ### Conference Papers/Abstracts
+
+_Activity Recognition in Patients with Lower Limb Impairments: Do we need training data from each patient?_<br>
+**Luca Lonini**, Aakash Gupta, Konrad Kording, Arun Jayaraman<br>
+Accepted in IEEE Engineering in Medicine and Biology Society (EMBC’16)
 
 _Subjective Fatigue is Associated with Higher Resting Energy Expenditure Following Traumatic Brain Injury_<br>
 David Ripley, **Luca Lonini**, Eric Larson, Korak Sarkar, Sangeeta Patel<br>
