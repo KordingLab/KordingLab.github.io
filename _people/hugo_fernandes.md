@@ -8,8 +8,7 @@ joined: 2013
 
 <img width="250" src="{{site.baseurl}}/images/people/hugo_profile.jpg" data-action="zoom">
 
-<sup>_In my opinion, I mean, and I'm probably totally wrong_ ([Dinosaur Comics](http://www.qwantz.com/index.php?comic=1650)) <br>
-(that's Feynman [on cargo cult science](http://www.californiachaparral.com/images/CargoCult.pdf) in the background) </sup>
+<sup> (that's Feynman [on cargo cult science](http://www.californiachaparral.com/images/CargoCult.pdf) in the background) </sup>
 
 ### Contact
 
@@ -54,6 +53,7 @@ Quantifying mesoscale neuroanatomy using X-ray microtomography <br>
 <hr>
 
 ### Publications
+<sup> _In my opinion, I mean, and I'm probably totally wrong_ ([Dinosaur Comics](http://www.qwantz.com/index.php?comic=1650)) </sup> <br>
 
 ###### 2016
 Predicting difficult laryngoscopy using ultrasound-based measurement of distance from skin to epiglottis <br>
