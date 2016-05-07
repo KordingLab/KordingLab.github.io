@@ -25,7 +25,6 @@ joined: 2013
 
 ### Ongoing projects
 
-<img width="250" src="https://dl.dropboxusercontent.com/u/8858758/predictfirst.jpg" data-action="zoom">
 
 ###### Main
 Synthetic neurophysiology using deep convolutional neural networks<br>
@@ -34,6 +33,9 @@ Synthetic neurophysiology using deep convolutional neural networks<br>
 
 Modeling the representation of hue in visual area V4 during natural scene viewing <br>
 <sup>with Ramkumar P, Smith MA and Körding KP</sup><br>
+
+
+<img width="250" src="https://dl.dropboxusercontent.com/u/8858758/predictfirst.jpg" data-action="zoom">
 
 
 ###### Other
