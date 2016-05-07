@@ -42,7 +42,9 @@ Our new paper **"Activity Recognition in Patients with Lower Limb Impairments: D
 
 #### How specific an activity recognition classifier needs to be?
 
-<img width="250" src="https://www.dropbox.com/s/rutwth5ipy6b400/AR.jpg?dl=0" data-action="zoom">
+<figure><center>
+  <img width="250" src="https://www.dropbox.com/s/rutwth5ipy6b400/AR.jpg?dl=0" data-action="zoom">
+</center></figure>
 
 
 #### Using wearable accelerometers to detect everyday activities in patients walking with a leg brace
