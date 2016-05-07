@@ -8,7 +8,7 @@ joined: 2013
 
 <img width="250" src="{{site.baseurl}}/images/people/hugo_profile.jpg" data-action="zoom">
 
-<sup>_In my opinion, I mean, and I'm probably totally wrong_ ([Dinosaur Comics](http://arxiv.org/pdf/1604.03629.pdf)) <br>
+<sup>_In my opinion, I mean, and I'm probably totally wrong_ ([Dinosaur Comics](http://www.qwantz.com/index.php?comic=1650)) <br>
 (that's Feynman [on cargo cult science](http://www.californiachaparral.com/images/CargoCult.pdf) in the background) </sup>
 
 ### Contact
