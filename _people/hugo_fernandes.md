@@ -24,7 +24,6 @@ joined: 2013
 
 ### Ongoing projects
 
-
 ###### Main
 Synthetic neurophysiology using deep convolutional neural networks<br>
 <sup>with Ramkumar P, Smith MA and Körding KP</sup> <br>
@@ -32,9 +31,6 @@ Synthetic neurophysiology using deep convolutional neural networks<br>
 
 Modeling the representation of hue in visual area V4 during natural scene viewing <br>
 <sup>with Ramkumar P, Smith MA and Körding KP</sup><br>
-
-
-<img width="250" src="https://dl.dropboxusercontent.com/u/8858758/predictfirst.jpg" data-action="zoom">
 
 
 ###### Other
@@ -135,3 +131,5 @@ Functional Classification of Genes Using Non-Negative Independent Component Anal
 Detection of Lung Nodule Candidates in Chest Radiographs (2007) <br>
 <sup>Pereira CS, Fernandes H, Mendonça AM, Campilho A <br>
 **Pattern Recognition and Image Analysis** ([Abstract](http://www.springerlink.com/content/y42r75p31740m471)) </sup>
+
+<img width="250" src="https://dl.dropboxusercontent.com/u/8858758/predictfirst.jpg" data-action="zoom">
