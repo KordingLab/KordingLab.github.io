@@ -23,6 +23,7 @@ joined: 2013
 <hr>
 
 ### Ongoing projects
+<sup> _predict first, ask questions later_ </sup> <br>
 
 ###### Main
 Synthetic neurophysiology using deep convolutional neural networks<br>
@@ -132,4 +133,3 @@ Detection of Lung Nodule Candidates in Chest Radiographs (2007) <br>
 <sup>Pereira CS, Fernandes H, Mendonça AM, Campilho A <br>
 **Pattern Recognition and Image Analysis** ([Abstract](http://www.springerlink.com/content/y42r75p31740m471)) </sup>
 
-<img width="250" src="https://dl.dropboxusercontent.com/u/8858758/predictfirst.jpg" data-action="zoom">
