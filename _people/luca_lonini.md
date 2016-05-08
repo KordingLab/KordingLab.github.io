@@ -34,7 +34,7 @@ During my MSc I worked on a model of the acquisition and retention of motor task
 
 ### News
 
-Our new paper **"Activity Recognition in Patients with Lower Limb Impairments: Do we need training data from each patient?"** has been accepted at ([http://embc.embs.org/2016/](EMBC 2016))! This year's topic is _"Empowering Individual Healthcare Decisions through Technology"_<br>
+Our new paper **"Activity Recognition in Patients with Lower Limb Impairments: Do we need training data from each patient?"** has been accepted at [EMBC 2016](http://embc.embs.org/2016/)! This year's topic is _"Empowering Individual Healthcare Decisions through Technology"_<br>
 
 <hr>
 
