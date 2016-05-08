@@ -43,7 +43,7 @@ Our new paper **"Activity Recognition in Patients with Lower Limb Impairments: D
 #### How specific an activity recognition classifier needs to be?
 
 <figure><center>
-  <img width="250" src="https://www.dropbox.com/s/rutwth5ipy6b400/AR.jpg?dl=0" data-action="zoom">
+  <img src="{{site.baseurl}}/images/others/AR.jpg" data-action="zoom"/>
 </center></figure>
 
 
