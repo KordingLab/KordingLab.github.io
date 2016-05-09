@@ -11,6 +11,14 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 ### 2016
 
+_Chunking as the result of an efficiency–computation tradeoff_ <br>
+P Ramkumar, DE Acuna, M Berniker, S Grafton, RS Turner, KP Körding <br>
+Nature Communications, In Press
+
+_Adaptive Neuron-to-Muscle Decoder Training for FES Neuroprostheses_ <br>
+C Ethier, DE Acuna, S Solla, L Miller <br>
+Journal of Neural Engineering, In Press
+
 _Quantifying mesoscale neuroanatomy using X-ray microtomography_<br>
 Eva L Dyer, William Gray Roncal, Hugo L. Fernandes, Doga Gürsoy, Xianghui Xiao, Joshua T. Vogelstein, Chris Jacobsen, Konrad P. Körding, Narayanan Kasthuri <br>
 arXiv ([Article](http://arxiv.org/abs/1604.03629))
