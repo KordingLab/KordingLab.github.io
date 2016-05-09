@@ -43,10 +43,9 @@ Our new paper **"Activity Recognition in Patients with Lower Limb Impairments: D
 _Vodoo Machine Learning for Clinical Predictions_ <br> 
 S.Saeb, **L.Lonini**, A.Jayaraman, D.Mohr, K.Kording <br>
 
-_Automatic classification of Spasticity using wearable sensors_ <br>
-L.Lonini, N.Shawen, K.Kording, A.Jayaraman<br>
 
 _Using wearable accelerometers to detect everyday activities in patients walking with a leg brace_<br>
+**L.Lonini**, A.Gupta, K.Kording, A.Jayaraman<br>
 
 <figure><center>
   <img src="{{site.baseurl}}/images/others/AR.jpg" width="500">
