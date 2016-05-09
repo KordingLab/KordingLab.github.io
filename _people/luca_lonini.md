@@ -40,20 +40,16 @@ Our new paper **"Activity Recognition in Patients with Lower Limb Impairments: D
 
 ### Current projects
 
-#### How specific an activity recognition classifier needs to be?
+#### Automatic classification of Spasticity using wearable sensors 
+
+#### Using wearable accelerometers to detect everyday activities in patients walking with a leg brace
 
 <figure><center>
   <img src="{{site.baseurl}}/images/others/AR.jpg" width="500">
 </center></figure>
 
+It has been argued that computer controlled leg orthoses, such as the C-brace ([http://c-brace.ottobock.com](http://c-brace.ottobock.com)), allow people affected by lower limb disabilities to be more active. This should be expected as a traditional stance control orthosis (SCO) does not allow the same adaptive setting of impedance. Here we use machine-learning enabled measurements of everyday activity using an accelerometer to compare the physical activities between the two types of orthoses. We investigate whether we need to train brace-specific, patient-specific or population-specific classifiers. 
 
-#### Using wearable accelerometers to detect everyday activities in patients walking with a leg brace
-
-It has been argued that computer controlled orthoses, e.g. the C-brace ([http://c-brace.ottobock.com](http://c-brace.ottobock.com)) allow people affected by lower limb disabilities to be more active. This should be expected as a traditional stance control orthosis (SCO) does not allow the same adaptive setting of impedance. Here we use machine-learning enabled measurements of everyday activity using an accelerometer to compare the physical activities between the two types of orthoses, as patients wear them over one month.
-
-<figure><center>
-  <img src="{{site.baseurl}}/images/others/CbraceSmall.jpg" data-action="zoom"/>
-</center></figure>
 
 <hr>
 
