@@ -11,6 +11,10 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 ### 2016
 
+_The role of expected reward in frontal eye field during natural scene search_<br>
+Joshua I Glaser\*, Daniel K Wood\*, Patrick N Lawlor, Pavan Ramkumar, Konrad P. Kording, Mark A. Segraves<br>
+Journal of Neurophysiology, In Press.
+
 _Chunking as the result of an efficiency–computation tradeoff_ <br>
 P Ramkumar, DE Acuna, M Berniker, S Grafton, RS Turner, KP Körding <br>
 Nature Communications, In Press
@@ -97,7 +101,7 @@ Lancichinetti A, Sirer MI, Wang JX, Acuna D, Körding K, Amaral LAN<br>
 PHYSICAL REVIEW X ([Abstract](http://journals.aps.org/prx/abstract/10.1103/PhysRevX.5.011007), [PDF](http://journals.aps.org/prx/pdf/10.1103/PhysRevX.5.011007))
 
 _Spatial Information in Large-Scale Neural Recordings_<br>
-Thaddeus R Cybulski*, Joshua I Glaser*, Adam H Marblestone, Bradley M Zamft, Edward S Boyden, George M Church, Konrad P Körding<br>
+Thaddeus R Cybulski\*, Joshua I Glaser\*, Adam H Marblestone, Bradley M Zamft, Edward S Boyden, George M Church, Konrad P Körding<br>
 Frontiers in Computational Neuroscience ([Article](http://journal.frontiersin.org/article/10.3389/fncom.2014.00172/full), [PDF](http://www.readcube.com/articles/10.3389/fncom.2014.00172))
 
 
