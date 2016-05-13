@@ -37,6 +37,10 @@ joined: 2012
 
 ### Peer-reviewed publications
 
+* _The role of expected reward in frontal eye field during natural scene search_<br>
+**Joshua I Glaser**, Daniel K Wood, Patrick N Lawlor, Pavan Ramkumar, Konrad P. Kording, Mark A. Segraves<br>
+Journal of Neurophysiology, In Press.
+
 * _The Development and Analysis of Integrated Neuroscience Data_<br>
 **Joshua I. Glaser**, Konrad P. Kording<br>
 Frontiers in Computational Neuroscience ([Paper](http://journal.frontiersin.org/article/10.3389/fncom.2016.00011/full))
@@ -76,10 +80,6 @@ Physical Review X ([Paper](http://journals.aps.org/prx/abstract/10.1103/PhysRevX
 * _Using generalized linear models to understand neural correlates of saccade planning in natural scenes_<br>
 **Joshua Glaser**, Daniel Wood, Pavan Ramkumar, Patrick Lawlor, Mark Segraves, Konrad Kording<br>
 Statistical Analysis of Neural Data Workshop 2015 ([PDF](https://www.dropbox.com/s/06r3lb9gak1d100/SAND_Poster_v2.pdf?dl=0))
-
-* _Reward expectation modulates Frontal Eye Field activity during natural scene search_<br>
-**Joshua Glaser**\*, Patrick Lawlor\*, Pavan Ramkumar\*, Daniel Wood\*, Adam Phillips, Sara Caddigan, Konrad Kording, Mark Segraves<br>
-Society for Neuroscience 2014 ([PDF](https://www.dropbox.com/s/o086vitj3xnw2hi/SFN_2014_Expected_Reward.pdf?dl=0))
 
 * _Task-relevant features predict gaze behavior but not neural activity in FEF during natural scene search_
 Daniel Wood\*, Pavan Ramkumar\*, Patrick Lawlor\*, **Joshua Glaser**\*, Adam Phillips, Sara Caddigan, Konrad Kording, Mark Segraves<br>
