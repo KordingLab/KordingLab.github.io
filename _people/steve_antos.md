@@ -1,10 +1,12 @@
 ---
 name: Steve Antos
 position: gradstudent
-avatar: 
+avatar: steve.jpg
 twitter:
 joined: 2012
 ---
+
+<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 ### Contact
 
