@@ -32,7 +32,7 @@ I am currently a Postdoctoral Fellow in the [Bayesian Behavior Lab](http://klab.
 
 - **E.L. Dyer**, W.G. Roncal, D. Gürsoy, R. Vescovi, K.P. Körding, N. Kasthuri: _From sample to knowledge: Towards an integrated approach for neuroscience discovery_ <br>
 
-- **E.L. Dyer**, M. Azar, H.L. Fernandes, M. Perich, L.E. Miller, and K.P. Körding: _Cracking the neural code: A cryptography-inspired approach to brain decoding_<br>
+- **E.L. Dyer**, M. Azar, H.L. Fernandes, M. Perich, L.E. Miller, and K.P. Körding: _Cracking the neural code: A cryptography-inspired approach to brain decoding_ ([Paper](http://www.dropbox.com/s/qqdabo7drryq42m/Dyer_DAD2016.pdf?dl=0))<br>
 
 - **E.L. Dyer**, T.A. Goldstein, R.J. Patel, K.P. Körding, and R.G. Baraniuk: _Sparse self-expressive decompositions for matrix approximation and clustering_ ([Paper](http://arxiv.org/abs/1505.00824), [Code]())<br>
 <hr>
