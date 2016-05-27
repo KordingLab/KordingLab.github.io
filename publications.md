@@ -11,6 +11,10 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 ### 2016
 
+_Could a neuroscientist understand a microprocessor?_<br>
+Eric Jonas, Konrad Kording<br>
+bioRxiv, 2016 ([Article](http://biorxiv.org/content/early/2016/05/26/055624))
+
 _The role of expected reward in frontal eye field during natural scene search_<br>
 Joshua I Glaser\*, Daniel K Wood\*, Patrick N Lawlor, Pavan Ramkumar, Konrad P. Kording, Mark A. Segraves<br>
 Journal of Neurophysiology, In Press.
