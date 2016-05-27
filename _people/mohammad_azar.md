@@ -1,6 +1,6 @@
 ---
 name: Mohammad Azar
-position: postdoc
+position: alumni
 avatar: momo.jpg
 twitter:
 joined: 2013

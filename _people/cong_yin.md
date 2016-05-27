@@ -1,6 +1,6 @@
 ---
 name: Cong Yin (Lily)
-position: visiting
+position: alumni
 avatar: lily.jpg
 twitter:
 joined: 2015
