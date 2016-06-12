@@ -4,7 +4,9 @@ categories: students
 ---
 
 I have to take EDW exam (Northwestern Data Warehouse exam) this coming week which is an SQL exam. I think people/ lab members who will work with EDW in order to access medical data that they provide have to take that too. The database that they have is Microsoft SQL 2008 (MSSQL). There is an easy way to query MSSQL on my Mac by installing
-native app called [SQLPro for MSSQL](http://www.macsqlclient.com/). Also there is a way to connect using Python with  Pandas library and [`pymssql`](https://github.com/PyMySQL/PyMySQL) to connect to the database as follows:
+native app called [SQLPro for MSSQL](http://www.macsqlclient.com/). For SQLPro, you have to add following field that EDW gave to an application before connecting to the database: server name (`<serve_name>.database.windows.net`),
+Login (`user_name`), Password (`password`), Database `database_name`.
+Also there is a way to connect using Python with  Pandas library and [`pymssql`](http://www.pymssql.org/en/latest/) to connect to the database as follows:
 
 
 ```python
