@@ -15,12 +15,20 @@ _Could a neuroscientist understand a microprocessor?_<br>
 Eric Jonas, Konrad Kording<br>
 bioRxiv, 2016 ([Article](http://biorxiv.org/content/early/2016/05/26/055624))
 
-_The role of expected reward in frontal eye field during natural scene search_<br>
-Joshua I Glaser\*, Daniel K Wood\*, Patrick N Lawlor, Pavan Ramkumar, Konrad P. Kording, Mark A. Segraves<br>
+_Uncertainty leads to persistent representations of alternative movements in PMd_ <br>
+Brian M. Dekleva, Pavan Ramkumar, Paul A. Wanda, Konrad P. Körding, Lee E. Miller <br> 
+eLife, In Press. 
+
+_Feature-based attention and spatial selection in frontal eye fields during natural scene search_ <br>
+Pavan Ramkumar\*, Pat N. Lawlor\*, Joshua I. Glaser, Daniel K. Wood, Mark A. Segraves, Konrad P. Körding <br>
+Journal of Neurophysiology, In Press. 
+
+_The role of expected reward in frontal eye field during natural scene search_ <br>
+Joshua I Glaser\*, Daniel K Wood\*, Patrick N Lawlor, Pavan Ramkumar, Konrad P. Kording, Mark A. Segraves <br>
 Journal of Neurophysiology, In Press.
 
 _Chunking as the result of an efficiency–computation tradeoff_ <br>
-P Ramkumar, DE Acuna, M Berniker, S Grafton, RS Turner, KP Körding <br>
+Pavan Ramkumar, Daniel E. Acuna, Max Berniker, Scott T. Grafton, Robert S. Turner, Konrad P. Körding <br>
 Nature Communications, In Press
 
 _Adaptive Neuron-to-Muscle Decoder Training for FES Neuroprostheses_ <br>
