@@ -22,30 +22,37 @@ joined: 2013
 
 <hr>
 
-### Ongoing projects
+### Work in progress
 <sup> _predict first, ask questions later_ </sup> <br>
 
 ###### Main
-Synthetic neurophysiology using deep convolutional neural networks<br>
+_spyke-tools_: a collection of Python tools to make the visualization and analysis of neural data easy and reproducible <br>
+<sup>with Ramkumar P</sup> <br>
+
+Synthetic neurophysiology using deep convolutional neural networks <br>
 <sup>with Ramkumar P, Smith MA and Körding KP</sup> <br>
 
 
 Modeling the representation of hue in visual area V4 during natural scene viewing <br>
-<sup>with Ramkumar P, Smith MA and Körding KP</sup><br>
+<sup>with Ramkumar P, Smith MA and Körding KP</sup> <br>
 
 
 ###### Other
-Learning in Aphasia: The Impact of Break versus Blocked Treatment Schedules<br>
-<sup>Lee, Braun, Fernandes, Hurwitz, Kording, van Vuuren, Cherney</sup><br>
+[_pyglmnet_](https://github.com/pavanramkumar/pyglmnet): a python implementation of elastic-net regularized generalized linear models <br>
+<sup>Author: [Ramkumar P](http://pavanramkumar.github.io)
+
+Learning in Aphasia: The Impact of Break versus Blocked Treatment Schedules <br>
+<sup>Lee, Braun, Fernandes, Hurwitz, Kording, van Vuuren, Cherney</sup> <br>
 
 
 Cracking the neural code: a cryptography-inspired approach to brain decoding <br>
-<sup> Dyer EL\*, Azar MG\*, Fernandes HL, Perich MG , Lee ME, Körding KP (\*authors contributed equally)</sup><br>
+<sup> Dyer EL\*, Azar MG\*, Fernandes HL, Perich MG , Lee ME, Körding KP (\*authors contributed equally)</sup> <br>
+<sup>[Abstract](http://kordinglab.com/DAD/)</sup>
 
 
 Quantifying mesoscale neuroanatomy using X-ray microtomography <br>
-<sup> Dyer EL, Roncal, WG, Fernandes HL, Gursoy D, Xiao X, Vogelstein JT, Jacobsen C, Körding KP, Kasthuri N</sup><br>
-<sup>**arXiv** ([wip](http://arxiv.org/pdf/1604.03629.pdf))</sup>
+<sup> Dyer EL, Roncal, WG, Fernandes HL, Gursoy D, Xiao X, Vogelstein JT, Jacobsen C, Körding KP, Kasthuri N</sup> <br>
+<sup>**arXiv**([work in progress][http://arxiv.org/pdf/1604.03629.pdf))</sup>
 
 <hr>
 
