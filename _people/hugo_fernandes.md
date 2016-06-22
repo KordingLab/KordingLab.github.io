@@ -26,8 +26,9 @@ joined: 2013
 <sup> _predict first, ask questions later_ </sup> <br>
 
 ###### Main
-_spyke-tools_: a collection of Python tools to make the visualization and analysis of neural data easy and reproducible <br>
+_spyke-tools_: a collection of python tools for visualization and analysis of neural data<br>
 <sup>with Ramkumar P</sup> <br>
+
 
 Synthetic neurophysiology using deep convolutional neural networks <br>
 <sup>with Ramkumar P, Smith MA and Körding KP</sup> <br>
@@ -52,7 +53,7 @@ Cracking the neural code: a cryptography-inspired approach to brain decoding <br
 
 Quantifying mesoscale neuroanatomy using X-ray microtomography <br>
 <sup> Dyer EL, Roncal, WG, Fernandes HL, Gursoy D, Xiao X, Vogelstein JT, Jacobsen C, Körding KP, Kasthuri N</sup> <br>
-<sup>**arXiv**([work in progress][http://arxiv.org/pdf/1604.03629.pdf))</sup>
+<sup>[arXiv](http://arxiv.org/pdf/1604.03629.pdf)</sup>
 
 <hr>
 
