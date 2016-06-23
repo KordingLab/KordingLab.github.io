@@ -26,6 +26,10 @@ joined: 2013
 <sup> _predict first, ask questions later_ </sup> <br>
 
 ###### Main
+Modeling the representation of hue in visual area V4 during natural scene viewing <br>
+<sup>with Ramkumar P, Smith MA and Körding KP</sup> <br>
+
+
 _spyke-tools_: a collection of python tools for visualization and analysis of neural data<br>
 <sup>with Ramkumar P</sup> <br>
 
@@ -34,14 +38,7 @@ Synthetic neurophysiology using deep convolutional neural networks <br>
 <sup>with Ramkumar P, Smith MA and Körding KP</sup> <br>
 
 
-Modeling the representation of hue in visual area V4 during natural scene viewing <br>
-<sup>with Ramkumar P, Smith MA and Körding KP</sup> <br>
-
-
 ###### Other
-[_pyglmnet_](https://github.com/pavanramkumar/pyglmnet): a python implementation of elastic-net regularized generalized linear models <br>
-<sup>Author: [Ramkumar P](http://pavanramkumar.github.io)
-
 Learning in Aphasia: The Impact of Break versus Blocked Treatment Schedules <br>
 <sup>Lee, Braun, Fernandes, Hurwitz, Kording, van Vuuren, Cherney</sup> <br>
 
