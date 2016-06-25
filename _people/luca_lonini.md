@@ -10,7 +10,7 @@ joined: 2014
 
 _Postdoctoral Fellow_<br>
 
-Rehabilitation Institute of Chicago
+Rehabilitation Institute of Chicago<br>
 345 East Superior Street, Suite 1725<br>
 Chicago IL, 60611<br>
 <i class="fa fa-mobile"></i> (312) 238-1619<br>
