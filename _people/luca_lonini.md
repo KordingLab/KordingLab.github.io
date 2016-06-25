@@ -40,9 +40,6 @@ Our new paper **"Activity Recognition in Patients with Lower Limb Impairments: D
 
 ### Current projects
 <br>
-_Vodoo Machine Learning for Clinical Predictions_ <br> 
-S.Saeb, **L.Lonini**, A.Jayaraman, D.Mohr, K.Kording <br>
-
 
 _Using wearable accelerometers to detect everyday activities in patients walking with a leg brace_<br>
 **L.Lonini**, A.Gupta, K.Kording, A.Jayaraman<br>
@@ -57,6 +54,10 @@ It has been argued that computer controlled leg orthoses, such as the C-brace ([
 <hr>
 
 ### Journal Publications
+
+_Vodoo Machine Learning for Clinical Predictions_ <br> 
+S.Saeb, **L.Lonini**, A.Jayaraman, D.Mohr, K.Kording <br>
+BioRxiv [PDF](http://biorxiv.org/content/biorxiv/early/2016/06/19/059774.full.pdf), [altmetric](https://biorxiv.altmetric.com/details/8885167) 
 
 _Accelerometry-enabled measurement of walking performance with a robotic exoskeleton: a pilot study_<br>
 **Luca Lonini**, Nicholas Shawen, Kathleen Scanlan, William Z. Rymer, Konrad P.Kording, Arun Jayaraman<br>
