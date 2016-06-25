@@ -56,21 +56,21 @@ It has been argued that computer controlled leg orthoses, such as the C-brace ([
 ### Journal Publications
 
 _Vodoo Machine Learning for Clinical Predictions_ <br> 
-S.Saeb, **L.Lonini**, A.Jayaraman, D.Mohr, K.Kording <br>
-BioRxiv [PDF](http://biorxiv.org/content/biorxiv/early/2016/06/19/059774.full.pdf), [altmetric](https://biorxiv.altmetric.com/details/8885167) 
+<sup> S.Saeb, **L.Lonini**, A.Jayaraman, D.Mohr, K.Kording </sup> <br>
+**BioRxiv**, 2016 [PDF](http://biorxiv.org/content/biorxiv/early/2016/06/19/059774.full.pdf), [altmetric](https://biorxiv.altmetric.com/details/8885167) 
 
 _Accelerometry-enabled measurement of walking performance with a robotic exoskeleton: a pilot study_<br>
 **Luca Lonini**, Nicholas Shawen, Kathleen Scanlan, William Z. Rymer, Konrad P.Kording, Arun Jayaraman<br>
-Journal of NeuroEngineering and Rehabilitation,13(1),2016
+**Journal of NeuroEngineering and Rehabilitation**,13(1),2016
 DOI: 10.1186/s12984-016-0142-9 1. [PDF](http://download.springer.com/static/pdf/450/art%253A10.1186%252Fs12984-016-0142-9.pdf?originUrl=http%3A%2F%2Fjneuroengrehab.biomedcentral.com%2Farticle%2F10.1186%2Fs12984-016-0142-9&token2=exp=1462152638~acl=%2Fstatic%2Fpdf%2F450%2Fart%25253A10.1186%25252Fs12984-016-0142-9.pdf*~hmac=989f7a158dab80ecdb2ff30c0955308e8b66302e906fff4f27864772fcd5ee58)
 
 _Self-calibrating smooth pursuit through active efficient coding_<br>
 Céline Teulière, S Forestier, **L Lonini**, C Zhang, Y Zhao, B Shi, J Triesch<br>
-Robotics and Autonomous Systems,71,pp.3-12,2015 [PDF](http://www.sciencedirect.com/science/article/pii/S0921889014002486)
+**Robotics and Autonomous Systems**,71,pp.3-12,2015 [PDF](http://www.sciencedirect.com/science/article/pii/S0921889014002486)
 
 _Robust active binocular vision through intrinsically motivated learning_<br> 
 **Lonini, L.**, Forestier, S., Teulière, C., Zhao, Y., Shi, B. E., & Triesch, J.<br>
-Frontiers in Neurorobotics, 7, 2013
+**Frontiers in Neurorobotics**, 7, 2013
  [PDF](http://journal.frontiersin.org/article/10.3389/fnbot.2013.00020/full), [VIDEO](https://www.youtube.com/watch?v=hcbxzgrYdlo&feature=youtu.be)<br>
 
 _An internal model for acquisition and retention of motor learning during arm reaching_<br>
