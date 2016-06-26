@@ -30,7 +30,7 @@ Modeling the representation of hue in visual area V4 during natural scene viewin
 <sup>with Ramkumar P, Smith MA and Körding KP</sup> <br>
 
 
-_spyke-tools_: a collection of python tools for visualization and analysis of neural data<br>
+[_spykes_](https://github.com/KordingLab/spykes): a collection of python tools for visualization and analysis of neural data<br>
 <sup>with Ramkumar P</sup> <br>
 
 
