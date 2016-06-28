@@ -47,7 +47,7 @@ I am currently a Research Scientist in the [Bayesian Behavior Lab](http://klab.s
 
 #### Conference ####
 
-- M. Azar, **E.L. Dyer**, and K.P. Körding, _Convex relaxation regression: Black-Box optimization of smooth functions by learning their convex envelopes_, Conference on Uncertainty in Artificial Intelligence (UAI), June 2016. ([Paper](http://arxiv.org/abs/1602.02191))<br>
+- M. Azar, **E.L. Dyer**, and K.P. Körding, _Convex relaxation regression: Black-Box optimization of smooth functions by learning their convex envelopes_, Proceedings of the Conference on Uncertainty in Artificial Intelligence (UAI), June 2016. ([Paper](http://arxiv.org/abs/1602.02191), [Poster](https://dl.dropboxusercontent.com/u/1260288/Posters/Dyer_UAI2016.png), [Slides](https://dl.dropboxusercontent.com/u/1260288/Talks/Dyer_UAI2016.pdf))<br>
 
 - R.J. Patel, T.A. Goldstein, **E.L. Dyer**, A. Mirhoseini, and R.G. Baraniuk, _Deterministic column sampling for low rank approximation: Nystrom vs. Incomplete Cholesky Decomposition_, SIAM Data Mining (SDM) Conference, May 2016. ([Paper](https://www.dropbox.com/s/o4wl96k2hdxxuhf/Patel_SDM2016.pdf?dl=0), [Code](https://bitbucket.org/rjp2/oasis/))
 
