@@ -53,6 +53,14 @@ _Using wearable accelerometers to detect everyday activities in patients walking
 It has been argued that computer controlled leg orthoses, such as the C-brace ([http://c-brace.ottobock.com](http://c-brace.ottobock.com)), allow people affected by lower limb disabilities to be more active. This should be expected as a traditional stance control orthosis (SCO) does not allow the same adaptive setting of impedance. Here we use machine-learning enabled measurements of everyday activity using an accelerometer to compare the physical activities between the two types of orthoses. We investigate whether we need to train brace-specific, patient-specific or population-specific classifiers. 
 
 
+_Does spasticity have a signature?_<br>
+Spasticity is a common set of sympotms in individuals who suffered a stroke or spinal cord injury. Using flexible wearable EMG sensors, we are trying to automatically classify the electrical muscle activity into normal contraction and spastic from data collected on patients.  
+
+<figure><center>
+  <img src="{{site.baseurl}}/images/others/Spasticity.jpg" width="500">
+</center></figure>
+
+
 <hr>
 
 ### Journal Publications
@@ -88,39 +96,39 @@ _Journal of biochemical and biophysical methods_, 70(6), pp.1180-1184, 2008 [PDF
 
 ### Conference Papers/Abstracts
 
-_Activity Recognition in Patients with Lower Limb Impairments: Do we need training data from each patient?_<br>
+**Activity Recognition in Patients with Lower Limb Impairments: Do we need training data from each patient?**<br>
 <sup>**Luca Lonini**, Aakash Gupta, Konrad Kording, Arun Jayaraman</sup><br>
-Accepted in **IEEE Engineering in Medicine and Biology Society (EMBC’16)**
+Accepted in _IEEE Engineering in Medicine and Biology Society (EMBC’16)_
 
-_Subjective Fatigue is Associated with Higher Resting Energy Expenditure Following Traumatic Brain Injury_<br>
+**Subjective Fatigue is Associated with Higher Resting Energy Expenditure Following Traumatic Brain Injury**<br>
 <sup>David Ripley, **Luca Lonini**, Eric Larson, Korak Sarkar, Sangeeta Patel</sup><br>
-**PM&R**,7(9),S97,2016
+_PM&R_,7(9),S97,2016
 
-_The “Internet Of Things” to Quantify Upper Limb Prosthetic Use: A Novel Outcome Tool_<br>
+**The “Internet Of Things” to Quantify Upper Limb Prosthetic Use: A Novel Outcome Tool**<br>
 <sup>**L. Lonini** and A. Jayaraman</sup><br>
-Podium presentation **Myoelectric Control Symposium (MEC) 2014**
+Podium presentation _Myoelectric Control Symposium (MEC) '14_, Aug 18-22, 2014, Fredericton, NB, Canada [Program](http://www.unb.ca/conferences/mec/)
 
-_Autonomous learning of active multi-scale binocular vision_<br> 
+**Autonomous learning of active multi-scale binocular vision**<br> 
 <sup>**Lonini, L.**, Zhao, Y., Chandrashekhariah, P., Shi, B. E., & Triesch, J.</sup><br>
-in **Development and Learning and Epigenetic Robotics (ICDL)**, 2013 IEEE Third Joint International Conference (pp. 1-6) 
+in _Development and Learning and Epigenetic Robotics (ICDL)_, 2013 IEEE Third Joint International Conference (pp. 1-6) 
 [PDF](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=6652541), [VIDEO](https://www.youtube.com/watch?v=BuA6OU2VdhE&feature=youtu.be)<br>
 
-_Learning efficient representations of stereo-disparity perception and vergence movements using the iCub robot_<br> 
+**Learning efficient representations of stereo-disparity perception and vergence movements using the iCub robot**<br> 
 <sup>**L. Lonini** and J. Triesch</sup><br>
-**DGR-Tage 2012** Technical University Berlin, 6-7 September 2012
+_DGR-Tage 2012_ Technical University Berlin, 6-7 September 2012
 [Program](http://dgr.robotics.tu-berlin.de/index.php/program)<br>
 
-_A computational model of the effects of training schedules in neurorehabilitation_<br>
+**A computational model of the effects of training schedules in neurorehabilitation**<br>
 <sup>**L Lonini**, L Dipietro, L Zollo, E Guglielmelli, HI Krebs</sup><br>
-Abstracts of the 14th **European Congress of Clinical Neurophysiology**, Volume 122, Supplement 1, June 2011, Pages S177
+Abstracts of the 14th _European Congress of Clinical Neurophysiology_, Volume 122, Supplement 1, June 2011, Pages S177
 [PDF](http://www.sciencedirect.com/science/article/pii/S1388245711606408)<br>
 
-_ODEs model of foreign body reaction around peripheral nerve implanted electrode_<br> 
+**ODEs model of foreign body reaction around peripheral nerve implanted electrode**<br> 
 <sup>G Di Pino, D Formica, **L Lonini**, D Accoto, A Benvenuto, S Micera, PM Rossini, E Guglielmelli</sup><br>
-**Engineering in Medicine and Biology Society (EMBC)**, 2010, pp. 1543-1546, Annual International Conference of the IEEE
+_Engineering in Medicine and Biology Society (EMBC)_, 2010, pp. 1543-1546, Annual International Conference of the IEEE
 [PDF](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5626825)<br>
 
-_Incremental learning control of the DLR-HIT-Hand II during interaction tasks_<br> 
+**Incremental learning control of the DLR-HIT-Hand II during interaction tasks**<br> 
 <sup>Alessio Alessi, Loredana Zollo, **Luca Lonini**, Rosanna De Falco, Eugenio Guglielmelli</sup><br>
-**Engineering in Medicine and Biology Society (EMBC)**, 2010, pp. 3194-3197, Annual International Conference of the IEEE
+_Engineering in Medicine and Biology Society (EMBC)_, 2010, pp. 3194-3197, Annual International Conference of the IEEE
 [PDF](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5627411)<br>
