@@ -34,6 +34,8 @@ During my MSc I worked on a model of the acquisition and retention of motor task
 
 ### News
 
+Our new paper **"Voodoo Machine Learning for Clinical Predictions"** is on BioRxiv
+
 Our new paper **"Activity Recognition in Patients with Lower Limb Impairments: Do we need training data from each patient?"** has been accepted at [EMBC 2016](http://embc.embs.org/2016/)! This year's topic is _"Empowering Individual Healthcare Decisions through Technology"_<br>
 
 <hr>
@@ -56,9 +58,9 @@ It has been argued that computer controlled leg orthoses, such as the C-brace ([
 ### Journal Publications
 
 
-_Vodoo Machine Learning for Clinical Predictions_ <br> 
+**Vodoo Machine Learning for Clinical Predictions** <br> 
 <sup> S.Saeb\*, **L.Lonini\***, A.Jayaraman, D.Mohr, K.Kording (*authors contributed equally)</sup> <br>
-**BioRxiv**, 2016 [PDF](http://biorxiv.org/content/biorxiv/early/2016/06/19/059774.full.pdf), [altmetric score](https://biorxiv.altmetric.com/details/8885167) 
+_BioRxiv_, 2016 [PDF](http://biorxiv.org/content/biorxiv/early/2016/06/19/059774.full.pdf), [altmetric score](https://biorxiv.altmetric.com/details/8885167) 
 
 _Accelerometry-enabled measurement of walking performance with a robotic exoskeleton: a pilot study_<br>
 <sup>**Luca Lonini**, Nicholas Shawen, Kathleen Scanlan, William Z. Rymer, Konrad P.Kording, Arun Jayaraman</sup> <br>
