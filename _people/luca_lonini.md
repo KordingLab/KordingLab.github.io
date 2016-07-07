@@ -10,7 +10,7 @@ joined: 2014
 
 _Postdoctoral Fellow_<br>
 
-Rehabilitation Institute of Chicago<br>
+Rehabilitation Institute of Chicago and Northwestern University<br>
 345 East Superior Street, Suite 1682<br>
 Chicago IL, 60611<br>
 <i class="fa fa-mobile"></i> (312) 238-1619<br>
@@ -50,7 +50,7 @@ _Using wearable accelerometers to detect everyday activities in patients walking
   <img src="{{site.baseurl}}/images/others/AR.jpg" width="500">
 </center></figure>
 
-It has been argued that computer controlled leg orthoses, such as the C-brace ([http://c-brace.ottobock.com](http://c-brace.ottobock.com)), allow people affected by lower limb disabilities to be more active. This should be expected as a traditional stance control orthosis (SCO) does not allow the same adaptive setting of impedance. Here we use machine-learning enabled measurements of everyday activity using an accelerometer to compare the physical activities between the two types of orthoses. We investigate whether we need to train brace-specific, patient-specific or population-specific classifiers. 
+It has been argued that computer controlled leg orthoses, such as the C-brace ([http://c-brace.ottobock.com](http://c-brace.ottobock.com)), allow people affected by lower limb disabilities to be more active. This should be expected as a traditional stance control orthosis (SCO) does not allow the same adaptive setting of impedance. Here we use machine-learning enabled measurements of everyday activity using an accelerometer to compare the physical activities between the two types of orthoses. We investigate whether we need to train brace-specific, patient-specific or population-specific classifiers.
 
 
 _Does spasticity have a signature?_<br>
@@ -66,9 +66,9 @@ Spasticity is a common set of sympotms in individuals who suffered a stroke or s
 ### Journal Publications
 
 
-**Vodoo Machine Learning for Clinical Predictions** <br> 
+**Vodoo Machine Learning for Clinical Predictions** <br>
 <sup> S.Saeb\*, **L.Lonini**\*, A.Jayaraman, D.Mohr, K.Kording (*authors contributed equally)</sup> <br>
-_BioRxiv_, 2016 [PDF](http://biorxiv.org/content/biorxiv/early/2016/06/19/059774.full.pdf), [altmetric score](https://biorxiv.altmetric.com/details/8885167) 
+_BioRxiv_, 2016 [PDF](http://biorxiv.org/content/biorxiv/early/2016/06/19/059774.full.pdf), [altmetric score](https://biorxiv.altmetric.com/details/8885167)
 
 **Accelerometry-enabled measurement of walking performance with a robotic exoskeleton: a pilot study**<br>
 <sup>**Luca Lonini**, Nicholas Shawen, Kathleen Scanlan, William Z. Rymer, Konrad P.Kording, Arun Jayaraman</sup> <br>
@@ -79,7 +79,7 @@ DOI: 10.1186/s12984-016-0142-9 1. [PDF](http://download.springer.com/static/pdf/
 <sup>Céline Teulière, S Forestier, **L Lonini**, C Zhang, Y Zhao, B Shi, J Triesch</sup><br>
 _Robotics and Autonomous Systems_,71,pp.3-12,2015 [PDF](http://www.sciencedirect.com/science/article/pii/S0921889014002486)
 
-**Robust active binocular vision through intrinsically motivated learning**<br> 
+**Robust active binocular vision through intrinsically motivated learning**<br>
 <sup>**Lonini, L.**, Forestier, S., Teulière, C., Zhao, Y., Shi, B. E., & Triesch, J.</sup><br>
 _Frontiers in Neurorobotics_, 7, 2013
  [PDF](http://journal.frontiersin.org/article/10.3389/fnbot.2013.00020/full), [VIDEO](https://www.youtube.com/watch?v=hcbxzgrYdlo&feature=youtu.be)<br>
@@ -89,7 +89,7 @@ _Frontiers in Neurorobotics_, 7, 2013
 _Neural computation_, 21(7), pp.2009-2027, 2009 [PDF](http://dspace.mit.edu/openaccess-disseminate/1721.1/55996)
 
 **Dispensing an enzyme-conjugated solution into an ELISA plate by adapting ink-jet printers**<br>
-<sup>**Lonini, L.**, Accoto, D., Petroni, S. and Guglielmelli, E.</sup><br> 
+<sup>**Lonini, L.**, Accoto, D., Petroni, S. and Guglielmelli, E.</sup><br>
 _Journal of biochemical and biophysical methods_, 70(6), pp.1180-1184, 2008 [PDF](http://www.sciencedirect.com/science/article/pii/S0165022X0700108X)
 
 <hr>
@@ -108,12 +108,12 @@ _PM&R_,7(9),S97,2016
 <sup>**L. Lonini** and A. Jayaraman</sup><br>
 Podium presentation _Myoelectric Control Symposium (MEC) '14_, Aug 18-22, 2014, Fredericton, NB, Canada [Program](http://www.unb.ca/conferences/mec/)
 
-**Autonomous learning of active multi-scale binocular vision**<br> 
+**Autonomous learning of active multi-scale binocular vision**<br>
 <sup>**Lonini, L.**, Zhao, Y., Chandrashekhariah, P., Shi, B. E., & Triesch, J.</sup><br>
-in _Development and Learning and Epigenetic Robotics (ICDL)_, 2013 IEEE Third Joint International Conference (pp. 1-6) 
+in _Development and Learning and Epigenetic Robotics (ICDL)_, 2013 IEEE Third Joint International Conference (pp. 1-6)
 [PDF](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=6652541), [VIDEO](https://www.youtube.com/watch?v=BuA6OU2VdhE&feature=youtu.be)<br>
 
-**Learning efficient representations of stereo-disparity perception and vergence movements using the iCub robot**<br> 
+**Learning efficient representations of stereo-disparity perception and vergence movements using the iCub robot**<br>
 <sup>**L. Lonini** and J. Triesch</sup><br>
 _DGR-Tage 2012_ Technical University Berlin, 6-7 September 2012
 [Program](http://dgr.robotics.tu-berlin.de/index.php/program)<br>
@@ -123,12 +123,12 @@ _DGR-Tage 2012_ Technical University Berlin, 6-7 September 2012
 Abstracts of the 14th _European Congress of Clinical Neurophysiology_, Volume 122, Supplement 1, June 2011, Pages S177
 [PDF](http://www.sciencedirect.com/science/article/pii/S1388245711606408)<br>
 
-**ODEs model of foreign body reaction around peripheral nerve implanted electrode**<br> 
+**ODEs model of foreign body reaction around peripheral nerve implanted electrode**<br>
 <sup>G Di Pino, D Formica, **L Lonini**, D Accoto, A Benvenuto, S Micera, PM Rossini, E Guglielmelli</sup><br>
 _Engineering in Medicine and Biology Society (EMBC)_, 2010, pp. 1543-1546, Annual International Conference of the IEEE
 [PDF](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5626825)<br>
 
-**Incremental learning control of the DLR-HIT-Hand II during interaction tasks**<br> 
+**Incremental learning control of the DLR-HIT-Hand II during interaction tasks**<br>
 <sup>Alessio Alessi, Loredana Zollo, **Luca Lonini**, Rosanna De Falco, Eugenio Guglielmelli</sup><br>
 _Engineering in Medicine and Biology Society (EMBC)_, 2010, pp. 3194-3197, Annual International Conference of the IEEE
 [PDF](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5627411)<br>

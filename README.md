@@ -9,8 +9,8 @@ This is ropository for Kording lab page. We are welcome for other people to cont
 To run locally, follow instruction [here](https://jekyllrb.com/) to install Jekyll then run `jekyll serve` to see in `localhost:4000`. Here is a brief install guidelines.
 
 ```bash
-gem install jekyll
-gem install rogue
+sudo gem install jekyll
+sudo gem install rouge
 jekyll serve
 ```
 
