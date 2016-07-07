@@ -24,7 +24,7 @@ Chicago IL, 60611<br>
 
 ### About
 
-My current research at Northwestern/RIC is focused on predicting patient outcomes in the clinical rehabilitation domain using wearable sensors and machine learning models. The overarching goal of this research is to: 1) build models that can help clinicians plan rehabilitation protocols; 2) understand the benefits of new rehab technologies in terms of functional recovery (e.g. does an advanced prosthetic leg allow a patient to walk more?).
+My current research interests are focused on predicting patient outcomes in the clinical rehabilitation domain using wearable sensors and machine learning models. The overarching goal of this research is to: 1) build models that can help clinicians plan rehabilitation protocols; 2) understand the benefits of new rehab technologies in terms of functional recovery (e.g. does an advanced prosthetic leg allow a patient to walk more?).
 
 I received my MSc in Biomedical Engineering from University Campus Bio-medico of Rome, Italy and my PhD in Computer Science from Goethe University in Frankfurt, Germany.
 
@@ -59,7 +59,7 @@ It has been argued that computer controlled leg orthoses, such as the C-brace ([
 
 
 **Vodoo Machine Learning for Clinical Predictions** <br> 
-<sup> S.Saeb\*, **L.Lonini\***, A.Jayaraman, D.Mohr, K.Kording (*authors contributed equally)</sup> <br>
+<sup> S.Saeb\*, **L.Lonini\* **, A.Jayaraman, D.Mohr, K.Kording (*authors contributed equally)</sup> <br>
 _BioRxiv_, 2016 [PDF](http://biorxiv.org/content/biorxiv/early/2016/06/19/059774.full.pdf), [altmetric score](https://biorxiv.altmetric.com/details/8885167) 
 
 _Accelerometry-enabled measurement of walking performance with a robotic exoskeleton: a pilot study_<br>
