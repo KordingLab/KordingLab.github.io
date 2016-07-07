@@ -54,7 +54,7 @@ It has been argued that computer controlled leg orthoses, such as the C-brace ([
 
 
 _Does spasticity have a signature?_<br>
-Spasticity is a common set of sympotms in individuals who suffered a stroke or spinal cord injury. Using flexible wearable EMG sensors, we are trying to automatically classify the electrical muscle activity into normal contraction and spastic from data collected on patients.  
+Spasticity is a common set of sympotms in individuals who suffered a stroke or spinal cord injury that results in muscle stiffness or uncontrollable leg movements. Using flexible wearable EMG sensors, we are trying to automatically classify the electrical muscle activity into normal contraction and spastic from EMG data collected on patients.  
 
 <figure><center>
   <img src="{{site.baseurl}}/images/others/Spasticity.jpg" width="500">
