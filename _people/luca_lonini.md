@@ -28,7 +28,7 @@ My current research interests are focused on predicting patient outcomes in the 
 
 I received my MSc in Biomedical Engineering from University Campus Bio-medico of Rome, Italy and my PhD in Computer Science from Goethe University in Frankfurt, Germany.
 
-During my MSc I worked on a model of the acquisition and retention of motor tasks to optimize robotic neuro-rehabilitation (in collaboration with the Newman Lab at MIT). Throughout my PhD I worked on a method for [unsupervised learning of active stereo-vision](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3819528/) on the humanoid robot iCub using Sparse Coding and Reinforcement Learning. Here is a [video](https://www.youtube.com/watch?v=BuA6OU2VdhE&feature=youtu.be) of the result.
+During my MSc I worked on a model of the [acquisition and retention of motor tasks](http://dspace.mit.edu/openaccess-disseminate/1721.1/55996) to optimize robotic neuro-rehabilitation (in collaboration with the [Newman Lab at MIT](http://newmanlab.mit.edu/)). Throughout my PhD I worked on a method for [unsupervised learning of active stereo-vision](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3819528/) on the humanoid robot iCub using Sparse Coding and Reinforcement Learning. Here is a [video](https://www.youtube.com/watch?v=BuA6OU2VdhE&feature=youtu.be) of the result.
 
 <hr>
 
