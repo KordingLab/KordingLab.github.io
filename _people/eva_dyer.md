@@ -14,10 +14,10 @@ joined: 2014
  [Google Scholar](https://scholar.google.com/citations?user=Sb_jcHcAAAAJ&hl=en&oi=ao), [CV](https://www.dropbox.com/s/5ynd3f9uixkdb1e/Dyer_CV.pdf?dl=0)
 
 ### News
+- [Convex Relaxation Regression (CoRR)](http://dl.dropboxusercontent.com/u/1260288/Papers/Azar_UAI2016.pdf) ~ I just presented CoRR at UAI 2016! CoRR is a new black-box approach for global optimization that finds a solution to a non-convex problem by (1) learning a tight convex lower bound to the function and (2) optimizing this convex surrogate instead of the original problem. 
 - [X-BRAIN now in NeuroData Viz](http://viz.neurodata.io/project/xbrain/0/1263/472/1000) ~ Traverse through X-ray data and visualize cell bodies and vessels mapped with X-BRAIN.
 - [Methods for mapping brains with X-rays!](https://www.dropbox.com/s/b6jsferokrqyfsn/Dyer_Xbrain2016.pdf?dl=0) ~ This paper develops an end-to-end pipeline for collecting, analyzing, and quantifying neuroanatomical structure using X-ray microtomography. We also have preliminary X-ray datasets in our repo in github [(xbrain/data)](http://github.com/neurodata/xbrain/tree/master/data). These datasets also contain training data (labels) which can be used to train/test algorithms for cell detection and vessel segmentation.
-- [Convex Relaxation Regression (CoRR)](http://arxiv.org/abs/1602.02191) ~ We have a new paper on arXiv! CoRR is a new black-box approach for global optimization that finds a solution to a non-convex problem by (1) learning a tight convex lower bound to the function and (2) optimizing this convex surrogate instead of the original problem. 
-- [BigNeuro 2015: Making sense of big neural data](http://evadyer.github.io/) ~ We organized a workshop to discuss new approaches for tackling big neural datasets. The workshop was held Dec. 12th, 2015 in Montreal as part of the NIPS workshop series. Video will be made available soon.
+
 
 <hr>
 
