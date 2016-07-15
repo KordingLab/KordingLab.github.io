@@ -10,7 +10,7 @@ joined: 2014
 
 _Postdoctoral Fellow_<br>
 
-Rehabilitation Institute of Chicago and Northwestern University<br>
+Rehabilitation Institute of Chicago<br>
 345 East Superior Street, Suite 1682<br>
 Chicago IL, 60611<br>
 <i class="fa fa-mobile"></i> (312) 238-1619<br>
@@ -44,21 +44,21 @@ Our new paper **"Activity Recognition in Patients with Lower Limb Impairments: D
 <br>
 
 _Using wearable accelerometers to detect everyday activities in patients walking with a leg brace_<br>
-**L.Lonini**, A.Gupta, K.Kording, A.Jayaraman<br>
 
 <figure><center>
-  <img src="{{site.baseurl}}/images/others/AR.jpg" width="500">
+  <img src="{{site.baseurl}}/images/others/AR.jpg" width="400">
 </center></figure>
+<sup> image credit: Aakash Gupta
 
 It has been argued that computer controlled leg orthoses, such as the C-brace ([http://c-brace.ottobock.com](http://c-brace.ottobock.com)), allow people affected by lower limb disabilities to be more active. This should be expected as a traditional stance control orthosis (SCO) does not allow the same adaptive setting of impedance. Here we use machine-learning enabled measurements of everyday activity using an accelerometer to compare the physical activities between the two types of orthoses. We investigate whether we need to train brace-specific, patient-specific or population-specific classifiers.
 
-
+<br>
 _Does spasticity have a signature?_<br>
-Spasticity is a common set of sympotms in individuals who suffered a stroke or spinal cord injury that results in muscle stiffness or uncontrollable leg movements. Using flexible wearable EMG sensors, we are trying to automatically classify the electrical muscle activity into normal contraction and spastic from EMG data collected on patients.  
-
 <figure><center>
   <img src="{{site.baseurl}}/images/others/Spasticity.jpg" width="500">
 </center></figure>
+
+Spasticity is a common set of symptoms in individuals who suffered a stroke or spinal cord injury, which can result in muscle stiffness or uncontrollable leg movements. Using flexible wearable EMG sensors, we are working on the automatic classification of the electrical muscle activity into normal contraction and spastic from EMG data collected on patients.  
 
 
 <hr>
