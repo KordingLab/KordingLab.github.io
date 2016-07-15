@@ -32,11 +32,13 @@ During my MSc I worked on a model of the [acquisition and retention of motor tas
 
 <hr>
 
-### News
+### Highlights
+<br>
+Our paper **"Voodoo Machine Learning for Clinical Predictions"** is on BioRxiv [PDF](http://biorxiv.org/content/biorxiv/early/2016/06/19/059774.full.pdf), [altmetric score](https://biorxiv.altmetric.com/details/8885167)
 
-Our new paper **"Voodoo Machine Learning for Clinical Predictions"** is on BioRxiv [PDF](http://biorxiv.org/content/biorxiv/early/2016/06/19/059774.full.pdf), [altmetric score](https://biorxiv.altmetric.com/details/8885167)
+Our paper **"Activity Recognition in Patients with Lower Limb Impairments: Do we need training data from each patient?"** has been accepted at [EMBC 2016](http://embc.embs.org/2016/)! This year's topic is _"Empowering Individual Healthcare Decisions through Technology"_<br>
 
-Our new paper **"Activity Recognition in Patients with Lower Limb Impairments: Do we need training data from each patient?"** has been accepted at [EMBC 2016](http://embc.embs.org/2016/)! This year's topic is _"Empowering Individual Healthcare Decisions through Technology"_<br>
+We convert clinical scores into Bayesian surprise for evaluating spinal cord injury walking skills with exoskeletons. See our [paper on JNER](http://download.springer.com/static/pdf/450/art%253A10.1186%252Fs12984-016-0142-9.pdf?originUrl=http%3A%2F%2Fjneuroengrehab.biomedcentral.com%2Farticle%2F10.1186%2Fs12984-016-0142-9&token2=exp=1462152638~acl=%2Fstatic%2Fpdf%2F450%2Fart%25253A10.1186%25252Fs12984-016-0142-9.pdf*~hmac=989f7a158dab80ecdb2ff30c0955308e8b66302e906fff4f27864772fcd5ee58)
 
 <hr>
 
