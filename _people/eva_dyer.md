@@ -14,11 +14,8 @@ joined: 2014
  [Google Scholar](https://scholar.google.com/citations?user=Sb_jcHcAAAAJ&hl=en&oi=ao), [CV](https://www.dropbox.com/s/5ynd3f9uixkdb1e/Dyer_CV.pdf?dl=0)
 
 ### News
-- [Convex Relaxation Regression (CoRR)](http://dl.dropboxusercontent.com/u/1260288/Papers/Azar_UAI2016.pdf) ~ I just presented CoRR at UAI 2016! CoRR is a new black-box approach for global optimization that finds a solution to a non-convex problem by (1) learning a tight convex lower bound to the function and (2) optimizing this convex surrogate instead of the original problem. 
-- [X-BRAIN now in NeuroData Viz](http://viz.neurodata.io/project/xbrain/0/1263/472/1000) ~ Traverse through X-ray data and visualize cell bodies and vessels mapped with X-BRAIN.
-- [Methods for mapping brains with X-rays!](https://www.dropbox.com/s/b6jsferokrqyfsn/Dyer_Xbrain2016.pdf?dl=0) ~ This paper develops an end-to-end pipeline for collecting, analyzing, and quantifying neuroanatomical structure using X-ray microtomography. We also have preliminary X-ray datasets in our repo in github [(xbrain/data)](http://github.com/neurodata/xbrain/tree/master/data). These datasets also contain training data (labels) which can be used to train/test algorithms for cell detection and vessel segmentation.
-
-
+- [(7/26) (X-BRAIN) X-ray microtomography for brain science!](http://www.docs.neurodata.io/xbrain/) Check out our new paper on using X-rays for mesoscale brain mapping. We present an end-to-end pipeline for collecting, analyzing, and quantifying neuroanatomical structure using X-ray microtomography. Image data, segmentations, and ground truth data are all available for download.
+- [(7/1) Convex Relaxation Regression (CoRR) at UAI](http://dl.dropboxusercontent.com/u/1260288/Papers/Azar_UAI2016.pdf) ~ Mohammad and I recently presented CoRR at UAI 2016 ([Slides](https://dl.dropboxusercontent.com/u/1260288/Talks/Dyer_UAI2016.pdf)).
 <hr>
 
 ### Bio
@@ -29,19 +26,20 @@ I am currently a Research Scientist in the [Bayesian Behavior Lab](http://klab.s
 <hr>
 
 ### In the pipeline...
-- **E.L. Dyer**, W.G. Roncal, H.L. Fernandes, D. Gürsoy, X. Xiao, J.T. Vogelstein, C. Jacobsen, K.P. Körding and N. Kasthuri: _Quantifying mesoscale neuroanatomy using X-ray microtomography_ ([Paper](https://www.dropbox.com/s/b6jsferokrqyfsn/Dyer_Xbrain2016.pdf?dl=0), [Code](http://github.com/neurodata/xbrain/tree/master/code), [Data](http://github.com/neurodata/xbrain/tree/master/data))<br>
+- **E.L. Dyer**, W.G. Roncal, H.L. Fernandes, D. Gürsoy, X. Xiao, J.T. Vogelstein, C. Jacobsen, K.P. Körding and N. Kasthuri: _Quantifying mesoscale neuroanatomy using X-ray microtomography_ ([Paper](http://dl.dropboxusercontent.com/u/1260288/Papers/Dyer_Xbrain2016.pdf), [Code](http://github.com/neurodata/xbrain/tree/master/code), [Data](http://github.com/neurodata/xbrain/tree/master/data))<br>
 
 - **E.L. Dyer**, W.G. Roncal, D. Gürsoy, R. Vescovi, K.P. Körding, N. Kasthuri: _From sample to knowledge: Towards an integrated approach for neuroscience discovery_ <br>
 
 - **E.L. Dyer**, M. Azar, H.L. Fernandes, M. Perich, L.E. Miller, and K.P. Körding: _Cracking the neural code: A cryptography-inspired approach to brain decoding_ ([Web](http://kordinglab.com/DAD/), [Paper](http://www.dropbox.com/s/qqdabo7drryq42m/Dyer_DAD2016.pdf?dl=0))<br>
 
-- **E.L. Dyer**, T.A. Goldstein, R.J. Patel, K.P. Körding, and R.G. Baraniuk: _Sparse self-expressive decompositions for matrix approximation and clustering_ ([Paper](http://arxiv.org/abs/1505.00824), [Code]())<br>
 <hr>
 
 ### Publications
 
 #### Journal ####
 - A. Mirhoseini, **E.L. Dyer**, E. Songhori, R.G. Baraniuk, and F. Koushanfar, _RankMap: A platform-aware framework for distributed learning from dense datasets_, in review, March 2015. ([Paper](http://arxiv.org/abs/1503.08169), [Code](https://github.com/azalia/RankMap))
+
+- **E.L. Dyer**, T.A. Goldstein, R.J. Patel, K.P. Körding, and R.G. Baraniuk: _Sparse self-expressive decompositions for matrix approximation and clustering_ ([Paper](http://arxiv.org/abs/1505.00824), [Code]())<br>
 
 - **E.L. Dyer**, A.C. Sankaranarayanan, and R.G. Baraniuk, _Greedy feature selection for subspace clustering_, The Journal of Machine Learning Research 14 (1), 2487-2517, September, 2013. ([Paper](https://www.dropbox.com/s/ll13utoiezvnbc6/Dyer_JMLR13.pdf?dl=0))
 
