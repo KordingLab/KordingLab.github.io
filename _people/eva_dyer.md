@@ -14,7 +14,7 @@ joined: 2014
  [Google Scholar](https://scholar.google.com/citations?user=Sb_jcHcAAAAJ&hl=en&oi=ao), [CV](https://www.dropbox.com/s/5ynd3f9uixkdb1e/Dyer_CV.pdf?dl=0)
 
 ### News
-- [(7/26) (X-BRAIN) X-ray microtomography for brain science!](http://www.docs.neurodata.io/xbrain/) Check out our new paper on using X-rays for mesoscale brain mapping. We present an end-to-end pipeline for collecting, analyzing, and quantifying neuroanatomical structure using X-ray microtomography. Image data, segmentations, and ground truth data are all available for download.
+- [(7/26) (X-BRAIN) X-ray microtomography for brain science!](http://docs.neurodata.io/xbrain/) Check out our new paper on using X-rays for mesoscale brain mapping. We present an end-to-end pipeline for collecting, analyzing, and quantifying neuroanatomical structure using X-ray microtomography. Image data, segmentations, and ground truth data are all available for download.
 - [(7/1) Convex Relaxation Regression (CoRR) at UAI](http://dl.dropboxusercontent.com/u/1260288/Papers/Azar_UAI2016.pdf) ~ Mohammad and I recently presented CoRR at UAI 2016 ([Slides](https://dl.dropboxusercontent.com/u/1260288/Talks/Dyer_UAI2016.pdf)).
 <hr>
 
