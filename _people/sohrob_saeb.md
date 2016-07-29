@@ -71,6 +71,10 @@ We have already conducted a [study](http://journals.plos.org/plosone/article?id=
 
 #### Journals
 
+**S Saeb***, L Lonini*, A Jayaraman, DC Mohr, K Körding, _"Voodoo machine learning for clinical predictions,"_ under review, 2016. [preprint](http://biorxiv.org/content/early/2016/06/19/059774)
+
+**S Saeb**, E Lattie, SM Schueller, K Körding, DC Mohr, _"The relationship between mobile phone location sensor data and depressive symptom severity,"_ under review, 2016.
+
 **S Saeb**, K Körding, DC Mohr, _"Making activity recognition robust against deceptive behavior,"_ PLoS ONE 10(12), 2015, e0144795. [link](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0144795)
 
 **S Saeb**, M Zhang, CJ Karr, SM Schueller, ME Corden, K Körding, DC Mohr, _Mobile phone sensor correlates of depressive symptom severity in daily-life behavior: an exploratory study,_ Journal of Medical Internet Research, 17(7), 2015, e175. [link](http://www.jmir.org/2015/7/e175/)
@@ -110,3 +114,7 @@ A Farajidavar, S Gharibzadeh, F Towhidkhah, **S Saeb**, _A cybernetic view on wi
 **S Saeb**, C Weber. _Toward a goal-directed construction of state spaces._ Frontiers in Computational Neuroscience, Conference Abstract: Bernstein Conference on Computational Neuroscience, Frankfurt am Main, Germany, 30 Sep - 2 Oct, 2009. [abstract](http://www.frontiersin.org/10.3389/conf.neuro.10.2009.14.019/event_abstract), [poster](http://klab.smpp.northwestern.edu/wiki/images/0/05/SaebBCCN09_poster.pdf)
 
 **S Saeb**, A Farajidavar, _Spike-time dependent plasticity could explain temporal tuning of auditory cortical cells,_ Computational and Systems Neuroscience (COSYNE), Salt Lake City, Utah, USA, 2008. [abstract](http://klab.smpp.northwestern.edu/wiki/images/8/8b/SaebCOSYNE08.pdf)
+
+#### Scientific News Media
+
+**S Saeb**, Your mobile phone knows where you go and what you do – and maybe even when you’re feeling down, The Conversation, August 3, 2015. [link](http://theconversation.com/your-mobile-phone-knows-where-you-go-and-what-you-do-and-maybe-even-when-youre-feeling-down-45360)
