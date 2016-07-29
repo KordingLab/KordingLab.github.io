@@ -39,7 +39,7 @@ We have already conducted a [study](http://journals.plos.org/plosone/article?id=
 
 ##### Cross-Validation in Clinical Predictions
 
-The application of machine learning for clinical predictions is growing. Examples range from using accelerometers to detect the severity of Parkinson's disease to [analyzing speech for predicting the onset of psychosis](http://www.nature.com/articles/npjschz201530). A crucial step in using machine learning is to properly evaluate their accuracy, and this is performed through various cross-validation methods.
+The application of machine learning in clinical predictions is quickly growing. Examples range from using accelerometers to detect the severity of Parkinson's disease to [analyzing speech for predicting the onset of psychosis](http://www.nature.com/articles/npjschz201530). A crucial step in using machine learning is to properly evaluate their accuracy, and this is performed through various cross-validation methods.
 
 In a recent study (preprint [here](http://biorxiv.org/content/early/2016/06/19/059774)), we showed how a popular cross-validation method massively overestimates the prediction accuracy of the algorithms. We also performed a systematic review of the literature, and showed that about 45% of the studies using machine learning for clinical predictions using the wrong method.
 
