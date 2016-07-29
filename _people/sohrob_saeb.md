@@ -37,6 +37,12 @@ Current smartphone and wearable sensor technologies allow us to detect a person'
 
 We have already conducted a [study](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0144795), in which we asked volunteers to deliberately make the activity tracker fail, and then used those data to re-adapt the tracker. We aim to extend our methodology to more challenging tasks as well as other modalities in future.
 
+##### Cross-Validation in Clinical Predictions
+
+The application of machine learning for clinical predictions is growing. Examples range from using accelerometers to detect the severity of Parkinson's disease to [analyzing speech for predicting the onset of psychosis](http://www.nature.com/articles/npjschz201530). A crucial step in using machine learning is to properly evaluate their accuracy, and this is performed through various cross-validation methods.
+
+In a recent study (preprint [here](http://biorxiv.org/content/early/2016/06/19/059774)), we showed how a popular cross-validation method massively overestimates the prediction accuracy of the algorithms. We also performed a systematic review of the literature, and showed that about 45% of the studies using machine learning for clinical predictions using the wrong method.
+
 ---
 
 ### Media
