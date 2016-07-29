@@ -71,7 +71,7 @@ We have already conducted a [study](http://journals.plos.org/plosone/article?id=
 
 #### Journals
 
-**S Saeb***, L Lonini*, A Jayaraman, DC Mohr, K Körding, _"Voodoo machine learning for clinical predictions,"_ under review, 2016. [preprint](http://biorxiv.org/content/early/2016/06/19/059774)
+**S Saeb**, L Lonini, A Jayaraman, DC Mohr, K Körding, _"Voodoo machine learning for clinical predictions,"_ under review, 2016. [preprint](http://biorxiv.org/content/early/2016/06/19/059774)
 
 **S Saeb**, E Lattie, SM Schueller, K Körding, DC Mohr, _"The relationship between mobile phone location sensor data and depressive symptom severity,"_ under review, 2016.
 
