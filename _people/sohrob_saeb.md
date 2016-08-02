@@ -14,7 +14,7 @@ Department of Preventive Medicine, Northwestern University<br>
 <i class="fa fa-envelope-o"></i>  `s-saeb aht northwestern doht edu`<br>
 <i class="fa fa-twitter"></i> [@sosata](https://twitter.com/sosata)<br>
 <i class="fa fa-google"></i> [Google Scholar](https://scholar.google.com/citations?user=9jqURCEAAAAJ&hl=en)<br>
-<i class="fa fa-github"></i> [Github](https://github.com/sosata)<br>
+<i class="fa fa-github"></i> [GitHub](https://github.com/sosata)<br>
 
 ---
 
