@@ -26,28 +26,24 @@ I am currently a Research Scientist in the [Bayesian Behavior Lab](http://klab.s
 <hr>
 
 ### In the pipeline...
-- **E.L. Dyer**, W.G. Roncal, D. Gürsoy, R. Vescovi, K.P. Körding, N. Kasthuri: _From sample to knowledge: Towards an integrated approach for neuroscience discovery_ <br>
+- **E.L. Dyer**, W.G. Roncal, H.L. Fernandes, D. Gürsoy, V. De Andrade, R. Vescovi, K. Fezzaa, X. Xiao, J.T. Vogelstein, C. Jacobsen, K.P. Körding and N. Kasthuri, _Quantifying mesoscale neuroanatomy using X-ray microtomography_, in review, July 2016.  ([Paper](http://dl.dropboxusercontent.com/u/1260288/Papers/Dyer_Xbrain2016.pdf), [Code](http://github.com/neurodata/xbrain/tree/master/code), [Data](http://github.com/neurodata/xbrain/tree/master/data))
 
 - **E.L. Dyer**, M. Azar, H.L. Fernandes, M. Perich, L.E. Miller, and K.P. Körding: _Cracking the neural code: A cryptography-inspired approach to brain decoding_ ([Web](http://kordinglab.com/DAD/), [Paper](http://www.dropbox.com/s/qqdabo7drryq42m/Dyer_DAD2016.pdf?dl=0))<br>
 
-<hr>
-
-### Publications
-
-#### Journal ####
-- **E.L. Dyer**, W.G. Roncal, H.L. Fernandes, D. Gürsoy, V. De Andrade, R. Vescovi, K. Fezzaa, X. Xiao, J.T. Vogelstein, C. Jacobsen, K.P. Körding and N. Kasthuri, _Quantifying mesoscale neuroanatomy using X-ray microtomography_, in review, July 2016.  ([Paper](http://dl.dropboxusercontent.com/u/1260288/Papers/Dyer_Xbrain2016.pdf), [Code](http://github.com/neurodata/xbrain/tree/master/code), [Data](http://github.com/neurodata/xbrain/tree/master/data))
+- **E.L. Dyer**, W.G. Roncal, D. Gürsoy, R. Vescovi, K.P. Körding, N. Kasthuri: _From sample to knowledge: Towards an integrated approach for neuroscience discovery_ <br>
 
 - A. Mirhoseini, **E.L. Dyer**, E. Songhori, R.G. Baraniuk, and F. Koushanfar, _RankMap: A platform-aware framework for distributed learning from dense datasets_, in review, March 2015. ([Paper](http://arxiv.org/abs/1503.08169), [Code](https://github.com/azalia/RankMap))
 
 - **E.L. Dyer**, T.A. Goldstein, R.J. Patel, K.P. Körding, and R.G. Baraniuk: _Sparse self-expressive decompositions for matrix approximation and clustering_ ([Paper](http://arxiv.org/abs/1505.00824), [Code]())
+<hr>
 
-- **E.L. Dyer**, A.C. Sankaranarayanan, and R.G. Baraniuk, _Greedy feature selection for subspace clustering_, The Journal of Machine Learning Research 14 (1), 2487-2517, September, 2013. ([Paper](https://www.dropbox.com/s/ll13utoiezvnbc6/Dyer_JMLR13.pdf?dl=0))
-
-#### Conference ####
+### Publications
 
 - M. Azar, **E.L. Dyer**, and K.P. Körding, _Convex relaxation regression: Black-Box optimization of smooth functions by learning their convex envelopes_, Proceedings of the Conference on Uncertainty in Artificial Intelligence (UAI), June 2016. ([Paper](http://arxiv.org/abs/1602.02191), [Poster](https://dl.dropboxusercontent.com/u/1260288/Posters/Dyer_UAI2016.png), [Slides](https://dl.dropboxusercontent.com/u/1260288/Talks/Dyer_UAI2016.pdf))<br>
 
 - R.J. Patel, T.A. Goldstein, **E.L. Dyer**, A. Mirhoseini, and R.G. Baraniuk, _Deterministic column sampling for low rank approximation: Nystrom vs. Incomplete Cholesky Decomposition_, SIAM Data Mining (SDM) Conference, May 2016. ([Paper](https://www.dropbox.com/s/o4wl96k2hdxxuhf/Patel_SDM2016.pdf?dl=0), [Code](https://bitbucket.org/rjp2/oasis/))
+
+- **E.L. Dyer**, A.C. Sankaranarayanan, and R.G. Baraniuk, _Greedy feature selection for subspace clustering_, The Journal of Machine Learning Research 14 (1), 2487-2517, September, 2013. ([Paper](https://www.dropbox.com/s/ll13utoiezvnbc6/Dyer_JMLR13.pdf?dl=0))
 
 - **E.L. Dyer**, C. Studer, J.T. Robinson, and R.G Baraniuk, _A robust and efficient method to recover neural events from noisy and corrupted data_, IEEE EMBS Neural Engineering (NER) Conference, 2013. ([Paper](https://www.dropbox.com/s/9bse7aly4bqh2d0/Dyer_EMBS2014.pdf?dl=0), [Code](https://github.com/KordingLab/nerds))
 
