@@ -26,13 +26,13 @@ I am currently a Research Scientist in the [Bayesian Behavior Lab](http://klab.s
 <hr>
 
 ### In the pipeline...
-- **E.L. Dyer**, W.G. Roncal, H.L. Fernandes, D. Gürsoy, V. De Andrade, R. Vescovi, K. Fezzaa, X. Xiao, J.T. Vogelstein, C. Jacobsen, K.P. Körding and N. Kasthuri, _Quantifying mesoscale neuroanatomy using X-ray microtomography_, in review, July 2016.  ([Paper](http://dl.dropboxusercontent.com/u/1260288/Papers/Dyer_Xbrain2016.pdf), [Code](http://github.com/neurodata/xbrain/tree/master/code), [Data](http://github.com/neurodata/xbrain/tree/master/data))
+- **E.L. Dyer**, W.G. Roncal, H.L. Fernandes, D. Gürsoy, V. De Andrade, R. Vescovi, K. Fezzaa, X. Xiao, J.T. Vogelstein, C. Jacobsen, K.P. Körding and N. Kasthuri, _Quantifying mesoscale neuroanatomy using X-ray microtomography_  ([Paper](http://dl.dropboxusercontent.com/u/1260288/Papers/Dyer_Xbrain2016.pdf), [Code](http://github.com/neurodata/xbrain/tree/master/code), [Data](http://github.com/neurodata/xbrain/tree/master/data))
 
 - **E.L. Dyer**, M. Azar, H.L. Fernandes, M. Perich, L.E. Miller, and K.P. Körding: _Cracking the neural code: A cryptography-inspired approach to brain decoding_ ([Web](http://kordinglab.com/DAD/), [Paper](http://www.dropbox.com/s/qqdabo7drryq42m/Dyer_DAD2016.pdf?dl=0))<br>
 
 - **E.L. Dyer**, W.G. Roncal, D. Gürsoy, R. Vescovi, K.P. Körding, N. Kasthuri: _From sample to knowledge: Towards an integrated approach for neuroscience discovery_ <br>
 
-- A. Mirhoseini, **E.L. Dyer**, E. Songhori, R.G. Baraniuk, and F. Koushanfar, _RankMap: A platform-aware framework for distributed learning from dense datasets_, in review, March 2015. ([Paper](http://arxiv.org/abs/1503.08169), [Code](https://github.com/azalia/RankMap))
+- A. Mirhoseini, **E.L. Dyer**, E. Songhori, R.G. Baraniuk, and F. Koushanfar, _RankMap: A platform-aware framework for distributed learning from dense datasets_, ([Paper](http://arxiv.org/abs/1503.08169), [Code](https://github.com/azalia/RankMap))
 
 - **E.L. Dyer**, T.A. Goldstein, R.J. Patel, K.P. Körding, and R.G. Baraniuk: _Sparse self-expressive decompositions for matrix approximation and clustering_ ([Paper](http://arxiv.org/abs/1505.00824), [Code]())
 <hr>
