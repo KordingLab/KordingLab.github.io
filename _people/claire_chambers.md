@@ -1,7 +1,7 @@
 ---
 name: Claire Chambers
 position: postdoc
-avatar: clair_profile.jpg
+avatar: clair.jpg
 joined: 2015
 ---
 
