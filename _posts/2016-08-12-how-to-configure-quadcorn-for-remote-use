@@ -1,0 +1,59 @@
+---
+title: Setting up Quadcorn for remote use
+categories: students
+---
+
+Purpose: Documenting how we configured @quadcorn for remote access.
+
+
+**On the server**
+
+Setup user accounts on quadcorn
+```
+>> sudo useradd --create-home USERNAME
+```
+
+Once you have created the users, setup the usergroup.
+```
+>> sudo groupadd -r GROUPNAME
+```
+
+Add each user the the group.
+```
+>> sudo usermod -a -G GROUPNAME user1
+>> sudo usermod -a -G GROUPNAME user2
+```
+
+Open the SSH Daemon config file.
+```
+>> atom /etc/ssh/sshd_config
+```
+
+Add the following lines to only allow our user group:
+```
+#Which groups of users to allow
+AllowGroups GROUPNAME
+
+Edit the port number with a custom PORT_NUMBER:
+
+```
+#What ports, IPs and protocols we listen for
+#Port 22
+Port PORT_NUMBER
+```
+
+Check that X11 forwarding is set to yes:
+```
+X11Forwarding yes
+```
+
+We used:
+GROUPNAME=kordinglab
+PORT_NUMBER=5000
+
+Once this is done, just restart the ssh server:
+```
+sudo service sshd restart
+```
+
+**On your client**
