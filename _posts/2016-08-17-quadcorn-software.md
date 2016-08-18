@@ -109,9 +109,9 @@ Edit/create `~/.theanorc`:
 ```
 [global]
 floatX = float32
-device = GPUX
+device = gpuX
 ```
-choose as GPUX your assigned gpu, there will be random inspections. Grad students all share `gpu1`. `klab` uses `gpu0`
+choose as `gpuX` your assigned gpu, there will be random inspections. Grad students all share `gpu1`. `klab` uses `gpu0`
 
 ##### [Tensorflow](https://www.tensorflow.org/versions/r0.10/get_started/os_setup.html#using-pip)
 
