@@ -36,6 +36,12 @@ and change it to:
 ```
 X11Forwarding no
 ```
+After saving the changes, restart the ssh service:
+
+```
+$ sudo service ssh restart
+```
+
 Stop the default X server by running:
 
 ```
@@ -43,6 +49,15 @@ $ sudo service mdm stop
 ```
 
 The latest supported version of CUDA is 7.5 which can be downloaded from [here](https://developer.nvidia.com/cuda-downloads). Select Linux > X86_64 > Ubuntu > 14.04 > runfile (local). Follow the instructions on that page.
+
+After finishing the installation of CUDA, undo the change that you made to /etc/ssh/sshd_config, and restart the ssh server using
+```
+sudo service ssh restart
+```
+. Also, start the X server again: 
+```
+sudo service mdm start
+```
 
 ### Installing cuDNN
 
@@ -58,7 +73,7 @@ $ sudo chmod a+r /usr/local/cuda/lib64/libcudnn*
 
 ### Software
 
-To install for **all users**
+To install for all users
 
 ```
 $ sudo -i
