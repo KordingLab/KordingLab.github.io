@@ -10,7 +10,13 @@ We generally followed the instructions in [Setting up a Deep Learning Machine fr
 
 ### Installing NVidia Drivers 
 
-NVidia graphics card drivers should be downloaded from [here](http://www.geforce.com/drivers/results/105343) and installed.
+Before installing the drivers, make sure there are no nvidia drivers already installed by doing the following:
+
+```
+$ sudo apt-get --purge remove nvidia-*
+```
+
+And reboot. Then download NVidia drivers from [here](http://www.geforce.com/drivers/results/105343) and install them according to instructions.
 
 ### Installing CUDA
 
