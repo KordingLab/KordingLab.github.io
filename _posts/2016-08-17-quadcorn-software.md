@@ -79,7 +79,7 @@ $ sudo cp */libcudnn* /usr/local/cuda/lib64/
 $ sudo chmod a+r /usr/local/cuda/lib64/libcudnn*
 ```
 
-### Software
+## Software
 
 To install for all users
 
@@ -95,15 +95,40 @@ To install only for user then add `--user` at the end. E.g.:
 $ python setup.py install --user
 ```
 
-Here are some specifics and extra software:
+Here are some specific instructions:
 
+
+
+##### Theano
+
+```
+$ pip install theano
+```
+
+Edit/create `~/.theanorc`:
+```
+[global]
+floatX = float32
+device = GPUX
+```
+choose as GPUX your assigned gpu, there will be random inspections. Grad students all share `gpu1`. `klab` uses `gpu0`
 
 ##### [Tensorflow](https://www.tensorflow.org/versions/r0.10/get_started/os_setup.html#using-pip)
 
 ```
 $ export TF_BINARY_URL=https://storage.googleapis.com/tensorflow/linux/gpu/tensorflow-0.10.0rc0-cp27-none-linux_x86_64.whl
-$ sudo pip install --ignore-installed --upgrade $TF_BINARY_URL
+$ pip install --ignore-installed --upgrade $TF_BINARY_URL
 ```
+Note: right now `tensorflow` is not working because we are using `cuDNN v5`. Either wait for it to be compatible or downgrade `cuDNN` to `v4` when we really need to use tensorflow (don't do it). Or try to compile/install `tensorflow` [from source](https://www.tensorflow.org/versions/r0.10/get_started/os_setup.html#installing-from-sources) (good luck with that).
+
+##### Keras
+
+```
+$ pip install keras
+```
+
+See [here](https://keras.io/backend/) to choose `tensorflow` and `theano` in `Keras`
+
 
 ##### [XGBoost](https://xgboost.readthedocs.io/en/latest/build.html#building-on-ubuntu-debian)
 
@@ -120,5 +145,3 @@ $ python setup.py install
 ```
 $ conda install opencv
 ```
-
-
