@@ -8,15 +8,16 @@ categories: blog
 We generally followed the instructions in [Setting up a Deep Learning Machine from Scratch](https://github.com/saiprashanths/dl-setup).
 
 
-## Installing NVidia Drivers 
+### Installing NVidia Drivers 
 
 NVidia graphics card drivers should be downloaded from [here](http://www.geforce.com/drivers/results/105343) and installed.
 
-## Installing CUDA
+### Installing CUDA
 
 Install AMD ATI drivers:
+
 ```
-sudo apt-get install fglrx-updates
+$ sudo apt-get install fglrx-updates
 ```
 
 Stop the SSH X11 forwarding by modifying /etc/ssh/sshd_config:
@@ -43,7 +44,7 @@ $ sudo service mdm stop
 
 The latest supported version of CUDA is 7.5 which can be downloaded from [here](https://developer.nvidia.com/cuda-downloads). Select Linux > X86_64 > Ubuntu > 14.04 > runfile (local). Follow the instructions on that page.
 
-## Installing cuDNN
+### Installing cuDNN
 
 Download cuDNN from [here](https://developer.nvidia.com/cudnn). Select a version which is compatible with CUDA. After downloading, do the following:
 
@@ -55,7 +56,7 @@ $ sudo cp */libcudnn* /usr/local/cuda/lib64/
 $ sudo chmod a+r /usr/local/cuda/lib64/libcudnn*
 ```
 
-## Software
+### Software
 
 To install for **all users**
 
