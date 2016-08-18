@@ -21,7 +21,31 @@ To install only for user then add `--user` at the end. E.g.:
 $ python setup.py install --user
 ```
 
+## Installing NVidia Drivers 
 
+NVidia graphics card drivers should be downloaded from [here](http://www.geforce.com/drivers/results/105343) and installed.
+
+## Installing CUDA
+
+1. Install AMD ATI drivers:
+```
+sudo apt-get install fglrx-updates
+```
+
+2. Stop the SSH X11 forwarding by modifying /etc/ssh/sshd_config:
+```
+sudo nano /etc/ssh/ssh_config
+```
+Find the following line:
+X11Forwarding yes
+and change it to:
+X11Forwarding no
+
+3. Stop the default X server by running:
+```
+sudo service mdm stop
+```
+4. The latest supported version of CUDA is 7.5 which can be downloaded from [here](https://developer.nvidia.com/cuda-downloads). Select Linux > X86_64 > Ubuntu > 14.04 > runfile (local). Follow the instructions on that page.
 
 ## Software list
 
