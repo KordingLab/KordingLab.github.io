@@ -14,13 +14,15 @@ NVidia graphics card drivers should be downloaded from [here](http://www.geforce
 
 ### Installing CUDA
 
-Install AMD ATI drivers:
+First, install some AMD drivers that will be used by CUDA.
 
 ```
 $ sudo apt-get install fglrx-updates
 ```
 
-Stop the SSH X11 forwarding by modifying /etc/ssh/sshd_config:
+After installation, reboot the computer.
+
+Next, stop the SSH X11 forwarding by modifying /etc/ssh/sshd_config:
 
 ```
 $ sudo nano /etc/ssh/sshd_config
@@ -36,19 +38,19 @@ and change it to:
 ```
 X11Forwarding no
 ```
-After saving the changes, restart the ssh service:
+After saving the changes, restart the ssh service by typing:
 
 ```
 $ sudo service ssh restart
 ```
 
-Stop the default X server by running:
+Now, stop the default X server by typing:
 
 ```
 $ sudo service mdm stop
 ```
 
-The latest supported version of CUDA is 7.5 which can be downloaded from [here](https://developer.nvidia.com/cuda-downloads). Select Linux > X86_64 > Ubuntu > 14.04 > runfile (local). Follow the instructions on that page.
+Now we can install CUDA. The latest supported version is 7.5 which can be downloaded from [here](https://developer.nvidia.com/cuda-downloads). Select Linux > X86_64 > Ubuntu > 14.04 > runfile (local). Follow the instructions on the page to complete the installation.
 
 After finishing the installation of CUDA, undo the change that you made to /etc/ssh/sshd_config, and restart the ssh server using
 ```
@@ -94,7 +96,7 @@ Here are some specifics and extra software:
 
 ```
 $ export TF_BINARY_URL=https://storage.googleapis.com/tensorflow/linux/gpu/tensorflow-0.10.0rc0-cp27-none-linux_x86_64.whl
-$ pip install --ignore-installed --upgrade $TF_BINARY_URL
+$ sudo pip install --ignore-installed --upgrade $TF_BINARY_URL
 ```
 
 ##### [XGBoost](https://xgboost.readthedocs.io/en/latest/build.html#building-on-ubuntu-debian)
