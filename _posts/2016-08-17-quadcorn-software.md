@@ -61,6 +61,7 @@ Now we can install CUDA. The latest supported version is 7.5 which can be downlo
 After finishing the installation of CUDA, undo the change that you made to /etc/ssh/sshd_config, and restart the ssh server using
 ```
 sudo service ssh restart
+
 ```
 . Also, start the X server again: 
 ```
@@ -106,11 +107,13 @@ $ pip install theano
 ```
 
 Edit/create `~/.theanorc`:
+
 ```
 [global]
 floatX = float32
 device = gpuX
 ```
+
 choose as `gpuX` your assigned gpu, there will be random inspections. Grad students all share `gpu1`. `klab` uses `gpu0`
 
 ##### [Tensorflow](https://www.tensorflow.org/versions/r0.10/get_started/os_setup.html#using-pip)
@@ -119,6 +122,7 @@ choose as `gpuX` your assigned gpu, there will be random inspections. Grad stude
 $ export TF_BINARY_URL=https://storage.googleapis.com/tensorflow/linux/gpu/tensorflow-0.10.0rc0-cp27-none-linux_x86_64.whl
 $ pip install --ignore-installed --upgrade $TF_BINARY_URL
 ```
+
 Note: right now `tensorflow` is not working because we are using `cuDNN v5`. Either wait for it to be compatible or downgrade `cuDNN` to `v4` when we really need to use tensorflow (don't do it). Or try to compile/install `tensorflow` [from source](https://www.tensorflow.org/versions/r0.10/get_started/os_setup.html#installing-from-sources) (good luck with that).
 
 ##### Keras
