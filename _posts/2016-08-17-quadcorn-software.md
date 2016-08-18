@@ -58,15 +58,7 @@ $ sudo service mdm stop
 
 Now we can install CUDA. The latest supported version is 7.5 which can be downloaded from [here](https://developer.nvidia.com/cuda-downloads). Select Linux > X86_64 > Ubuntu > 14.04 > runfile (local). Follow the instructions on the page to complete the installation.
 
-After finishing the installation of CUDA, undo the change that you made to /etc/ssh/sshd_config, and restart the ssh server using
-```
-sudo service ssh restart
-
-```
-. Also, start the X server again: 
-```
-sudo service mdm start
-```
+After finishing the installation of CUDA, undo the change that you made to /etc/ssh/sshd_config, and restart the ssh server using `sudo service ssh restart`. Also, start the X server again: `sudo service mdm start`
 
 ### Installing cuDNN
 
