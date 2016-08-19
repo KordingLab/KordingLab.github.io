@@ -1,14 +1,14 @@
 ---
-title: Tunneling and Screen
+title: Screen and Tunneling
 description: 
 categories: blog
 ---
 
-### Screen
+## Screen
 
 Screen is a useful Linux tool to create multiple shell windows within a single SSH connection, and to leave them running after logging out of the SSH.
 
-#some important screen commands
+#### Some Important Screen Commands
 
 To create a new screen:
 
