@@ -12,13 +12,13 @@ Screen is a useful Linux tool to create multiple shell windows within a single S
 
 To create a new screen:
 
-```
+```bash
 $ screen
 ```
 
 To terminate a screen:
 
-```
+```bash
 $ exit
 ```
 
@@ -30,13 +30,13 @@ To leave a screen without terminating it:
 
 To see a list of current running screens:
 
-```
+```bash
 $ screen -ls
 ```
 
 To reconnect (re-attach) to an existing screen:
 
-```
+```bash
 $ screen -r <SCREEN ID>
 ```
 
@@ -55,7 +55,7 @@ Strong suggestion: choose the port number using the following command in `python
 
 ssh to Quadcorn with tunneling using the following command:
 
-```
+```bash
 $ ssh <USERNAME>@<QUADCORN> -p 5000 -L 8888:localhost:<iPython Notebook PORT>
 ```
 
@@ -65,7 +65,7 @@ Recommended: On Quadcorn, create a screen using the `screen` command.
   
 Initiate iPython Notebook:
 
-```
+```bash
 $ ipython notebook --no-browser --port=<iPython Notebook PORT>
 ```
 
