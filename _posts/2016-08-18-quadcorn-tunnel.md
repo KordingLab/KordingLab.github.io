@@ -72,4 +72,4 @@ $ ipython notebook --no-browser --port=<iPython Notebook PORT>
 
 Your iPython Notebook is now ready to use. Just type `localhost:8888` in your browser.
 
-Note: If you created a screen, you can leave the screen (detach) by pressing `CTRL+a+d`, and log out of the machine.
+Note: If you created a screen, you can leave the screen (detach) by pressing `CTRL+a+d`.
