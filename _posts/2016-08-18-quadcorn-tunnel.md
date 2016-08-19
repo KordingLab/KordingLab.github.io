@@ -46,7 +46,7 @@ Tunneling allows you to map a local port on the host machine (Quadcorn) to a por
 
 Before moving forward, choose a specific iPython Notebook port for yourself so that there is no interference with other users. 
 
-Suggestion: choose the port number using the following command and using your own full name:
+Strong suggestion: choose the port number using the following command and using your own full name:
 
 ```
 In [1]: sum([ord(c) for c in 'Konrad Paul Kording'])
@@ -56,7 +56,7 @@ Out[1]: 1791
 Next, ssh to Quadcorn with tunneling using the following command:
 
 ```
-$ ssh <USERNAME>@<QUADCORN> -p 5000 -L <LOCAL PORT>:localhost:<iPython Notebook PORT>
+$ ssh <USERNAME>@<QUADCORN> -p 5000 -L 8888:localhost:<iPython Notebook PORT>
 ```
 
 where `<QUADCORN>` is Quadcorn's IP address. 
