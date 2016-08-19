@@ -46,38 +46,38 @@ Tunneling allows you to map a local port on the host machine (Quadcorn) to a por
 
 Before moving forward, choose a specific iPython Notebook port for yourself so that there is no interference with other users. 
 
-1. Strong suggestion: choose the port number using the following command and using your own full name:
+0. Strong suggestion: choose the port number using the following command and using your own full name:
 
-```
-In [1]: sum([ord(c) for c in 'Konrad Paul Kording'])
-Out[1]: 1791
-```
+  ```
+  In [1]: sum([ord(c) for c in 'Konrad Paul Kording'])
+  Out[1]: 1791
+  ```
+  
+1. ssh to Quadcorn with tunneling using the following command:
 
-2. ssh to Quadcorn with tunneling using the following command:
+  ```
+  $ ssh <USERNAME>@<QUADCORN> -p 5000 -L 8888:localhost:<iPython Notebook PORT>
+  ```
 
-```
-$ ssh <USERNAME>@<QUADCORN> -p 5000 -L 8888:localhost:<iPython Notebook PORT>
-```
+  where `<QUADCORN>` is Quadcorn's IP address. 
 
-where `<QUADCORN>` is Quadcorn's IP address. 
+  Recommended: On Quadcorn, create a screen using the `screen` command.
 
-Recommended: Now on Quadcorn, create a screen using the `screen` command.
+2. Initiate iPython Notebook:
 
-3. Initiate iPython Notebook:
+  ```
+  $ ipython notebook --no-browser --port=<iPython Notebook PORT>
+  ```
+  
+  `<iPython Notebook PORT>` is the unique port number that you created for yourself. 
+  
+3. Your iPython Notebook is now ready to use. Just type
 
-```
-$ ipython notebook --no-browser --port=<iPython Notebook PORT>
-```
+  ```
+  localhost:8888
+  ```
 
-`<iPython Notebook PORT>` is the unique port number that you created for yourself. 
-
-4. Your iPython Notebook is now ready to use. Just type
-
-```
-localhost:8888
-```
-
-in your browser.
+  in your browser.
 
 Note: If you created a screen, you can leave the screen (detach) by pressing `CTRL+a+d`.
 If you logout of the machine, the tunnel will be disconneted but iPython notebook will remain running. Next time you only need to repeat the tunnel command (Step 2), you don't need to initiate iPython notebook again.
