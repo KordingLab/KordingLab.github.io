@@ -1,6 +1,6 @@
 ---
 title: Screen and Tunneling
-description: 
+description: How to tunnel and how to use screen
 categories: blog
 ---
 
@@ -44,33 +44,32 @@ $ screen -r <SCREEN ID>
 
 Tunneling allows you to map a local port on the host machine (Quadcorn) to a port on your own machine (laptop). Using tunneling, we are able to run iPython Notebook on Quadcorn and access it from our laptop.
 
-Before moving forward, choose a specific iPython Notebook port for yourself so that there is no interference with other users. Choose the port number using the following command in `ipython` using your own full name:
+Before moving forward, choose a specific iPython Notebook port for yourself so that there is no interference with other users. 
+
+Suggestion: choose the port number using the following command and using your own full name:
 
 ```
 In [1]: sum([ord(c) for c in 'Konrad Paul Kording'])
 Out[1]: 1791
 ```
 
-Next, ssh to Quadcorn normally:
+Next, ssh to Quadcorn with tunneling using the following command:
 
 ```
-$ ssh <USERNAME>@<QUADCORN> -p 5000
+$ ssh <USERNAME>@<QUADCORN> -p 5000 -L <LOCAL PORT>:localhost:<iPython Notebook PORT>
 ```
 
-where `<QUADCORN>` is Quadcorn's IP address. Now on Quadcorn, create a screen using the `screen` command, and type the following:
+where `<QUADCORN>` is Quadcorn's IP address. 
 
+Recommended: Now on Quadcorn, create a screen using the `screen` command.
+
+Initiate iPython Notebook:
 ```
-$ ipython notebook --no-browser --port=<PORT>
-```
-
-`<PORT>` is the unique port number that you created for yourself. After iPython Notebook started running, leave the screen (detach) by pressing `CTRL+a+d`, and log out of the machine.
-
-Now ssh again into Quadcorn, but this time with tunneling using the following command:
-
-```
-$ ssh <USERNAME>@<QUADCORN> -p 5000 -L 8888:localhost:<PORT> -N
+$ ipython notebook --no-browser --port=<iPython Notebook PORT>
 ```
 
-where you replace `<PORT>` with your specific port number.
+`<iPython Notebook PORT>` is the unique port number that you created for yourself. 
 
 Your iPython Notebook is now ready to use. Just type `localhost:8888` in your browser.
+
+Note: If you created a screen, you can leave the screen (detach) by pressing `CTRL+a+d`, and log out of the machine.
