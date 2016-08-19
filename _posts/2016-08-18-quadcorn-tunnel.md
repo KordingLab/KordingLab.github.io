@@ -54,13 +54,13 @@ Out[1]: 1791
 Next, ssh to Quadcorn normally:
 
 ```
-ssh <USERNAME>@<QUADCORN> -p 5000
+$ ssh <USERNAME>@<QUADCORN> -p 5000
 ```
 
 where `<QUADCORN>` is Quadcorn's IP address. Now on Quadcorn, create a screen using the `screen` command, and type the following:
 
 ```
-ipython notebook --no-browser --port=<PORT>
+$ ipython notebook --no-browser --port=<PORT>
 ```
 
 `<PORT>` is the unique port number that you created for yourself. After iPython Notebook started running, leave the screen (detach) by pressing `CTRL+a+d`, and log out of the machine.
@@ -68,7 +68,7 @@ ipython notebook --no-browser --port=<PORT>
 Now ssh again into Quadcorn, but this time with tunneling using the following command:
 
 ```
-ssh <USERNAME>@<QUADCORN> -p 5000 -L <PORT>:localhost:8888 -N
+$ ssh <USERNAME>@<QUADCORN> -p 5000 -L <PORT>:localhost:8888 -N
 ```
 
 where you replace `<PORT>` with your specific port number.
