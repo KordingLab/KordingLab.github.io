@@ -14,19 +14,19 @@ joined: 2014
  [Google Scholar](https://scholar.google.com/citations?user=Sb_jcHcAAAAJ&hl=en&oi=ao), [CV](https://www.dropbox.com/s/5ynd3f9uixkdb1e/Dyer_CV.pdf?dl=0)
 
 ### News
-- [(7/26) (X-BRAIN) X-ray microtomography for brain science!](http://docs.neurodata.io/xbrain/) Check out our new paper on using X-rays for mesoscale brain mapping. We present an end-to-end pipeline for collecting, analyzing, and quantifying neuroanatomical structure using X-ray microtomography. Image data, segmentations, and ground truth data are all available for download.
-- [(7/1) Convex Relaxation Regression (CoRR) at UAI](http://dl.dropboxusercontent.com/u/1260288/Papers/Azar_UAI2016.pdf) ~ Mohammad and I recently presented CoRR at UAI 2016 ([Slides](https://dl.dropboxusercontent.com/u/1260288/Talks/Dyer_UAI2016.pdf)).
+- I am co-organizing a workshop at NIPS called [Brains & Bits: Neuroscience Meets Machine Learning](http://www.stat.ucla.edu/~akfletcher/brainsbits.html). We are accepting abstract and papers for posters and talks until Sept. 29th, 2016. Come and join us in Barcelona!
+
+- Check out [xbrain-py](http://github.com/evadyer/xbrain-py), a new set of python tools for segmenting and analyzing X-ray brain volumes!
 <hr>
 
 ### Bio
-
 
 I am currently a Research Scientist in the [Bayesian Behavior Lab](http://klab.smpp.northwestern.edu/wiki/index.php5/Main_Page) at the Rehabilitation Institute of Chicago, where I work with Konrad Körding on numerous projects related to large-scale neuroanatomy and optimization. I completed my Ph.D. in Electrical & Computer Engineering at Rice University under the supervision of [Richard Baraniuk](http://web.ece.rice.edu/richb/) in 2014. While at Rice, I had the opportunity to co-design and serve as the Matlab content guru for the initial launch of [301x](https://www.edx.org/course/discrete-time-signals-systems-part-1-ricex-elec301-1x), an edX course on Discrete-Time Signals and Systems. Before that, I received a BSEE from the University of Miami, where I completed a double major in Audio Engineering and Physics. At the University of Miami, I worked for the Edward Arnold Center for Confluent Media Studies as a multimedia designer and an assistant sound designer for the documentary [One Water: A collaborative effort for a sustainable future](http://www.onewater.org/movie).
 
 <hr>
 
 ### In the pipeline...
-- **E.L. Dyer**, W.G. Roncal, H.L. Fernandes, D. Gürsoy, V. De Andrade, R. Vescovi, K. Fezzaa, X. Xiao, J.T. Vogelstein, C. Jacobsen, K.P. Körding and N. Kasthuri, _Quantifying mesoscale neuroanatomy using X-ray microtomography_  ([Paper](http://dl.dropboxusercontent.com/u/1260288/Papers/Dyer_Xbrain2016.pdf), [Code](http://github.com/neurodata/xbrain/tree/master/code), [Data](http://github.com/neurodata/xbrain/tree/master/data))
+- **E.L. Dyer**, W.G. Roncal, H.L. Fernandes, D. Gürsoy, V. De Andrade, R. Vescovi, K. Fezzaa, X. Xiao, J.T. Vogelstein, C. Jacobsen, K.P. Körding and N. Kasthuri, _Quantifying mesoscale neuroanatomy using X-ray microtomography_  ([Paper](https://arxiv.org/abs/1604.03629), [Xbrain (w/Data)](http://github.com/neurodata/xbrain/tree/master/code), [Data](http://github.com/neurodata/xbrain/tree/master/data), [Xbrain-Py](http://github.com/evadyer/xbrain-py))
 
 - **E.L. Dyer**, M. Azar, H.L. Fernandes, M. Perich, L.E. Miller, and K.P. Körding: _Cracking the neural code: A cryptography-inspired approach to brain decoding_ ([Web](http://kordinglab.com/DAD/), [Paper](http://www.dropbox.com/s/qqdabo7drryq42m/Dyer_DAD2016.pdf?dl=0))<br>
 
