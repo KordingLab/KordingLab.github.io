@@ -78,9 +78,13 @@ In a recent study ([preprint](http://biorxiv.org/content/early/2016/06/19/059774
 
 #### Journals
 
+**S Saeb\***, L Lonini\*, A Jayaraman, DC Mohr, K Körding, _The need to approximate the use-case in clinical machine learning_. under review, 2016.
+
+**S Saeb**, T Cybulski, K Körding, DC Mohr, _"Scalable passive sleep monitoring using smartphones: opportunities and obstacles"_ . under review, 2016.
+
 **S Saeb\***, L Lonini\*, A Jayaraman, DC Mohr, K Körding, _"Voodoo machine learning for clinical predictions,"_ under review, 2016. [preprint](http://biorxiv.org/content/early/2016/06/19/059774)
 
-**S Saeb**, E Lattie, SM Schueller, K Körding, DC Mohr, _"The relationship between mobile phone location sensor data and depressive symptom severity,"_ under review, 2016.
+**S Saeb**, E Lattie, SM Schueller, K Körding, DC Mohr, _"The relationship between mobile phone location sensor data and depressive symptom severity,"_ . PeerJ 4:e2537, 2016.
 
 **S Saeb**, K Körding, DC Mohr, _"Making activity recognition robust against deceptive behavior,"_ PLoS ONE 10(12), 2015, e0144795. [link](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0144795)
 
