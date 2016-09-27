@@ -1,7 +1,7 @@
 ---
 name: Daniel E. Acuna
 title: Daniel E. Acuna, Ph.D. - Science of Science research
-position: postdoc
+position: alumni
 avatar: daniel.jpg
 twitter: daniel_akuna
 joined: 2011

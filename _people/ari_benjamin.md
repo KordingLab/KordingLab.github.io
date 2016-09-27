@@ -1,11 +1,12 @@
 ---
 name: Ari Benjamin
 position: gradstudent
-avatar:
+avatar: ari_benjamin.jpg
 twitter:
 joined: 2016
 ---
 
+<img width="200" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 ### Contact
 
