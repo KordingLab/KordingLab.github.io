@@ -80,23 +80,23 @@ In a recent study ([preprint](http://biorxiv.org/content/early/2016/06/19/059774
 
 **S Saeb\***, L Lonini\*, A Jayaraman, DC Mohr, K Körding, _The need to approximate the use-case in clinical machine learning_. under review, 2016.
 
-**S Saeb**, T Cybulski, K Körding, DC Mohr, _"Scalable passive sleep monitoring using smartphones: opportunities and obstacles"_ . under review, 2016.
+**S Saeb**, T Cybulski, K Körding, DC Mohr, _Scalable passive sleep monitoring using smartphones: opportunities and obstacles_. under review, 2016.
 
-**S Saeb\***, L Lonini\*, A Jayaraman, DC Mohr, K Körding, _"Voodoo machine learning for clinical predictions,"_ under review, 2016. [preprint](http://biorxiv.org/content/early/2016/06/19/059774)
+**S Saeb\***, L Lonini\*, A Jayaraman, DC Mohr, K Körding, _Voodoo machine learning for clinical predictions_. bioRxiv, 059774, 2016. [link](http://biorxiv.org/content/early/2016/06/19/059774)
 
-**S Saeb**, E Lattie, SM Schueller, K Körding, DC Mohr, _"The relationship between mobile phone location sensor data and depressive symptom severity,"_ . PeerJ 4:e2537, 2016.
+**S Saeb**, E Lattie, SM Schueller, K Körding, DC Mohr, _The relationship between mobile phone location sensor data and depressive symptom severity_. PeerJ 4:e2537, 2016.
 
-**S Saeb**, K Körding, DC Mohr, _"Making activity recognition robust against deceptive behavior,"_ PLoS ONE 10(12), 2015, e0144795. [link](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0144795)
+**S Saeb**, K Körding, DC Mohr, _Making activity recognition robust against deceptive behavior_. PLoS ONE 10(12), 2015, e0144795. [link](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0144795)
 
-**S Saeb**, M Zhang, CJ Karr, SM Schueller, ME Corden, K Körding, DC Mohr, _Mobile phone sensor correlates of depressive symptom severity in daily-life behavior: an exploratory study,_ Journal of Medical Internet Research, 17(7), 2015, e175. [link](http://www.jmir.org/2015/7/e175/)
+**S Saeb**, M Zhang, CJ Karr, SM Schueller, ME Corden, K Körding, DC Mohr, _Mobile phone sensor correlates of depressive symptom severity in daily-life behavior: an exploratory study_. Journal of Medical Internet Research, 17(7), 2015, e175. [link](http://www.jmir.org/2015/7/e175/)
 
-**S Saeb**, C Weber, J Triesch, _Learning the optimal control of coordinated eye and head movements,_ PLoS Computational Biology, 7(11), 2011, e1002253. [link](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002253),[PDF](https://www2.informatik.uni-hamburg.de/wtm/ps/2011_PLoS_Saeb.1002253.pdf)
+**S Saeb**, C Weber, J Triesch, _Learning the optimal control of coordinated eye and head movements_. PLoS Computational Biology, 7(11), 2011, e1002253. [link](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002253),[PDF](https://www2.informatik.uni-hamburg.de/wtm/ps/2011_PLoS_Saeb.1002253.pdf)
 
-**S Saeb**, C Weber, J Triesch, _Goal directed learning of features and forward models,_ Neural Networks, 22 (5-6), 2009, pp. 586-592. [link](http://www.sciencedirect.com/science/article/pii/S0893608009001245),[PDF](https://fias.uni-frankfurt.de/fileadmin/fias/triesch/publications/SaebEtAl-NeuralNetworks-2009.pdf)
+**S Saeb**, C Weber, J Triesch, _Goal directed learning of features and forward models_. Neural Networks, 22 (5-6), 2009, pp. 586-592. [link](http://www.sciencedirect.com/science/article/pii/S0893608009001245),[PDF](https://fias.uni-frankfurt.de/fileadmin/fias/triesch/publications/SaebEtAl-NeuralNetworks-2009.pdf)
 
-A Farajidavar, **S Saeb**, K Behbehani, _Incorporating spike-timing dependent plasticity (STDP) and dynamic synapse into a computational model of wind-up,_ Neural Networks, 21(2-3), 2008, pp. 241-249. [link](http://www.sciencedirect.com/science/article/pii/S089360800700264X)
+A Farajidavar, **S Saeb**, K Behbehani, _Incorporating spike-timing dependent plasticity (STDP) and dynamic synapse into a computational model of wind-up_. Neural Networks, 21(2-3), 2008, pp. 241-249. [link](http://www.sciencedirect.com/science/article/pii/S089360800700264X)
 
-M Amiri, **S Saeb**, MJ Yazdanpanah, SA Seyyedsalehi, _Analysis of the dynamical behavior of a feedback auto-associative memory,_ Neurocomputing 71(4-6), 2008, pp. 486-94. [link](http://www.sciencedirect.com/science/article/pii/S0925231207002809)
+M Amiri, **S Saeb**, MJ Yazdanpanah, SA Seyyedsalehi, _Analysis of the dynamical behavior of a feedback auto-associative memory_. Neurocomputing 71(4-6), 2008, pp. 486-94. [link](http://www.sciencedirect.com/science/article/pii/S0925231207002809)
 
 **S Saeb**, S Gharibzadeh, F Towhidkhah, A Farajidavar, _Modeling the primary auditory cortex using dynamic synapses: can synaptic plasticity explain the temporal tuning?_ Theoretical Biology, 241(1), 2007, pp. 1-9. [link](http://www.sciencedirect.com/science/article/pii/S0022519307001415)
 
