@@ -1,7 +1,7 @@
 ---
 name: Roozbeh Farhoodi
 position: visiting
-avatar: roozbeh.jpg
+avatar: roozbeh_2.jpg
 twitter:
 joined: 2015
 ---

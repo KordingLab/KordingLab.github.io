@@ -1,13 +1,13 @@
 ---
 name: Titipat Achakulvisut
 position: gradstudent
-avatar: titipat.jpg
+avatar: titipat_2.jpg
 twitter: titipat_a
 github: titipata
 joined: 2014
 ---
 
-<img width="200" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 <a href="https://github.com/titipata"><i class="fa fa-github"></i> Github</a><br>
 <a href="https://twitter.com/titipat_a"><i class="fa fa-twitter"></i> Twitter</a>
