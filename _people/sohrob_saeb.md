@@ -84,7 +84,7 @@ In a recent study ([preprint](http://biorxiv.org/content/early/2016/06/19/059774
 
 **S Saeb\***, L Lonini\*, A Jayaraman, DC Mohr, K Körding, _Voodoo machine learning for clinical predictions_. bioRxiv, 059774, 2016. [link](http://biorxiv.org/content/early/2016/06/19/059774)
 
-**S Saeb**, E Lattie, SM Schueller, K Körding, DC Mohr, _The relationship between mobile phone location sensor data and depressive symptom severity_. PeerJ 4:e2537, 2016.
+**S Saeb**, E Lattie, SM Schueller, K Körding, DC Mohr, _The relationship between mobile phone location sensor data and depressive symptom severity_. PeerJ 4:e2537, 2016. [link](https://doi.org/10.7717/peerj.2537)
 
 **S Saeb**, K Körding, DC Mohr, _Making activity recognition robust against deceptive behavior_. PLoS ONE 10(12), 2015, e0144795. [link](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0144795)
 
