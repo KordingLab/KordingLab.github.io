@@ -39,13 +39,9 @@ Synthetic neurophysiology using deep convolutional neural networks <br>
 
 
 ###### Other
-Learning in Aphasia: The Impact of Break versus Blocked Treatment Schedules <br>
-<sup>Lee, Braun, Fernandes, Hurwitz, Kording, van Vuuren, Cherney</sup> <br>
-
-
 Cracking the neural code: a cryptography-inspired approach to brain decoding <br>
 <sup> Dyer EL\*, Azar MG\*, Fernandes HL, Perich MG , Lee ME, Körding KP (\*authors contributed equally)</sup> <br>
-<sup>[Abstract](http://kordinglab.com/DAD/)</sup>
+<sup>[bioRxiv](http://www.biorxiv.org/content/early/2016/10/14/080861)</sup>
 
 
 Quantifying mesoscale neuroanatomy using X-ray microtomography <br>
