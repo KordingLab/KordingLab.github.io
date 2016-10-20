@@ -10,6 +10,9 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 <hr>
 
 ### 2016
+_A cryptography-based approach for movement decoding_<br>
+Eva L Dyer, Mohammad G Azar, Hugo L Fernandes, Matthew Perich, Stephanie Naufel, Lee Miller, Konrad Körding
+bioRxiv, 2016 ([Article](http://biorxiv.org/content/early/2016/10/14/080861))
 
 _Could a neuroscientist understand a microprocessor?_<br>
 Eric Jonas, Konrad Kording<br>
@@ -37,11 +40,11 @@ Journal of Neural Engineering, In Press
 
 _Quantifying mesoscale neuroanatomy using X-ray microtomography_<br>
 Eva L Dyer, William Gray Roncal, Hugo L. Fernandes, Doga Gürsoy, Xianghui Xiao, Joshua T. Vogelstein, Chris Jacobsen, Konrad P. Körding, Narayanan Kasthuri <br>
-arXiv ([Article](http://arxiv.org/abs/1604.03629))
+arXiv ([Article](http://arxiv.org/abs/1604.03629), [Web](http://docs.neurodata.io/xbrain))
 
 _Convex Relaxation Regression: Black-Box Optimization of Smooth Functions by Learning Their Convex Envelopes_<br>
 Mohammad Gheshlaghi Azar, Eva L Dyer, Konrad P Körding <br>
-To appear in the Conference on Uncertainty in Artificial Intelligence (UAI) Proceedings, June 2016
+Proc. of the Conference on Uncertainty in Artificial Intelligence (UAI) Proceedings, June 2016
 ([Article](http://arxiv.org/abs/1602.02191))
 
 _The Development and Analysis of Integrated Neuroscience Data_<br>
