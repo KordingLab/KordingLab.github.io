@@ -1,11 +1,12 @@
 ---
 name: Daniel Wood
 position: postdoc
-avatar: 
+avatar: daniel_wood.jpg
 twitter:
 joined: 2014
 ---
 
+<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 I do biological and computational investigations of the visuomotor system. Currently pursuing two directions:
 
