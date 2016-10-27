@@ -11,9 +11,10 @@ joined: 2014
 <i class="fa fa-building"></i> 345 East Superior Street, Chicago IL, 60611<br>
 <i class="fa fa-envelope-o"></i> `edyer@ric.org`<br>
 <i class="fa fa-external-link"></i>
- [Google Scholar](https://scholar.google.com/citations?user=Sb_jcHcAAAAJ&hl=en&oi=ao), [CV](https://www.dropbox.com/s/5ynd3f9uixkdb1e/Dyer_CV.pdf?dl=0)
+ [Google Scholar](https://scholar.google.com/citations?user=Sb_jcHcAAAAJ&hl=en&oi=ao), [CV](https://www.dropbox.com/s/5ynd3f9uixkdb1e/Dyer_CV.pdf?dl=0), [Personal page](http://evadyer.github.com)
 
 ### News
+- Check out my [new paper](http://biorxiv.org/content/early/2016/10/14/080861) on brain decoding!
 - I am co-organizing a workshop at NIPS called [Brains & Bits: Neuroscience Meets Machine Learning](http://www.stat.ucla.edu/~akfletcher/brainsbits.html). We are accepting abstract and papers for posters and talks until Sept. 29th, 2016. Come and join us in Barcelona!
 
 - Check out [xbrain-py](http://github.com/evadyer/xbrain-py), a new set of python tools for segmenting and analyzing X-ray brain volumes!
@@ -21,7 +22,7 @@ joined: 2014
 
 ### Bio
 
-I am currently a Research Scientist in the [Bayesian Behavior Lab](http://kordinglab.com) at the Rehabilitation Institute of Chicago, where I work with Konrad Körding on numerous projects related to large-scale neuroanatomy and optimization. I completed my Ph.D. in Electrical & Computer Engineering at Rice University under the supervision of [Richard Baraniuk](http://web.ece.rice.edu/richb/) in 2014. While at Rice, I had the opportunity to co-design and serve as the Matlab content guru for the initial launch of [301x](https://www.edx.org/course/discrete-time-signals-systems-part-1-ricex-elec301-1x), an edX course on Discrete-Time Signals and Systems. Before that, I received a BSEE from the University of Miami, where I completed a double major in Audio Engineering and Physics. At the University of Miami, I worked for the Edward Arnold Center for Confluent Media Studies as a multimedia designer and an assistant sound designer for the documentary [One Water: A collaborative effort for a sustainable future](http://www.onewater.org/movie).
+I am currently a Research Scientist in the [Bayesian Behavior Lab](http://kordinglab.com) at the Rehabilitation Institute of Chicago, where I work with Konrad Körding. I completed my Ph.D. in Electrical & Computer Engineering at Rice University under the supervision of [Richard Baraniuk](http://web.ece.rice.edu/richb/) in 2014. While at Rice, I had the opportunity to co-design and serve as the Matlab content guru for the initial launch of [301x](https://www.edx.org/course/discrete-time-signals-systems-part-1-ricex-elec301-1x), an edX course on Discrete-Time Signals and Systems. Before that, I received a BSEE from the University of Miami, where I completed a double major in Audio Engineering and Physics. At the University of Miami, I worked for the Edward Arnold Center for Confluent Media Studies as a multimedia designer and an assistant sound designer for the documentary [One Water: A collaborative effort for a sustainable future](http://www.onewater.org/movie).
 
 <hr>
 
