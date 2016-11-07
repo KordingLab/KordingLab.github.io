@@ -11,34 +11,35 @@ joined: 2014
 <i class="fa fa-building"></i> 345 East Superior Street, Chicago IL, 60611<br>
 <i class="fa fa-envelope-o"></i> `edyer@ric.org`<br>
 <i class="fa fa-external-link"></i>
- [Google Scholar](https://scholar.google.com/citations?user=Sb_jcHcAAAAJ&hl=en&oi=ao), [CV](https://www.dropbox.com/s/5ynd3f9uixkdb1e/Dyer_CV.pdf?dl=0), [Personal page](http://evadyer.github.com)
+[[Scholar]](https://scholar.google.com/citations?user=Sb_jcHcAAAAJ&hl=en&oi=ao) 
+[[CV]](https://www.dropbox.com/s/5ynd3f9uixkdb1e/Dyer_CV.pdf?dl=0)
+[[Personal page]](http://evadyer.github.com)
 
 ### News
+- My [paper](https://arxiv.org/pdf/1503.08169.pdf) on distributed learning was just accepted to IEEE Trans. on Neural Networks and Learning Systems!
 - Check out my [new paper](http://biorxiv.org/content/early/2016/10/14/080861) on brain decoding!
 - I am co-organizing a workshop at NIPS called [Brains & Bits: Neuroscience Meets Machine Learning](http://www.stat.ucla.edu/~akfletcher/brainsbits.html). We are accepting abstract and papers for posters and talks until Sept. 29th, 2016. Come and join us in Barcelona!
-
 - Check out [xbrain-py](http://github.com/evadyer/xbrain-py), a new set of python tools for segmenting and analyzing X-ray brain volumes!
 <hr>
 
 ### Bio
 
-I am currently a Research Scientist in the [Bayesian Behavior Lab](http://kordinglab.com) at the Rehabilitation Institute of Chicago, where I work with Konrad Körding. I completed my Ph.D. in Electrical & Computer Engineering at Rice University under the supervision of [Richard Baraniuk](http://web.ece.rice.edu/richb/) in 2014. While at Rice, I had the opportunity to co-design and serve as the Matlab content guru for the initial launch of [301x](https://www.edx.org/course/discrete-time-signals-systems-part-1-ricex-elec301-1x), an edX course on Discrete-Time Signals and Systems. Before that, I received a BSEE from the University of Miami, where I completed a double major in Audio Engineering and Physics. At the University of Miami, I worked for the Edward Arnold Center for Confluent Media Studies as a multimedia designer and an assistant sound designer for the documentary [One Water: A collaborative effort for a sustainable future](http://www.onewater.org/movie).
+I am currently a Research Scientist in the [Bayesian Behavior Lab](http://kordinglab.com) at the Rehabilitation Institute of Chicago, where I work with Konrad Körding. I completed my Ph.D. in Electrical & Computer Engineering at Rice University under the supervision of [Richard Baraniuk](http://web.ece.rice.edu/richb/) in 2014. While at Rice, I co-developed the edX MOOC [Discrete-Time Signals and Systems](https://www.edx.org/course/discrete-time-signals-systems-part-1-ricex-elec301-1x). Before that, I received a BSEE from the University of Miami, where I completed a double major in Audio Engineering and Physics. At the University of Miami, I was an assistant sound designer for the documentary [One Water: A collaborative effort for a sustainable future](http://www.onewater.org/movie).
 
 <hr>
 
 ### In the pipeline...
-- **E.L. Dyer**, W.G. Roncal, H.L. Fernandes, D. Gürsoy, V. De Andrade, R. Vescovi, K. Fezzaa, X. Xiao, J.T. Vogelstein, C. Jacobsen, K.P. Körding and N. Kasthuri, _Quantifying mesoscale neuroanatomy using X-ray microtomography_  ([Paper](https://arxiv.org/abs/1604.03629), [Xbrain (w/Data)](http://github.com/neurodata/xbrain/tree/master/code), [Data](http://github.com/neurodata/xbrain/tree/master/data), [Xbrain-Py](http://github.com/evadyer/xbrain-py))
+- **E.L. Dyer**, W.G. Roncal, H.L. Fernandes, D. Gürsoy, V. De Andrade, R. Vescovi, K. Fezzaa, X. Xiao, J.T. Vogelstein, C. Jacobsen, K.P. Körding and N. Kasthuri, _Quantifying mesoscale neuroanatomy using X-ray microtomography_  ([Paper](https://arxiv.org/abs/1604.03629), [Xbrain-Main](http://github.com/neurodata/xbrain/tree/master/code), [Data](http://github.com/neurodata/xbrain/tree/master/data), [Xbrain-Py](http://github.com/evadyer/xbrain-py))
 
 - **E.L. Dyer**, M. Azar, H.L. Fernandes, M. Perich, L.E. Miller, and K.P. Körding: _Cracking the neural code: A cryptography-inspired approach to brain decoding_ ([Web](http://kordinglab.com/DAD/), [Paper](http://www.dropbox.com/s/qqdabo7drryq42m/Dyer_DAD2016.pdf?dl=0))<br>
 
 - **E.L. Dyer**, W.G. Roncal, D. Gürsoy, R. Vescovi, K.P. Körding, N. Kasthuri: _From sample to knowledge: Towards an integrated approach for neuroscience discovery_ <br>
 
-- A. Mirhoseini, **E.L. Dyer**, E. Songhori, R.G. Baraniuk, and F. Koushanfar, _RankMap: A platform-aware framework for distributed learning from dense datasets_, ([Paper](http://arxiv.org/abs/1503.08169), [Code](https://github.com/azalia/RankMap))
-
 - **E.L. Dyer**, T.A. Goldstein, R.J. Patel, K.P. Körding, and R.G. Baraniuk: _Sparse self-expressive decompositions for matrix approximation and clustering_ ([Paper](http://arxiv.org/abs/1505.00824), [Code]())
 <hr>
 
 ### Publications
+- A. Mirhoseini, **E.L. Dyer**, E. Songhori, R.G. Baraniuk, and F. Koushanfar, _RankMap: A platform-aware framework for distributed learning from dense datasets_, accepted to IEEE Trans. on Neural Networks and Learning Systems, November 2016. ([Preprint](http://arxiv.org/abs/1503.08169), [Code](https://github.com/azalia/RankMap))
 
 - M. Azar, **E.L. Dyer**, and K.P. Körding, _Convex relaxation regression: Black-Box optimization of smooth functions by learning their convex envelopes_, Proceedings of the Conference on Uncertainty in Artificial Intelligence (UAI), June 2016. ([Paper](http://arxiv.org/abs/1602.02191), [Poster](https://dl.dropboxusercontent.com/u/1260288/Posters/Dyer_UAI2016.png), [Slides](https://dl.dropboxusercontent.com/u/1260288/Talks/Dyer_UAI2016.pdf))<br>
 
@@ -90,7 +91,7 @@ I am currently a Research Scientist in the [Bayesian Behavior Lab](http://kordin
 <hr>
 
 ### Code ###
-- XBRAIN: X-ray Brain Reconstruction, Analytics, and INference ([Code](http://github.com/neurodata/xbrain/tree/master/code))
+- XBRAIN: X-ray Brain Reconstruction, Analytics, and INference ([Main Repo](http://github.com/neurodata/xbrain/), [Python code](http://github.com/evadyer/xbrain-py))
 - RankMap API for Distributed Learning ([Code](https://github.com/azalia/RankMap), [Paper](http://arxiv.org/abs/1503.08169))
 - Self-Expressive Decomposition (SEED) ([Code](https://github.com/KordingLab/SEED), [Paper](http://arxiv.org/abs/1505.00824))
 - Accelerated Sequential Incoherence Sampling (oASIS) ([Code](https://bitbucket.org/rjp2/oasis/), [Paper](http://arxiv.org/abs/1505.05208))
