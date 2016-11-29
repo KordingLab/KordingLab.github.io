@@ -10,8 +10,17 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 <hr>
 
 ### 2016
+
+_Ten simple rules for structuring papers_<br>
+Konrad P Kording, Brett Mensh<br>
+bioRxiv 2016 ([Article](http://biorxiv.org/content/early/2016/11/28/088278))
+
+_Science Concierge: A Fast Content-Based Recommendation System for Scientific Publications_<br>
+Titipat Achakulvisut, Daniel E. Acuna, Tulakan Ruangrong, Konrad Kording<br>
+PLoS ONE, 2016 ([Article](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0158423), [Github](https://github.com/titipata/science_concierge))
+
 _A cryptography-based approach for movement decoding_<br>
-Eva L Dyer, Mohammad G Azar, Hugo L Fernandes, Matthew Perich, Stephanie Naufel, Lee Miller, Konrad Körding
+Eva L Dyer, Mohammad G Azar, Hugo L Fernandes, Matthew Perich, Stephanie Naufel, Lee Miller, Konrad Körding<br>
 bioRxiv, 2016 ([Article](http://biorxiv.org/content/early/2016/10/14/080861))
 
 _Could a neuroscientist understand a microprocessor?_<br>
@@ -19,12 +28,12 @@ Eric Jonas, Konrad Kording<br>
 bioRxiv, 2016 ([Article](http://biorxiv.org/content/early/2016/05/26/055624))
 
 _Uncertainty leads to persistent representations of alternative movements in PMd_ <br>
-Brian M. Dekleva, Pavan Ramkumar, Paul A. Wanda, Konrad P. Körding, Lee E. Miller <br> 
-eLife, In Press. 
+Brian M. Dekleva, Pavan Ramkumar, Paul A. Wanda, Konrad P. Körding, Lee E. Miller <br>
+eLife, In Press.
 
 _Feature-based attention and spatial selection in frontal eye fields during natural scene search_ <br>
 Pavan Ramkumar\*, Pat N. Lawlor\*, Joshua I. Glaser, Daniel K. Wood, Mark A. Segraves, Konrad P. Körding <br>
-Journal of Neurophysiology, In Press. 
+Journal of Neurophysiology, In Press.
 
 _The role of expected reward in frontal eye field during natural scene search_ <br>
 Joshua I Glaser\*, Daniel K Wood\*, Patrick N Lawlor, Pavan Ramkumar, Konrad P. Kording, Mark A. Segraves <br>
