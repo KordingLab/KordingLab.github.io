@@ -5,7 +5,7 @@ avatar: clair.jpg
 joined: 2015
 ---
 
-<img width="250" src="{{site.baseurl}}/images/people/clair.jpg" data-action="zoom">
+<img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 ### Contact
 
