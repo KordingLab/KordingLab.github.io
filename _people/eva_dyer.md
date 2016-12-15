@@ -16,7 +16,7 @@ joined: 2014
 [[Personal page]](http://evadyer.github.com)
 
 ### News
-- My [paper](https://arxiv.org/pdf/1503.08169.pdf) on distributed learning was just accepted to IEEE Trans. on Neural Networks and Learning Systems!
+- [RankMap](https://arxiv.org/pdf/1503.08169.pdf) was finally accepted to IEEE Trans. on Neural Networks and Learning Systems!
 - Check out my [new paper](http://biorxiv.org/content/early/2016/10/14/080861) on brain decoding!
 - I am co-organizing a workshop at NIPS called [Brains & Bits: Neuroscience Meets Machine Learning](http://www.stat.ucla.edu/~akfletcher/brainsbits.html). We are accepting abstract and papers for posters and talks until Sept. 29th, 2016. Come and join us in Barcelona!
 - Check out [xbrain-py](http://github.com/evadyer/xbrain-py), a new set of python tools for segmenting and analyzing X-ray brain volumes!
