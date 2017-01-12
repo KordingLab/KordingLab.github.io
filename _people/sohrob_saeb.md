@@ -48,7 +48,7 @@ In a recent study ([preprint](http://biorxiv.org/content/early/2016/06/19/059774
 
 ### Media
 
-<br><img src="http://www.timeinc.com/wp-content/uploads/2014/04/fortune_logo_wht_updated.png" style="width: 125px;float:left;PADDING-RIGHT:20px"/>
+<br><img src="http://www.timeinc.com/wp-content/uploads/2014/04/fortune_logo_wht_updated.png" style="width: 125px;float:left;PADDING-RIGHT:20px;background:black"/>
 [Activity trackers could be better. So why aren’t they?](http://fortune.com/2016/01/22/fitness-tracker-cheating-study/) January 2016.
 
 <br><img src="http://i.dailymail.co.uk/i/sitelogos/dailymailcom_sml.png" style="width:125px;float:left;PADDING-RIGHT:20px"/>
