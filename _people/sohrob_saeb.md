@@ -20,7 +20,7 @@ Department of Preventive Medicine, Northwestern University<br>
 
 ### About
 
-I received my PhD in Computer Science (Computational Neuroscience) from Goethe-Universität Frankfurt, Germany, focusing on modeling the neurocomputational mechanisms of saccadic eye and head movements in primate brain. I used neural networks and reinforcement learning to model [adaptive control of saccades](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002253) and to deal with [uncertainty in active vision](http://www.sciencedirect.com/science/article/pii/S0893608009001245?np=y). My current research at Northwestern University focuses on the application of machine learning and sensor technology to mental healthcare, in which I use sensor data collected from smartphones and wearable devices to infer information about different aspects of individuals' daily-life behaviors and their environments (see Projects).
+I received my PhD in Computer Science (Computational Neuroscience) from Goethe-Universität Frankfurt, Germany, focusing on modeling the neurocomputational mechanisms of coordinated eye and head movements in primate brain. I used artificial neural networks and reinforcement learning to model [adaptive control of saccades](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002253) and to deal with [uncertainty in active vision](http://www.sciencedirect.com/science/article/pii/S0893608009001245?np=y). My current research at Northwestern University focuses on the application of machine learning and sensor technology to mental healthcare, where I use the sensor data collected from smartphones and wearable devices to infer information about different aspects of individuals' daily-life behaviors and their environments (see Current Projects).
 
 ---
 
@@ -42,7 +42,7 @@ We have already conducted a [study](http://journals.plos.org/plosone/article?id=
 
 The application of machine learning in clinical predictions is rapidly growing. Examples range from using accelerometers to detect the severity of Parkinson's disease to [analyzing speech for predicting the onset of psychosis](http://www.nature.com/articles/npjschz201530). A crucial step in using machine learning is to properly evaluate their accuracy, and this is performed through various cross-validation methods.
 
-In a recent study ([preprint](http://biorxiv.org/content/early/2016/06/19/059774)), we showed how a popular cross-validation method massively overestimates the prediction accuracy of the algorithms. We also performed a systematic review of the literature, and showed that about 45% of the studies using machine learning for clinical predictions have used the wrong method.
+In a recent study ([preprint](http://biorxiv.org/content/early/2016/06/19/059774)), we showed how a popular cross-validation method massively overestimates the prediction accuracy of the algorithms. We also performed a systematic review of the literature, and showed that about 45% of the studies using machine learning for clinical predictions have used the wrong method. The results will be published in _GigaScience_.
 
 ---
 
@@ -78,9 +78,13 @@ In a recent study ([preprint](http://biorxiv.org/content/early/2016/06/19/059774
 
 #### Journals
 
-**S Saeb\***, L Lonini\*, A Jayaraman, DC Mohr, K Körding, _The need to approximate the use-case in clinical machine learning_. under review, 2016.
+**S Saeb**, EG Lattie, K Körding, DC Mohr, _Semantic location from mobile phones: Going beyond GPS_. under review.
 
-**S Saeb**, T Cybulski, K Körding, DC Mohr, _Scalable passive sleep monitoring using smartphones: opportunities and obstacles_. under review, 2016.
+**S Saeb**, T Cybulski, K Körding, DC Mohr, _Scalable passive sleep monitoring using smartphones: opportunities and obstacles_. under review.
+
+**S Saeb\***, L Lonini\*, A Jayaraman, DC Mohr, K Körding, _Response to commentary on "the need to approximate the use-case in clinical machine learning"_. accepted. GigaScience, 2016.
+
+**S Saeb\***, L Lonini\*, A Jayaraman, DC Mohr, K Körding, _The need to approximate the use-case in clinical machine learning_. accepted. GigaScience, 2016.
 
 **S Saeb\***, L Lonini\*, A Jayaraman, DC Mohr, K Körding, _Voodoo machine learning for clinical predictions_. bioRxiv, 059774, 2016. [link](http://biorxiv.org/content/early/2016/06/19/059774)
 
