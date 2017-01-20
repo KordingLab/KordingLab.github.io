@@ -1,7 +1,7 @@
 ---
 name: Konrad Kording
 position: pi
-avatar: konrad_profile_2.jpg
+avatar: konrad_profile_3.jpg
 twitter: KordingLab
 ---
 
