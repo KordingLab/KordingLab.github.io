@@ -82,9 +82,9 @@ In a recent study ([preprint](http://biorxiv.org/content/early/2016/06/19/059774
 
 **S Saeb**, T Cybulski, K Körding, DC Mohr, _Scalable passive sleep monitoring using smartphones: opportunities and obstacles_. under review.
 
-**S Saeb\***, L Lonini\*, A Jayaraman, DC Mohr, K Körding, _Response to commentary on "the need to approximate the use-case in clinical machine learning"_. accepted. GigaScience, 2016.
+MA Little, G Varoquaux, **S Saeb**, L Lonini, A Jayaraman, DC Mohr, K Körding, _Discussion on using and understanding cross-validation strategies_. accepted. GigaScience, 2017.
 
-**S Saeb\***, L Lonini\*, A Jayaraman, DC Mohr, K Körding, _The need to approximate the use-case in clinical machine learning_. accepted. GigaScience, 2016.
+**S Saeb\***, L Lonini\*, A Jayaraman, DC Mohr, K Körding, _The need to approximate the use-case in clinical machine learning_. accepted. GigaScience, 2017.
 
 **S Saeb\***, L Lonini\*, A Jayaraman, DC Mohr, K Körding, _Voodoo machine learning for clinical predictions_. bioRxiv, 059774, 2016. [link](http://biorxiv.org/content/early/2016/06/19/059774)
 
