@@ -24,21 +24,24 @@ Chicago IL, 60611<br>
 
 ### About
 
-My current research interests are focused on predicting patient outcomes in the clinical rehabilitation domain using wearable sensors and machine learning models. The overarching goal of this research is to: 1) build models that can help clinicians plan rehabilitation protocols; 2) understand the benefits of new rehab technologies in terms of functional recovery (e.g. does an advanced prosthetic leg allow a patient to walk more?).
+ I am broadly interested in the application of machine learning and data science methods to augment or improve life. I am currently working on quantifying patient outcomes in clinical rehabilitation using wearables and smartphones data. The overarching goal of this research is to: 1) provide clinicians with quantitative data to tailor rehabilitation programs; 2) understand the benefits of new rehab technologies in terms of functional recovery (e.g. does an advanced prosthetic leg allow a patient to walk more?).
 
-I received my MSc in Biomedical Engineering from University Campus Bio-medico of Rome, Italy and my PhD in Computer Science from Goethe University in Frankfurt, Germany.
+I received my MSc in Biomedical Engineering from University Campus Bio-medico of Rome, Italy and my PhD in Computer Science from Goethe University of Frankfurt, Germany.
 
 During my MSc I worked on a model of the [acquisition and retention of motor tasks](http://dspace.mit.edu/openaccess-disseminate/1721.1/55996) to optimize robotic neuro-rehabilitation (in collaboration with the [Newman Lab at MIT](http://newmanlab.mit.edu/)). Throughout my PhD I worked on a method for [unsupervised learning of active stereo-vision](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3819528/) on the humanoid robot iCub using Sparse Coding and Reinforcement Learning. Here is a [video](https://www.youtube.com/watch?v=BuA6OU2VdhE&feature=youtu.be) of the result.
 
 <hr>
 
 ### Highlights
+
 <br>
-Our paper **"Voodoo Machine Learning for Clinical Predictions"** is on BioRxiv [PDF](http://biorxiv.org/content/biorxiv/early/2016/06/19/059774.full.pdf), [altmetric score](https://biorxiv.altmetric.com/details/8885167)
+Nov 2016: Invited talk at the [IHMC](https://www.ihmc.us/research/) in Penscola, FL on "Quantifying Rehabilitation Outcomes using wearables and smartphones data" [Video](https://www.youtube.com/watch?v=kQz4YQbaZVY)
 
-Our paper **"Activity Recognition in Patients with Lower Limb Impairments: Do we need training data from each patient?"** has been accepted at [EMBC 2016](http://embc.embs.org/2016/)! This year's topic is _"Empowering Individual Healthcare Decisions through Technology"_<br>
+Sep 2016: Our paper **"Voodoo Machine Learning for Clinical Predictions"** is on BioRxiv [PDF](http://biorxiv.org/content/biorxiv/early/2016/06/19/059774.full.pdf), [altmetric score](https://biorxiv.altmetric.com/details/8885167)
 
-We convert clinical scores into Bayesian surprise for evaluating spinal cord injury walking skills with exoskeletons. See our [paper on JNER](http://download.springer.com/static/pdf/450/art%253A10.1186%252Fs12984-016-0142-9.pdf?originUrl=http%3A%2F%2Fjneuroengrehab.biomedcentral.com%2Farticle%2F10.1186%2Fs12984-016-0142-9&token2=exp=1462152638~acl=%2Fstatic%2Fpdf%2F450%2Fart%25253A10.1186%25252Fs12984-016-0142-9.pdf*~hmac=989f7a158dab80ecdb2ff30c0955308e8b66302e906fff4f27864772fcd5ee58)
+Jun 2016: Our paper **"Activity Recognition in Patients with Lower Limb Impairments: Do we need training data from each patient?"** has been accepted at [EMBC 2016](http://embc.embs.org/2016/)! This year's topic is _"Empowering Individual Healthcare Decisions through Technology"_<br>
+
+Mar 2016: We convert clinical scores into Bayesian surprise for evaluating spinal cord injury walking skills with exoskeletons. See our [paper on JNER](http://download.springer.com/static/pdf/450/art%253A10.1186%252Fs12984-016-0142-9.pdf?originUrl=http%3A%2F%2Fjneuroengrehab.biomedcentral.com%2Farticle%2F10.1186%2Fs12984-016-0142-9&token2=exp=1462152638~acl=%2Fstatic%2Fpdf%2F450%2Fart%25253A10.1186%25252Fs12984-016-0142-9.pdf*~hmac=989f7a158dab80ecdb2ff30c0955308e8b66302e906fff4f27864772fcd5ee58)
 
 <hr>
 
@@ -46,27 +49,42 @@ We convert clinical scores into Bayesian surprise for evaluating spinal cord inj
 <br>
 
 _Using wearable accelerometers to detect everyday activities in patients walking with a leg brace_<br>
+<sup> Luca Lonini, Aakash Gupta, Konrad Kording, Arun Jayaraman
 
 <figure><center>
-  <img src="{{site.baseurl}}/images/others/AR.jpg" width="400">
+  <img src="{{site.baseurl}}/images/others/Fig2.jpg" width="=1000" height="200">
 </center></figure>
 <sup> image credit: Aakash Gupta
 
-It has been argued that computer controlled leg orthoses, such as the C-brace ([http://c-brace.ottobock.com](http://c-brace.ottobock.com)), allow people affected by lower limb disabilities to be more active. This should be expected as a traditional stance control orthosis (SCO) does not allow the same adaptive setting of impedance. Here we use machine-learning enabled measurements of everyday activity using an accelerometer to compare the physical activities between the two types of orthoses. We investigate whether we need to train brace-specific, patient-specific or population-specific classifiers.
+Walking assistive devices are useful when they enable individuals with disabilities to function better in daily life. Here we use machine learning to identify functional daily activities from wearable sensors data. Such measurement of daily activities can inform clinicians and researchers on the effectiveness of novel assistive devices. Since different assistive devices are used by each individual, we investigate whether we need to train brace-specific, patient-specific or population-specific activity recognition classifiers.
 
 <br>
+
+_Fall detection in lower limb amputees using mobile phones_<br>
+<sup> Nicholas Shawen, Luca Lonini, Ilona Shparii, Mark Albert, Konrad Kording, Arun Jayaraman
+
+Falls are a common occurrence in the elderly and people with lower-limb amputations, and amongst elderly are the primary cause of injury-related death. Detecting falls and understanding the context where they happen can guide prevention strategies as well as alerting emergency services automatically when needed. Here we train machine learning classifiers to detect falls from mobile phones inertial and GPS sensors data. We train our classifiers using in-lab collected data on simulated falls and improve our model using data continuously collected outside of the lab.
+
+<br>
+
+
 _Does spasticity have a signature?_<br>
+<sup> Luca Lonini, Nicholas Shawen, Konrad Kording, Arun Jayaraman
+
 <figure><center>
   <img src="{{site.baseurl}}/images/others/Spasticity.jpg" width="500">
 </center></figure>
 
-Spasticity is a common set of symptoms in individuals who suffered a stroke or spinal cord injury, which can result in muscle stiffness or uncontrollable leg movements. Using flexible wearable EMG sensors, we are working on the automatic classification of the electrical muscle activity into normal contraction and spastic from EMG data collected on patients.  
+Spasticity is a common set of symptoms in individuals who had a neural injury. It can results in muscle stiffness or uncontrollable arm or leg movements, which can strongly limit everyday activities. Most information on spasticity symptoms is obtained through patient self-report or from in-lab exams, which require dedicated lab equipment and trained clinicians. Using data from flexible wearable EMG sensors, we are working on the automatic classification of the electrical activity of muscles into normal and spastic, with the ultimate goal of long-term quantitative monitoring of such condition.  
 
 
 <hr>
 
 ### Journal Publications
 
+**Humans Can Integrate Augmented Reality Feedback in Their Sensorimotor Control of a Robotic Hand**
+<sup>Clemente F, Dosen S, **Lonini L**, Markovic M, Farina D, Cipriani C. </sup> <br>
+_IEEE Transactions on Human-Machine Systems_ 2016 Oct 11 [PDF](http://ieeexplore.ieee.org/abstract/document/7588033/)
 
 **Vodoo Machine Learning for Clinical Predictions** <br>
 <sup> S.Saeb\*, **L.Lonini**\*, A.Jayaraman, D.Mohr, K.Kording (*authors contributed equally)</sup> <br>
