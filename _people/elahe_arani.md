@@ -1,8 +1,6 @@
 ---
 name: Elahe Arani
 position: visiting
-avatar: elahe.jpg
+avatar: 
 joined: 2016
 ---
-
-<img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}">
