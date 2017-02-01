@@ -52,7 +52,7 @@ _Using wearable accelerometers to detect everyday activities in patients walking
 <sup> Luca Lonini, Aakash Gupta, Konrad Kording, Arun Jayaraman
 
 <figure><center>
-  <img src="{{site.baseurl}}/images/others/Fig2.jpg" width="=1000" height="200">
+  <img src="{{site.baseurl}}/images/others/AR2.jpg" width="=1000" height="200">
 </center></figure>
 <sup> image credit: Aakash Gupta
 
