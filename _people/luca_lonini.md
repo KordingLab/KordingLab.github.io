@@ -1,8 +1,8 @@
 ---
 name: Luca Lonini
 position: postdoc
-avatar: luca.jpg
-twitter:
+avatar: luca_lonini_2.jpg
+twitter: LucaLonini
 joined: 2014
 ---
 
