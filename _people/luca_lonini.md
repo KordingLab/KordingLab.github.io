@@ -24,7 +24,7 @@ Chicago IL, 60611<br>
 
 ### About
 
- I am broadly interested in the application of machine learning and data science methods to augment or improve life. I am currently working on quantifying patient outcomes in clinical rehabilitation using wearables and smartphones data. The overarching goal of this research is to: 1) provide clinicians with quantitative data to tailor rehabilitation programs; 2) understand the benefits of new rehab technologies in terms of functional recovery (e.g. does an advanced prosthetic leg allow a patient to walk more?).
+I am broadly interested in the application of machine learning and data science methods to augment or improve life. I am currently working on quantifying patient outcomes in clinical rehabilitation using wearables and smartphones data. The overarching goal of this research is to: 1) provide clinicians with quantitative data to tailor rehabilitation programs; 2) understand the benefits of new rehab technologies in terms of functional recovery (e.g. does an advanced prosthetic leg allow a patient to walk more?).
 
 I received my MSc in Biomedical Engineering from University Campus Bio-medico of Rome, Italy and my PhD in Computer Science from Goethe University of Frankfurt, Germany.
 
@@ -45,7 +45,7 @@ Mar 2016: We convert clinical scores into Bayesian surprise for evaluating spina
 
 <hr>
 
-### Current projects
+### Projects
 <br>
 
 _Using wearable accelerometers to detect everyday activities in patients walking with a leg brace_<br>
@@ -68,7 +68,7 @@ Falls are a common occurrence in the elderly and people with lower-limb amputati
 <br>
 
 
-_Does spasticity have a signature?_<br>
+_Automatic Detection of Spasticity in individuals with Stroke_<br>
 <sup> Luca Lonini, Nicholas Shawen, Konrad Kording, Arun Jayaraman
 
 <figure><center>
@@ -82,12 +82,24 @@ Spasticity is a common set of symptoms in individuals who had a neural injury. I
 
 ### Journal Publications
 
+**Sensor Fusion to Infer Locations of Standing and Reaching within the Home in Incomplete Spinal Cord Injury**<br>
+ <sup>**Lonini L**, Reissman T, Ochoa MJ, Mummidisetty CK, Kording K, Jayaraman A. </sup> <br>
+_American Journal of Physical Medicine & Rehabilitation, 2017_, Accepted
+
+**Discussion on using and understanding cross-validation strategies** <br>
+<sup> MA Little, G Varoquaux, S Saeb, **L Lonini**, A Jayaraman, DC Mohr, K Körding, </sup> <br>
+_GigaScience, 2017_, Accepted
+
+**The need to approximate the use-case in clinical machine learning** <br>
+<sup>S Saeb\*, **L Lonini**\*, A Jayaraman, DC Mohr, K Körding, (*equal contribution) </sup> <br>
+_GigaScience, 2017_, Accepted
+
 **Humans Can Integrate Augmented Reality Feedback in Their Sensorimotor Control of a Robotic Hand**
 <sup>Clemente F, Dosen S, **Lonini L**, Markovic M, Farina D, Cipriani C. </sup> <br>
 _IEEE Transactions on Human-Machine Systems_ 2016 Oct 11 [PDF](http://ieeexplore.ieee.org/abstract/document/7588033/)
 
 **Vodoo Machine Learning for Clinical Predictions** <br>
-<sup> S.Saeb\*, **L.Lonini**\*, A.Jayaraman, D.Mohr, K.Kording (*authors contributed equally)</sup> <br>
+<sup> S.Saeb\*, **L.Lonini**\*, A.Jayaraman, D.Mohr, K.Kording (*equal contribution) </sup> <br>
 _BioRxiv_, 2016 [PDF](http://biorxiv.org/content/biorxiv/early/2016/06/19/059774.full.pdf), [altmetric score](https://biorxiv.altmetric.com/details/8885167)
 
 **Accelerometry-enabled measurement of walking performance with a robotic exoskeleton: a pilot study**<br>
