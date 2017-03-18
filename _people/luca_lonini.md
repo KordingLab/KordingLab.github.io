@@ -10,6 +10,7 @@ joined: 2014
 
 _Postdoctoral Fellow_<br>
 
+Northwestern University - Physical Medicine and Rehabilitation<br>
 Rehabilitation Institute of Chicago<br>
 345 East Superior Street, Suite 1682<br>
 Chicago IL, 60611<br>
@@ -35,7 +36,10 @@ During my MSc I worked on a model of the [acquisition and retention of motor tas
 ### Highlights
 
 <br>
-Nov 2016: Invited talk at the [IHMC](https://www.ihmc.us/research/) in Penscola, FL on "Quantifying Rehabilitation Outcomes using wearables and smartphones data" [Video](https://www.youtube.com/watch?v=kQz4YQbaZVY)
+
+Mar 2017: Co-organizing the **[Northwestern Data Science Career Evening Workshop](http://www.data-science-career-evening.org/)**, partly supported by a Professional Development awarded by the [The Graduate School](http://www.tgs.northwestern.edu/funding/fellowships-and-grants/internal-grants/professional-development-grant.html) at Northwestern  
+
+Nov 2016: Invited talk at the [IHMC](https://www.ihmc.us/research/) in Penscola, FL on **"Quantifying Rehabilitation Outcomes using wearables and smartphones data"** [Video](https://www.youtube.com/watch?v=kQz4YQbaZVY)
 
 Sep 2016: Our paper **"Voodoo Machine Learning for Clinical Predictions"** is on BioRxiv [PDF](http://biorxiv.org/content/biorxiv/early/2016/06/19/059774.full.pdf), [altmetric score](https://biorxiv.altmetric.com/details/8885167)
 
@@ -61,9 +65,13 @@ Walking assistive devices are useful when they enable individuals with disabilit
 <br>
 
 _Fall detection in lower limb amputees using mobile phones_<br>
-<sup> Nicholas Shawen, Luca Lonini, Ilona Shparii, Mark Albert, Konrad Kording, Arun Jayaraman
+<sup> Luca Lonini\*, Nicholas Shawen\*, Ilona Shparii, Mark Albert, Konrad Kording, Arun Jayaraman
 
-Falls are a common occurrence in the elderly and people with lower-limb amputations, and amongst elderly are the primary cause of injury-related death. Detecting falls and understanding the context where they happen can guide prevention strategies as well as alerting emergency services automatically when needed. Here we train machine learning classifiers to detect falls from mobile phones inertial and GPS sensors data. We train our classifiers using in-lab collected data on simulated falls and improve our model using data continuously collected outside of the lab.
+<figure><center>
+  <img src="{{site.baseurl}}/images/others/Falls.jpg" width="500">
+</center></figure>
+
+Falls are a common occurrence in the elderly and people with lower-limb amputations, and amongst elderly are the primary cause of injury-related death. Detecting falls and understanding the context where they happen can guide prevention strategies as well as alerting emergency services automatically when needed. Here we train machine learning classifiers to detect falls from mobile phones inertial and GPS sensors data. We train our classifiers using in-lab collected data on simulated falls and test our models on data continuously collected on patients and able-bodied individuals during their daily activities.
 
 <br>
 
