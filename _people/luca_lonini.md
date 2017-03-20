@@ -18,6 +18,7 @@ Chicago IL, 60611<br>
 <i class="fa fa-envelope-o"></i> `llonini@ricres.org`<br>
 
 <i class="fa fa-twitter"></i> [@LucaLonini](https://twitter.com/LucaLonini)<br>
+<i class="fa fa-github"></i> [GitHub](https://github.com/Luke3D)<br>
 [<i class="fa fa-linkedin-square"></i> LinkedIn](https://www.linkedin.com/in/lucalonini)<br>
 [<i class="fa fa-google"></i> Google Scholar](https://scholar.google.it/citations?user=xxDk3-EAAAAJ&hl=en)
 
