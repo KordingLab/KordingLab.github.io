@@ -139,7 +139,7 @@ _Journal of biochemical and biophysical methods_, 70(6), pp.1180-1184, 2008 [PDF
 
 **Activity Recognition in Patients with Lower Limb Impairments: Do we need training data from each patient?**<br>
 <sup>**Luca Lonini**, Aakash Gupta, Konrad Kording, Arun Jayaraman</sup><br>
-Accepted in _IEEE Engineering in Medicine and Biology Society (EMBC’16)_
+_Engineering in Medicine and Biology Society (EMBC)_, 2016 IEEE 38th Annual International Conference of the (pp. 3265-3268). [PDF](http://ieeexplore.ieee.org/abstract/document/7591425/)
 
 **Subjective Fatigue is Associated with Higher Resting Energy Expenditure Following Traumatic Brain Injury**<br>
 <sup>David Ripley, **Luca Lonini**, Eric Larson, Korak Sarkar, Sangeeta Patel</sup><br>
