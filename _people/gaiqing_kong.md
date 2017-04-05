@@ -7,7 +7,6 @@ joined: 2016
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 <i class="fa fa-google"></i> [Google Scholar](https://scholar.google.com/citations?user=fndBKQoAAAAJ&hl=zh-CN)<br>
-<i class="fa fa-google"></i> [Researchgate](https://www.researchgate.net/profile/Gaiqing_Kong)<br>
 ---
 
 ### About
