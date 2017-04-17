@@ -52,7 +52,7 @@ In a recent study ([preprint](http://biorxiv.org/content/early/2016/06/19/059774
 
 **S Saeb**, EG Lattie, K Körding, DC Mohr, _Semantic location from mobile phones: Going beyond GPS_. under review.
 
-**S Saeb**, T Cybulski, K Körding, DC Mohr, _Scalable passive sleep monitoring using smartphones: opportunities and obstacles_. accepted. Journal of Medical Internet Research, 2017.
+**S Saeb**, T Cybulski, K Körding, DC Mohr, _Scalable passive sleep monitoring using smartphones: opportunities and obstacles_. Journal of Medical Internet Research, 19(4):e118, 2017.
 
 MA Little, G Varoquaux, **S Saeb**, L Lonini, A Jayaraman, DC Mohr, K Körding, _Using and understanding cross-validation strategies. Perspectives on Saeb et al._. GigaScience, 2017. [link](https://academic.oup.com/gigascience/article-lookup/doi/10.1093/gigascience/gix020)
 
