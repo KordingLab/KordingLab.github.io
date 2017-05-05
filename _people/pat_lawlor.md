@@ -1,6 +1,6 @@
 ---
 name: Pat Lawlor
-position: gradstudent
+position: alumni
 avatar: pat.jpg
 twitter:
 joined: 2012
