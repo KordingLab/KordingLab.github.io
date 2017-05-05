@@ -1,6 +1,6 @@
 ---
 name: David Brandfonbrener
-position: visiting
+position: alumni
 avatar: david.jpg
 twitter:
 joined: 2016
