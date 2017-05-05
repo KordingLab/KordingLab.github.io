@@ -46,6 +46,9 @@ permalink: /people/
 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
+| [Pavan Ramkumar](http://kordinglab.com/people/pavan_ramkumar/index.html) | Postdoc (2017) | [A secret startup in bay area]
+| [Hugo Fernandes](http://kordinglab.com/people/hugo_fernandes/index.html) | Postdoc (2016) | [rockets of awesome](https://www.rocketsofawesome.com/)
+| [David Brandfonbrener](http://kordinglab.com/people/david_brandfonbrener/index.html) | PhD student, Yale university  | PhD student, Yale university
 | [Danile E. Acuna](http://kordinglab.com/people/daniel_e_acuna/index.html) | Postdoc (2016) | [iSchool at Syracuse](https://ischool.syr.edu/people/directories/view/deacuna/)
 | [Mohammad Azar](http://mgazar.net/academic/) | Postdoc (2016) | Google Deepmind, secret location in London |
 | Cong Yin (Lily) | Visiting scholar | Peking University |
