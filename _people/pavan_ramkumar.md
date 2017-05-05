@@ -1,6 +1,6 @@
 ---
 name: Pavan Ramkumar
-position: postdoc
+position: alumni
 avatar: pavan.jpg
 twitter:
 joined: 2013
