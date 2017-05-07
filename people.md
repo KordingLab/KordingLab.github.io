@@ -55,6 +55,7 @@ permalink: /people/
 | [Danile E. Acuna](http://kordinglab.com/people/daniel_e_acuna/index.html) | Postdoc (2016) | [iSchool at Syracuse](https://ischool.syr.edu/people/directories/view/deacuna/)
 | [Mohammad Azar](http://mgazar.net/academic/) | Postdoc (2016) | Google Deepmind, secret location in London |
 | Cong Yin (Lily) | Visiting scholar | Peking University |
+| [Youguo Chen](https://scholar.google.com/citations?user=wZQdEFAAAAAJ&hl=zh-CN) | Visiting scholar (2014 - 2015) | Associate Professor, Southwest University, Chongqing, China
 | [Max Berniker](http://sensorimotorcontrolatorium.uic.edu/)   | Postdoc (2014) | Asst Prof, Univ of Illinois at Chicago, Mechanical &amp; Industrial Eng |
 | [Iris Vilares](https://scholar.google.com/citations?user=Ztwn608AAAAJ&hl=en)   | Graduate Student (2009-2013) | Postdoc, University of Virginia and University College London (w. Peter Dayan) |
 | [Mathieu d'Acremont](https://scholar.google.com/citations?user=D7ys4VQAAAAJ&hl=en) | Postdoc (2014) | - |
