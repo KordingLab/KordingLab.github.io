@@ -30,6 +30,11 @@ Some of the information we would like included are:
 12.	Description of the general feature set
 13.	Their user base
 14.	Generally, how hackable they are
+15. Can the application acquire data from other sources (e.g. wearables, social media, online platforms such as mapping or weather services)
+16. Can the platform monitor data gaps and alert user or investigator to problems?
+17. What is the support for bugs and OS updates? 
+18. Does it rely on the community or are there developers supporting it?
+19. What kind of security issues are expectable?
  
  ## Whom to contact
  
