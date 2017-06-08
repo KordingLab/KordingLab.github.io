@@ -1,3 +1,4 @@
+---
 title: Write a new wikipedia page "Mobile phone based sensing software" for us
 description: we want to be active in the space - tell the world who is in it
 categories: scientists
