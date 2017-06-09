@@ -19,7 +19,7 @@ have this information published in a Wikipedia page (“Mobile phone based sensi
 
 ## Which software packages do we already know about
 
-We would like both commercial and free software to be described and we would like the page to be reasonably complete.  Here are a few that we are aware of: [Purple Robot](https://tech.cbits.northwestern.edu/purple-robot/), [Passive Data Kit](https://passivedatakit.org/ ), [Beiwe](https://mental.jmir.org/2016/2/e16/), [the Aware Framework](http://www.awareframework.com/), [Psychological Technologies](http://www.psyt.co.uk/). There are certainly more and we would expect you to search for them.
+We would like both commercial and free software to be described and we would like the page to be reasonably complete.  Here are a few that we are aware of: [Purple Robot](https://tech.cbits.northwestern.edu/purple-robot/), [Passive Data Kit](https://passivedatakit.org/ ), [Beiwe](https://mental.jmir.org/2016/2/e16/), [the Aware Framework](http://www.awareframework.com/), [Psychological Technologies](http://www.psyt.co.uk/). [Apple Research Kit](http://www.mobihealthnews.com/content/researchkit-steps-av-features-adds-new-testing-abilities?mkt_tok=eyJpIjoiTURFM1l6Y3lOVGN5WlRFeSIsInQiOiJMM2ZveW1RSFpyXC9KNUNpT1dmbzJtd2F3cUtFbW4wSkQ4VmVhY2lIb3ZmaHJzdnFjZ1JRQW1rM1kyWUxjd1RSd2ttc3dwRUxIRGxqYUNcL3ZZcDJ0YXJXT1wvaFBtckI2R29PNlVUbU9DaDFPcU51cmZyN2ZtUHY0M0tTV3lXR2dLYiJ9) There are certainly more and we would expect you to search for them.
 
 ## What information would we like to have
 
