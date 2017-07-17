@@ -11,8 +11,8 @@ joined: 2014
 _Postdoctoral Fellow_<br>
 
 Northwestern University - Physical Medicine and Rehabilitation<br>
-Rehabilitation Institute of Chicago<br>
-345 East Superior Street, Suite 1682<br>
+Shirley Ryan Ability Lab<br>
+355 E Erie St., Suite 11-1401<br>
 Chicago IL, 60611<br>
 <i class="fa fa-mobile"></i> (312) 238-1619<br>
 <i class="fa fa-envelope-o"></i> `llonini@ricres.org`<br>
@@ -38,13 +38,21 @@ During my MSc I worked on a model of the [acquisition and retention of motor tas
 
 <br>
 
-Mar 2017: Co-organizing the **[Northwestern Data Science Career Evening Workshop](http://www.data-science-career-evening.org/)**, partly supported by a Professional Development awarded by the [The Graduate School](http://www.tgs.northwestern.edu/funding/fellowships-and-grants/internal-grants/professional-development-grant.html) at Northwestern  
+
+Jul 2017: Excited for having being selected to attend the Kellogg ["Business for Science and Engineers"](http://www.kellogg.northwestern.edu/executive-education/individual-programs/executive-programs/bussci.aspx)
+course at Northwestern.
+
+Jun 2017: Extended Abstract "**Automatic Detection of Spasticity from Flexible Wearable Sensors**" accepted at UbiComp '17 [Link](http://ubicomp.org/ubicomp2017/index.html)
+
+Jun 2017: Our new paper "**Activity Recognition in Individuals Walking with Assistive Devices: The Benefits of Device-Specific Models**" has been accepted in JMIR Rehabilitation and Assistive Technologies.
+
+Apr 2017: I Co-organized the **[Northwestern Data Science Career Evening Workshop](http://www.data-science-career-evening.org/)**, which was attended by more than 100 people and 7 companies and training program and partly supported by a Professional Development awarded by [The Graduate School](http://www.tgs.northwestern.edu/funding/fellowships-and-grants/internal-grants/professional-development-grant.html) at Northwestern
 
 Nov 2016: Invited talk at the [IHMC](https://www.ihmc.us/research/) in Penscola, FL on **"Quantifying Rehabilitation Outcomes using wearables and smartphones data"** [Video](https://www.youtube.com/watch?v=kQz4YQbaZVY)
 
 Sep 2016: Our paper **"Voodoo Machine Learning for Clinical Predictions"** is on BioRxiv [PDF](http://biorxiv.org/content/biorxiv/early/2016/06/19/059774.full.pdf), [altmetric score](https://biorxiv.altmetric.com/details/8885167)
 
-Jun 2016: Our paper **"Activity Recognition in Patients with Lower Limb Impairments: Do we need training data from each patient?"** has been accepted at [EMBC 2016](http://embc.embs.org/2016/)! This year's topic is _"Empowering Individual Healthcare Decisions through Technology"_<br>
+Jun 2016: Our paper **"Activity Recognition in Patients with Lower Limb Impairments: Do we need training data from each patient?"** has been accepted at [EMBC 2016](http://ieeexplore.ieee.org/abstract/document/7591425/)! This year's topic is _"Empowering Individual Healthcare Decisions through Technology"_<br>
 
 Mar 2016: We convert clinical scores into Bayesian surprise for evaluating spinal cord injury walking skills with exoskeletons. See our [paper on JNER](http://download.springer.com/static/pdf/450/art%253A10.1186%252Fs12984-016-0142-9.pdf?originUrl=http%3A%2F%2Fjneuroengrehab.biomedcentral.com%2Farticle%2F10.1186%2Fs12984-016-0142-9&token2=exp=1462152638~acl=%2Fstatic%2Fpdf%2F450%2Fart%25253A10.1186%25252Fs12984-016-0142-9.pdf*~hmac=989f7a158dab80ecdb2ff30c0955308e8b66302e906fff4f27864772fcd5ee58)
 
@@ -63,16 +71,34 @@ _Using wearable accelerometers to detect everyday activities in patients walking
 
 Walking assistive devices are useful when they enable individuals with disabilities to function better in daily life. Here we use machine learning to identify functional daily activities from wearable sensors data. Such measurement of daily activities can inform clinicians and researchers on the effectiveness of novel assistive devices. Since different assistive devices are used by each individual, we investigate whether we need to train brace-specific, patient-specific or population-specific activity recognition classifiers.
 
+_**Related Publications**_ <br>
+
+<sup>**Activity Recognition in Individuals Walking with Assistive Devices: The Benefits of Device-Specific Models**<br> </sup>
+<sup> Luca Lonini, Aakash Gupta, Susan Deems-Dluhy, Shenan Hoppe-Ludwig, Konrad Kording ,Arun Jayaraman </sup> <br>
+<sup>_JMIR Rehabilitation and Assistive Technologies, accepted_</sup>
+
+<sup>**Activity Recognition in Patients with Lower Limb Impairments: Do we need training data from each patient?**</sup> <br>
+<sup>**Luca Lonini**, Aakash Gupta, Konrad Kording, Arun Jayaraman</sup><br>
+<sup>_Engineering in Medicine and Biology Society (EMBC)_, 2016 IEEE 38th Annual International Conference of the (pp. 3265-3268). [PDF](http://ieeexplore.ieee.org/abstract/document/7591425/)</sup>
+
+
 <br>
 
 _Fall detection in lower limb amputees using mobile phones_<br>
 <sup> Luca Lonini\*, Nicholas Shawen\*, Ilona Shparii, Mark Albert, Konrad Kording, Arun Jayaraman
 
 <figure><center>
-  <img src="{{site.baseurl}}/images/others/Falls.jpg" width="500">
+  <img src="{{site.baseurl}}/images/others/Falls.png" width="500">
 </center></figure>
 
 Falls are a common occurrence in the elderly and people with lower-limb amputations, and amongst elderly are the primary cause of injury-related death. Detecting falls and understanding the context where they happen can guide prevention strategies as well as alerting emergency services automatically when needed. Here we train machine learning classifiers to detect falls from mobile phones inertial and GPS sensors data. We train our classifiers using in-lab collected data on simulated falls and test our models on data continuously collected on patients and able-bodied individuals during their daily activities.
+
+_**Related Publications**_ <br>
+
+<sup>**Fall Detection in Individuals with Lower-limb Amputation using Mobile Phones: Machine Learning Enhances Robustness for Real-World Applications**<br> </sup>
+<sup> Nicholas Shawen, Luca Lonini, Chaithanya Krishna Mummidisetty, Ilona Shparii, Mark V Albert, Konrad Kording, Arun Jayaraman </sup> <br>
+<sup>_JMIR, under review_</sup>
+
 
 <br>
 
@@ -86,22 +112,32 @@ _Automatic Detection of Spasticity in individuals with Stroke_<br>
 
 Spasticity is a common set of symptoms in individuals who had a neural injury. It can results in muscle stiffness or uncontrollable arm or leg movements, which can strongly limit everyday activities. Most information on spasticity symptoms is obtained through patient self-report or from in-lab exams, which require dedicated lab equipment and trained clinicians. Using data from flexible wearable EMG sensors, we are working on the automatic classification of the electrical activity of muscles into normal and spastic, with the ultimate goal of long-term quantitative monitoring of such condition.  
 
+_**Related Publications**_ <br>
+
+<sup> **Automatic Detection of Spasticity from Flexible Wearable Sensors**<br> </sup>
+<sup>**Luca Lonini**, Nicholas Shawen, Roozbeh Ghaffari, John Rogers, Arun Jayaraman</sup> <br>
+<sup>_Accepted at UbiComp 2017_</sup>
+
 
 <hr>
 
 ### Journal Publications
 
+**Activity Recognition in Individuals Walking with Assistive Devices: The Benefits of Device-Specific Models**<br>
+<sup> Luca Lonini, Aakash Gupta, Susan Deems-Dluhy, Shenan Hoppe-Ludwig, Konrad Kording ,Arun Jayaraman </sup> <br>
+_JMIR Rehabilitation and Assistive Technologies, accepted_
+
 **Sensor Fusion to Infer Locations of Standing and Reaching within the Home in Incomplete Spinal Cord Injury**<br>
- <sup>**Lonini L**, Reissman T, Ochoa MJ, Mummidisetty CK, Kording K, Jayaraman A. </sup> <br>
-_American Journal of Physical Medicine & Rehabilitation, 2017_, Accepted
+ <sup> Lonini L, Reissman T, Ochoa MJ, Mummidisetty CK, Kording K, Jayaraman A. </sup> <br>
+_American Journal of Physical Medicine & Rehabilitation, 2017 Apr 5. doi: 10.1097/PHM.0000000000000750_ [PDF](https://insights.ovid.com/pubmed?pmid=28379922)
 
 **Discussion on using and understanding cross-validation strategies** <br>
 <sup> MA Little, G Varoquaux, S Saeb, **L Lonini**, A Jayaraman, DC Mohr, K Körding, </sup> <br>
-_GigaScience, 2017_, Accepted
+_GigaScience. 2017 May 1;6(5):1-6. doi: 10.1093/gigascience/gix020_ [PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5441396/pdf/gix020.pdf)
 
 **The need to approximate the use-case in clinical machine learning** <br>
-<sup>S Saeb\*, **L Lonini**\*, A Jayaraman, DC Mohr, K Körding, (*equal contribution) </sup> <br>
-_GigaScience, 2017_, Accepted
+<sup>S Saeb\*, **L Lonini**\*, A Jayaraman, DC Mohr, K Körding, (\*equal contribution) </sup> <br>
+_GigaScience. 2017 May; 6(5): 1–9. doi:  10.1093/gigascience/gix019_ [PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5441397/pdf/gix019.pdf)
 
 **Humans Can Integrate Augmented Reality Feedback in Their Sensorimotor Control of a Robotic Hand**
 <sup>Clemente F, Dosen S, **Lonini L**, Markovic M, Farina D, Cipriani C. </sup> <br>
@@ -136,6 +172,10 @@ _Journal of biochemical and biophysical methods_, 70(6), pp.1180-1184, 2008 [PDF
 <hr>
 
 ### Conference Papers/Abstracts
+
+**Automatic Detection of Spasticity from Flexible Wearable Sensors**<br>
+<sup>**Luca Lonini**, Nicholas Shawen, Roozbeh Ghaffari, John Rogers, Arun Jayaraman</sup> <br>
+_Accepted at UbiComp 2017_
 
 **Activity Recognition in Patients with Lower Limb Impairments: Do we need training data from each patient?**<br>
 <sup>**Luca Lonini**, Aakash Gupta, Konrad Kording, Arun Jayaraman</sup><br>
