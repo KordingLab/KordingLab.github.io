@@ -1,6 +1,6 @@
 ---
 name: Hugo Fernandes
-position: postdoc
+position: alumni
 avatar: hugo_profile.jpg
 twitter:
 joined: 2013

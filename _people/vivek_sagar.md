@@ -1,6 +1,6 @@
 ---
 name: Vivek Sagar
-position: gradstudent
+position: alumni
 avatar: vivek.jpg
 twitter:
 joined: 2016

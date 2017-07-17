@@ -14,6 +14,13 @@ Subject Zero hangs out in room 1479, keeping an eye on everyone in the lab and m
 
 <hr>
 
+### Subject Zeros's office
+
+<img width="250" src="{{site.baseurl}}/images/people/subject_zero_office.jpg" data-action="zoom">
+
+Subject Zero just move to his new office at [Ability lab](https://www.sralab.org/). He takes control
+all the grant applications and feeding all post-doc in the Kording lab with vegetarian meat, poultry and fish.
+
 ### Subject Zero's Status
 
 Subject Zero went to Cosyne with Daniel, Pavan, and Hugo, but they didn't let him out of the hotel room. So he can say he's been in Utah, but he's never actually seen it. Of course, they could have just been playing a cruel practical joke on him...

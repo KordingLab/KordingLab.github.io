@@ -1,6 +1,6 @@
 ---
 name: Torben Noto
-position: gradstudent
+position: alumni
 avatar: torben.jpg
 twitter: torbenator5
 joined: 2016
