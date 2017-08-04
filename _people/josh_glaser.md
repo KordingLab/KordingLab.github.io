@@ -11,7 +11,6 @@ joined: 2012
 ### Contact
 
 <i class="fa fa-envelope-o"></i>  `j-glaser@u.northwestern.edu`<br>
-<i class="fa fa-building"></i> RIC 1479
 
 [<i class="fa fa-google"></i> Google Scholar Profile](https://scholar.google.com/citations?user=tbfWCDgAAAAJ&hl=en)
 
@@ -36,6 +35,10 @@ joined: 2012
 <hr>
 
 ### Publications
+
+_Machine learning for neural decoding_<br>
+**Joshua I. Glaser**, Raeed H. Chowdhury, Matthew G. Perich, Lee E. Miller, Konrad P. Kording<br>
+arXiv, 2017 ([Paper](https://arxiv.org/pdf/1708.00909.pdf)) ([Code](https://github.com/KordingLab/Neural_Decoding))
 
 _Population coding of conditional probability distributions in dorsal premotor cortex_<br>
 **Joshua I. Glaser**, Matthew G. Perich, Pavan Ramkumar, Lee E. Miller, Konrad P. Kording<br>
@@ -80,11 +83,3 @@ Journal of Neuroscience, 2014 ([Paper](http://www.jneurosci.org/content/34/38/12
 _Adoption of a High-Impact Innovation in a Homogeneous Population_<br>
 Curtis H. Weiss, Julia Poncela-Casasnovas, **Joshua I. Glaser**, Adam R. Pah, Stephen D. Persell, David W. Baker, Richard G. Wunderink, and Luís A. Nunes Amaral<br>
 Physical Review X, 2014 ([Paper](http://journals.aps.org/prx/abstract/10.1103/PhysRevX.4.041008))
-
-<hr>
-
-### Posters of unpublished work
-
-* _Using generalized linear models to understand neural correlates of saccade planning in natural scenes_<br>
-**Joshua Glaser**, Daniel Wood, Pavan Ramkumar, Patrick Lawlor, Mark Segraves, Konrad Kording<br>
-Statistical Analysis of Neural Data Workshop 2015 ([PDF](https://www.dropbox.com/s/06r3lb9gak1d100/SAND_Poster_v2.pdf?dl=0))
