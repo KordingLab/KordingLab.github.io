@@ -1,6 +1,6 @@
 ---
 name: Elahe Arani
-position: visiting
-avatar: 
+position: alumni
+avatar:
 joined: 2016
 ---

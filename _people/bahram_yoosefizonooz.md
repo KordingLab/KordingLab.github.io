@@ -1,6 +1,6 @@
 ---
 name: Bahram Yoosefizonooz
-position: visiting
+position: alumni
 avatar: bahram.jpg
 joined: 2016
 ---

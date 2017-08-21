@@ -1,6 +1,6 @@
 ---
 name: Daniel Wood
-position: postdoc
+position: alumni
 avatar: daniel_wood.jpg
 twitter:
 joined: 2014

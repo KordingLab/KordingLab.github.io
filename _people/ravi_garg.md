@@ -1,6 +1,6 @@
 ---
 name: Ravi Garg
-position: visiting
+position: alumni
 avatar: ravi.jpg
 twitter:
 joined: 2016

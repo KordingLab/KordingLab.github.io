@@ -12,10 +12,8 @@ joined: 2014
 <a href="https://github.com/titipata"><i class="fa fa-github"></i> Github</a><br>
 <a href="https://twitter.com/titipat_a"><i class="fa fa-twitter"></i> Twitter</a>
 
-My name is Titipat Achakulvisut, a PhD student in the Department of Biomedical Engineering at Northwestern University.
-I am currently working in the [Bayesian Behavior lab](http://klab.smpp.northwestern.edu/wiki/index.php5/Main_Page)
-with Prof. Konrad Kording at the Rehabilitation Institute of Chicago. See more info about me in my
-[cv](http://titipata.github.io/images/pdf/Titipat_CV.pdf)
+My name is Titipat Achakulvisut, a PhD student in the Department of Bioengineering at University of Pennsylvania.
+I am currently working with Prof. Konrad Kording. You can see more about me at [my page](http://titipata.github.io/).
 
 
 I collaborate with [Daniel Acuna](http://www.scienceofscience.org/) in a relatively new field known as Science of Science.
@@ -31,21 +29,3 @@ Here are some of my projects with [@daniel-acuna](https://github.com/daniel-acun
 
 I also run a blog, written in Thai, with [@bluenex](https://github.com/bluenex) named [tupleblog](http://tupleblog.github.io/)
 where we post geeky, programming stuff (and whatever we like).
-
-
-Here is a list of software that I generally use
-
-> **Programming** Python (`numpy`, `pandas`, `scikit-learn`, `Django`), PySpark, Matlab, R, Mathematica, etc. <br>
-> **Editor** Atom, Emacs <br>
-> **Others** LaTeX <br>
-> **Cloud Computing** Amazon AWS, Microsoft Azure, Google Cloud Computing
-
-<hr>
-
-**Education**
-<ul>
-  <li><i>2015-Present</i> Ph.D. Student, Biomedical Engineering, Northwestern University</li>
-  <li><i>2015</i> M.S. in Biomedical Engineering, Northwestern University</li>
-  <li><i>2012</i> B.S. in Electrical Engineering, Chulalongkorn University, Thailand</li>
-  <li><i>2008</i> Suankularb Wittayalai School, Thailand (oldest public school in Thailand) </li>
-</ul>

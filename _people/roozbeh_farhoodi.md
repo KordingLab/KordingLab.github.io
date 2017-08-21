@@ -1,6 +1,6 @@
 ---
 name: Roozbeh Farhoodi
-position: visiting
+position: postdoc
 avatar: roozbeh_2.jpg
 twitter:
 joined: 2015

@@ -1,6 +1,6 @@
 ---
 name: Sohrob Saeb
-position: postdoc
+position: alumni
 avatar: sohrob.jpg
 twitter:
 joined: 2014
@@ -129,4 +129,3 @@ S Saeb, A Farajidavar, _Spike-time dependent plasticity could explain temporal t
 
 <br><img src="https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/logo.svg" style="width: 65px;float: left;PADDING-RIGHT: 20px"/>
 [Your phone can tell whether you’re depressed.](http://techcrunch.com/2015/07/16/your-phone-can-tell-whether-youre-depressed/) July 2015.
-
