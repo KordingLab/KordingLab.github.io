@@ -38,7 +38,7 @@ joined: 2012
 
 _Machine learning for neural decoding_<br>
 **Joshua I. Glaser**, Raeed H. Chowdhury, Matthew G. Perich, Lee E. Miller, Konrad P. Kording<br>
-arXiv, 2017 ([Paper](https://arxiv.org/pdf/1708.00909.pdf)) ([Code](https://github.com/KordingLab/Neural_Decoding))
+arXiv, 2017 ([Paper](https://arxiv.org/pdf/1708.00909.pdf)) ([Code](https://github.com/KordingLab/Neural_Decoding)) ([Press](https://www.technologyreview.com/s/608604/how-machine-learning-is-helping-neuroscientists-crack-our-neural-code/))
 
 _Population coding of conditional probability distributions in dorsal premotor cortex_<br>
 **Joshua I. Glaser**, Matthew G. Perich, Pavan Ramkumar, Lee E. Miller, Konrad P. Kording<br>
