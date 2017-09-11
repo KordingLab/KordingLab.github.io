@@ -27,9 +27,9 @@ joined: 2012
 ### Current projects
 
 * Using machine learning techniques, including neural networks, for neural decoding<br>
-* Understanding movement planning during natural behavior<br>
+* Understanding movement planning and execution during natural behavior<br>
   * Understanding FEF activity during eye movements in natural scenes (In collaboration with the [Segraves Lab](http://sites.northwestern.edu/segraves-lab/))<br>
-  * Understanding PMd activity during reaching movements in naturalistic experiments (In collaboration with the [Miller Lab](http://labs.feinberg.northwestern.edu/lee-miller/index.html))<br>
+  * Understanding PMd and M1 activity during reaching movements in naturalistic experiments (In collaboration with the [Miller Lab](http://labs.feinberg.northwestern.edu/lee-miller/index.html))<br>
 * Using motion tracking to understand how proprioceptive inputs are represented in the brain (In collaboration with the [Miller Lab](http://labs.feinberg.northwestern.edu/lee-miller/index.html))<br>
 
 <hr>
