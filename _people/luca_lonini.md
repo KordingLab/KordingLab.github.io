@@ -1,6 +1,6 @@
 ---
 name: Luca Lonini
-position: alumni
+position: postdoc
 avatar: luca_lonini_2.jpg
 twitter: LucaLonini
 joined: 2014
@@ -96,8 +96,8 @@ Falls are a common occurrence in the elderly and people with lower-limb amputati
 _**Related Publications**_ <br>
 
 <sup>**Fall Detection in Individuals with Lower-limb Amputation using Mobile Phones: Machine Learning Enhances Robustness for Real-World Applications**<br> </sup>
-<sup> Nicholas Shawen, Luca Lonini, Chaithanya Krishna Mummidisetty, Ilona Shparii, Mark V Albert, Konrad Kording, Arun Jayaraman </sup> <br>
-<sup>_JMIR, under review_</sup>
+<sup> Nicholas Shawen\*, Luca Lonini\*, Chaithanya Krishna Mummidisetty, Ilona Shparii, Mark V Albert, Konrad Kording, Arun Jayaraman (\*equal contribution) </sup> <br>
+<sup>_JMIR mHealth and uHealth, accepted_</sup>
 
 
 <br>
@@ -123,9 +123,15 @@ _**Related Publications**_ <br>
 
 ### Journal Publications
 
+<br>
+**Fall Detection in Individuals with Lower-limb Amputation using Mobile Phones: Machine Learning Enhances Robustness for Real-World Applications**<br>
+<sup> Nicholas Shawen\*, **Luca Lonini**\*, Chaithanya Krishna Mummidisetty, Ilona Shparii, Mark V Albert, Konrad Kording, Arun Jayaraman (\*equal contribution) </sup> <br>
+_JMIR mHealth and uHealth, accepted_.
+
+
 **Activity Recognition in Individuals Walking with Assistive Devices: The Benefits of Device-Specific Models**<br>
 <sup> Luca Lonini, Aakash Gupta, Susan Deems-Dluhy, Shenan Hoppe-Ludwig, Konrad Kording ,Arun Jayaraman </sup> <br>
-_JMIR Rehabilitation and Assistive Technologies, accepted_
+_JMIR Rehabilitation and Assistive Technologies, 2017 4(2)_.
 
 **Sensor Fusion to Infer Locations of Standing and Reaching within the Home in Incomplete Spinal Cord Injury**<br>
  <sup> Lonini L, Reissman T, Ochoa MJ, Mummidisetty CK, Kording K, Jayaraman A. </sup> <br>
