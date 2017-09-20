@@ -62,7 +62,6 @@ Mar 2016: We convert clinical scores into Bayesian surprise for evaluating spina
 <br>
 
 _Using wearable accelerometers to detect everyday activities in patients walking with a leg brace_<br>
-<sup> Luca Lonini, Aakash Gupta, Konrad Kording, Arun Jayaraman
 
 <figure><center>
   <img src="{{site.baseurl}}/images/others/AR2.jpg" width="=1000" height="200">
@@ -85,7 +84,6 @@ _**Related Publications**_ <br>
 <br>
 
 _Fall detection in lower limb amputees using mobile phones_<br>
-<sup> Luca Lonini\*, Nicholas Shawen\*, Ilona Shparii, Mark Albert, Konrad Kording, Arun Jayaraman
 
 <figure><center>
   <img src="{{site.baseurl}}/images/others/Falls.png" width="500">
@@ -104,10 +102,9 @@ _**Related Publications**_ <br>
 
 
 _Automatic Detection of Spasticity in individuals with Stroke_<br>
-<sup> Luca Lonini, Nicholas Shawen, Konrad Kording, Arun Jayaraman
 
 <figure><center>
-  <img src="{{site.baseurl}}/images/others/Spasticity.jpg" width="500">
+  <img src="{{site.baseurl}}/images/others/Spasticity2.jpg" width="500">
 </center></figure>
 
 Spasticity is a common set of symptoms in individuals who had a neural injury. It can results in muscle stiffness or uncontrollable arm or leg movements, which can strongly limit everyday activities. Most information on spasticity symptoms is obtained through patient self-report or from in-lab exams, which require dedicated lab equipment and trained clinicians. Using data from flexible wearable EMG sensors, we are working on the automatic classification of the electrical activity of muscles into normal and spastic, with the ultimate goal of long-term quantitative monitoring of such condition.  
@@ -115,7 +112,7 @@ Spasticity is a common set of symptoms in individuals who had a neural injury. I
 _**Related Publications**_ <br>
 
 <sup> **Automatic Detection of Spasticity from Flexible Wearable Sensors**<br> </sup>
-<sup>**Luca Lonini**, Nicholas Shawen, Roozbeh Ghaffari, John Rogers, Arun Jayaraman</sup> <br>
+<sup>Luca Lonini, Nicholas Shawen, Roozbeh Ghaffari, John Rogers, Arun Jayaraman</sup> <br>
 <sup>_Accepted at UbiComp 2017_</sup>
 
 
