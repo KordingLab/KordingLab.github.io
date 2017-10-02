@@ -6,5 +6,4 @@ twitter:
 joined: 2017
 ---
 
-[Homepage](http://benlansdell.github.io/)
-
+My [Homepage](http://benlansdell.github.io/), and [Google scholar](https://scholar.google.com/citations?user=vM_KsrQAAAAJ&hl=en) page.
