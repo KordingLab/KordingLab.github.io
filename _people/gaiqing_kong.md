@@ -1,7 +1,7 @@
 ---
 name: Gaiqing Kong
 position: visiting
-avatar: gaiqing.jpg
+avatar: GaiqingNew.jpg
 joined: 2016
 ---
 
