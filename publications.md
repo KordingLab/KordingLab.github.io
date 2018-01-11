@@ -10,6 +10,9 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 <hr>
 
 ### 2017
+_Credit assignment between body and object probed by an object transportation task_<br>
+Gaiqing Kong, Zhihao Zhou, Qining Wang, Konrad Kording & Kunlin Wei<br>
+Scientific Reports, 2017 ([Article](https://www.nature.com/articles/s41598-017-13889-w))
 
 _The integration of probabilistic information during sensorimotor estimation is unimpaired in children with Cerebral Palsy_<br>
 Claire Chambers, Taegh Sokhey, Deborah Gaebler-Spira, Konrad P. Kording<br>
