@@ -9,6 +9,14 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 <hr>
 
+### 2017
+
+_The integration of probabilistic information during sensorimotor estimation is unimpaired in children with Cerebral Palsy_<br>
+Claire Chambers, Taegh Sokhey, Deborah Gaebler-Spira, Konrad P. Kording<br>
+PLoS ONE, 2017 ([Article](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0188741))
+
+<hr>
+
 ### 2016
 
 _Ten simple rules for structuring papers_<br>
