@@ -10,6 +10,11 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 <hr>
 
 ### 2017
+_How Does Mixed Reality Affect Quiet Stance?_<br>
+Gaiqing Kong, Kunlin Wei, Konrad Paul Kording<br>
+bioRxiv 2017 ([Article](https://www.biorxiv.org/content/early/2017/05/02/129239))
+
+
 _Credit assignment between body and object probed by an object transportation task_<br>
 Gaiqing Kong, Zhihao Zhou, Qining Wang, Konrad Kording & Kunlin Wei<br>
 Scientific Reports, 2017 ([Article](https://www.nature.com/articles/s41598-017-13889-w))
