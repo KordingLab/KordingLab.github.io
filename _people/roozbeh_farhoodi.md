@@ -19,9 +19,10 @@ joined: 2015
 
 <hr>
 ### Publication
+
 Rethinking the role of machine learning in biomedical science  <br>
-<sup>Konrad kording, Ari Benjamin, Roozbeh Farhoodi and Joshua Glaser </sup> <br>
-<sup>National Academy of Engineering, </sup> [pdf](https://www.naefrontiers.org/File.aspx?id=185177)</sup>
+<sup>Konrad kording, Ari Benjamin, Roozbeh Farhoodi and Joshua Glaser </sup> 
+<sup>National Academy of Engineering, [pdf](https://www.naefrontiers.org/File.aspx?id=185177)</sup>
 
 
 ### Abstracts and talks
