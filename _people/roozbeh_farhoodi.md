@@ -18,9 +18,14 @@ joined: 2015
 
 
 <hr>
-## projects
+### Publication
+Rethinking the role of machine learning in biomedical science  <br>
+<sup>Konrad kording, Ari Benjamin, Roozbeh Farhoodi and Joshua Glaser </sup> <br>
+<sup>National Academy of Engineering, </sup> [pdf](https://www.naefrontiers.org/File.aspx?id=185177)</sup>
 
-####  - Localization and classification of neurons with high-density electrode arrays<br>
-E.L. Dyer, R. Farhoodi, M. Azar, and K.P. Körding
 
-<i> Electrical recordings have been the primary means by which neuroscientists have studied the function of neural systems. However, multi-electrode arrays are usually assumed to provide little information about the location and morphology of neurons. With recent advances in the design of high-density electrode arrays, this begs the question of whether electrical recordings can be converted into multi-dimensional images of neural activity. By imaging, we mean that we can obtain a picture of a neuron that provides a glimpse into the location and shape of neurons and time-varying activity. As such, the possibility of electrical imaging methods will open up a broad range of new applications for electrical recording. </i>
+### Abstracts and talks
+
+
+
+
