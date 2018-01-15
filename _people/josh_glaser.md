@@ -42,7 +42,7 @@ arXiv, 2017 ([Paper](https://arxiv.org/pdf/1708.00909.pdf)) ([Code](https://gith
 
 _Population coding of conditional probability distributions in dorsal premotor cortex_<br>
 **Joshua I. Glaser**, Matthew G. Perich, Pavan Ramkumar, Lee E. Miller, Konrad P. Kording<br>
-bioRxiv, 2017 ([Paper](http://biorxiv.org/content/early/2017/05/17/137026))
+bioRxiv, 2017 ([Paper](https://www.biorxiv.org/content/early/2018/01/09/137026))
 
 _Feature-based attention and spatial selection in frontal eye fields during natural scene search_<br>
 Pavan Ramkumar\*, Patrick N Lawlor\*, **Joshua I. Glaser**, Daniel K Wood, Mark A. Segraves, Konrad P. Kording<br>
