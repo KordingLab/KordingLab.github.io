@@ -17,7 +17,7 @@ arXiv, 2017 ([Article](https://arxiv.org/pdf/1708.00909.pdf)) ([Code](https://gi
 
 _Population coding of conditional probability distributions in dorsal premotor cortex_<br>
 Joshua I. Glaser, Matthew G. Perich, Pavan Ramkumar, Lee E. Miller, Konrad P. Kording<br>
-bioRxiv, 2017 ([Article](http://biorxiv.org/content/early/2017/05/17/137026))
+bioRxiv, 2017 ([Article](https://www.biorxiv.org/content/early/2018/01/09/137026))
 
 _How Does Mixed Reality Affect Quiet Stance?_<br>
 Gaiqing Kong, Kunlin Wei, Konrad Paul Kording<br>
