@@ -10,10 +10,18 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 <hr>
 
 ### 2017
+
+_Machine learning for neural decoding_<br>
+Joshua I. Glaser, Raeed H. Chowdhury, Matthew G. Perich, Lee E. Miller, Konrad P. Kording<br>
+arXiv, 2017 ([Article](https://arxiv.org/pdf/1708.00909.pdf)) ([Code](https://github.com/KordingLab/Neural_Decoding))
+
+_Population coding of conditional probability distributions in dorsal premotor cortex_<br>
+Joshua I. Glaser, Matthew G. Perich, Pavan Ramkumar, Lee E. Miller, Konrad P. Kording<br>
+bioRxiv, 2017 ([Article](http://biorxiv.org/content/early/2017/05/17/137026))
+
 _How Does Mixed Reality Affect Quiet Stance?_<br>
 Gaiqing Kong, Kunlin Wei, Konrad Paul Kording<br>
 bioRxiv 2017 ([Article](https://www.biorxiv.org/content/early/2017/05/02/129239))
-
 
 _Credit assignment between body and object probed by an object transportation task_<br>
 Gaiqing Kong, Zhihao Zhou, Qining Wang, Konrad Kording & Kunlin Wei<br>
