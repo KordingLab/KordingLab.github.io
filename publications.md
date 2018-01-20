@@ -10,6 +10,12 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 <hr>
 
 ### 2017
+_A cryptography-based approach for movement decoding_<br>
+Eva L. Dyer, Mohammad Gheshlaghi Azar, Matthew G. Perich, Hugo L. Fernandes, Stephanie Naufel, Lee E. Miller, Konrad P. Körding<br> Nature Biomedical Engineering 1, 967–976, 2017 ([Article](https://www.nature.com/articles/s41551-017-0169-7#Ack1)) ([Code](http://kordinglab.com/DAD/))
+
+_Quantifying Mesoscale Neuroanatomy Using X-Ray Microtomography_<br>
+Eva L. Dyer, William Gray Roncal, Judy A. Prasad, Hugo L. Fernandes, Doga Gürsoy, Vincent De Andrade, Kamel Fezzaa, Xianghui Xiao, Joshua T. Vogelstein, Chris Jacobsen, Konrad P. Körding and Narayanan Kasthuri<br>
+eNeuro 25 September, 2017 ([Article](https://doi.org/10.1523/ENEURO.0195-17.2017)) ([Code](https://nerdslab.github.io/xbrain/))
 
 _Machine learning for neural decoding_<br>
 Joshua I. Glaser, Raeed H. Chowdhury, Matthew G. Perich, Lee E. Miller, Konrad P. Kording<br>
