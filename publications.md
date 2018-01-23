@@ -9,6 +9,12 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 <hr>
 
+### 2018
+
+_Linear-Nonlinear-Time-Warp-Poisson models of neural activity_<br>
+Patrick N. Lawlor, Matthew G. Perich, Lee E. Miller, Konrad P. Kording<br>
+Biorxiv, 2018 ([Article](https://www.biorxiv.org/content/early/2018/01/22/194498)) ([Code](https://github.com/pnlawlor/LNTWP))
+
 ### 2017
 _A cryptography-based approach for movement decoding_<br>
 Eva L. Dyer, Mohammad Gheshlaghi Azar, Matthew G. Perich, Hugo L. Fernandes, Stephanie Naufel, Lee E. Miller, Konrad P. Körding<br> Nature Biomedical Engineering 1, 967–976, 2017 ([Article](https://www.nature.com/articles/s41551-017-0169-7#Ack1)) ([Code](http://kordinglab.com/DAD/))
