@@ -15,8 +15,6 @@ joined: 2015
 <i class="fa fa-building"></i> 120 Hayden Hall
 
 
-
-
 <hr>
 ### Publication
 _Sampling Neuron Morphologies_<br>
@@ -40,6 +38,3 @@ Cosyne 2017 ([poster](https://www.dropbox.com/s/5rvzlehf5q5hl8u/Deep%20learning.
 _Generating Neuron Morphologies using naive Bayes MCMC_<br>
 Roozbeh Farhoodi and Konrad P. Kording<br>
 Society of Neuroscience (SfN) 2016 ([poster](https://www.dropbox.com/s/fx4hymac3i4lwtz/MCMC%20morphology.pdf?dl=0))
-
-
-
