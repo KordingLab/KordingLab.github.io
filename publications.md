@@ -15,7 +15,15 @@ _Linear-Nonlinear-Time-Warp-Poisson models of neural activity_<br>
 Patrick N. Lawlor, Matthew G. Perich, Lee E. Miller, Konrad P. Kording<br>
 Biorxiv, 2018 ([Article](https://www.biorxiv.org/content/early/2018/01/22/194498)) ([Code](https://github.com/pnlawlor/LNTWP))
 
+_Sampling Neuron Morphologies_<br>
+Roozbeh Farhoodi, Konrad P. Kording<br>
+bioRxiv, 2018 ([Article](https://www.biorxiv.org/content/early/2018/01/15/248385))([Code](https://github.com/NeuronGenerator/MCMC))
+
 ### 2017
+_The Roles of Machine Learning in Biomedical Science_<br>
+Konrad P. Kording, Ari Benjamin, Roozbeh Farhoodi and Joshua Glaser
+National Academy of Engineering, winter 2017,([Article](https://www.nae.edu/Publications/Bridge/176887/176976.aspx))
+
 _A cryptography-based approach for movement decoding_<br>
 Eva L. Dyer, Mohammad Gheshlaghi Azar, Matthew G. Perich, Hugo L. Fernandes, Stephanie Naufel, Lee E. Miller, Konrad P. Körding<br> Nature Biomedical Engineering 1, 967–976, 2017 ([Article](https://www.nature.com/articles/s41551-017-0169-7#Ack1)) ([Code](http://kordinglab.com/DAD/))
 
