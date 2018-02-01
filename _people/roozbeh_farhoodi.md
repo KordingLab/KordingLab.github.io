@@ -30,16 +30,16 @@ National Academy of Engineering, winter 2017,([Article](https://www.nae.edu/Publ
 
 ### Abstracts and talks
 _Neuron dendrograms uncover asymmetrical motifs_<br>
-Roozbeh Farhoodi, David Rolnickz, Konrad Kording<br>
-Cosyne 2018,([abstract](https://www.dropbox.com/s/q2fws535xwo8t6a/cosyne-abstract-neuron.pdf?dl=0)) ([poster](https://www.dropbox.com/s/i25rzq886rzbgzf/SfN%20poster.pdf?dl=0))
+Roozbeh Farhoodi, David Rolnick, Konrad P. Kording<br>
+Cosyne 2018 ([abstract](https://www.dropbox.com/s/q2fws535xwo8t6a/cosyne-abstract-neuron.pdf?dl=0)) ([poster](https://www.dropbox.com/s/i25rzq886rzbgzf/SfN%20poster.pdf?dl=0))
 
-_Neuron dendrograms uncover asymmetrical motifs_<br>
+_Deep Learning Approach Towards Generating Neuronal morphology_<br>
 Roozbeh Farhoodi, Pavan Ramkumar, Konrad P. Kording<br>
-Cosyne 2017, ([poster](https://www.dropbox.com/s/5rvzlehf5q5hl8u/Deep%20learning.pdf?dl=0))
+Cosyne 2017 ([poster](https://www.dropbox.com/s/5rvzlehf5q5hl8u/Deep%20learning.pdf?dl=0))
 
 _Generating Neuron Morphologies using naive Bayes MCMC_<br>
 Roozbeh Farhoodi and Konrad P. Kording<br>
-Society of Neuroscience (SfN) 2016,([poster](https://www.dropbox.com/s/fx4hymac3i4lwtz/MCMC%20morphology.pdf?dl=0))
+Society of Neuroscience (SfN) 2016 ([poster](https://www.dropbox.com/s/fx4hymac3i4lwtz/MCMC%20morphology.pdf?dl=0))
 
 
 
