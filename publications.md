@@ -19,6 +19,10 @@ _Sampling Neuron Morphologies_<br>
 Roozbeh Farhoodi, Konrad P. Kording<br>
 bioRxiv, 2018 ([Article](https://www.biorxiv.org/content/early/2018/01/15/248385))([Code](https://github.com/NeuronGenerator/MCMC))
 
+_Spiking allows neurons to estimate their causal effect_<br>
+Benjamin James Lansdell, Konrad P. Kording<br>
+bioRxiv, 2018 ([Article](https://www.biorxiv.org/content/early/2018/01/25/253351))
+
 ### 2017
 _The Roles of Machine Learning in Biomedical Science_<br>
 Konrad P. Kording, Ari Benjamin, Roozbeh Farhoodi and Joshua Glaser
