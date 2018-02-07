@@ -38,7 +38,7 @@ joined: 2012
 
 _From preliminary to definitive plans: two classes of neurons in frontal eye field_<br>
 **Joshua I. Glaser**\*, Daniel K Wood\*, Patrick N Lawlor, Mark A. Segraves, Konrad P. Kording<br>
-bioRxiv, 2018 ([Paper](https://www.biorxiv.org/content/early/2018/01/22/251835))
+bioRxiv, 2018 ([Paper](https://www.biorxiv.org/content/early/2018/02/07/251835))
 
 _Machine learning for neural decoding_<br>
 **Joshua I. Glaser**, Raeed H. Chowdhury, Matthew G. Perich, Lee E. Miller, Konrad P. Kording<br>
