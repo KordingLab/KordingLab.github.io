@@ -11,6 +11,10 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 ### 2018
 
+_From preliminary to definitive plans: two classes of neurons in frontal eye field_<br>
+Joshua I. Glaser, Daniel K Wood, Patrick N Lawlor, Mark A. Segraves, Konrad P. Kording<br>
+bioRxiv, 2018 ([Article](https://www.biorxiv.org/content/early/2018/02/07/251835))
+
 _Linear-Nonlinear-Time-Warp-Poisson models of neural activity_<br>
 Patrick N. Lawlor, Matthew G. Perich, Lee E. Miller, Konrad P. Kording<br>
 Biorxiv, 2018 ([Article](https://www.biorxiv.org/content/early/2018/01/22/194498)) ([Code](https://github.com/pnlawlor/LNTWP))
