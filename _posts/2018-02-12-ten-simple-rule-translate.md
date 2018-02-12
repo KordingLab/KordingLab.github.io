@@ -10,7 +10,7 @@ Please contact us if you want to add your translated version of the article here
 
 ### Chinese
 
- 这是我同事翻译的中文版本:
+ 这是中文版本:
  [link](http://kordinglab.com/images/post/ten_simple_rules/chinese.pdf)
 
 ### Farsi
