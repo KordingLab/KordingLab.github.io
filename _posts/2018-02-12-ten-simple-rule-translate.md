@@ -3,10 +3,9 @@ title: Translation of "Ten simple rules to structuring papers" to other language
 categories: scientists
 ---
 
-Our lab just released paper on how to structure your papers. You can see the details
-of the paper on Plos ONE: [Ten simple rules for structuring papers](http://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005619&type=printable).
-We translated to other languages including Chinese and Farsi. We hope that you can find your preferred languages here.
-Please contact us if you want to add your translated version of the article here!
+Our lab just released paper on how to structure your papers: [Ten simple rules for structuring papers](http://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005619&type=printable).
+We are translating it to other languages and hope that you can find your preferred one.
+Please contact us if you want to add your translated version of the paper here.
 
 ### Chinese
 
