@@ -3,11 +3,7 @@ title: Reference
 permalink: /resources/
 ---
 
-% We moved the [resources page](http://klab.smpp.northwestern.edu/wiki/index.php5/Resources)
-% from Kording lab page to here. We hope it will be much better and faster for people who want to share it
-% and view it on cell phones.
 
-%<hr>
 
 
 {% assign reference_types = "scientists|students|discussion" | split: "|" %}
