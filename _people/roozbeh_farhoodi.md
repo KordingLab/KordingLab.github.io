@@ -19,7 +19,7 @@ joined: 2015
 ### Publication
 _Sampling Neuron Morphologies_<br>
 Roozbeh Farhoodi, Konrad P. Kording<br>
-bioRxiv, 2018 ([Article](https://www.biorxiv.org/content/early/2018/01/15/248385)) ([Code](https://github.com/NeuronGenerator/MCMC))
+bioRxiv, 2018 ([Article](https://www.biorxiv.org/content/early/2018/01/15/248385)) ([Code](https://github.com/BonsaiNet/McNeuron))
 
 _The Roles of Machine Learning in Biomedical Science_<br>
 Konrad P. Kording, Ari Benjamin, Roozbeh Farhoodi and Joshua Glaser<br>
