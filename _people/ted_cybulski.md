@@ -1,6 +1,6 @@
 ---
 name: Ted Cybulski
-position: gradstudent
+position: alumni
 avatar: ted.jpg
 twitter:
 joined: 2012
