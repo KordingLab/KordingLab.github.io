@@ -19,7 +19,7 @@ joined: 2012
 
 ### Background
 
-* I am currently a PhD candidate in the Northwestern University Integrated Neuroscience (NUIN) program.
+* I recently finished my PhD in the Northwestern University Integrated Neuroscience (NUIN) program.
 * As an undergraduate, I majored in Physics and Math at the University of Illinois Urbana-Champaign.
 
 <hr>
@@ -36,6 +36,10 @@ joined: 2012
 
 ### Publications
 
+_Population coding of conditional probability distributions in dorsal premotor cortex_<br>
+**Joshua I. Glaser**, Matthew G. Perich, Pavan Ramkumar, Lee E. Miller, Konrad P. Kording<br>
+Nature Communications, 2018 ([Paper](https://www.nature.com/articles/s41467-018-04062-6))
+
 _From preliminary to definitive plans: two classes of neurons in frontal eye field_<br>
 **Joshua I. Glaser**, Daniel K Wood, Patrick N Lawlor, Mark A. Segraves, Konrad P. Kording<br>
 bioRxiv, 2018 ([Paper](https://www.biorxiv.org/content/early/2018/02/07/251835))
@@ -43,10 +47,6 @@ bioRxiv, 2018 ([Paper](https://www.biorxiv.org/content/early/2018/02/07/251835))
 _Machine learning for neural decoding_<br>
 **Joshua I. Glaser**, Raeed H. Chowdhury, Matthew G. Perich, Lee E. Miller, Konrad P. Kording<br>
 arXiv, 2017 ([Paper](https://arxiv.org/pdf/1708.00909.pdf)) ([Code](https://github.com/KordingLab/Neural_Decoding)) ([Press](https://www.technologyreview.com/s/608604/how-machine-learning-is-helping-neuroscientists-crack-our-neural-code/))
-
-_Population coding of conditional probability distributions in dorsal premotor cortex_<br>
-**Joshua I. Glaser**, Matthew G. Perich, Pavan Ramkumar, Lee E. Miller, Konrad P. Kording<br>
-bioRxiv, 2017 ([Paper](https://www.biorxiv.org/content/early/2018/01/09/137026))
 
 _Feature-based attention and spatial selection in frontal eye fields during natural scene search_<br>
 Pavan Ramkumar\*, Patrick N Lawlor\*, **Joshua I. Glaser**, Daniel K Wood, Mark A. Segraves, Konrad P. Kording<br>
