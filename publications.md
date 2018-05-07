@@ -11,6 +11,10 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 ### 2018
 
+_Population coding of conditional probability distributions in dorsal premotor cortex_<br>
+Joshua I. Glaser, Matthew G. Perich, Pavan Ramkumar, Lee E. Miller, Konrad P. Kording<br>
+Nature Communications, 2018 ([Article](https://www.nature.com/articles/s41467-018-04062-6))
+
 _From preliminary to definitive plans: two classes of neurons in frontal eye field_<br>
 Joshua I. Glaser, Daniel K Wood, Patrick N Lawlor, Mark A. Segraves, Konrad P. Kording<br>
 bioRxiv, 2018 ([Article](https://www.biorxiv.org/content/early/2018/02/07/251835))
@@ -42,10 +46,6 @@ eNeuro 25 September, 2017 ([Article](https://doi.org/10.1523/ENEURO.0195-17.2017
 _Machine learning for neural decoding_<br>
 Joshua I. Glaser, Raeed H. Chowdhury, Matthew G. Perich, Lee E. Miller, Konrad P. Kording<br>
 arXiv, 2017 ([Article](https://arxiv.org/pdf/1708.00909.pdf)) ([Code](https://github.com/KordingLab/Neural_Decoding))
-
-_Population coding of conditional probability distributions in dorsal premotor cortex_<br>
-Joshua I. Glaser, Matthew G. Perich, Pavan Ramkumar, Lee E. Miller, Konrad P. Kording<br>
-bioRxiv, 2017 ([Article](https://www.biorxiv.org/content/early/2018/01/09/137026))
 
 _How Does Mixed Reality Affect Quiet Stance?_<br>
 Gaiqing Kong, Kunlin Wei, Konrad Paul Kording<br>
