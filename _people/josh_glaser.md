@@ -1,6 +1,6 @@
 ---
 name: Josh Glaser
-position: gradstudent
+position: postdoc
 avatar: josh_profile.jpg
 twitter:
 joined: 2012
