@@ -36,6 +36,10 @@ joined: 2012
 
 ### Publications
 
+_The Roles of Supervised Machine Learning in Systems Neuroscience_<br>
+**Joshua I. Glaser**\*, Ari S. Benjamin\*, Roozbeh Farhoodi\*, Konrad P. Kording<br>
+arXiv, 2018 ([Paper](https://arxiv.org/abs/1805.08239))
+
 _Population coding of conditional probability distributions in dorsal premotor cortex_<br>
 **Joshua I. Glaser**, Matthew G. Perich, Pavan Ramkumar, Lee E. Miller, Konrad P. Kording<br>
 Nature Communications, 2018 ([Paper](https://www.nature.com/articles/s41467-018-04062-6))
