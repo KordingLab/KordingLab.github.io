@@ -1,7 +1,7 @@
 ---
 name: Xue Long Zhao
-position: postdoc
-avatar: 
+position: alumni
+avatar:
 twitter:
 joined: 2016
 ---

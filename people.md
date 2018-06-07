@@ -46,6 +46,7 @@ permalink: /people/
 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
+| Xuelong Zhao | Postdoc (2016) | Postdoc at [Brian Litt  lab](http://littlab.seas.upenn.edu/), U Penn
 | Bahram Yoosefizonooz | Visiting (2017) | Postdoc at U Montreal
 | Elahe Arani | Visiting (2017) | Postdoc at U Montreal
 | Luca Lonini | Postdoc (2017) | Postdoc with Arun at Northwestern U
