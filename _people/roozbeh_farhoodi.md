@@ -15,17 +15,34 @@ joined: 2015
 <i class="fa fa-building"></i> 120 Hayden Hall
 
 
-
-
 <hr>
 ### Publication
+###### 2018
+Quantifying the effect of staining methods on extracted neuron morphology  <br>
+<sup>Roozbeh Farhoodi, Benjamin Lansdell and Konrad Kording</sup> <br>
+<sup>INCF Montereal, [abstract](https://www.dropbox.com/preview/Project%20on%20Profile/quantifying-effect-staining.pdf)</sup>
 
-Rethinking the role of machine learning in biomedical science  <br>
-<sup>Konrad kording, Ari Benjamin, Roozbeh Farhoodi and Joshua Glaser </sup> 
-<sup>National Academy of Engineering, [pdf](https://www.naefrontiers.org/File.aspx?id=185177)</sup>
+The Roles of Supervised Machine Learning in Systems Neuroscience<br>
+<sup>Joshua Glaser, Ari Benjamin, Roozbeh Farhoodi and  Konrad Kording</sup> <br>
+[Arxiv](https://arxiv.org/abs/1805.08239)
 
+Neuron dendrograms uncover asymmetrical motifs
+<sup>Roozbeh Farhoodi, David Rolnick and Konrad Kording</sup> <br>
+<sup>Cosyne - Denever, [Abstract](https://www.dropbox.com/preview/Project%20on%20Profile/cosyne-abstract-neuron.pdf)</sup>
 
-### Abstracts and talks
+Sampling Neuron Morphology <br>
+<sup>Roozbeh Farhoodi, Benjamin Lansdell and Konrad Kording</sup> <br>
+<sup>[BioRxiv](https://www.biorxiv.org/content/early/2018/01/15/248385)</sup>
+
+###### 2017
+The Roles of Machine Learning in Biomedical Science  <br>
+<sup>Konrad Kording, Ari Benjamin, Roozbeh Farhoodi and Joshua Glaser </sup> <br>
+<sup>National Academy of Engineering, [article](https://www.naefrontiers.org/File.aspx?id=185177)</sup>
+
+Deep learning approach towards generating neuronal morphology
+<sup>Roozbeh Farhoodi, Pavan Ramkumar and Konrad Kording</sup> <br>
+<sup>Cosyne - Salt Lake City, [Poster](http://www.cosyne.org/c/index.php?title=Cosyne2017_posters_1)</sup>
+
 
 
 
