@@ -20,15 +20,15 @@ joined: 2015
 ###### 2018
 Quantifying the effect of staining methods on extracted neuron morphology  <br>
 <sup>Roozbeh Farhoodi, Benjamin Lansdell and Konrad Kording</sup> <br>
-<sup>INCF Montereal, [abstract](https://www.dropbox.com/preview/Project%20on%20Profile/quantifying-effect-staining.pdf)</sup>
+<sup>**INCF - Montereal** [abstract](https://www.dropbox.com/preview/Project%20on%20Profile/quantifying-effect-staining.pdf)</sup>
 
 The Roles of Supervised Machine Learning in Systems Neuroscience<br>
 <sup>Joshua Glaser, Ari Benjamin, Roozbeh Farhoodi and  Konrad Kording</sup> <br>
-[Arxiv](https://arxiv.org/abs/1805.08239)
+<sup>[Arxiv](https://arxiv.org/abs/1805.08239)</sup>
 
-Neuron dendrograms uncover asymmetrical motifs
+Neuron dendrograms uncover asymmetrical motifs<br>
 <sup>Roozbeh Farhoodi, David Rolnick and Konrad Kording</sup> <br>
-<sup>Cosyne - Denever, [Abstract](https://www.dropbox.com/preview/Project%20on%20Profile/cosyne-abstract-neuron.pdf)</sup>
+<sup>**Cosyne - Denever** [Abstract](https://www.dropbox.com/preview/Project%20on%20Profile/cosyne-abstract-neuron.pdf)</sup>
 
 Sampling Neuron Morphology <br>
 <sup>Roozbeh Farhoodi, Benjamin Lansdell and Konrad Kording</sup> <br>
@@ -37,11 +37,11 @@ Sampling Neuron Morphology <br>
 ###### 2017
 The Roles of Machine Learning in Biomedical Science  <br>
 <sup>Konrad Kording, Ari Benjamin, Roozbeh Farhoodi and Joshua Glaser </sup> <br>
-<sup>National Academy of Engineering, [article](https://www.naefrontiers.org/File.aspx?id=185177)</sup>
+<sup>**National Academy of Engineering** [article](https://www.naefrontiers.org/File.aspx?id=185177)</sup>
 
-Deep learning approach towards generating neuronal morphology
+Deep learning approach towards generating neuronal morphology<br>
 <sup>Roozbeh Farhoodi, Pavan Ramkumar and Konrad Kording</sup> <br>
-<sup>Cosyne - Salt Lake City, [Poster](http://www.cosyne.org/c/index.php?title=Cosyne2017_posters_1)</sup>
+<sup>**Cosyne - Salt Lake City** [Poster](http://www.cosyne.org/c/index.php?title=Cosyne2017_posters_1)</sup>
 
 
 
