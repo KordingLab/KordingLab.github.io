@@ -43,12 +43,3 @@ The Roles of Machine Learning in Biomedical Science  <br>
 Deep learning approach towards generating neuronal morphology<br>
 <sup>Roozbeh Farhoodi, Pavan Ramkumar and Konrad Kording</sup> <br>
 <sup>**Cosyne - Salt Lake City** [Poster](http://www.cosyne.org/c/index.php?title=Cosyne2017_posters_1)</sup>
-
-
-_Deep Learning Approach Towards Generating Neuronal morphology_<br>
-Roozbeh Farhoodi, Pavan Ramkumar, Konrad P. Kording<br>
-Cosyne 2017 ([poster](https://www.dropbox.com/s/5rvzlehf5q5hl8u/Deep%20learning.pdf?dl=0))
-
-_Generating Neuron Morphologies using naive Bayes MCMC_<br>
-Roozbeh Farhoodi and Konrad P. Kording<br>
-Society of Neuroscience (SfN) 2016 ([poster](https://www.dropbox.com/s/fx4hymac3i4lwtz/MCMC%20morphology.pdf?dl=0))
