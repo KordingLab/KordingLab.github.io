@@ -17,19 +17,33 @@ joined: 2015
 
 <hr>
 ### Publication
-_Sampling Neuron Morphologies_<br>
-Roozbeh Farhoodi, Konrad P. Kording<br>
-bioRxiv, 2018 ([Article](https://www.biorxiv.org/content/early/2018/01/15/248385)) ([Code](https://github.com/BonsaiNet/McNeuron)
 
-_The Roles of Machine Learning in Biomedical Science_<br>
-Konrad P. Kording, Ari Benjamin, Roozbeh Farhoodi and Joshua Glaser<br>
-National Academy of Engineering, winter 2017,([Article](https://www.nae.edu/Publications/Bridge/176887/176976.aspx))
+###### 2018
+Quantifying the effect of staining methods on extracted neuron morphology  <br>
+<sup>Roozbeh Farhoodi, Benjamin Lansdell and Konrad Kording</sup> <br>
+<sup>**INCF - Montereal** [abstract](https://www.dropbox.com/preview/Project%20on%20Profile/quantifying-effect-staining.pdf)</sup>
 
+The Roles of Supervised Machine Learning in Systems Neuroscience<br>
+<sup>Joshua Glaser, Ari Benjamin, Roozbeh Farhoodi and  Konrad Kording</sup> <br>
+<sup>[Arxiv](https://arxiv.org/abs/1805.08239)</sup>
 
-### Abstracts and talks
-_Neuron dendrograms uncover asymmetrical motifs_<br>
-Roozbeh Farhoodi, David Rolnick, Konrad P. Kording<br>
-Cosyne 2018 ([abstract](https://www.dropbox.com/s/q2fws535xwo8t6a/cosyne-abstract-neuron.pdf?dl=0)) ([poster](https://www.dropbox.com/s/i25rzq886rzbgzf/SfN%20poster.pdf?dl=0))
+Neuron dendrograms uncover asymmetrical motifs<br>
+<sup>Roozbeh Farhoodi, David Rolnick and Konrad Kording</sup> <br>
+<sup>**Cosyne - Denever** [Abstract](https://www.dropbox.com/preview/Project%20on%20Profile/cosyne-abstract-neuron.pdf)</sup>
+
+Sampling Neuron Morphology <br>
+<sup>Roozbeh Farhoodi, Benjamin Lansdell and Konrad Kording</sup> <br>
+<sup>[BioRxiv](https://www.biorxiv.org/content/early/2018/01/15/248385)</sup>
+
+###### 2017
+The Roles of Machine Learning in Biomedical Science  <br>
+<sup>Konrad Kording, Ari Benjamin, Roozbeh Farhoodi and Joshua Glaser </sup> <br>
+<sup>**National Academy of Engineering** [article](https://www.naefrontiers.org/File.aspx?id=185177)</sup>
+
+Deep learning approach towards generating neuronal morphology<br>
+<sup>Roozbeh Farhoodi, Pavan Ramkumar and Konrad Kording</sup> <br>
+<sup>**Cosyne - Salt Lake City** [Poster](http://www.cosyne.org/c/index.php?title=Cosyne2017_posters_1)</sup>
+
 
 _Deep Learning Approach Towards Generating Neuronal morphology_<br>
 Roozbeh Farhoodi, Pavan Ramkumar, Konrad P. Kording<br>
