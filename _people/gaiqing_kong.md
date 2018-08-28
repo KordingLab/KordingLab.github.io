@@ -1,6 +1,6 @@
 ---
 name: Gaiqing Kong
-position: visiting
+position: alumni
 avatar: GaiqingNew.jpg
 joined: 2016
 ---
