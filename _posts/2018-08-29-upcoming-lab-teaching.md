@@ -19,7 +19,7 @@ neuroscientific princples, new findings and literature reviews... whatever!
 |Sept. 21:|      |       |
 |Sept. 28:|      |       |
 |Oct. 5:| Ari     |  T.B.D.   |
-|Oct. 12:|      |       |
+|Oct. 12:|  Ben  | TBD    |
 |Oct. 19:|      |       |
 |Oct. 26:|      |       |
 |Nov. 2|      |       |
@@ -41,7 +41,8 @@ neuroscientific princples, new findings and literature reviews... whatever!
 1. Generalization in neural networks (Ari)
 1. Synaptic learning rules (Ari)
 1. How to science (debugging strategies etc.) (Konrad)
-1. 
+1. Reinforcement learning and causal inference (Ben)
+1. DAGs and causal inference (Ben)
 
 [2016 topics](http://kordinglab.com/lab_teaching_2016/)
 
