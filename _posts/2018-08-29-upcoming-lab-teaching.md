@@ -43,7 +43,7 @@ neuroscientific princples, new findings and literature reviews... whatever!
 1. How to science (debugging strategies etc.) (Konrad)
 1. Reinforcement learning and causal inference (Ben)
 1. DAGs and causal inference (Ben)
-1. Neuron firing dynamics and bifurcations
+1. Neuron firing dynamics and bifurcations (Ilenna)
 
 [2016 topics](http://kordinglab.com/lab_teaching_2016/)
 
