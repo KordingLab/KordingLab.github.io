@@ -21,7 +21,7 @@ neuroscientific princples, new findings and literature reviews... whatever!
 |Oct. 5:| Ari     |  T.B.D.   |
 |Oct. 12:|  Ben  | TBD    |
 |Oct. 19:|      |       |
-|Oct. 26:|      |       |
+|Oct. 26:|  Tony |  TBD  |
 |Nov. 2|      |       |
 |Nov. 9|      |       |
 |Nov. 16|      |       |
@@ -43,7 +43,7 @@ neuroscientific princples, new findings and literature reviews... whatever!
 1. How to science (debugging strategies etc.) (Konrad)
 1. Reinforcement learning and causal inference (Ben)
 1. DAGs and causal inference (Ben)
-1. Neuron firing dynamics and bifurcations (Ilenna)
+1. Neuron firing dynamics and bifurcations
 
 [2016 topics](http://kordinglab.com/lab_teaching_2016/)
 
