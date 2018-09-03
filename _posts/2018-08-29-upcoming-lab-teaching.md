@@ -20,7 +20,7 @@ neuroscientific princples, new findings and literature reviews... whatever!
 |Sept. 28:| Ilenna | TBD   |
 |Oct. 5:| Ari     |  T.B.D.   |
 |Oct. 12:|  Ben  | TBD    |
-|Oct. 19:|      |       |
+|Oct. 19:|   Rachit   |  TBD     |
 |Oct. 26:|  Tony |  TBD  |
 |Nov. 2|      |       |
 |Nov. 9|      |       |
