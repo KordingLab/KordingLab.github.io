@@ -11,42 +11,43 @@ On a rotating basis, each member of the lab speaks and teaches about something t
 Anything, really. Relevant and interesting topics, good skills to know, nice Python packages,
 neuroscientific princples, new findings and literature reviews... whatever!
 
-***Fall 2018 topics***
+**Fall 2018 topics**
 
 | Date | Name | Topic |
 |------|------|-------|
 |Sept. 14:|      |       |
 |Sept. 21:|      |       |
 |Sept. 28:| Ilenna | TBD   |
-|Oct. 5:| Ari     |  T.B.D.   |
+|Oct. 5:| Ari     |  TBD   |
 |Oct. 12:|  Ben  | TBD    |
 |Oct. 19:|   Rachit   |  TBD     |
 |Oct. 26:|  Tony |  TBD  |
-|Nov. 2|      |       |
+|Nov. 2|  Titipat   |  AllenNLP library and a little bit of Pytorch  |
 |Nov. 9|      |       |
 |Nov. 16|      |       |
 
 
 
-***Requests and suggestions***
+**Requests and suggestions**
 
 1. Recent progress in NLP
-1. 
-1.
+2. Graph Convolution Technique
+3.
 
-***Recently taught topics***
+**Recently taught topics**
 
 *For inspiration. Add ones you've done!!*
 
 1. Generalization in neural networks (Ari)
-1. Synaptic learning rules (Ari)
-1. How to science (debugging strategies etc.) (Konrad)
-1. Reinforcement learning and causal inference (Ben)
-1. DAGs and causal inference (Ben)
-1. Neuron firing dynamics and bifurcations
+2. Synaptic learning rules (Ari)
+3. How to science (debugging strategies etc.) (Konrad)
+4. Reinforcement learning and causal inference (Ben)
+5. DAGs and causal inference (Ben)
+6. Neuron firing dynamics and bifurcations
 
-[2016 topics](http://kordinglab.com/lab_teaching_2016/)
+# Previous lab teaching
 
-[2015 topics](https://github.com/KordingLab/lab_teaching_2015)
+- [2016 topics](http://kordinglab.com/lab_teaching_2016/)
+- [2015 topics](https://github.com/KordingLab/lab_teaching_2015)
 
 
