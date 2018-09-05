@@ -23,7 +23,7 @@ neuroscientific princples, new findings and literature reviews... whatever!
 |Oct. 19:|   Rachit   |  TBD     |
 |Oct. 26:|  Tony |  TBD  |
 |Nov. 2|  Titipat   |  AllenNLP library and a little bit of Pytorch  |
-|Nov. 9|      |       |
+|Nov. 9|  Roozbeh    |    something cool   |
 |Nov. 16|      |       |
 
 
@@ -32,7 +32,6 @@ neuroscientific princples, new findings and literature reviews... whatever!
 
 1. Recent progress in NLP
 2. Graph Convolution Technique
-3.
 
 **Recently taught topics**
 
@@ -43,7 +42,8 @@ neuroscientific princples, new findings and literature reviews... whatever!
 3. How to science (debugging strategies etc.) (Konrad)
 4. Reinforcement learning and causal inference (Ben)
 5. DAGs and causal inference (Ben)
-6. Neuron firing dynamics and bifurcations
+6. Neuron firing dynamics and bifurcations(Ilenna)
+7. Submodular functions (Roozbeh)
 
 # Previous lab teaching
 
