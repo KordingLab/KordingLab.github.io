@@ -20,7 +20,7 @@ neuroscientific princples, new findings and literature reviews... whatever!
 |Sept. 28:| Ilenna | TBD   |
 |Oct. 5:| Ari     |  TBD   |
 |Oct. 12:|  Ben  | TBD    |
-|Oct. 19:|   Rachit   |  Graph Convolutional Networks for (semi-supervised) classification of nodes      |
+|Oct. 19:|   Rachit   |  Graph Convolutional Networks for Classifications  |
 |Oct. 26:|  Tony |  TBD  |
 |Nov. 2|  Titipat   |  AllenNLP library and a little bit of Pytorch  |
 |Nov. 9|  Roozbeh    |    something cool   |
