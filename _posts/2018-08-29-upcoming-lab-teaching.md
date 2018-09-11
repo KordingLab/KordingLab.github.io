@@ -45,6 +45,7 @@ neuroscientific princples, new findings and literature reviews... whatever!
 5. DAGs and causal inference (Ben)
 6. Neuron firing dynamics and bifurcations(Ilenna)
 7. Submodular functions (Roozbeh)
+8. Recommendation systems (Rachit)
 
 # Previous lab teaching
 
