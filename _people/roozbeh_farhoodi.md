@@ -21,7 +21,7 @@ joined: 2015
 ###### 2018
 Quantifying the effect of staining methods on extracted neuron morphology  <br>
 <sup>Roozbeh Farhoodi, Benjamin Lansdell and Konrad Kording</sup> <br>
-<sup>**INCF - Montereal** <!--- .[abstract](https://www.dropbox.com/preview/Project%20on%20Profile/quantifying-effect-staining.pdf)</sup> --->
+<sup>**INCF - Montreal** <!--- .[abstract](https://www.dropbox.com/preview/Project%20on%20Profile/quantifying-effect-staining.pdf)</sup> --->
 
 The Roles of Supervised Machine Learning in Systems Neuroscience<br>
 <sup>Joshua Glaser, Ari Benjamin, Roozbeh Farhoodi and  Konrad Kording</sup> <br>
@@ -29,7 +29,7 @@ The Roles of Supervised Machine Learning in Systems Neuroscience<br>
 
 Neuron dendrograms uncover asymmetrical motifs<br>
 <sup>Roozbeh Farhoodi, David Rolnick and Konrad Kording</sup> <br>
-<sup>**Cosyne - Denever** <!--- [Abstract](https://www.dropbox.com/preview/Project%20on%20Profile/cosyne-abstract-neuron.pdf)</sup> --->
+<sup>**Cosyne - Denver** <!--- [Abstract](https://www.dropbox.com/preview/Project%20on%20Profile/cosyne-abstract-neuron.pdf)</sup> --->
 
 Sampling Neuron Morphology <br>
 <sup>Roozbeh Farhoodi and Konrad Kording</sup> <br>
