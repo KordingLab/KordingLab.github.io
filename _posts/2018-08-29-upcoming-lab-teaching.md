@@ -24,7 +24,7 @@ neuroscientific princples, new findings and literature reviews... whatever!
 |Oct. 26:|  Tony |  TBD  |
 |Nov. 2|  Titipat   |  AllenNLP library and a little bit of Pytorch  |
 |Nov. 9|  Roozbeh    |    something cool   |
-|Nov. 16|      |       |
+|Nov. 16|   David   |   TBD   |
 |Nov. 30|Brianna|T.B.D. (maybe decoding/electrophys related)|
 
 
