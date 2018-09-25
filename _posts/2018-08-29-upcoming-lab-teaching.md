@@ -15,10 +15,8 @@ neuroscientific princples, new findings and literature reviews... whatever!
 
 | Date | Name | Topic |
 |------|------|-------|
-|Sept. 14:|      |       |
-|Sept. 21:|      |       |
-|Sept. 28:| Ilenna | TBD   |
-|Oct. 5:| Ari     |  TBD   |
+|Sept. 28:| Ilenna | Capacity of Neural Networks   |
+|Oct. 5:| Tung Pham    |  GANs for EEG   |
 |Oct. 12:|  Ben  | TBD    |
 |Oct. 19:|   Rachit   |  Restricted Boltzmann Machines  |
 |Oct. 26:|  Tony |  TBD  |
@@ -26,6 +24,7 @@ neuroscientific princples, new findings and literature reviews... whatever!
 |Nov. 9|  Roozbeh    |    something cool   |
 |Nov. 16|   David   |   TBD   |
 |Nov. 30|Brianna|T.B.D. (maybe decoding/electrophys related)|
+|Dec. 3| Ari | TBD|
 
 
 
