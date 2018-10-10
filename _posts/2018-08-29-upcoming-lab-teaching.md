@@ -30,7 +30,7 @@ neuroscientific princples, new findings and literature reviews... whatever!
 
 **Requests and suggestions**
 
-1. Recent progress in NLP
+1. Recent progress in NLP (Transformer networks, pretraining methods...)
 2. Graph Convolution Technique
 
 **Recently taught topics**
