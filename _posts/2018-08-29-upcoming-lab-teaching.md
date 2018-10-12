@@ -19,7 +19,7 @@ neuroscientific princples, new findings and literature reviews... whatever!
 |Oct. 5:| Tung Pham    |  GANs for EEG   |
 |Oct. 12:|  Ben  | GPUs -- beneath the heatsink    |
 |Oct. 19:|   Rachit   |  Restricted Boltzmann Machines  |
-|Oct. 26:|  Tony |  TBD  |
+|Oct. 26:|  Tony |  Docker for science  |
 |Nov. 2|  Titipat   |  AllenNLP library and a little bit of Pytorch  |
 |Nov. 9|  Roozbeh    |    something cool   |
 |Nov. 16|   David   |   TBD   |
