@@ -17,7 +17,7 @@ neuroscientific princples, new findings and literature reviews... whatever!
 |------|------|-------|
 |Sept. 28:| Ilenna | Capacity of Neural Networks   |
 |Oct. 5:| Tung Pham    |  GANs for EEG   |
-|Oct. 12:|  Ben  | GPUs -- beneath the heatsink    |
+|Oct. 12:|  Ben  | GPUs -- beneath the heatsink [Slides](https://github.com/benlansdell/gpu_samples)    |
 |Oct. 19:|   Rachit   |  Restricted Boltzmann Machines  |
 |Oct. 26:|  Tony |  Docker for science  |
 |Nov. 2|  Titipat   |  AllenNLP library and a little bit of Pytorch  |
