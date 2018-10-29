@@ -15,16 +15,11 @@ neuroscientific princples, new findings and literature reviews... whatever!
 
 | Date | Name | Topic |
 |------|------|-------|
-|Sept. 28:| Ilenna | Capacity of Neural Networks   |
-|Oct. 5:| Tung Pham    |  GANs for EEG   |
-|Oct. 12:|  Ben  | GPUs -- beneath the heatsink [Slides](https://github.com/benlansdell/gpu_samples)    |
-|Oct. 19:|   Rachit   |  Graph Convolution Networks  |
-|Oct. 26:|  Tony |  Docker for science  |
 |Nov. 2|  Titipat   |  AllenNLP library and a little bit of Pytorch  |
 |Nov. 9|  Roozbeh    |    something cool   |
 |Nov. 16|   David   |   TBD   |
 |Nov. 30|Brianna|T.B.D. (maybe decoding/electrophys related)|
-|Dec. 3| Ari | TBD|
+|Dec. 3| Ari | Independent Component Analysis |
 
 
 
@@ -45,6 +40,12 @@ neuroscientific princples, new findings and literature reviews... whatever!
 6. Neuron firing dynamics and bifurcations(Ilenna)
 7. Submodular functions (Roozbeh)
 8. Recommendation systems (Rachit)
+
+|Sept. 28:| Ilenna | Capacity of Neural Networks   |
+|Oct. 5:| Tung Pham    |  GANs for EEG   |
+|Oct. 12:|  Ben  | GPUs -- beneath the heatsink [Slides](https://github.com/benlansdell/gpu_samples)    |
+|Oct. 19:|   Rachit   |  Graph Convolution Networks  |
+|Oct. 26:|  Tony |  Docker for science  |
 
 # Previous lab teaching
 
