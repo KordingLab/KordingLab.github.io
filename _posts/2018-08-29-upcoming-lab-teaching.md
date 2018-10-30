@@ -16,7 +16,7 @@ neuroscientific princples, new findings and literature reviews... whatever!
 | Date | Name | Topic |
 |------|------|-------|
 |Nov. 2|  Titipat   |  AllenNLP library and a little bit of Pytorch  |
-|Nov. 9|  Roozbeh    |    something cool   |
+|Nov. 9|  Roozbeh    |    Reconstructing morphological trees from sparse noisy observations   |
 |Nov. 16|   David   |   TBD   |
 |Nov. 30|Brianna|T.B.D. (maybe decoding/electrophys related)|
 |Dec. 3| Ari | Independent Component Analysis |
