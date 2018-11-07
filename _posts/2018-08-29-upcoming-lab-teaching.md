@@ -16,7 +16,7 @@ neuroscientific princples, new findings and literature reviews... whatever!
 | Date | Name | Topic |
 |------|------|-------|
 |Nov. 2|  Titipat   |  AllenNLP library and a little bit of Pytorch  |
-|Nov. 9|  Roozbeh    |    Large-Scale Hypothesis Testing   |
+|Nov. 9|  Roozbeh    |    Multiple Hypothesis Testing   |
 |Nov. 16|   David   |   TBD   |
 |Nov. 30|Brianna|T.B.D. (maybe decoding/electrophys related)|
 |Dec. 3| Ari | Independent Component Analysis |
