@@ -10,5 +10,6 @@ joined: 2018
 
 <i class="fa fa-envelope-o"></i> `drolnick@seas.upenn.edu`<br>
 <i class="fa fa-external-link"></i>
+[[Website]](http://www.davidrolnick.com/)
 [[Scholar]](https://scholar.google.com/citations?user=P_luG3cAAAAJ&hl=en)
 [[CV]](https://www.dropbox.com/s/mur6d8n3j0ccc5s/Rolnick_CV.pdf?dl=0)
