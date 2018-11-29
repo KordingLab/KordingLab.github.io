@@ -15,13 +15,8 @@ neuroscientific princples, new findings and literature reviews... whatever!
 
 | Date | Name | Topic |
 |------|------|-------|
-|Nov. 2|  Titipat   |  AllenNLP library and a little bit of Pytorch  |
-|Nov. 9|  Roozbeh    |    Multiple Hypothesis Testing   |
-|Nov. 16|   David   |   TBD   |
-|Nov. 30|Brianna|T.B.D. (maybe decoding/electrophys related)|
+|Nov. 30|[None|[None]|
 |Dec. 3| Ari | Independent Component Analysis |
-
-
 
 **Requests and suggestions**
 
@@ -46,6 +41,9 @@ neuroscientific princples, new findings and literature reviews... whatever!
 |Oct. 12:|  Ben  | GPUs -- beneath the heatsink [Slides](https://github.com/benlansdell/gpu_samples)    |
 |Oct. 19:|   Rachit   |  Graph Convolution Networks  |
 |Oct. 26:|  Tony |  Docker for science  |
+|Nov. 2|  Titipat   |  AllenNLP library and a little bit of Pytorch  |
+|Nov. 9|  Roozbeh    |    Multiple Hypothesis Testing   |
+|Nov. 16|   David   |   Reinforcement learning and catastrophic forgetting   |
 
 # Previous lab teaching
 
