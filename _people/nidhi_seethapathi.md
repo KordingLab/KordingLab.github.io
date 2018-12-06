@@ -2,7 +2,7 @@
 name: Nidhi Seethapathi
 position: postdoc
 avatar: NidhiS91.png
-joined: Nov 2018
+joined: 2018
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
