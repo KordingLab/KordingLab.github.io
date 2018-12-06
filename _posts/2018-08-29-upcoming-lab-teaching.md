@@ -17,6 +17,7 @@ neuroscientific princples, new findings and literature reviews... whatever!
 |------|------|-------|
 |Nov. 30|[None|[None]|
 |Dec. 3| Ari | Independent Component Analysis |
+|Jan. 11| Nidhi | Dynamic Time Warping |
 
 **Requests and suggestions**
 
