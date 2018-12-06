@@ -10,7 +10,6 @@ joined: Nov 2018
 ### Contact
 
 <i class="fa fa-envelope-o"></i> `snidhi@seas.upenn.edu`<br>
-<i class="fa fa-building"></i> RIC 1479
 
 <hr>
 
