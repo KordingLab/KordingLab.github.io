@@ -18,8 +18,8 @@ neuroscientific princples, new findings and literature reviews... whatever!
 |Nov. 30|[None|[None]|
 |Dec. 3| Ari | Independent Component Analysis |
 |Jan. 9| Netanel Ofer | TBA (something about neuron morphology and signal propagation)|
-|Jan. 11| Nidhi | Dynamic Time Warping |
-|Jan. 18| Ben | Bandit problems |
+|Jan. 18| Nidhi | Dynamic Time Warping |
+|Jan. 25| Ben | Bandit problems |
 |Feb. 8| David | Autoencoders |
 
 **Requests and suggestions**
