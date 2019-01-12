@@ -11,7 +11,7 @@ On a rotating basis, each member of the lab speaks and teaches about something t
 Anything, really. Relevant and interesting topics, good skills to know, nice Python packages,
 neuroscientific princples, new findings and literature reviews... whatever!
 
-**Fall 2018 topics**
+**Fall 2018/ Spring 2019 topics**
 
 | Date | Name | Topic |
 |------|------|-------|
