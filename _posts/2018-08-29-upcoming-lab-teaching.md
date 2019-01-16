@@ -21,6 +21,8 @@ neuroscientific princples, new findings and literature reviews... whatever!
 |Jan. 18| Nidhi | Dynamic Time Warping |
 |Jan. 25| Ben | Bandit problems |
 |Feb. 8| David | Autoencoders |
+|Feb. 15| Rachit | Older Deep Learning Methods |
+
 
 **Requests and suggestions**
 
