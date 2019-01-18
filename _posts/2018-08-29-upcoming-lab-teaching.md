@@ -22,7 +22,7 @@ neuroscientific princples, new findings and literature reviews... whatever!
 |Jan. 25| Ben | Bandit problems |
 |Feb. 8| David | Autoencoders |
 |Feb. 15| Rachit | Older Deep Learning Methods |
-|Feb. 22| | |
+|Feb. 22| Ilenna | TBA |
 |Mar. 1| | |
 |Mar. 8|[None]|[None]|
 |Mar. 15| Tony | TBA |
