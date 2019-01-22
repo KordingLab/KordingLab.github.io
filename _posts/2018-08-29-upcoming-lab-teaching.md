@@ -15,15 +15,11 @@ neuroscientific princples, new findings and literature reviews... whatever!
 
 | Date | Name | Topic |
 |------|------|-------|
-|Nov. 30|[None|[None]|
-|Dec. 3| Ari | Independent Component Analysis |
-|Jan. 9| Netanel Ofer | Automated Analysis of Interneuron Axonal Tree Morphology and Activity Patterns|
-|Jan. 18| Nidhi | Dynamic Time Warping |
 |Jan. 25| Ben | Bandit problems |
 |Feb. 8| David | Autoencoders |
 |Feb. 15| Rachit | Older Deep Learning Methods |
 |Feb. 22| Ilenna | TBA |
-|Mar. 1| | |
+|Mar. 1| Ari | Einstein summation convention (in python)|
 |Mar. 8|[None]|[None]|
 |Mar. 15| Tony | TBA |
 |Mar. 22| | |
@@ -56,6 +52,10 @@ neuroscientific princples, new findings and literature reviews... whatever!
 |Nov. 2|  Titipat   |  AllenNLP library and a little bit of Pytorch  |
 |Nov. 9|  Roozbeh    |    Multiple Hypothesis Testing   |
 |Nov. 16|   David   |   Reinforcement learning and catastrophic forgetting   |
+|Dec. 3| Ari | Independent Component Analysis |
+|Jan. 9| Netanel Ofer | Automated Analysis of Interneuron Axonal Tree Morphology and Activity Patterns|
+|Jan. 18| Nidhi | Dynamic Time Warping |
+
 
 # Previous lab teaching
 
