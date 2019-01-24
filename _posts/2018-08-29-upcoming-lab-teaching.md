@@ -17,7 +17,7 @@ neuroscientific princples, new findings and literature reviews... whatever!
 |------|------|-------|
 |Jan. 25| Ben | Bandit problems |
 |Feb. 8| David | Autoencoders |
-|Feb. 15| Rachit | Older Deep Learning Methods |
+|Feb. 15| Rachit | Unity ML Agents |
 |Feb. 22| Ilenna | TBA |
 |Mar. 1| Ari | Einstein summation convention (in python)|
 |Mar. 8|[None]|[None]|
