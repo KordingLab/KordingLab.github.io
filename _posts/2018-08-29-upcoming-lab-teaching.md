@@ -21,8 +21,8 @@ neuroscientific princples, new findings and literature reviews... whatever!
 |Feb. 22| Ilenna | TBA |
 |Mar. 1| Ari | Einstein summation convention (in python)|
 |Mar. 8|[None]|[None]|
-|Mar. 15| Tony | TBA |
-|Mar. 22| | |
+|Mar. 15| | |
+|Mar. 22| Tony | TBA |
 |Mar. 29| | |
 
 
