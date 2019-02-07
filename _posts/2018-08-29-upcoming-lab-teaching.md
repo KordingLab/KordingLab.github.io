@@ -15,15 +15,14 @@ neuroscientific princples, new findings and literature reviews... whatever!
 
 | Date | Name | Topic |
 |------|------|-------|
-|Jan. 25| Ben | Bandit problems |
-|Feb. 8| David | Autoencoders |
-|Feb. 15| Rachit | Unity ML Agents |
-|Feb. 22| Ilenna | TBA |
-|Mar. 1| Ari | Einstein summation convention (in python)|
-|Mar. 8|[None]|[None]|
-|Mar. 15| | |
-|Mar. 22| Tony | TBA |
-|Mar. 29| | |
+|Feb. 11| David | Autoencoders |
+|Feb. 20| Rachit | Unity ML Agents |
+|Feb. 27| Ilenna | TBA |
+|Mar. 6| Ari | Einstein summation convention (in python)|
+|Mar. 13|Greg Coyder (http://www.corderlab.com/)|emotional processing of pain in the amygdala]|
+|Mar. 20| | |
+|Mar. 27| Tony | TBA |
+|Apr. 3| | |
 
 
 **Requests and suggestions**
@@ -55,6 +54,8 @@ neuroscientific princples, new findings and literature reviews... whatever!
 |Dec. 3| Ari | Independent Component Analysis |
 |Jan. 9| Netanel Ofer | Automated Analysis of Interneuron Axonal Tree Morphology and Activity Patterns|
 |Jan. 18| Nidhi | Dynamic Time Warping |
+|Jan. 25| Ben | Bandit problems |
+
 
 
 # Previous lab teaching
