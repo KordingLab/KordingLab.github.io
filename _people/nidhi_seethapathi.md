@@ -25,7 +25,7 @@ Dynamics, control and energetics of human and robot locomotion.
 
 Seethapathi, N. , Jain, A. & Srinivasan, M. (in preparation). _Amputees walk slower for short distances and while walking in circles: a study in low-cost prosthesis users_.
 
-Seethapathi, N. & Srinivasan, M. (in review). _Step-to-step variations in human running reveal how humans run without falling. eLife_.
+Seethapathi, N. & Srinivasan, M. (accepted). _Step-to-step variations in human running reveal how humans run without falling. eLife_.
 
 Seethapathi, N. & Srinivasan, M. (2015). _The metabolic cost of changing walking speeds is significant, implies lower optimal speeds for shorter distances, and increases daily energy estimates. Biology Letters_, 11.9: 20150486.
 
