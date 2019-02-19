@@ -19,10 +19,11 @@ neuroscientific princples, new findings and literature reviews... whatever!
 |Feb. 20|  |  |
 |Feb. 27| Ilenna | TBA |
 |Mar. 6| Ari | Einstein summation convention (in python)|
-|Mar. 13|Greg Coyder (http://www.corderlab.com/)|emotional processing of pain in the amygdala]|
+|Mar. 13|Greg Corder (http://www.corderlab.com/)|emotional processing of pain in the amygdala]|
 |Mar. 20| | |
 |Mar. 27| Tony | TBA |
 |Apr. 3| Rachit | Unity ML Agents |
+|May. 8| Nidhi | Stability measures of nonlinear dynamical systems |
 
 
 **Requests and suggestions**
