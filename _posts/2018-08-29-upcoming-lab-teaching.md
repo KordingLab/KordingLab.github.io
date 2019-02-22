@@ -23,8 +23,8 @@ neuroscientific princples, new findings and literature reviews... whatever!
 |Mar. 20| Ilenna | Topics in the Philosophy of Science |
 |Mar. 27| Tony | TBA |
 |Apr. 3| Rachit | Unity ML Agents |
-|May. 1| Ben | Representation and computation in neuroscience |
 |May. 8| Nidhi | Stability measures of nonlinear dynamical systems |
+|May. 15| Ben | Representation and computation in neuroscience |
 
 
 **Requests and suggestions**
