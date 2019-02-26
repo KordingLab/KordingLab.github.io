@@ -15,11 +15,9 @@ neuroscientific princples, new findings and literature reviews... whatever!
 
 | Date | Name | Topic |
 |------|------|-------|
-|Feb. 11| David | Autoencoders |
-|Feb. 20|  |  |
-|Feb. 27|  |  |
+|Feb. 27| 	Adrian Radillo | Perfecting the research process |
 |Mar. 6| Ari | Einstein summation convention (in python)|
-|Mar. 13|Greg Corder (http://www.corderlab.com/)|emotional processing of pain in the amygdala]|
+|Mar. 13|Greg Corder (http://www.corderlab.com/)|emotional processing of pain in the amygdala|
 |Mar. 20| Ilenna | Topics in the Philosophy of Science |
 |Mar. 27| Tony | TBA |
 |Apr. 3| Rachit | Unity ML Agents |
@@ -59,6 +57,8 @@ neuroscientific princples, new findings and literature reviews... whatever!
 |Jan. 9| Netanel Ofer | Automated Analysis of Interneuron Axonal Tree Morphology and Activity Patterns|
 |Jan. 18| Nidhi | Dynamic Time Warping |
 |Jan. 25| Ben | Bandit problems |
+|Feb. 11| David | Autoencoders & Information Bottleneck |
+
 
 
 
