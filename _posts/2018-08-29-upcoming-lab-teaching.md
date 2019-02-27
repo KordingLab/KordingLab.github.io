@@ -11,12 +11,13 @@ On a rotating basis, each member of the lab speaks and teaches about something t
 Anything, really. Relevant and interesting topics, good skills to know, nice Python packages,
 neuroscientific princples, new findings and literature reviews... whatever!
 
+Get on the listserve for announcements: https://groups.google.com/forum/#!forum/kording-lab-teachings
+
 **Fall 2018/ Spring 2019 topics**
 
 | Date | Name | Topic |
 |------|------|-------|
-|Feb. 27| 	Adrian Radillo | Perfecting the research process |
-|Mar. 6| Ari | Einstein summation convention (in python)|
+|Mar. 6| Ari | Biologically plausible backprop|
 |Mar. 13|Greg Corder (http://www.corderlab.com/)|emotional processing of pain in the amygdala|
 |Mar. 20| Ilenna | Topics in the Philosophy of Science |
 |Mar. 27| Tony | TBA |
@@ -58,6 +59,7 @@ neuroscientific princples, new findings and literature reviews... whatever!
 |Jan. 18| Nidhi | Dynamic Time Warping |
 |Jan. 25| Ben | Bandit problems |
 |Feb. 11| David | Autoencoders & Information Bottleneck |
+|Feb. 27| 	Adrian Radillo | Perfecting the research process [dropbox doc from the teaching](https://paper.dropbox.com/doc/Kordings-lab-teaching-on-IT-for-scientists--AYUMIhaJvifuArh1uCfm6BivAQ-wXXjZyfix7HiGu9lcroyR) |
 
 
 
