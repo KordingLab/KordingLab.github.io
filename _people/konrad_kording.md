@@ -13,13 +13,13 @@ twitter: KordingLab
 <i class="fa fa-envelope-o"></i> `kording@upenn.edu`
 
 **Office**<br>
-106 Hayden Hall, 240 S 33rd St,<br>
+404B Richards, 3700 Hamilton Walk <br>
 Philadelphia, PA 19104
 
-[Konrad Kording](http://koerding.com/) runs the Kording lab at the University of Pennsylvania.
-Konrad is trying to foster an environment of creativity in which important problems get
-solved in interesting ways and unimportant problems get solved in fun ways.
-Konrad believes in the role of playful approaches towards science.
-He also believes that ultimately we need to solve important medical problems.
-His lab focuses on Big Data approaches to neuroscience and really anything. Massive amounts of data
-exist in neuroscience and work in the lab is focused on making sense out of such datasets (and obtaining such sets).
+[Konrad Kording](http://koerding.com/) runs his lab at the University of Pennsylvania.
+Konrad is interested in the question of how the brain solves the credit assignment problem and
+similarly how we should assign credit in the real world (through causality). In extension
+of this main thrust he is interested in applications of causality in biomedical research.
+Konrad has trained as student at ETH Zurich with Peter Konig, as postdoc at UCL London with Daniel
+Wolpert and at MIT with Josh Tenenbaum. After a decade at Northwestern University he is now
+PIK professor at UPenn.
