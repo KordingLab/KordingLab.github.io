@@ -20,7 +20,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 |Mar. 6| Ari | Biologically plausible backprop|
 |Mar. 13|Greg Corder (http://www.corderlab.com/)|emotional processing of pain in the amygdala|
 |Mar. 20| Ilenna | Topics in the Philosophy of Science |
-|Mar. 27| Tony | TBA |
+|Mar. 27| Tony | Code Workflow for Research |
 |Apr. 3| Rachit | Unity ML Agents |
 |May. 8| Nidhi | Stability measures of nonlinear dynamical systems |
 |May. 15| Ben | Representation and computation in neuroscience |
