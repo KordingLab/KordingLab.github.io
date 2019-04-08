@@ -17,11 +17,10 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 
 | Date | Name | Topic |
 |------|------|-------|
-|Mar. 6| Ari | Biologically plausible backprop|
-|Mar. 13|Greg Corder (http://www.corderlab.com/)|emotional processing of pain in the amygdala|
-|Mar. 20| Ilenna | Topics in the Philosophy of Science |
-|Mar. 27| Tony | Code Workflow for Research |
-|Apr. 3| Rachit | Unity ML Agents |
+|April 10| | |
+|April 17| | |
+|April 24| | |
+|May 1| | |
 |May. 8| Nidhi | System identification using data science (SirIssac) |
 |May. 15| Ben | Representation and computation in neuroscience |
 
@@ -60,6 +59,10 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 |Jan. 25| Ben | Bandit problems |
 |Feb. 11| David | Autoencoders & Information Bottleneck |
 |Feb. 27| 	Adrian Radillo | Perfecting the research process [dropbox doc from the teaching](https://paper.dropbox.com/doc/Kordings-lab-teaching-on-IT-for-scientists--AYUMIhaJvifuArh1uCfm6BivAQ-wXXjZyfix7HiGu9lcroyR) |
+|Mar. 6| Ari | Biologically plausible backprop|
+|Mar. 13|Greg Corder (http://www.corderlab.com/)|emotional processing of pain in the amygdala|
+|Mar. 20| Ilenna | Topics in the Philosophy of Science |
+|Mar. 27| Tony | Code Workflow for Research |
 
 
 
