@@ -22,7 +22,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 |Mar. 20| Ilenna | Topics in the Philosophy of Science |
 |Mar. 27| Tony | Code Workflow for Research |
 |Apr. 3| Rachit | Unity ML Agents |
-|May. 8| Nidhi | Stability measures of nonlinear dynamical systems |
+|May. 8| Nidhi | System identification using data science (SirIssac) |
 |May. 15| Ben | Representation and computation in neuroscience |
 
 
