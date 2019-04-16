@@ -21,7 +21,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 |April 17| Nidhi | Towards accessible computer vision-based diagnosis of infant neuromotor disorders |
 |April 24| | |
 |May 1| Edgar Dobriban | Data augmentation |
-|May. 8| Nidhi | System identification using data science (SirIssac) |
+|May. 8|  ||
 |May. 15| Ben | Representation and computation in neuroscience |
 
 
