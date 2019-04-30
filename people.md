@@ -46,6 +46,7 @@ permalink: /people/
 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
+| [Josh Glaser](https://jglaser2.github.io) | Graduate Student (2018) | Postdoc at Columbia
 | Xuelong Zhao | Postdoc (2016) | Postdoc at [Brian Litt  lab](http://littlab.seas.upenn.edu/), U Penn
 | Bahram Yoosefizonooz | Visiting (2017) | Postdoc at U Montreal
 | Elahe Arani | Visiting (2017) | Postdoc at U Montreal
