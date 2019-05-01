@@ -1,6 +1,6 @@
 ---
 name: Sofia Triantafillou
-position: postdoc
+position: alumni
 avatar: sofia.jpg
 joined: 2016
 ---
