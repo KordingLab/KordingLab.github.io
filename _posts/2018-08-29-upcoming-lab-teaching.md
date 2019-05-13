@@ -22,7 +22,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 |April 24| | |
 |May 1| Edgar Dobriban | Data augmentation |
 |May 8|  | |
-|May 15| Ben | Representation and computation in neuroscience |
+|May 15| Ben Baker (Miracchi lab) | Representation and information in neuroscience |
 |May 30| Nidhi | System identification using data science (SirIssac) |
 
 
