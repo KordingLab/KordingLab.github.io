@@ -24,6 +24,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 |May 8|  | |
 |May 15| Ben Baker (Miracchi lab) | Representation and information in neuroscience |
 |May 30| Nidhi | System identification using data science (SirIssac) |
+|June 5| Zhihao (Princeton University)| TBA |
 
 
 **Requests and suggestions**
