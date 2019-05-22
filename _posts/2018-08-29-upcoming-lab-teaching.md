@@ -17,14 +17,9 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 
 | Date | Name | Topic |
 |------|------|-------|
-|April 10| | |
-|April 17|  | |
-|April 24| | |
-|May 1| Edgar Dobriban | Data augmentation |
-|May 8|  | |
-|May 15| Ben Baker (Miracchi lab) | Representation and information in neuroscience |
-|May 30| Nidhi | System identification using data science (SirIssac) |
+|May 30| Sebastien Tremblay (Platt Lab)| The limits of neurophys and why we need your help|
 |June 5| Zhihao (Princeton University)| TBA |
+|June 12|Nidhi | System identification using data science (SirIssac) |
 
 
 **Requests and suggestions**
@@ -65,6 +60,10 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 |Mar. 13|Greg Corder (http://www.corderlab.com/)|emotional processing of pain in the amygdala|
 |Mar. 20| Ilenna | Topics in the Philosophy of Science |
 |Mar. 27| Tony | Code Workflow for Research |
+|May 1| Edgar Dobriban | Data augmentation |
+|May 15| Ben Baker (Miracchi lab) | Representation and information in neuroscience |
+
+
 
 
 
