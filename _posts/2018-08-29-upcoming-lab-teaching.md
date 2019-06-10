@@ -19,7 +19,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 |------|------|-------|
 |May 29| Sebastien Tremblay (Platt Lab)| The limits of neurophys and why we need your help|
 |June 5| Zhihao (Princeton University)| TBA |
-|June 12|Nidhi | System identification using data science (SirIssac) |
+|June 19|Nidhi | System identification using data science (SirIssac) |
 
 
 **Requests and suggestions**
