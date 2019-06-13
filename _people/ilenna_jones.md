@@ -11,7 +11,7 @@ joined: 2018
 ### Contact
 
 <i class="fa fa-envelope-o"></i>  `ilennaj@pennmedicine.upenn.edu`<br>
-<i class="fa fa-building"></i> 120B Hayden Hall <br>
+<i class="fa fa-building"></i> 400B Richards <br>
 <i class="fa fa-bar-chart"></i> [google scholar](https://scholar.google.com/citations?user=R3yolm0AAAAJ&hl=en) <br>
  [ilenna.com](http://www.ilenna.com)
 
