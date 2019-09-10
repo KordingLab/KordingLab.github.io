@@ -23,9 +23,11 @@ Dynamics, control and energetics of human and robot locomotion.
 
 ### Publications
 
-Seethapathi, N. , Jain, A. & Srinivasan, M. (in preparation). _Amputees walk slower for short distances and while walking in circles: a study in low-cost prosthesis users_.
+Seethapathi, N. , Jain, A. & Srinivasan, M. (2019). _Walking for short distances and turning in lower-limb amputees: a study in low-cost prosthesis users. arXiv preprint_, arXiv:1909.03139.
 
-Seethapathi, N. & Srinivasan, M. (2019). _Step-to-step variations in human running reveal how humans run without falling. eLife_.
+Seethapathi, N., Wang, S., Saluja, R., Blohm, G., & Kording, K. P. (2019). _Movement science needs different pose tracking algorithms. arXiv preprint_, arXiv:1907.10226.
+
+Seethapathi, N. & Srinivasan, M. (2019). _Step-to-step variations in human running reveal how humans run without falling. eLife_, e38371.
 
 Seethapathi, N. & Srinivasan, M. (2015). _The metabolic cost of changing walking speeds is significant, implies lower optimal speeds for shorter distances, and increases daily energy estimates. Biology Letters_, 11.9: 20150486.
 
