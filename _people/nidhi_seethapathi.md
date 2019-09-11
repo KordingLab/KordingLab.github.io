@@ -23,6 +23,8 @@ Dynamics, control and energetics of human and robot locomotion.
 
 ### Publications
 
+Chambers, C. , Seethapathi, N. , Saluja, R. , Loeb, H. , Pierce, S. , Bogen, D. , Prosser, L. , Johnson, M. J. & Kording, K. P. (2019). _Computer vision to automatically assess infant neuromotor risk. bioRxiv preprint_, bioRxiv:756262.
+
 Seethapathi, N. , Jain, A. & Srinivasan, M. (2019). _Walking for short distances and turning in lower-limb amputees: a study in low-cost prosthesis users. arXiv preprint_, arXiv:1909.03139.
 
 Seethapathi, N., Wang, S., Saluja, R., Blohm, G., & Kording, K. P. (2019). _Movement science needs different pose tracking algorithms. arXiv preprint_, arXiv:1907.10226.
