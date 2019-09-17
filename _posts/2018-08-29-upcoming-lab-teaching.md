@@ -20,7 +20,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 |September 18| Ilenna Jones|Lab Design Brainstorm Round 2|
 |September 25|||
 |October 2|||
-|October 9|||
+|October 9|David Rolnick|Climate change|
 |October 16|||
 |October 23|||
 |October 30|||
