@@ -17,8 +17,19 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 
 | Date | Name | Topic |
 |------|------|-------|
-|May 29| Sebastien Tremblay (Platt Lab)| The limits of neurophys and why we need your help|
-|June 5| Zhihao (Princeton University)| TBA |
+|September 18| Ilenna Jones|Lab Design Brainstorm Round 2|
+|September 25|||
+|October 2|||
+|October 9|||
+|October 16|||
+|October 23|||
+|October 30|||
+|November 6|||
+|November 13|||
+|November 20|||
+|November 27|||
+|December 4|||
+|December 11|||
 
 
 **Requests and suggestions**
@@ -35,7 +46,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 3. How to science (debugging strategies etc.) (Konrad)
 4. Reinforcement learning and causal inference (Ben)
 5. DAGs and causal inference (Ben)
-6. Neuron firing dynamics and bifurcations(Ilenna)
+6. Neuron firing dynamics and bifurcations (Ilenna)
 7. Submodular functions (Roozbeh)
 8. Recommendation systems (Rachit)
 
@@ -61,7 +72,8 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 |Mar. 27| Tony | Code Workflow for Research |
 |May 1| Edgar Dobriban | Data augmentation |
 |May 15| Ben Baker (Miracchi lab) | Representation and information in neuroscience |
-
+|May 29| Sebastien Tremblay (Platt Lab)| The limits of neurophys and why we need your help|
+|June 5| Zhihao (Princeton University)| TBA |
 
 
 
