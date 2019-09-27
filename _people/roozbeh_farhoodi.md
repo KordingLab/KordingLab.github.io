@@ -19,14 +19,31 @@ joined: 2015
 My [Homepage](https://roozbehfarhoodi.github.io/)
 ### Publication
 
+###### 2019
+Dendrite self-avoidance is mediated by transient neurite bridges  <br>
+Samantha Ing-Esteves, Roozbeh Farhoodi, Konrad P. Kording: None. Julie L. Lefebvre</sup> <br>
+<sup>**Society of Neuroscience** <!--- <sup>[Arxiv](https://www.abstractsonline.com/pp8/#!/7883/presentation/50793)</sup> --->
+
+Quantifying how staining methods bias measurements of neuron morphologies  <br>
+<sup>Roozbeh Farhoodi, Benjamin James Lansdell, Konrad Paul Kording</sup> <br>
+<sup>**Frontiers in neuroinformatics** <!--- <sup>[Arxiv](https://www.frontiersin.org/articles/10.3389/fninf.2019.00036/full)</sup> --->
+
+On functions computed on trees  <br>
+<sup>Roozbeh Farhoodi, Khashayar Filom, Ilenna Simone Jones, Konrad Paul Kording</sup> <br>
+<sup>**Neural Computation** <!--- <sup>[Arxiv](https://arxiv.org/pdf/1904.02309.pdf)</sup> --->
+
+The roles of supervised machine learning in systems neuroscience  <br>
+<sup>Joshua Glaser, Ari Benjamin, Roozbeh Farhoodi and  Konrad Kording</sup> <br>
+<sup>**Progress in neurobiology** <!--- <sup>[Arxiv](https://arxiv.org/abs/1805.08239)</sup> --->
+
 ###### 2018
 Quantifying the effect of staining methods on extracted neuron morphology  <br>
 <sup>Roozbeh Farhoodi, Benjamin Lansdell and Konrad Kording</sup> <br>
 <sup>**INCF - Montreal** <!--- .[abstract](https://www.dropbox.com/preview/Project%20on%20Profile/quantifying-effect-staining.pdf)</sup> --->
 
-The Roles of Supervised Machine Learning in Systems Neuroscience<br>
+The roles of machine learning in biomedical science<br>
 <sup>Joshua Glaser, Ari Benjamin, Roozbeh Farhoodi and  Konrad Kording</sup> <br>
-<!--- <sup>[Arxiv](https://arxiv.org/abs/1805.08239)</sup> --->
+<!--- <sup>[article](https://books.google.ca/books?hl=en&lr=&id=S1NLDwAAQBAJ&oi=fnd&pg=PA61&dq=info:p2iMMldUdssJ:scholar.google.com&ots=qaCZKAw5Ci&sig=d3-Lk-Rf7m2fowQPOTg4TPZWQEs&redir_esc=y#v=onepage&q&f=false)</sup> --->
 
 Neuron dendrograms uncover asymmetrical motifs<br>
 <sup>Roozbeh Farhoodi, David Rolnick and Konrad Kording</sup> <br>
