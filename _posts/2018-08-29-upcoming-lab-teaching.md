@@ -26,7 +26,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 |October 30|||
 |November 6|||
 |November 13|||
-|November 20|||
+|November 20|Ilenna Jones|TBD|
 |November 27|||
 |December 4|||
 |December 11|||
