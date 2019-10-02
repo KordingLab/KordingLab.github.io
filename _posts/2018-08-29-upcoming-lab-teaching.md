@@ -23,7 +23,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 |October 9|David Rolnick|Climate change|
 |October 16|||
 |October 23|Nidhi Seethapathi|Inferring Dynamics from Data|
-|October 30|||
+|October 30|Ben Lansdell|TBD (Maybe inference networks)|
 |November 6|||
 |November 13|||
 |November 20|Ilenna Jones|TBD|
