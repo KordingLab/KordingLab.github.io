@@ -21,7 +21,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 |October 23|Nidhi Seethapathi|Inferring Dynamics from Data|
 |October 30|Ben Lansdell|TBD (Maybe inference networks)|
 |November 6|||
-|November 13|||
+|November 13|Tony Liu| TBD (Maybe theory of computation)|
 |November 20|Ilenna Jones|TBD|
 |November 27|||
 |December 4|||
