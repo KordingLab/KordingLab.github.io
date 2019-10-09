@@ -17,11 +17,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 
 | Date | Name | Topic |
 |------|------|-------|
-|September 18| Ilenna Jones|Lab Design Brainstorm Round 2|
-|September 25|||
-|October 2|||
-|October 9|David Rolnick|Climate change|
-|October 16|||
+|October 16|Ari Benjamin|TBD (plasticity & learning in the brain)|
 |October 23|Nidhi Seethapathi|Inferring Dynamics from Data|
 |October 30|Ben Lansdell|TBD (Maybe inference networks)|
 |November 6|||
@@ -41,14 +37,6 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 
 *For inspiration. Add ones you've done!!*
 
-1. Generalization in neural networks (Ari)
-2. Synaptic learning rules (Ari)
-3. How to science (debugging strategies etc.) (Konrad)
-4. Reinforcement learning and causal inference (Ben)
-5. DAGs and causal inference (Ben)
-6. Neuron firing dynamics and bifurcations (Ilenna)
-7. Submodular functions (Roozbeh)
-8. Recommendation systems (Rachit)
 
 | Date | Name | Topic |
 |------|------|-------|
@@ -74,7 +62,17 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 |May 15| Ben Baker (Miracchi lab) | Representation and information in neuroscience |
 |May 29| Sebastien Tremblay (Platt Lab)| The limits of neurophys and why we need your help|
 |June 5| Zhihao (Princeton University)| TBA |
+|October 9|David Rolnick|Climate change|
 
+Older:
+1. Generalization in neural networks (Ari)
+2. Synaptic learning rules (Ari)
+3. How to science (debugging strategies etc.) (Konrad)
+4. Reinforcement learning and causal inference (Ben)
+5. DAGs and causal inference (Ben)
+6. Neuron firing dynamics and bifurcations (Ilenna)
+7. Submodular functions (Roozbeh)
+8. Recommendation systems (Rachit)
 
 
 
