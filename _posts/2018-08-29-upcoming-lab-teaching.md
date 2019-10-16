@@ -24,7 +24,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 |November 13|Tony Liu| TBD (Maybe theory of computation)|
 |November 20|Ilenna Jones|TBD|
 |November 27|||
-|December 4|||
+|December 4|Rachit Saluja|TBD|
 |December 11|||
 
 
