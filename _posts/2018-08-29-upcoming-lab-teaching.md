@@ -19,7 +19,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 |------|------|-------|
 |October 16|Ari Benjamin|TBD (plasticity & learning in the brain)|
 |October 23|Nidhi Seethapathi|Inferring Dynamics from Data|
-|October 30|Ben Lansdell|TBD (Maybe inference networks)|
+|October 30|Ben Lansdell| Invariance and causality |
 |November 6|||
 |November 13|Tony Liu| TBD (Maybe theory of computation)|
 |November 20|Ilenna Jones|TBD|
