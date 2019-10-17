@@ -23,7 +23,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 |November 6|||
 |November 13|Tony Liu| TBD (Maybe theory of computation)|
 |November 20|Ilenna Jones|TBD|
-|November 27|Shaofei Wang|TBD|
+|November 27|Shaofei Wang| Differentiable Structured Inference and Attention |
 |December 4|Rachit Saluja|TBD|
 |December 11|Titipat Achakulvisut|TBD|
 
