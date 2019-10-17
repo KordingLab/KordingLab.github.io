@@ -13,7 +13,7 @@ neuroscientific princples, new findings and literature reviews... whatever!
 
 Get on the listserve for announcements: https://groups.google.com/forum/#!forum/kording-lab-teachings
 
-**Fall 2018/ Spring 2019 topics**
+**Fall 2019/ Spring 2020 topics**
 
 | Date | Name | Topic |
 |------|------|-------|
@@ -23,9 +23,9 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 |November 6|||
 |November 13|Tony Liu| TBD (Maybe theory of computation)|
 |November 20|Ilenna Jones|TBD|
-|November 27|||
+|November 27|Shaofei Wang|TBD|
 |December 4|Rachit Saluja|TBD|
-|December 11|||
+|December 11|Titipat Achakulvisut|TBD|
 
 
 **Requests and suggestions**
