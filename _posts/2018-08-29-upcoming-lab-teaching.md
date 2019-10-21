@@ -18,8 +18,8 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Date | Name | Topic |
 |------|------|-------|
 |October 16|Ari Benjamin|TBD (plasticity & learning in the brain)|
-|October 23|||
-|October 30|Ben Lansdell| Invariance and causality |
+|October 23|Ethan Blackwood|Indirection and abstraction in the brain|
+|October 30|Ben Lansdell| Invariance and causality|
 |November 6|Nidhi Seethapathi|Inferring Dynamics from Data|
 |November 13|Tony Liu| TBD (Maybe theory of computation)|
 |November 20|Ilenna Jones|TBD|
