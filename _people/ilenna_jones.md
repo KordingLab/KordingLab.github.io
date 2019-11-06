@@ -13,7 +13,7 @@ joined: 2018
 <i class="fa fa-envelope-o"></i>  `ilennaj@pennmedicine.upenn.edu`<br>
 <i class="fa fa-building"></i> 400B Richards <br>
 <i class="fa fa-bar-chart"></i> [google scholar](https://scholar.google.com/citations?user=R3yolm0AAAAJ&hl=en) <br>
- [ilenna.com](http://www.ilenna.com)
+ [ilennaj.github.io](http://ilennaj.github.io)
 
 <hr>
 
@@ -25,4 +25,13 @@ Ilenna graduated from Dartmouth College in 2015, majoring in Neurocience and spe
 
 ### Research Interests
 
-What can we learn by building models of the brain? Modeling neurons using neural networks.
+What can we learn by building models of the brain? Modeling neurons using neural networks. 
+
+<hr>
+
+### Publications
+
+Roozbeh Farhoodi, Kashayar Filom, Ilenna Jones, and Konrad Kording. [“On functions computed on trees”](https://www.mitpressjournals.org/doi/full/10.1162/neco_a_01231). Neural Computation. September 2019
+
+Ilenna Jones, and Konrad Kording. [“Quantifying the role of neurons for behavior is a mediation question”](https://arxiv.org/abs/1905.02024). ArXiv. May 2019.
+
