@@ -13,7 +13,7 @@ joined: 2018
 <i class="fa fa-envelope-o"></i>  `ilennaj@pennmedicine.upenn.edu`<br>
 <i class="fa fa-building"></i> 400B Richards <br>
 <i class="fa fa-bar-chart"></i> [google scholar](https://scholar.google.com/citations?user=R3yolm0AAAAJ&hl=en) <br>
- [ilennaj.github.io](http://ilennaj.github.io)
+ [Homepage](http://ilennaj.github.io)
 
 <hr>
 
