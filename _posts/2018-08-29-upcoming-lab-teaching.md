@@ -17,10 +17,6 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 
 | Date | Name | Topic |
 |------|------|-------|
-|October 16|Ari Benjamin|TBD (plasticity & learning in the brain)|
-|October 23|Ethan Blackwood|Neural models of indirection and abstraction|
-|October 30|Ben Lansdell| Invariance and causality|
-|November 6|Nidhi Seethapathi|Inferring Dynamics from Data|
 |November 13|Tony Liu| TBD (Maybe theory of computation)|
 |November 20|Ilenna Jones|TBD|
 |November 27|Shaofei Wang| Differentiable Structured Inference and Attention |
@@ -63,6 +59,11 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 |May 29| Sebastien Tremblay (Platt Lab)| The limits of neurophys and why we need your help|
 |June 5| Zhihao (Princeton University)| TBA |
 |October 9|David Rolnick|Climate change|
+|October 16|Ari Benjamin|TBD (plasticity & learning in the brain)|
+|October 23|Ethan Blackwood|Neural models of indirection and abstraction|
+|October 30|Ben Lansdell| Invariance and causality|
+|November 6|Nidhi Seethapathi|Inferring Dynamics from Data|
+
 
 Older:
 1. Generalization in neural networks (Ari)
