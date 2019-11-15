@@ -1,6 +1,6 @@
 ---
 name: Rachit Saluja
-position: gradstudent
+position: researchstaff
 avatar: rachit_saluja.jpg
 twitter:
 joined: 2018
@@ -17,7 +17,7 @@ joined: 2018
 
 <hr>
 
-### About Me 
+### About Me
 
 I am a Masters Student in the Department of Electrical Engineering at the University of Pennsylvania working with Professor Konrad Kording. I am also a research assistant under Professor Valentina Assenova at The Wharton School.
 <hr>

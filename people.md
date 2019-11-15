@@ -3,57 +3,69 @@ title: People
 permalink: /people/
 ---
 
-{% assign people_sorted = (site.people | sort: 'joined' %}
-{% assign people_array = "pi|postdoc|gradstudent|visiting|others|alumni" | split: "|" %}
+{% assign people_sorted = site.people | sort: 'joined' %}
+{% assign role_array = "pi|postdoc|gradstudent|researchstaff|visiting|others|alumni" | split: "|" %}
 
-{% for item in people_array %}
+{% for role in role_array %}
+
+{% assign people_in_role = people_sorted | where: 'position', role %}
+
+<!-- Skip section if there's nobody -->
+{% if people_in_role.size == 0 %}
+  {% continue %}
+{% endif %}
 
 <div class="pos_header">
-{% if item == 'postdoc' %}
+{% if role == 'postdoc' %}
 <h3>Postdoctoral Fellows</h3>
- {% elsif item == 'pi' %}
+ {% elsif role == 'pi' %}
 <h3>Principal Investigator</h3>
- {% elsif item == 'gradstudent' %}
+ {% elsif role == 'gradstudent' %}
 <h3>Graduate Students</h3>
- {% elsif item == 'visiting' %}
+ {% elsif role == 'researchstaff' %}
+<h3>Research Staff</h3>
+ {% elsif role == 'visiting' %}
 <h3>Visiting Scholars</h3>
- {% elsif item == 'others' %}
+ {% elsif role == 'others' %}
 <h3>Honorary Members</h3>
- {% elsif item == 'alumni' %}
+ {% elsif role == 'alumni' %}
 <h3>Alumni</h3>
 {% endif %}
 </div>
 
+{% if role != 'alumni' %}
 <div class="content list people">
   {% for profile in people_sorted %}
-    {% if profile.position contains item %}
-    <div class="list-item-people">
-      <p class="list-post-title">
-        {% if profile.avatar %}
-        <a href="{{ site.baseurl }}{{ profile.url }}"><img width="200" src="{{site.baseurl}}/images/people/{{profile.avatar}}"></a>
-        {% else %}
-        <a href="{{ site.baseurl }}{{ profile.url }}"><img width="200" src="http://evansheline.com/wp-content/uploads/2011/02/facebook-Storm-Trooper.jpg"></a>
-        {% endif %}
-        <a class="name" href="{{ site.baseurl }}{{ profile.url }}">{{ profile.name }}</a>
-      </p>
-    </div>    
+    {% if profile.position contains role %}
+      <div class="list-item-people">
+        <p class="list-post-title">
+          {% if profile.avatar %}
+            <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="{{site.baseurl}}/images/people/{{profile.avatar}}"></a>
+          {% else %}
+            <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="http://evansheline.com/wp-content/uploads/2011/02/facebook-Storm-Trooper.jpg"></a>
+          {% endif %}
+          <a class="name" href="{{ site.baseurl }}{{ profile.url }}">{{ profile.name }}</a>
+        </p>
+      </div>    
     {% endif %}
   {% endfor %}
 </div>
 <hr>
-{% endfor %}
 
+{% else %}
+
+<br>
 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
 | [Josh Glaser](https://jglaser2.github.io) | Graduate Student (2018) | Postdoc at Columbia
 | Xuelong Zhao | Postdoc (2016) | Postdoc at [Brian Litt  lab](http://littlab.seas.upenn.edu/), U Penn
-| Bahram Yoosefizonooz | Visiting (2017) | Postdoc at U Montreal
+| [Bahram Yoosefizonooz](http://kordinglab.com/people/bahram_yoosefizonooz/index.html) | Visiting (2017) | Postdoc at U Montreal
 | Elahe Arani | Visiting (2017) | Postdoc at U Montreal
-| Luca Lonini | Postdoc (2017) | Postdoc with Arun at Northwestern U
-| Ravi Garg | Undergrad Research | Researcher at Northwestern U
-| Sohrob Saeb | Postdoc (2017) | Neuroscience in Bay Area
-| [Eva Dyer](http://evadyer.github.io/) | Postdoc (2017) | Assistant Professor, Dept of Biomedical Engineering at Georgia Tech and Emory U
+| [Luca Lonini](http://kordinglab.com/people/luca_lonini/index.html) | Postdoc (2017) | Postdoc with Arun at Northwestern U
+| [Ravi Garg](http://kordinglab.com/people/ravi_garg/index.html) | Undergrad Research | Researcher at Northwestern U
+| [Sohrob Saeb](http://kordinglab.com/people/sohrob_saeb/index.html) | Postdoc (2017) | Neuroscience in Bay Area
+| [Eva Dyer](http://kordinglab.com/people/eva_dyer/index.html) | Postdoc (2017) | Assistant Professor, Dept of Biomedical Engineering at Georgia Tech and Emory U
 | [Pavan Ramkumar](http://kordinglab.com/people/pavan_ramkumar/index.html) | Postdoc (2017) | A secret startup in bay area
 | [Pat Lawlor](http://kordinglab.com/people/pat_lawlor/index.html) | Graduate student (2016) | Northwestern Medical school
 | [Hugo Fernandes](http://kordinglab.com/people/hugo_fernandes/index.html) | Postdoc (2016) | [rockets of awesome](https://www.rocketsofawesome.com/)
@@ -91,3 +103,6 @@ permalink: /people/
 | Taro Kiritani | Rotation Student (Winter 2007) | Gordon Shepard's Lab at Northwestern |
 | Rashmi Sarnaik | Rotation Student (Winter 2007) | JC Cang's Lab at Northwestern |
 | Emily Oby | Rotation Student (Fall 2006) | Lee Miller's Lab at Northwestern |
+
+{% endif %}
+{% endfor %}
