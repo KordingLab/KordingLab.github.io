@@ -9,12 +9,14 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 <hr>
 
-### 2018
 
-_The Roles of Supervised Machine Learning in Systems Neuroscience_<br>
+
+EDIT_The Roles of Supervised Machine Learning in Systems Neuroscience_<br>
 Joshua I. Glaser\*, Ari S. Benjamin\*, Roozbeh Farhoodi\*, Konrad P. Kording<br>
 arXiv, 2018 ([Article](https://arxiv.org/abs/1805.08239))
 
+
+### 2018
 _Population coding of conditional probability distributions in dorsal premotor cortex_<br>
 Joshua I. Glaser, Matthew G. Perich, Pavan Ramkumar, Lee E. Miller, Konrad P. Kording<br>
 Nature Communications, 2018 ([Article](https://www.nature.com/articles/s41467-018-04062-6))
@@ -22,6 +24,54 @@ Nature Communications, 2018 ([Article](https://www.nature.com/articles/s41467-01
 _Linear-Nonlinear-Time-Warp-Poisson models of neural activity_<br>
 Patrick N. Lawlor, Matthew G. Perich, Lee E. Miller, Konrad P. Kording<br>
 Biorxiv, 2018 ([Article](https://www.biorxiv.org/content/early/2018/01/22/194498)) ([Code](https://github.com/pnlawlor/LNTWP))
+
+_Quasi-experimental causality in neuroscience and behavioural research_<br>
+Ioana E Marinescu, Patrick N Lawlor, Konrad P Kording<br>
+Nature, 2018 ([Article](https://www.nature.com/articles/s41562-018-0466-5.pdf?origin=ppub))
+
+_The development of Bayesian integration in sensorimotor estimation_<br>
+Claire Chambers, Taegh Sokhey, Deborah Gaebler-Spira, Konrad Paul Kording<br>
+Journal of Vision, 2018 ([Article](https://jov.arvojournals.org/article.aspx?articleid=2715085))
+
+_Behavioral tracking gets real_<br>
+Kunlin Wei, Konrad Paul Kording<br>
+Nature neuroscience, 2018 ([Article](https://www.nature.com/articles/s41593-018-0215-0))
+
+_Measuring and regularizing networks in function space_<br>
+Ari S Benjamin, David Rolnick, Konrad Kording<br>
+ArXiv, 2018 ([Article](https://arxiv.org/abs/1805.08289))
+
+_Technology to Track Adherence: Smartwatches Can Detect Walker and Cane Use in Older Adults at High Risk of Falls_<br>
+Stephen Antos, Margaret Danilovich, Keith E Gordon, Konrad P Kording
+HPA Resource, 2018 ([Article](http://eds.a.ebscohost.com/abstract?site=eds&scope=site&jrnl=19316313&AN=136788990&h=ZQoMHnezxUcFepp69EmLphwZXyUiijcpj8g5dtIDyspj6hEeS5eion3Xmn%2fN%2fU%2fHwvJLIvDP0vi7AxDYxIalHA%3d%3d&crl=c&resultLocal=ErrCrlNoResults&resultNs=Ehost&crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d19316313%26AN%3d136788990))
+
+_Improving generalization by regularizing in L2 function space_<br>
+Ari S Benjamin, Konrad Kording<br>
+Openreview, 2018 ([Article](https://openreview.net/pdf?id=H1l8sz-AW))
+
+_The development of Bayesian integration in sensorimotor estimation_<br>
+Claire Chambers, Taegh Sokhey, Debora Gaebler-Spira, Konrad Paul Kording
+Jorunal of Vision, 2018 ([Article](https://jov.arvojournals.org/arvo/content_public/journal/jov/937613/i1534-7362-18-12-8.pdf))
+
+_Although optimal models are useful, optimality claims are not that common_<br>
+Claire Chambers, Konrad Paul Kording
+Behavioral and Brain Sciences, 2018([Article](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/although-optimal-models-are-useful-optimality-claims-are-not-that-common/539D5E0428CA907A2FAA9CBDF06B83AB))
+
+_Inferring causal connectivity from pairwise recordings and optogenetics_<br>
+Mikkel Elle Lepperød, Tristan Stöber, Torkel Hafting, Marianne Fyhn, Konrad Paul Kording<br>
+bioRxiv, 2018 ([Article](https://www.biorxiv.org/content/biorxiv/early/2018/11/06/463760.full.pdf))
+
+_Modern machine learning as a benchmark for fitting neural responses_<br>
+Ari Sommer Benjamin, Hugo Fernandes, Tucker Tomlinson, Pavan Ramkumar, Chris VerSteeg, Raeed Chowdhury, Lee E Miller, Konrad Kording<br>
+Frontiers in Computational Neuroscience, 2018 ([Article](https://www.frontiersin.org/articles/10.3389/fncom.2018.00056/full))
+
+_Rate fluctuations not steps dominate LIP activity during decision-making_<br>
+Xuelong Zhao, Konrad Kording<br>
+bioRxiv, 2018 ([Article](https://www.biorxiv.org/content/biorxiv/early/2018/05/04/249672.full.pdf))
+
+_Bioscience-scale automated detection of figure element reuse_<br>
+Daniel E. Acuna, Paul S. Brookes, Konrad P. Kording<br>
+bioRxiv, 2018 ([Article](https://www.biorxiv.org/content/biorxiv/early/2018/02/22/269415.1.full.pdf))
 
 _From preliminary to definitive plans: two classes of neurons in frontal eye field_<br>
 Joshua I. Glaser, Daniel K Wood, Patrick N Lawlor, Mark A. Segraves, Konrad P. Kording<br>
