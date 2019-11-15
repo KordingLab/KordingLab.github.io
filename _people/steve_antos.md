@@ -1,6 +1,6 @@
 ---
 name: Steve Antos
-position: gradstudent
+position: alumni
 avatar: steve.jpg
 twitter:
 joined: 2012
