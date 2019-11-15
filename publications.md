@@ -10,13 +10,116 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 <hr>
 
 
+### 2019
 
-EDIT_The Roles of Supervised Machine Learning in Systems Neuroscience_<br>
+_A deep learning framework for neuroscience_<br>
+Blake A Richards, Timothy P Lillicrap, ..., Konrad P Kording<br>
+Nature Neuroscience, 2019 ([Article](https://www.nature.com/articles/s41593-019-0520-2))
+
+_Spike-based causal inference for weight alignment_<br>
+Jordan Guerguiev, Konrad P Kording, Blake A Richards<br>
+arXiv, 2019 ([Article](https://arxiv.org/pdf/1910.01689))
+
+_Identifying Weights and Architectures of Unknown ReLU Networks_<br>
+David Rolnick, Konrad P Kording<br>
+arXiv, 2019 ([Article](https://arxiv.org/pdf/1910.00744))
+
+_Towards learning-to-learn_<br>
+Benjamin James Lansdell, Konrad Paul Kording<br>
+Current Opinion in Behavioral Sciences, 2019 ([Article](https://arxiv.org/pdf/1811.00231))
+
+_Augmenting Supervised Learning by Meta-learning Unsupervised Local Rules_<br>
+Jeffrey Siedar Cheng, Ari Benjamin, Benjamin Lansdell, Konrad Paul Kording<br>
+OpenReview, 2019 ([Article](https://openreview.net/pdf?id=HJlKNmFIUB))
+
+_A Deep Dive to Illuminate V4 Neurons_<br>
+Aaron P Batista, Konrad P Kording<br>
+Trends in neurosciences, 2019 ([Article](https://www.sciencedirect.com/science/article/pii/S0166223619301110?via%3Dihub))
+
+_Movement science needs different pose tracking algorithms_<br>
+Nidhi Seethapathi, Shaofei Wang, Rachit Saluja, Gunnar Blohm, Konrad P Kording<br>
+arXiv, 2019 ([Article](https://arxiv.org/pdf/1907.10226))
+
+_What does it mean to understand a neural network?_<br>
+Timothy P Lillicrap, Konrad P Kording<br>
+arXiv, 2019 ([Article](https://arxiv.org/pdf/1907.06374))
+
+_Reverse engineering neural networks from many partial recordings_<br>
+Elahe Arani, Sofia Triantafillou, Konrad P Kording<br>
+arXiv, 2019 ([Article](https://arxiv.org/pdf/1907.01588))
+
+_Pose estimates from online videos show that side-by-side walkers synchronize movement under naturalistic conditions_<br>
+Claire Chambers, Gaiqing Kong, Kunlin Wei, Konrad Kording<br>
+PloS One, 2019 ([Article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0217861))
+
+_Learning to solve the credit assignment problem_<br>
+Benjamin James Lansdell, Prashanth Prakash, Konrad Paul Kording<br>
+arXiv, 2019 ([Article](https://arxiv.org/pdf/1906.00889))
+
+_Rarely-switching linear bandits: optimization of causal effects for the real world_<br>
+Benjamin Lansdell, Sofia Triantafillou, Konrad Kording<br>
+arXiv, 2019 ([Article](https://arxiv.org/pdf/1905.13121))
+
+_Sensorimotor priors are effector dependent_<br>
+Cong Yin, Huijun Wang, Kunlin Wei, Konrad P Körding<br>
+Journal of neurophysiology, 2019 ([Article](https://www.physiology.org/doi/pdfplus/10.1152/jn.00228.2018))
+
+
+_Quantifying the role of neurons for behavior is a mediation question_<br>
+Ilenna Simone Jones, Konrad Paul Kording<br>
+arXiv, 2019 ([Article](https://arxiv.org/pdf/1905.02024))
+
+_Policies or knowledge: priors differ between a perceptual and sensorimotor task_<br>
+Claire Chambers, Hugo Fernandes, Konrad Paul Kording<br>
+Journal of neurophysiology, 2019 ([Article](https://www.physiology.org/doi/pdf/10.1152/jn.00035.2018))
+
+_Smartwatches Can Detect Walker and Cane Use in Older Adults_<br>
+Stephen A Antos, Margaret K Danilovich, Amy R Eisenstein, Keith E Gordon, Konrad P Kording<br>
+Innovation in aging, 2019 ([Article](https://academic.oup.com/innovateage/article/3/1/igz008/5476372))
+
+_On functions computed on trees_<br>
+Roozbeh Farhoodi, Khashayar Filom, Ilenna Simone Jones, Konrad Paul Kording<br>
+Neural Computation, 2019 ([Article](https://arxiv.org/pdf/1904.02309.pdf)
+
+_Regression Discontinuity Threshold Optimization_<br>
+Ioana Elena Marinescu, Sofia Triantafillou, Konrad Kording<br>
+SSRN, 2019 ([Article](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3333334))
+
+_The Roles of Supervised Machine Learning in Systems Neuroscience_<br>
 Joshua I. Glaser\*, Ari S. Benjamin\*, Roozbeh Farhoodi\*, Konrad P. Kording<br>
-arXiv, 2018 ([Article](https://arxiv.org/abs/1805.08239))
+Progress in Neurobiology, 2019 ([Article](https://arxiv.org/abs/1805.08239))
 
+_Neural spiking for causal inference_<br>
+Benjamin James Lansdell, Konrad Paul Kording<br>
+bioRxiv, 2019 ([Article](https://www.biorxiv.org/content/10.1101/253351v5.full-text))
+
+_Hue tuning curves in V4 change with visual context_<br>
+Ari S Benjamin, Pavan Ramkumar, Hugo Fernandes, Matthew A Smith, Konrad Paul Kording<br>
+bioRxiv, 2019 ([Article](https://www.biorxiv.org/content/biorxiv/early/2019/09/24/780478.full.pdf))
+
+_Computer vision to automatically assess infant neuromotor risk_<br>
+Claire Chambers, Nidhi Seethapathi, Rachit Saluja, Helen Loeb, Samuel Pierce, Daniel Bogen, Laura Prosser, Michelle J Johnson, Konrad P Kording<br>
+BioRxiv, 2019 ([Article](https://www.biorxiv.org/content/biorxiv/early/2019/09/10/756262.full.pdf))
+
+_Quantifying how staining methods bias measurements of neuron morphologies_<br>
+Roozbeh Farhoodi, Benjamin James Lansdell, Konrad Paul Kording<br>
+Frontiers in neuroinformatics, 2019 ([Article](https://www.frontiersin.org/articles/10.3389/fninf.2019.00036/full))
+
+_Relationship Between Sleep Quality and Mood: Ecological Momentary Assessment Study_<br>
+Sofia Triantafillou, Sohrab Saeb, Emily G Lattie, David C Mohr, Konrad Paul Kording<br>
+JMIR mental health, 2019 ([Article](https://mental.jmir.org/2019/3/e12613))
+
+_From prior information to saccade selection: evolution of frontal eye field activity during natural scene search_<br>
+Joshua I Glaser, Daniel K Wood, Patrick N Lawlor, Mark A Segraves, Konrad P Kording
+<br>
+bioRxiv, 2019 ([Article](https://www.biorxiv.org/content/biorxiv/early/2019/03/10/251835.full.pdf))
+
+_Ten simple rules for organizing and running a successful intensive two-week course_<br>
+Gunnar Blohm, Paul Schrater, Konrad Körding<br>
+Neural computation, 2019 ([Article](https://www.mitpressjournals.org/doi/full/10.1162/neco_a_01146))
 
 ### 2018
+
 _Population coding of conditional probability distributions in dorsal premotor cortex_<br>
 Joshua I. Glaser, Matthew G. Perich, Pavan Ramkumar, Lee E. Miller, Konrad P. Kording<br>
 Nature Communications, 2018 ([Article](https://www.nature.com/articles/s41467-018-04062-6))
@@ -85,7 +188,10 @@ _Spiking allows neurons to estimate their causal effect_<br>
 Benjamin James Lansdell, Konrad P. Kording<br>
 bioRxiv, 2018 ([Article](https://www.biorxiv.org/content/early/2018/01/25/253351))
 
+<hr>
+
 ### 2017
+
 _The Roles of Machine Learning in Biomedical Science_<br>
 Konrad P. Kording, Ari Benjamin, Roozbeh Farhoodi and Joshua Glaser<br>
 National Academy of Engineering, winter 2017,([Article](https://www.nae.edu/Publications/Bridge/176887/176976.aspx))
