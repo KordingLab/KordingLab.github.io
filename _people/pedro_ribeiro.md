@@ -1,6 +1,6 @@
 ---
 name: Pedro Ribeiro
-position: Bioengineering Ph.D Student
+position: gradstudent
 avatar: pedro.jpg
 twitter: @Pedr0_Ribeir0
 joined: 2018
