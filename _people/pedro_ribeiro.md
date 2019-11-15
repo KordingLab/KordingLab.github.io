@@ -10,6 +10,7 @@ joined: 2018
 
 <a href="https://twitter.com/Pedr0_Ribeir0"><i class="fa fa-twitter"></i> Twitter</a><br>
 <a href="https://www.linkedin.com/in/pedro-ribeiro/"><i class="fa fa-linkedin"></i> linkedin</a>
+<i class="fa fa-github"></i> [Github](https://github.com/phribeiro)
 
 ### Contact
 
