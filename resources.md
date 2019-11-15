@@ -3,10 +3,7 @@ title: Reference
 permalink: /resources/
 ---
 
-
-
-
-{% assign reference_types = "scientists|students|discussion" | split: "|" %}
+{% assign reference_types = "scientists|students|blog|discussion" | split: "|" %}
 
 {% for type in reference_types %}
 
@@ -14,12 +11,15 @@ permalink: /resources/
 ### **For scientists**
  {% elsif type == 'students' %}
 ### **For students, lab members**
+ {% elsif type == 'blog' %}
+### **Blogs**
  {% elsif type == 'discussion' %}
 ### **Random bits of discussion**
 {% endif %}
 
 <div class="content list">
   {% for post in site.posts %}
+
     {% if post.categories contains type %}
     <div class="list-item">
       <p class="list-post-title">
@@ -27,8 +27,9 @@ permalink: /resources/
       </p>
     </div>
     {% endif %}
+
   {% endfor %}
 </div>
 
-<hr>
+<hr/>
 {% endfor %}
