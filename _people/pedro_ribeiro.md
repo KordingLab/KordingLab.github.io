@@ -19,7 +19,7 @@ joined: 2018
 
 ### Bio
 
-Pedro graduated from Oberlin College in 2018 with a Major in Computer Science and minor in Math. At Oberlin he worked in Leslie Kwakye's lab on multisensory integration via Virtual Reality. He started a Bioengineering Ph.D at the University of Pennsylvania in 2018 where he joined Konrad Kording's lab.
+Pedro graduated from Oberlin College in 2018 with a Major in Computer Science and minor in Math. At Oberlin he worked in Dr. Leslie Kwakye's lab on multisensory integration via Virtual Reality. He started a Bioengineering Ph.D at the University of Pennsylvania in 2018 where he joined Konrad Kording's lab.
 
 ### Research Interests
 
