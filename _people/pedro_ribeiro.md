@@ -9,7 +9,7 @@ joined: 2018
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 <a href="https://twitter.com/Pedr0_Ribeir0"><i class="fa fa-twitter"></i> Twitter</a><br>
-<a href="https://www.linkedin.com/in/pedro-ribeiro/"><i class="fa fa-linkedin"></i> linkedin</a>
+<a href="https://www.linkedin.com/in/pedro-ribeiro/"><i class="fa fa-linkedin"></i> linkedin</a><br>
 <i class="fa fa-github"></i> [Github](https://github.com/phribeiro)
 
 ### Contact
