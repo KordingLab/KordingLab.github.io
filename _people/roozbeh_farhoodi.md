@@ -21,7 +21,7 @@ My [Homepage](https://roozbehfarhoodi.github.io/)
 
 ###### 2019
 [PDE description of tree functions with repeated inputs](https://deepmath-conference.com/presentations) <br>
-<sup>Roozbeh Farhoodi, Khashayar Filom, Ilenna Simone Jones, Konrad Paul Kording</sup> <br>
+<sup>Roozbeh Farhoodi, Khashayar Filom, Konrad Paul Kording</sup> <br>
 <sup>**Deepmath - NYC** 
 
 [Dendrite self-avoidance is mediated by transient neurite bridges](https://www.abstractsonline.com/pp8/#!/7883/presentation/50793)  <br>
