@@ -26,7 +26,7 @@ My [Homepage](https://roozbehfarhoodi.github.io/)
 
 [Dendrite self-avoidance is mediated by transient neurite bridges](https://www.abstractsonline.com/pp8/#!/7883/presentation/50793)  <br>
 <sup>Samantha Ing-Esteves, Roozbeh Farhoodi, Konrad P. Kording and Julie L. Lefebvre</sup> <br>
-<sup>**Society of Neuroscience** 
+<sup>**Society of Neuroscience - Chicago** 
 
 [Quantifying how staining methods bias measurements of neuron morphologies](https://www.frontiersin.org/articles/10.3389/fninf.2019.00036/full)
   <br>
