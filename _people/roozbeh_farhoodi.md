@@ -56,7 +56,7 @@ My [Homepage](https://roozbehfarhoodi.github.io/)
 
 [Sampling Neuron Morphology](https://www.biorxiv.org/content/early/2018/01/15/248385) <br>
 <sup>Roozbeh Farhoodi and Konrad Kording</sup> <br>
-**Biorxiv 2018**
+<sup>**Biorxiv 2018**
 
 ###### 2017
 [The Roles of Machine Learning in Biomedical Science](https://www.naefrontiers.org/File.aspx?id=185177)  <br>
