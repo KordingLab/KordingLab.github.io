@@ -20,44 +20,49 @@ My [Homepage](https://roozbehfarhoodi.github.io/)
 ### Publication
 
 ###### 2019
-Dendrite self-avoidance is mediated by transient neurite bridges  <br>
-<sup>Samantha Ing-Esteves, Roozbeh Farhoodi, Konrad P. Kording and Julie L. Lefebvre</sup> <br>
-<sup>**Society of Neuroscience** <!--- <sup>[Arxiv](https://www.abstractsonline.com/pp8/#!/7883/presentation/50793)</sup> --->
-
-Quantifying how staining methods bias measurements of neuron morphologies  <br>
-<sup>Roozbeh Farhoodi, Benjamin James Lansdell and Konrad Paul Kording</sup> <br>
-<sup>**Frontiers in neuroinformatics** <!--- <sup>[Arxiv](https://www.frontiersin.org/articles/10.3389/fninf.2019.00036/full)</sup> --->
-
-On functions computed on trees  <br>
+[PDE description of tree functions with repeated inputs](https://deepmath-conference.com/presentations) <br>
 <sup>Roozbeh Farhoodi, Khashayar Filom, Ilenna Simone Jones, Konrad Paul Kording</sup> <br>
-<sup>**Neural Computation** <!--- <sup>[Arxiv](https://arxiv.org/pdf/1904.02309.pdf)</sup> --->
+<sup>**Deepmath - NYC** 
 
-The roles of supervised machine learning in systems neuroscience  <br>
+[Dendrite self-avoidance is mediated by transient neurite bridges](https://www.abstractsonline.com/pp8/#!/7883/presentation/50793)  <br>
+<sup>Samantha Ing-Esteves, Roozbeh Farhoodi, Konrad P. Kording and Julie L. Lefebvre</sup> <br>
+<sup>**Society of Neuroscience** 
+
+[Quantifying how staining methods bias measurements of neuron morphologies](https://www.frontiersin.org/articles/10.3389/fninf.2019.00036/full)
+  <br>
+<sup>Roozbeh Farhoodi, Benjamin James Lansdell and Konrad Paul Kording</sup> <br>
+<sup>**Frontiers in neuroinformatics**  
+ 
+[On functions computed on trees](https://arxiv.org/pdf/1904.02309.pdf)  <br>
+<sup>Roozbeh Farhoodi, Khashayar Filom, Ilenna Simone Jones, Konrad Paul Kording</sup> <br>
+<sup>**Neural Computation**  
+
+[4D analyses reveal molecular requirements for single neuron identity during circuit wiring](http://cosyne.org/cosyne19/Cosyne2019_program_book.pdf) <br>
+<sup>Samantha Ing-Esteves**, Roozbeh Farhoodi, Konrad P. Kording and Julie L. Lefebvre</sup> <br>
+<sup>**Cosyne - Lisbon**  
+
+[The roles of supervised machine learning in systems neuroscience](https://arxiv.org/abs/1805.08239)  <br>
 <sup>Joshua Glaser, Ari Benjamin, Roozbeh Farhoodi and  Konrad Kording</sup> <br>
-<sup>**Progress in neurobiology** <!--- <sup>[Arxiv](https://arxiv.org/abs/1805.08239)</sup> --->
-
+<sup>**Progress in Neurobiology**
+ 
 ###### 2018
-Quantifying the effect of staining methods on extracted neuron morphology  <br>
+[Quantifying the effect of staining methods on extracted neuron morphology](https://www.dropbox.com/preview/Project%20on%20Profile/quantifying-effect-staining.pdf)  <br>
 <sup>Roozbeh Farhoodi, Benjamin Lansdell and Konrad Kording</sup> <br>
-<sup>**INCF - Montreal** <!--- .[abstract](https://www.dropbox.com/preview/Project%20on%20Profile/quantifying-effect-staining.pdf)</sup> --->
+<sup>**INCF - Montreal** 
 
-The roles of machine learning in biomedical science<br>
-<sup>Joshua Glaser, Ari Benjamin, Roozbeh Farhoodi and  Konrad Kording</sup> <br>
-<!--- <sup>[article](https://books.google.ca/books?hl=en&lr=&id=S1NLDwAAQBAJ&oi=fnd&pg=PA61&dq=info:p2iMMldUdssJ:scholar.google.com&ots=qaCZKAw5Ci&sig=d3-Lk-Rf7m2fowQPOTg4TPZWQEs&redir_esc=y#v=onepage&q&f=false)</sup> --->
-
-Neuron dendrograms uncover asymmetrical motifs<br>
+[Neuron dendrograms uncover asymmetrical motifs](https://www.dropbox.com/preview/Project%20on%20Profile/cosyne-abstract-neuron.pdf)<br>
 <sup>Roozbeh Farhoodi, David Rolnick and Konrad Kording</sup> <br>
-<sup>**Cosyne - Denver** <!--- [Abstract](https://www.dropbox.com/preview/Project%20on%20Profile/cosyne-abstract-neuron.pdf)</sup> --->
+<sup>**Cosyne - Denver**
 
-Sampling Neuron Morphology <br>
+[Sampling Neuron Morphology](https://www.biorxiv.org/content/early/2018/01/15/248385) <br>
 <sup>Roozbeh Farhoodi and Konrad Kording</sup> <br>
-<!--- <sup>[BioRxiv](https://www.biorxiv.org/content/early/2018/01/15/248385)</sup> --->
+**Biorxiv 2018**
 
 ###### 2017
-The Roles of Machine Learning in Biomedical Science  <br>
+[The Roles of Machine Learning in Biomedical Science](https://www.naefrontiers.org/File.aspx?id=185177)  <br>
 <sup>Konrad Kording, Ari Benjamin, Roozbeh Farhoodi and Joshua Glaser </sup> <br>
-<sup>**National Academy of Engineering** <!--- [article](https://www.naefrontiers.org/File.aspx?id=185177)</sup> --->
+<sup>**National Academy of Engineering** 
 
-Deep learning approach towards generating neuronal morphology<br>
+[Deep learning approach towards generating neuronal morphology](http://www.cosyne.org/c/index.php?title=Cosyne2017_posters_1)<br>
 <sup>Roozbeh Farhoodi, Pavan Ramkumar and Konrad Kording</sup> <br>
-<sup>**Cosyne - Salt Lake City** <!--- [Poster](http://www.cosyne.org/c/index.php?title=Cosyne2017_posters_1)</sup> --->
+<sup>**Cosyne - Salt Lake City** 
