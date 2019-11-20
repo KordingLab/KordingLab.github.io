@@ -1,5 +1,5 @@
 ---
-title: Getting Started: Introduction to Lab Resources
+title: Introduction to Lab Resources
 categories: students
 ---
 
