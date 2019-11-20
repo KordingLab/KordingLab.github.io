@@ -39,6 +39,8 @@ The first thing you should do once you have an account is to set up Anaconda. An
 
 **Jupyter Notebook/Lab**
 
+**Matlab**
+
 ### Best Practices
 
 Please be mindful of the storage you are using, especially in the home folder. Most machines have seperate hardrives, generally under a folder named /data<X>, where you can store large datasets. Additionally, if you are finished with a project on home, it is best to move it to one of these other drives. Use the command
