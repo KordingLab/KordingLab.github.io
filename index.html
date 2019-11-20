@@ -25,21 +25,20 @@ layout: default
           <u>Happenings of the last two months. Updated 11/18/2019</u>
           <span style="display: block; margin-bottom: 1em"></span>
           <div class="news">
-
-            <ul style="list-style-position:outside;padding:20px" >
-               <li><span> Konrad submitted a giant U19 grant proposal on credit assignment in the brain (auditory/striatal circuits) with many collaborators.
-               <li><span> Konrad gave a colloquim at John Hopkins: <a href="https://pbs.jhu.edu/event/colloquium-konrad-kording/">“Bayesian Behavior vs Bayesian Brains.”</a>
-               <li><span>  Roozbeh presented a poster at <a href="https://deepmath-conference.com/presentations">DeepMath</a> called "PDE description of tree functions with repeated inputs". The poster is <a href= "https://www.dropbox.com/s/37z0hdnu47hd1qy/bare_conf_deepmath.pdf?dl=0">available here.</a>
-               <li><span>  Roozbeh presented a poster at SfN 2019. Title: <a href="https://www.abstractsonline.com/pp8/#!/7883/presentation/50793">"Molecular Mechanisms of Axon and Dendrite Development" </a>
-               <li><span> Ilenna passed her qualifying exam in the neuroscience department!
-               <li><span> New preprint: <a href="https://www.biorxiv.org/content/10.1101/780478v1">Hue tuning curves in V4 change with visual context</a>
-               <li><span> Ari traveled to Berlin to present <a href="https://ccneuro.org/2019/Papers/ViewPapers.asp?PaperNum=1299">Shared visual illusions between humans and artificial neural networks</a>
-                 at CCN and "Hue tuning curves in V4 change with visual context" at the Bernstein conference.
-               <li><span> Nidhi visited the Human Performance Lab at the University of Calgary,
-                 gave a seminar titled "Data-driven and normative models of human movement: from in-the-lab to the real world", and
-                  led a 3-day workshop on "Intro to Deep Learning with PyTorch".
+              {% capture now %}{{'now' | date: '%s' | minus: 36288000 %}}{% endcapture %}
+              <ul style="list-style-position:outside;padding:20px" >
+                {% for new in site.data.news %}
+                  {% capture date %}{{new.date | date: '%s' | plus: 0 %}}{% endcapture %}
+                  {% if date > now %}
+                    <li>
+                      <span>
+                        {{ new.details }}
+                      </span>
+                    </li>
+                  {% endif %}
+                {% endfor %}
               </ul>
-            </div>
+          </div>
         </div >
       </div>
 
