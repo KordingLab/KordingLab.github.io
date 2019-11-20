@@ -23,8 +23,18 @@ We currently have three local machines named Bleen, Dolores, and Quadcorn.
 
 **Setting Up Anaconda**
 
+The first thing you should do once you have an account is to set up Anaconda. Anaconda is a python envrionment manage. This allows seperate users to easily have different versions of python as well as different versions of packages. Individual users can also create seperate environments if different projects have conflicting version needs. 
+
+[installation instructions](https://docs.anaconda.com/anaconda/install/linux/)
+
+[creating and managing environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
+
 **Useful Commands**
 
 [See here](http://kordinglab.com/2018/09/20/bleen-quadcorn-commands.html)
 
 ### Best Practices
+
+Please be mindful of the storage you are using, especially in the home folder. Most machines have seperate hardrives, generally under a folder named /data<X>, where you can store large datasets. Additionally, if you are finished with a project on home, it is best to move it to one of these other drives. Use the command
+    df -h
+to get a list of all drives and their available space.
