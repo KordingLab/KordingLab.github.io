@@ -58,15 +58,21 @@ permalink: /people/
 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
-| [Josh Glaser](https://jglaser2.github.io) | Graduate Student (2018) | Postdoc at Columbia
-| Xuelong Zhao | Postdoc (2016) | Postdoc at [Brian Litt  lab](http://littlab.seas.upenn.edu/), U Penn
+| [Steve Antos](http://kordinglab.com/people/steve_antos/index.html) | Graduate Student (2012 - 2019) | - |
+| [Sofia Triantafillou](https://www.dbmi.pitt.edu/node/54091) | Postdoc (2016 - 2018) | Asst Prof. at University of Pittsburgh |
+| [Gaiqing Kong](https://gaiqingkong.github.io/) | Visiting Scholar (2016 - 2018) | Postdoc at UCL |
+| Claire Chambers | Postdoc (2015 - 2018) | - |
+| [Josh Glaser](https://jglaser2.github.io) | Graduate Student (2012 - 2018) | Postdoc at Columbia
+| [Daniel Wood](http://kordinglab.com/people/daniel_wood/index.html) | Postdoc (2014 - 2017) | Postdoc at Northwestern |
 | [Bahram Yoosefizonooz](http://kordinglab.com/people/bahram_yoosefizonooz/index.html) | Visiting (2017) | Postdoc at U Montreal
 | Elahe Arani | Visiting (2017) | Postdoc at U Montreal
 | [Luca Lonini](http://kordinglab.com/people/luca_lonini/index.html) | Postdoc (2017) | Postdoc with Arun at Northwestern U
 | [Ravi Garg](http://kordinglab.com/people/ravi_garg/index.html) | Undergrad Research | Researcher at Northwestern U
-| [Sohrob Saeb](http://kordinglab.com/people/sohrob_saeb/index.html) | Postdoc (2017) | Neuroscience in Bay Area
+| [Sohrob Saeb](http://kordinglab.com/people/sohrob_saeb/index.html) | Postdoc (2014 - 2017) | Neuroscience in Bay Area
 | [Eva Dyer](http://kordinglab.com/people/eva_dyer/index.html) | Postdoc (2017) | Assistant Professor, Dept of Biomedical Engineering at Georgia Tech and Emory U
 | [Pavan Ramkumar](http://kordinglab.com/people/pavan_ramkumar/index.html) | Postdoc (2017) | A secret startup in bay area
+| [Ted Cybulski](http://kordinglab.com/people/ted_cybulski/index.html) | Graduate Student (2012 - 2017) | Medical resident at Northwestern |
+| Xuelong Zhao | Postdoc (2016) | Postdoc at [Brian Litt  lab](http://littlab.seas.upenn.edu/), U Penn
 | [Pat Lawlor](http://kordinglab.com/people/pat_lawlor/index.html) | Graduate student (2016) | Northwestern Medical school
 | [Hugo Fernandes](http://kordinglab.com/people/hugo_fernandes/index.html) | Postdoc (2016) | [rockets of awesome](https://www.rocketsofawesome.com/)
 | [Torben Noto](http://kordinglab.com/people/torben_noto/index.html) | Rotation Student (2016) | Northwestern

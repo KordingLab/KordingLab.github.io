@@ -16,6 +16,6 @@ I do biological and computational investigations of the visuomotor system. Curre
 
 **Bio:** Proud American/Canadian dual citizen. Former session guitarist. I miss living near mountains. Wannabe sailor. I like snakes, especially viperidae. Hate goats. Fascinated by Polynesian history. Spent 2 yrs in Dominican Republic as a LDS missionary. Studied philosophy (primarily existential phenomenology) during my undergrad. Blissfully married, with one perfect daughter and one lazy weimaraner named Darwin.
 
-Here is my occasionally updated [personal site](https://sites.google.com/site/danielkentwood/Home).
+Here is my occasionally updated [personal site](http://danielkentwood.github.io/).
 
 Remember: _"The world is full of magical things patiently waiting for our wits to grow sharper."_ -Bertrand Russell
