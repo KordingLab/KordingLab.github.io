@@ -19,7 +19,6 @@ We currently have three local machines named Bleen, Dolores, and Quadcorn.
 
 **Getting an account**
 
-<TODO>
 
 **Setting Up Anaconda**
 
