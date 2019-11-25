@@ -17,8 +17,6 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 
 | Date | Name | Topic |
 |------|------|-------|
-|November 13|Tony Liu| Theory of Computation|
-|November 20|Ilenna Jones|TBD|
 |November 27|Shaofei Wang| Differentiable Structured Inference and Attention |
 |December 4|Rachit Saluja|TBD|
 |December 11|Titipat Achakulvisut|TBD|
@@ -63,6 +61,8 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 |October 23|Ethan Blackwood|Neural models of indirection and abstraction|
 |October 30|Ben Lansdell| Invariance and causality|
 |November 6|Nidhi Seethapathi|Inferring Dynamics from Data|
+|November 13|Tony Liu| Theory of Computation|
+|November 20|Ilenna Jones| Ion Channel Kinetics|
 
 
 Older:
