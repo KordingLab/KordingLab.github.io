@@ -19,7 +19,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 |------|------|-------|
 |November 27|Shaofei Wang| Differentiable Structured Inference and Attention |
 |December 4|Rachit Saluja|TBD|
-|December 11|Titipat Achakulvisut|TBD|
+|December 18|Titipat Achakulvisut|TBD|
 
 
 **Requests and suggestions**
