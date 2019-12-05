@@ -42,6 +42,7 @@ Spontaneous restarting: A bug in intel's CPU sometimes causes Dolores to restart
     echo "1" | sudo tee /sys/devices/system/cpu/intel_pstate/no_turbo
 
 To permanently disable do the following:
+
 Disable Turbo for i9 CPU
 
     Boot up machine
