@@ -32,6 +32,39 @@ The first thing you should do once you have an account is to set up Anaconda. An
 
 [See here](http://kordinglab.com/2018/09/20/bleen-quadcorn-commands.html)
 
+
+### Common Issues
+
+**Dolores**
+
+Spontaneous restarting: A bug in intel's CPU sometimes causes Dolores to restart spontaneously when if Turbo Mode is enabled. To prevent this, run the following command everytime the machine is booted up:
+
+    echo "1" | sudo tee /sys/devices/system/cpu/intel_pstate/no_turbo
+
+To permanently disable do the following:
+Disable Turbo for i9 CPU
+
+    Boot up machine
+
+
+    Press DEL or F2 (repeatedly)  to enter the BIOS
+
+
+    Enter Advanced Mode (F7)
+
+
+    Navigate to Advanced  in the horizontal options bar
+
+
+    Press enter on CPU Configuration
+
+
+    Scroll down to the bottom and enter into CPU Power Management Configuration
+
+
+    Navigate to Turbo Mode and press enter and change to Disabled
+
+
 ### Workflow
 
 **Screen**
