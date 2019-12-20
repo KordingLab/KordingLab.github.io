@@ -2,6 +2,7 @@
 title: Screen and Tunneling
 description: How to tunnel and how to use screen
 categories: blog
+header-img: images/post/dino3.jpg
 ---
 
 ## Screen

@@ -1,6 +1,7 @@
 ---
 title: Booking conference rooms near Richards
 categories: students
+header-img: images/post/dino4.jpeg
 ---
 
 Private meetings are important and our lab space does not have room for private presentation quite yet.

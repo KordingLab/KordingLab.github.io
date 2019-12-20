@@ -1,6 +1,7 @@
 ---
 title: A summary of the most used (frequentist) statistical tests
 categories: scientists
+header-img: images/post/dino3.jpg
 ---
 
 To achieve the goal in different scale of Measurement:

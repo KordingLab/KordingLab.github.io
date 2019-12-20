@@ -2,6 +2,7 @@
 title: Science of science presentation to the Chicago Python user group
 description: ChiPy presentation
 categories: blog
+header-img: images/post/dino3.jpg
 ---
 
 #### The event

@@ -2,6 +2,7 @@
 title: How to add yourself and publication to lab page
 description: description on how to add yourself to the page
 categories: blog
+header-img: images/post/dino2.jpg
 ---
 
 Here, we provide some description on how can you add new profile to the page by editing on Github  [KordingLab/KordingLab.github.io](https://github.com/KordingLab/KordingLab.github.io). It's very simple.

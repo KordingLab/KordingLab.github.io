@@ -2,6 +2,7 @@
 title: How to add blog post on Jekyll
 description: simple way to add post on Jekyll for Kording lab's blog
 categories: blog
+header-img: images/post/dino3.jpg
 ---
 
 We use Jekyll to creat Kording lab blog. Not only us that use Jekyll as an organization blog, [Stack Overflow Blog](http://blog.stackoverflow.com/) also use Jekyll. They host all the blog on Github  [StackExchange/stack-blog](https://github.com/StackExchange/stack-blog) which has really nice instruction to add new posts.

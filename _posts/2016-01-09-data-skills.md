@@ -1,6 +1,7 @@
 ---
 title: Data Skills
 categories: scientists
+header-img: images/post/dino2.jpg
 ---
 
 **Data skills – results of discussion between Josh Vogelstein and Konrad Kording**

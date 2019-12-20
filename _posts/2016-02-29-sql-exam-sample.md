@@ -1,6 +1,7 @@
 ---
 title: Microsoft SQL example
 categories: students
+header-img: images/post/dino3.jpg
 ---
 
 I have to take EDW exam (Northwestern Data Warehouse exam) this coming week which is an SQL exam. I think people/ lab members who will work with EDW in order to access medical data that they provide have to take that too. The database that they have is Microsoft SQL 2008 (MSSQL). There is an easy way to query MSSQL on my Mac by installing
