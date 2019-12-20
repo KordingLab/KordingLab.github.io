@@ -1,7 +1,6 @@
 ---
 title: Extensive writing guide by my friend Liz Moyer
 categories: scientists
-subtitle: Below is a standard protocol for paper writing, that should ease the process of getting a manuscript ready for submission (or of preparing a proposal). You will check in with relevant people in the group at every stage. (It is perfectly reasonable to also present a draft figure list or outline in group meeting). After each milestone is completed, you’ll update your paper status in the spreadsheet. Some part of the below is just good writing advice, some is workflow management. Writing is an unavoidable part of science, one of the few fields in which the practitioners must also communicate what they have done. It’s something you absolutely have to do well (and efficiently) to advance your career.
 header-img: images/post/dino4.jpeg
 ---
 
