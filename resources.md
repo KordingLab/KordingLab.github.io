@@ -13,8 +13,6 @@ permalink: /resources/
 ### **For students, lab members**
  {% elsif type == 'blog' %}
 ### **Blogs**
- {% elsif type == 'discussion' %}
-### **Random bits of discussion**
 {% endif %}
 
 <div class="content list">
@@ -29,11 +27,11 @@ permalink: /resources/
                     <img src="/{% if post.header-img %}{{ post.header-img }}{% else %}{{ site.header-img }}{% endif %}">
                 </div>
                 <div class="col-sm-8">
-                    <h2 class="post-title">
+                    <h3 class="post-title">
                         {{ post.title }}
-                    </h2>
-                    {{ post.content | strip_html | truncatewords:75 }}
-                    <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
+                    </h3>
+                    <p class="post-meta">posted on {{ post.date | date: "%B %-d, %Y" }}</p>
+                    {{ post.content | strip_html | truncatewords:30 }}
                 </div>
             </div>
         </a>
@@ -44,5 +42,4 @@ permalink: /resources/
   {% endfor %}
 </div>
 
-<hr/>
 {% endfor %}
