@@ -1,7 +1,6 @@
 ---
 title: Data Skills
 categories: scientists
-subtitle: All data skills needed ever!
 header-img: images/post/dino2.jpg
 ---
 
