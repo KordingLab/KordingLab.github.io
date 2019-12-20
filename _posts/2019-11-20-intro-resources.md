@@ -1,6 +1,8 @@
 ---
 title: Introduction to Lab Resources
 categories: students
+header-img: images/post/dino.jpg
+
 ---
 
 # Introduction to Lab Resources
