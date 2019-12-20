@@ -1,6 +1,5 @@
 ---
 title: Database for Reaching Experiments and Models (DREAM)
-subtitle: The Database for Reaching Experiments and Models (DREAM) is a collaborative database that contains experimental data and models acquired through research from the field of computational neuroscience.
 description: The Database for Reaching Experiments and Models (DREAM) is a collaborative database that contains experimental data and models acquired through research from the field of computational neuroscience.
 categories: scientists
 header-img: images/post/dino.jpg
