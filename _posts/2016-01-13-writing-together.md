@@ -1,7 +1,6 @@
 ---
 title: Writing together
 categories: scientists
-subtitle: I find that the best way to both get papers published in a good form and to teach my students/postdocs how to write is to write together. I learned that from Daniel Wolpert who is a great master of writing. I have the students write the abstract (early in the project) or a first draft (later) all by themselves. But then instead of me editing over it by myself I edit it with them also looking at my screen. I usually only do this once per paper but this run-through is super super slow.
 header-img: images/post/dino.jpg
 ---
 
