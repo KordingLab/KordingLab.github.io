@@ -1,7 +1,6 @@
 ---
 title: What is wrong with the scientific publishing system?
 categories: scientists
-subtitle: The problem is that given the way the system is organized it is very hard to distinguish the huge number of mildly relevant papers that are bad on both truth and innovativeness from the small number of truthful, innovative papers that are just only relevant to a relatively small number of people. I do not see how post publication peer review or any of the other factors would really improve this problem.
 header-img: images/post/dino4.jpeg
 ---
 
