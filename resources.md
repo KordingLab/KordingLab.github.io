@@ -32,9 +32,7 @@ permalink: /resources/
                     <h2 class="post-title">
                         {{ post.title }}
                     </h2>
-                    {% if post.subtitle %}
-                        {{ post.subtitle }}
-                    {% endif %}
+                    {{ post.content | strip_html | truncatewords:75 }}
                     <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
                 </div>
             </div>
