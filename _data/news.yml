@@ -1,3 +1,9 @@
+- date: 2019-12-18
+  details: Ari defended his thesis proposal. Candidate Benjamin!
+
+- date: 2019-12-12
+  details: Ben, David, Konrad, and Jeff all attended NeurIPS for their various awesome things. Good presence at the "Real neurons and Hidden Units..." workshop.
+
 - date: 2019-12-04
   details: Rachit's paper "Multi-disease segmentation of gliomas and white matter hyperintensities in the BraTS data using a 3D convolutional neural network" is accepted in Frontiers in Computational Neuroscience.
 
@@ -6,7 +12,7 @@
 
 - date: 2019-11-25
   details: Konrad and Roozbeh submitted CRCNS grant on neuron morphology with collaborators.
-  
+
 - date: 2019-11-20
   details: Titipat made an awesome <a href="http://35.160.123.103/">"Events at Penn" app</a> that allows you to make search and recommendation on all events at Penn
 
@@ -33,4 +39,3 @@
 
 - date: 2019-10-05
   details: Nidhi visited the Human Performance Lab at the University of Calgary, gave a seminar titled "Data-driven and normative models of human movement from in-the-lab to the real world", and led a 3-day workshop on "Intro to Deep Learning with PyTorch".
-
