@@ -6,20 +6,18 @@ categories: students
 
 # Upcoming lab teachings
 
-Every Friday, we get together (over pizza, sometimes) for lab teachings. 
-On a rotating basis, each member of the lab speaks and teaches about something they know. 
+Every Friday, we get together (over pizza, sometimes) for lab teachings.
+On a rotating basis, each member of the lab speaks and teaches about something they know.
 Anything, really. Relevant and interesting topics, good skills to know, nice Python packages,
 neuroscientific princples, new findings and literature reviews... whatever!
 
 Get on the listserve for announcements: https://groups.google.com/forum/#!forum/kording-lab-teachings
 
-**Fall 2019/ Spring 2020 topics**
+**Spring 2020 topics**
 
 | Date | Name | Topic |
 |------|------|-------|
-|November 27|Shaofei Wang| Differentiable Structured Inference and Attention |
-|December 4|Rachit Saluja|TBD|
-|December 18|Titipat Achakulvisut|TBD|
+| | | |
 
 
 **Requests and suggestions**
@@ -31,7 +29,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 
 *For inspiration. Add ones you've done!!*
 
-
+**Fall 2019**
 | Date | Name | Topic |
 |------|------|-------|
 |Sept. 28:| Ilenna | Capacity of Neural Networks   |
@@ -63,6 +61,9 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 |November 6|Nidhi Seethapathi|Inferring Dynamics from Data|
 |November 13|Tony Liu| Theory of Computation|
 |November 20|Ilenna Jones| Ion Channel Kinetics|
+|November 27|Shaofei Wang| Differentiable Structured Inference and Attention |
+|December 4|Rachit Saluja| Compressed sensing and deep learning|
+|December 18|Titipat Achakulvisut|Reinforcement Learning|
 
 
 Older:
@@ -82,5 +83,3 @@ Older:
 
 - [2016 topics](http://kordinglab.com/lab_teaching_2016/)
 - [2015 topics](https://github.com/KordingLab/lab_teaching_2015)
-
-
