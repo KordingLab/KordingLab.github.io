@@ -17,7 +17,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 
 | Date | Name | Topic |
 |------|------|-------|
-| | | |
+| Jan. 8 | Ari | Variational Inference |
 
 
 **Requests and suggestions**
