@@ -23,7 +23,7 @@ Dynamics, control and energetics of human and robot locomotion.
 
 ### Publications
 
-Geoffrey, L., Brown, S., Seethapathi & Srinivasan, M. (2020). _Walking with turning: energy optimality explains walking behavior while turning and path planning_, arXiv:2001.02287.
+Brown, G. L., Seethapathi, N. & Srinivasan, M. (2020). _Walking with turning: energy optimality explains walking behavior while turning and path planning_, arXiv:2001.02287.
 
 Chambers, C. , Seethapathi, N. , Saluja, R. , Loeb, H. , Pierce, S. , Bogen, D. , Prosser, L. , Johnson, M. J. & Kording, K. P. (2019). _Computer vision to automatically assess infant neuromotor risk. bioRxiv preprint_, bioRxiv:756262.
 
