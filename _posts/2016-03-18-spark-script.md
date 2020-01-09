@@ -2,6 +2,7 @@
 title: Example how to run PySpark
 description: small snippet to run PySpark snippet
 categories: blog
+header-img: images/post/dino.jpg
 ---
 
 In this post, we'll describe how to download and run Spark.

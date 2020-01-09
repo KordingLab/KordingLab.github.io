@@ -1,6 +1,7 @@
 ---
 title: Being productive in the lab
 categories: students
+header-img: images/post/dino4.jpeg
 ---
 
 **How to be productive in the Bayesian Behavior lab**

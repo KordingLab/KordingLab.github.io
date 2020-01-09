@@ -2,6 +2,7 @@
 title: Software in Quadcorn
 description: List of main software installed and how to install it
 categories: blog
+header-img: images/post/dino2.jpg
 ---
 
 

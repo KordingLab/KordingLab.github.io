@@ -1,6 +1,7 @@
 ---
 title: Upcoming lab teachings
 categories: students
+header-img: images/post/dino2.jpg
 ---
 
 
@@ -17,7 +18,8 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 
 | Date | Name | Topic |
 |------|------|-------|
-| Jan. 8 | Ari | Variational Inference |
+| Jan. 15 | Ari | Variational Inference |
+
 
 
 **Requests and suggestions**
@@ -64,6 +66,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 |November 27|Shaofei Wang| Differentiable Structured Inference and Attention |
 |December 4|Rachit Saluja| Compressed sensing and deep learning|
 |December 18|Titipat Achakulvisut|Reinforcement Learning|
+
 
 
 Older:

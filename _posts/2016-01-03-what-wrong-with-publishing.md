@@ -1,6 +1,7 @@
 ---
 title: What is wrong with the scientific publishing system?
 categories: scientists
+header-img: images/post/dino4.jpeg
 ---
 
 **Three factors characterize papers**

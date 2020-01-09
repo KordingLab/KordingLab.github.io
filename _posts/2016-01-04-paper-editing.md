@@ -1,6 +1,7 @@
 ---
 title: Paper editing for editors, reviewers and authors
 categories: scientists
+header-img: images/post/dino.jpg
 ---
 
 This writeup is reflecting my own current thinking about editing, not that of PLOS or any other publisher. I wrote it very quickly, so it will only become meaningful after I get feedback from a couple of people. Feedback invited via email or to [@kordinglab](https://twitter.com/kordinglab).

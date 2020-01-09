@@ -1,6 +1,7 @@
 ---
 title: Writing together
 categories: scientists
+header-img: images/post/dino.jpg
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 title: Bits per second of human brain
 categories: scientists
+header-img: images/post/dino3.jpg
 ---
 
 

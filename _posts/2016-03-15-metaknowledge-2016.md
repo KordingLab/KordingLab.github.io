@@ -2,6 +2,7 @@
 title: Metaknowledge Spring Retreat 2016
 description: Metaknowledge group meeting
 categories: blog
+header-img: images/post/dino2.jpg
 ---
 
 Our lab is very interdisciplinary. We are extensively doing research in the field of

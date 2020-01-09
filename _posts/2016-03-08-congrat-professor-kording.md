@@ -2,6 +2,7 @@
 title: Congratulations Prof. Konrad for the full professorship
 description: full professorship ceremony
 categories: blog
+header-img: images/post/dino.jpg
 ---
 
 Some photos from the full professorship ceremony this year, including Prof. Konrad Kording, Prof. Christina Marciniak and Prof. Yasin Dhaher from the Rehabilitation Institute of Chicago and Northwestern University. Congratulations Konrad!

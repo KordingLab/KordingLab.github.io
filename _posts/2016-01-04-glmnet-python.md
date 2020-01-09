@@ -1,6 +1,7 @@
 ---
 title: Fortran-glmnet-in-python
 categories: students
+header-img: images/post/dino4.jpeg
 ---
 
 Purpose: To compile the original Fortran code of GLMNET to use it in Python which contains the Poisson link function that many people and me use in the lab.
