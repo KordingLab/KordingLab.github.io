@@ -9,7 +9,7 @@ header-img: images/post/dino.jpg
 
 ## Local Computational Resources
 
-We currently have three local machines named Bleen, Dolores, and Quadcorn. 
+We currently have three local machines named Bleen, Dolores, and Quadcorn.
 
 | Machine  | OS     | CPU                            | GPU                            | RAM   |
 |----------|--------|--------------------------------|--------------------------------|-------|
@@ -21,10 +21,22 @@ We currently have three local machines named Bleen, Dolores, and Quadcorn.
 
 **Getting an account**
 
+You can either email a senior lab member for help, or, if you know some bash, create an account yourself.
+First, ask around to get the password to the admin account. Type `useradd my_username` to create
+and account, then `passwd my_username` to make a password. Make sure it's a good one so we don't get hacked.
+(These servers are on the web and vulnerable to password-guessing hacks.)
+Finally, make sure to copy a `.profile` and `.bash_profile` file from an existing user to steal their setup (with Anaconda, etc.)
 
 **Setting Up Anaconda**
 
-The first thing you should do once you have an account is to set up Anaconda. Anaconda is a python envrionment manage. This allows seperate users to easily have different versions of python as well as different versions of packages. Individual users can also create seperate environments if different projects have conflicting version needs. 
+Anaconda is a python environment manager. This allows separate users to easily have different versions of python as well as different versions of packages.
+Individual users can also create separate environments if different projects have conflicting version needs.
+
+All the servers already have a system-wide Anaconda installed. Test to make sure you are seeing it
+by typing `which conda`. See which environments exist by typing `conda-env list`.
+
+These environments are good if you need standard things (Pytorch, etc.).
+If you need to install your own software, you should create an environment of your own.
 
 [installation instructions](https://docs.anaconda.com/anaconda/install/linux/)
 
@@ -72,7 +84,7 @@ Disable Turbo for i9 CPU
 
 **Screen**
 
-The screen function is used to manage virtual terminals that can run in the background. These virtual terminals continue to persist after you disconnect from the ssh terminal. That allows you to run long programs without needing to stay connected, as well as run jupyter notebook sessiosn that won't crash if you disconnect. [Here is a page with extensive documentation](https://www.gnu.org/software/screen/manual/screen.html). 
+The screen function is used to manage virtual terminals that can run in the background. These virtual terminals continue to persist after you disconnect from the ssh terminal. That allows you to run long programs without needing to stay connected, as well as run jupyter notebook sessiosn that won't crash if you disconnect. [Here is a page with extensive documentation](https://www.gnu.org/software/screen/manual/screen.html).
 
 In the screen documentation, "C-" refers to clicking "Ctrl+c". For example, the command "C-a" means "Click 'Ctrl+c' then click 'a'".
 
@@ -108,7 +120,7 @@ Next on your local machine's terminal type:
 
     ssh -N -f -L localhost:YYYY:localhost:XXXX ribeiro@dolores.seas.upenn.edu
 
-Use the same XXXX and above. YYYY is any port number available on your local machine. 
+Use the same XXXX and above. YYYY is any port number available on your local machine.
 
 Finally, open your browser and connect to 'localhost:YYYY'. You may be prompted to input a password, which is found on the screen in which you launched the jupyter session.
 
@@ -117,10 +129,9 @@ Finally, open your browser and connect to 'localhost:YYYY'. You may be prompted 
 ### Best Practices
 
 Please be mindful of the storage you are using, especially in the home folder. Most machines have seperate hardrives, generally under a folder named /data<X>, where you can store large datasets. Additionally, if you are finished with a project on home, it is best to move it to one of these other drives. Use the command
-    
+
     df -h
 to get a list of all drives and their available space.
 
 
 ### Miscellaneous Tips and Tricks
-
