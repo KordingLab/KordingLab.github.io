@@ -49,13 +49,14 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 *For inspiration. Add ones you've done!!*
 
 **Fall 2019**
+
 | Date | Name | Topic |
 |------|------|-------|
-|Sept. 28:| Ilenna | Capacity of Neural Networks   |
-|Oct. 5:| Tung Pham    |  GANs for EEG   |
-|Oct. 12:|  Ben  | GPUs -- beneath the heatsink [Slides](https://github.com/benlansdell/gpu_samples)    |
-|Oct. 19:|   Rachit   |  Graph Convolution Networks  |
-|Oct. 26:|  Tony |  Docker for science  |
+|Sept. 28| Ilenna | Capacity of Neural Networks   |
+|Oct. 5| Tung Pham    |  GANs for EEG   |
+|Oct. 12|  Ben  | GPUs -- beneath the heatsink [Slides](https://github.com/benlansdell/gpu_samples)    |
+|Oct. 19|   Rachit   |  Graph Convolution Networks  |
+|Oct. 26|  Tony |  Docker for science  |
 |Nov. 2|  Titipat   |  AllenNLP library and a little bit of Pytorch  |
 |Nov. 9|  Roozbeh    |    Multiple Hypothesis Testing   |
 |Nov. 16|   David   |   Reinforcement learning and catastrophic forgetting   |
@@ -64,10 +65,22 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 |Jan. 18| Nidhi | Dynamic Time Warping |
 |Jan. 25| Ben | Bandit problems |
 |Feb. 11| David | Autoencoders & Information Bottleneck |
-|Feb. 27| 	Adrian Radillo | Perfecting the research process [dropbox doc from the teaching](https://paper.dropbox.com/doc/Kordings-lab-teaching-on-IT-for-scientists--AYUMIhaJvifuArh1uCfm6BivAQ-wXXjZyfix7HiGu9lcroyR) |
+|Feb. 27| Adrian Radillo | Perfecting the research process [dropbox doc from the teaching] (https://paper.dropbox.com/doc/Kordings-lab-teaching-on-IT-for-scientists--AYUMIhaJvifuArh1uCfm6BivAQ-wXXjZyfix7HiGu9lcroyR) |
 |Mar. 6| Ari | Biologically plausible backprop|
 |Mar. 13|Greg Corder (http://www.corderlab.com/)|emotional processing of pain in the amygdala|
 |Mar. 20| Ilenna | Topics in the Philosophy of Science |
+|Mar. 27| Tony | Code Workflow for Research |
+|May 1| Edgar Dobriban | Data augmentation |
+|May 15| Ben Baker (Miracchi lab) | Representation and information in neuroscience |
+|May 29| Sebastien Tremblay (Platt Lab)| The limits of neurophys and why we need your help|
+|June 5| Zhihao (Princeton University)| TBA |
+|October 9|David Rolnick|Climate change|
+|October 16|Ari Benjamin|TBD (plasticity & learning in the brain)|
+|October 23|Ethan Blackwood|Neural models of indirection and abstraction|
+|October 30|Ben Lansdell| Invariance and causality|
+|November 6|Nidhi Seethapathi|Inferring Dynamics from Data|
+|November 13|Tony Liu| Theory of Computation|
+|November 20|Ilenna Jones| Ion Channel Kinetics|
 |Mar. 27| Tony | Code Workflow for Research |
 |May 1| Edgar Dobriban | Data augmentation |
 |May 15| Ben Baker (Miracchi lab) | Representation and information in neuroscience |
@@ -85,7 +98,6 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 |December 18|Titipat Achakulvisut|Reinforcement Learning (introduction)|
 
 
-
 Older:
 1. Generalization in neural networks (Ari)
 2. Synaptic learning rules (Ari)
@@ -95,8 +107,6 @@ Older:
 6. Neuron firing dynamics and bifurcations (Ilenna)
 7. Submodular functions (Roozbeh)
 8. Recommendation systems (Rachit)
-
-
 
 
 # Previous lab teaching
