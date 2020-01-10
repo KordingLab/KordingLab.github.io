@@ -26,7 +26,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | (Week of) Feb. 17 | | |
 | (Week of) Feb. 24 | Tony | TBA |
 | (Week of) Mar. 2 | | |
-| (Week of) Mar. 9 | | |
+| (Week of) Mar. 9 | Titipat | Reinforcement Learning (policy based, actor-critic, ...) - continue |
 | (Week of) Mar. 16 | | |
 | (Week of) Mar. 23 | | |
 | (Week of) Mar. 30 | | |
@@ -82,7 +82,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 |November 20|Ilenna Jones| Ion Channel Kinetics|
 |November 27|Shaofei Wang| Differentiable Structured Inference and Attention |
 |December 4|Rachit Saluja| Compressed sensing and deep learning|
-|December 18|Titipat Achakulvisut|Reinforcement Learning|
+|December 18|Titipat Achakulvisut|Reinforcement Learning (introduction)|
 
 
 
