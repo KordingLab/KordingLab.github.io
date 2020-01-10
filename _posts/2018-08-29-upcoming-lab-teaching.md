@@ -19,6 +19,23 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Date | Name | Topic |
 |------|------|-------|
 | Jan. 15 | Ari | Variational Inference |
+| (Week of) Jan. 20 | | |
+| (Week of) Jan. 27 | | |
+| (Week of) Feb. 3 | | |
+| (Week of) Feb. 10 | | |
+| (Week of) Feb. 17 | | |
+| (Week of) Feb. 24 | | |
+| (Week of) Mar. 2 | | |
+| (Week of) Mar. 9 | | |
+| (Week of) Mar. 16 | | |
+| (Week of) Mar. 23 | | |
+| (Week of) Mar. 30 | | |
+| (Week of) Apr. 6 | | |
+| (Week of) Apr. 13 | | |
+| (Week of) Apr. 20 | | |
+| (Week of) Apr. 27 | | |
+| (Week of) May 4 | | |
+| (Week of) May 11 | | |
 
 
 
