@@ -25,7 +25,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | (Week of) Feb. 10 | | |
 | (Week of) Feb. 17 | | |
 | (Week of) Feb. 24 | Tony | TBA |
-| (Week of) Mar. 2 | | |
+| (Week of) Mar. 2 | Nidhi | TBA |
 | (Week of) Mar. 9 | Titipat | Reinforcement Learning (policy based, actor-critic, ...) - continue |
 | (Week of) Mar. 16 | | |
 | (Week of) Mar. 23 | | |
