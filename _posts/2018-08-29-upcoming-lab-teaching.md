@@ -19,7 +19,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Date | Name | Topic |
 |------|------|-------|
 | Jan. 15 | Ari | Variational Inference |
-| (Week of) Jan. 20 | | |
+| (Week of) Jan. 20 | Roozbeh | Why overparameterized deep networks generalize well? |
 | (Week of) Jan. 27 | | |
 | (Week of) Feb. 3 | | |
 | (Week of) Feb. 10 | | |
