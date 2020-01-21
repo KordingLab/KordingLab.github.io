@@ -19,23 +19,23 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Date | Name | Topic |
 |------|------|-------|
 | Jan. 15 | Ari | Variational Inference |
-| (Week of) Jan. 20 | Roozbeh | Why overparameterized deep networks generalize well? |
-| (Week of) Jan. 27 | | |
-| (Week of) Feb. 3 | | |
-| (Week of) Feb. 10 | | |
-| (Week of) Feb. 17 | | |
-| (Week of) Feb. 24 | Tony | TBA |
-| (Week of) Mar. 2 | Nidhi | TBA |
-| (Week of) Mar. 9 | Titipat | Reinforcement Learning (policy based, actor-critic, ...) - continue |
-| (Week of) Mar. 16 | Ben | TBD |
-| (Week of) Mar. 23 | | |
-| (Week of) Mar. 30 | | |
-| (Week of) Apr. 6 | | |
-| (Week of) Apr. 13 | | |
-| (Week of) Apr. 20 | | |
-| (Week of) Apr. 27 | | |
-| (Week of) May 4 | | |
-| (Week of) May 11 | | |
+| Jan. 22 | Roozbeh | Why overparameterized deep networks generalize well? |
+| Jan. 29 | | |
+| Feb. 5 | | |
+| Feb. 12 | Pedro | TBD |
+| Feb. 19 | | |
+| Feb. 26 | Tony | TBA |
+| Mar. 4 | Nidhi | TBA |
+| Mar. 11 | Titipat | Reinforcement Learning (policy based, actor-critic, ...) - continue |
+| Mar. 18 | Ben | TBD |
+| Mar. 25 | | |
+| Apr. 1 | | |
+| Apr. 8 | | |
+| Apr. 15 | | |
+| Apr. 22 | | |
+| Apr. 29 | | |
+| May 6 | | |
+| May 13 | | |
 
 
 
