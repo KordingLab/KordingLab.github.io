@@ -20,9 +20,9 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 |------|------|-------|
 | Jan. 15 | Ari | Variational Inference |
 | Jan. 22 | Roozbeh | Why overparameterized deep networks generalize well? |
-| Jan. 29 | | |
+| Jan. 29 | Pedro | Canonical Correlation Analysis |
 | Feb. 5 | Ilenna | TBD |
-| Feb. 12 | Pedro | TBD |
+| Feb. 12 | |  |
 | Feb. 19 | | |
 | Feb. 26 | Tony | TBA |
 | Mar. 4 | Nidhi | TBA |
