@@ -29,7 +29,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Mar. 11 | Titipat | Reinforcement Learning (policy based, actor-critic, ...) - continue |
 | Mar. 18 | Ben | TBD |
 | Mar. 25 | | |
-| Apr. 1 | | |
+| Apr. 1 |Rachit | Data Visualization|
 | Apr. 8 | | |
 | Apr. 15 | | |
 | Apr. 22 | | |
