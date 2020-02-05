@@ -21,8 +21,8 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Jan. 15 | Ari | Variational Inference |
 | Jan. 22 | Roozbeh | Why overparameterized deep networks generalize well? |
 | Jan. 29 | Pedro | Canonical Correlation Analysis + Update on my research on dimensionality of populations of neurons |
-| Feb. 5 | Ilenna | TBD |
-| Feb. 12 | |  |
+| Feb. 5 |  |  |
+| Feb. 12 | Ilenna | Bayesian Hyperparameter Optimization |
 | Feb. 19 | | |
 | Feb. 26 | Tony | TBA |
 | Mar. 4 | Nidhi | TBA |
