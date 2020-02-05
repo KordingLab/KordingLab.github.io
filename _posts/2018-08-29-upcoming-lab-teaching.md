@@ -64,6 +64,8 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 
 **Spring 2019**
 
+| Date | Name | Topic |
+|------|------|-------|
 |Jan. 9| Netanel Ofer | Automated Analysis of Interneuron Axonal Tree Morphology and Activity Patterns|
 |Jan. 18| Nidhi | Dynamic Time Warping |
 |Jan. 25| Ben | Bandit problems |
@@ -79,6 +81,9 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 |June 5| Zhihao (Princeton University)| TBA |
 
 **Fall 2019**
+
+| Date | Name | Topic |
+|------|------|-------|
 |October 9|David Rolnick|Climate change|
 |October 16|Ari Benjamin|TBD (plasticity & learning in the brain)|
 |October 23|Ethan Blackwood|Neural models of indirection and abstraction|
