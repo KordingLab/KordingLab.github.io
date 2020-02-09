@@ -28,10 +28,10 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Mar. 4 | Nidhi | TBA |
 | Mar. 11 | Titipat | Reinforcement Learning (policy based, actor-critic, ...) - continue |
 | Mar. 18 | Ben | TBD |
-| Mar. 25 | | |
+| Mar. 25 | Sebastien Tremblay | TBA |
 | Apr. 1 |Rachit | Data Visualization|
-| Apr. 8 | | |
-| Apr. 15 | | |
+| Apr. 8 | Alex Filipowicz | TBA |
+| Apr. 15 | Ilenna | TBA |
 | Apr. 22 | | |
 | Apr. 29 | | |
 | May 6 | | |
