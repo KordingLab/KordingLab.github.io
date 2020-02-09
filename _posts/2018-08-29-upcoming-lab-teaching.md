@@ -22,7 +22,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Jan. 22 | Roozbeh | Why overparameterized deep networks generalize well? |
 | Jan. 29 | Pedro | Canonical Correlation Analysis + Update on my research on dimensionality of populations of neurons |
 | Feb. 5 |  |  |
-| Feb. 12 | Ilenna | Bayesian Hyperparameter Optimization |
+| Feb. 12 | Brad Wymble | TBA |
 | Feb. 19 | Nachi Stern | Design and learning in physical networks |
 | Feb. 26 | Tony | TBA |
 | Mar. 4 | Nidhi | TBA |
