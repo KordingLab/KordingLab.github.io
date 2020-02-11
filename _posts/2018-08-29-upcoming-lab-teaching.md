@@ -27,7 +27,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Feb. 26 | Tony | The deconfounder: blessing or curse? |
 | Mar. 4 | Nidhi | TBA |
 | Mar. 11 | Titipat | Reinforcement Learning (policy based, actor-critic, ...) - continue |
-| Mar. 18 | Ben | TBD |
+| Mar. 18 | Ben | Convex Optimization |
 | Mar. 25 | Sebastien Tremblay | TBA |
 | Apr. 1 |Rachit | Data Visualization|
 | Apr. 8 | Alex Filipowicz | TBA |
