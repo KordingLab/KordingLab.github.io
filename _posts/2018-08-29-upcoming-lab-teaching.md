@@ -34,7 +34,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Apr. 15 | Ilenna | TBA |
 | Apr. 22 | | |
 | Apr. 29 | | |
-| May 6 | | |
+| May 6 | Nachi Stern | Design and learning in physical networks |
 | May 13 | | |
 
 
