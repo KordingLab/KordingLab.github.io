@@ -33,7 +33,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Apr. 8 | Alex Filipowicz | TBA |
 | Apr. 15 | Ilenna | TBA |
 | Apr. 22 | | |
-| Apr. 29 | | |
+| Apr. 29 | Ben Baker | TBA |
 | May 6 | Nachi Stern | Design and learning in physical networks |
 | May 13 | | |
 
