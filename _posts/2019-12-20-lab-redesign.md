@@ -1,9 +1,10 @@
 ---
 title: Redesigning our lab practices
 description: The 'design process' works really well for creating a good culture
-categories: blog
+categories: newblog
+header-img: images/post/lab_redesign/overall_schem-01.png
 ---
-*by Ari Benjamin*
+*by Ari Benjamin.*
 
 **Every lab is a set of practices, traditions, recurring events, and expectations.**
 These practices determine the daily rhythms of its members.
