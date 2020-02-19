@@ -492,6 +492,15 @@ tbody tr:nth-child(odd) th {
   font-size: 18px;
 }
 
+.list-post-title {
+  color: black;
+}
+
+.list-detail {
+  font-size: 15px;
+  color: #838383;
+}
+
 .list-item a:hover, .list-post-title:hover .name, .list-post-title .name:hover {
   color: #c42929;
 }
