@@ -1,7 +1,8 @@
 ---
 title: Redesigning our lab practices
 description: The 'design process' works really well for creating a good culture
-categories: blog
+categories: newblog
+header-img: images/post/lab_redesign/overall_schem-01.png
 ---
 *by Ari Benjamin.*
 
