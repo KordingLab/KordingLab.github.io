@@ -29,13 +29,13 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Mar. 11 | Titipat | Reinforcement Learning (policy based, actor-critic, ...) - continue |
 | Mar. 18 | Ben | Convex Optimization |
 | Mar. 25 | Sebastien Tremblay | TBA |
-| Apr. 1 |Rachit | Data Visualization|
-| Apr. 8 | Alex Filipowicz | TBA |
-| Apr. 15 | Ilenna | TBA |
-| Apr. 22 | Nidhi | Stability Analyses of Neural Network Loss Functions |
-| Apr. 29 | Ben Baker | Embodied Cognition |
+| Apr. 1 |  |  |
+| Apr. 8 |  |  |
+| Apr. 15 | Rachit | Data Visualization |
+| Apr. 22 | Ben Lansdell | TBA |
+| Apr. 29 | Ilenna | TBA |
 | May 6 | Nachi Stern | Design and learning in physical networks |
-| May 13 | | |
+| May 13 | Roozbeh | TBA |
 
 
 
