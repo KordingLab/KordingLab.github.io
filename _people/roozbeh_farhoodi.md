@@ -12,11 +12,12 @@ joined: 2015
 
 <i class="fa fa-mobile"></i> (312) 721-4271<br>
 <i class="fa fa-envelope-o"></i> `roozbeh@seas.upenn.edu`<br>
-<i class="fa fa-building"></i> 120 Hayden Hall
+<i class="fa fa-building"></i> 404 Richards Building
 
 
 <hr>
-My [Homepage](https://roozbehfarhoodi.github.io/)
+My [Homepage](https://roozbehfarhoodi.github.io/), [google scholar](https://scholar.google.com/citations?user=gAMVsrkAAAAJ&hl=en) and [Résumé](https://www.dropbox.com/s/rgrt8ks1qbdhgg2/Resume-Roozbeh-Farhoodi.pdf?dl=0)
+
 ### Publication
 
 ###### 2019
