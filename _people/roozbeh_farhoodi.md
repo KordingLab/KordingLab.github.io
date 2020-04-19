@@ -2,7 +2,7 @@
 name: Roozbeh Farhoodi
 position: postdoc
 avatar: roozbeh_2.jpg
-twitter: https://twitter.com/RoozbehFarhoodi
+twitter: https://twitter.com/aha_momentum
 joined: 2015
 ---
 
