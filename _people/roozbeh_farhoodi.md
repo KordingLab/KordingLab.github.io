@@ -20,6 +20,11 @@ My [Homepage](https://roozbehfarhoodi.github.io/), [google scholar](https://scho
 
 ### Publication
 
+###### 2020
+[PDE constraints on smooth hierarchical functions computed by neural networks](https://arxiv.org/abs/2005.08859) <br>
+<sup> Khashayar Filom, Konrad Paul Kording, Roozbeh Farhoodi</sup> <br>
+<sup>**Arxiv** 
+  
 ###### 2019
 [PDE description of tree functions with repeated inputs](https://deepmath-conference.com/presentations) <br>
 <sup>Roozbeh Farhoodi, Khashayar Filom, Konrad Paul Kording</sup> <br>
