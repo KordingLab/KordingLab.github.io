@@ -14,29 +14,20 @@ neuroscientific princples, new findings and literature reviews... whatever!
 
 Get on the listserve for announcements: https://groups.google.com/forum/#!forum/kording-lab-teachings
 
-**Spring 2020 topics**
+**Summer 2020**
 
 | Date | Name | Topic |
 |------|------|-------|
-| Jan. 15 | Ari | Variational Inference |
-| Jan. 22 | Roozbeh | Why overparameterized deep networks generalize well? |
-| Jan. 29 | Pedro | Canonical Correlation Analysis + Update on my research on dimensionality of populations of neurons |
-| Feb. 5 |  |  |
-| Feb. 12 |  |  |
-| Feb. 19 | Brad Wyble | TBA |
-| Feb. 26 | Tony | The deconfounder: blessing or curse? |
-| Mar. 4 | Jaan Altosaar | Postdoc Candidate Talk |
-| Mar. 11 | Titipat | Reinforcement Learning (policy based, actor-critic, ...) - continue |
-| Mar. 18 | Ben | Convex Optimization |
-| Mar. 25 | Sebastien Tremblay | TBA |
-| Apr. 1 |  |  |
-| Apr. 8 |  |  |
-| Apr. 15 | Rachit | Data Visualization |
-| Apr. 22 | Ben Lansdell | TBA |
-| Apr. 29 | Ilenna | TBA |
-| May 6 | Nachi Stern | Design and learning in physical networks |
-| May 13 | Roozbeh | TBA |
-
+| July 15 | | |
+| July 22 | | |
+| Aug. 5 | | |
+| Aug. 12 | | |
+| Aug. 19 | | |
+| Aug. 26 | | |
+| Sept. 2 | | |
+| Sept. 9 | | |
+| Sept. 16 | | |
+| Sept. 23 | | |
 
 
 **Requests and suggestions**
@@ -95,6 +86,28 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 |December 4|Rachit Saluja| Compressed sensing and deep learning|
 |December 18|Titipat Achakulvisut|Reinforcement Learning (introduction)|
 
+**Spring 2020**
+
+| Date | Name | Topic |
+|------|------|-------|
+| Jan. 15 | Ari | Variational Inference |
+| Jan. 22 | Roozbeh | Why overparameterized deep networks generalize well? |
+| Jan. 29 | Pedro | Canonical Correlation Analysis + Update on my research on dimensionality of populations of neurons |
+| Feb. 5 |  |  |
+| Feb. 12 |  |  |
+| Feb. 19 | Brad Wyble | TBA |
+| Feb. 26 | Tony | The deconfounder: blessing or curse? |
+| Mar. 4 | Jaan Altosaar | Postdoc Candidate Talk |
+| Mar. 11 | Titipat | Reinforcement Learning (policy based, actor-critic, ...) - continue |
+| Mar. 18 | Ben | Convex Optimization |
+| Mar. 25 | Sebastien Tremblay | TBA |
+| Apr. 1 |  |  |
+| Apr. 8 |  |  |
+| Apr. 15 | Rachit | Data Visualization |
+| Apr. 22 | Ben Lansdell | TBA |
+| Apr. 29 | Ilenna | TBA |
+| May 6 | Nachi Stern | Design and learning in physical networks |
+| May 13 | Roozbeh | TBA |
 
 Older:
 1. Generalization in neural networks (Ari)
