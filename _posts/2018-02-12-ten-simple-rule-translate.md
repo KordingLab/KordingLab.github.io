@@ -1,7 +1,7 @@
 ---
 title: Translation of "Ten simple rules to structuring papers" to other languages
 categories: scientists
-subtitle: Our lab just released paper on how to structure your papers- Ten simple rules for structuring papers. We are translating it to other languages and hope that you can find your preferred one. Please contact us if you want to add your translated version of the paper here.
+subtitle: In collaboration with Brett Mensh, our lab just released a paper on how to structure your papers- Ten simple rules for structuring papers. We are translating it to other languages and hope that you can find your preferred one. Please contact us if you want to add your translated version of the paper here.
 header-img: images/post/dino2.jpg
 ---
 
