@@ -24,7 +24,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Aug. 12 | | |
 | Aug. 19 | | |
 | Aug. 26 | Ben | Convex optimization |
-| Sept. 2 | | |
+| Sept. 2 | Ilenna | TBD |
 | Sept. 9 | | |
 | Sept. 16 | | |
 | Sept. 23 | | |
