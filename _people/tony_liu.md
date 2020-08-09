@@ -27,13 +27,9 @@ I'm interested in the intersection of causal inference and machine learning, spe
 ### Publications and Preprints
 
 - **Liu T**, Ungar LH, Kording KP. Quantifying causality using quasi-experiments. In preparation.
-
 - Meyerhoff J, **Liu T**, Kording KP, Ungar LH, Kaiser SM, Karr CJ, Mohr DC. Prediction of change in depression, anxiety, and social anxiety using smartphone sensor features: longitudinal cohort study. In preparation.
-
 - **Liu T**, Meyerhoff J, Mohr DC, Ungar LH, Kording KP. COVID-19 pandemic: every day feels like a weekday to most. medRxiv. 2020. [[DOI]](https://doi.org/10.1101/2020.05.11.20098228)
-
 - Shen H, **Liu T**, Cui J, Borole P, Benjamin A, Kording K, Issadore D. A web-based automated machine learning platform to analyze liquid biopsy data. Lab on a Chip. 2020. [[DOI]](https://doi.org/10.1039/D0LC00096E)
-
 - **Liu T**, Nicholas J, Theilig MM, Guntuku SC, Kording K, Mohr DC, Ungar LH. Machine Learning for Phone-Based Relationship Estimation: The Need to Consider Population Heterogeneity. Proceedings of the ACM on interactive, mobile, wearable and ubiquitous technologies. 2019 Dec 11. [[DOI]](https://doi.org/10.1145/3369820)
 
 ---
@@ -41,11 +37,8 @@ I'm interested in the intersection of causal inference and machine learning, spe
 ### Current Projects
 
 - Automatic regression discontinuity design discovery
-
 - Optimal exclusion criteria for observational studies
-
 - Cotenability and causality in SHAP values [[PDF]](https://tliu526.github.io/files/group_shap_report.pdf)
-
 - Overfitting detection using unlabelled data [[PDF]](https://tliu526.github.io/files/unlabelled_overfitting_notes.pdf)
 
 ---
@@ -59,8 +52,6 @@ I'm interested in the intersection of causal inference and machine learning, spe
 ### Teaching
 
 - Instructor for [CIS 192: Python Programming Fall 2020](https://www.cis.upenn.edu/~cis192/tliu/)
-
 - Co-content creator of [NMA causality tutorials](https://github.com/NeuromatchAcademy/course-content/tree/master/tutorials#w3d3---network-causality) with Ari Benjamin and Konrad Kording, [Neuromatch Academy 2020](https://www.neuromatchacademy.org/)
-
 - Lead TA for [CIS 520: Machine Learning Fall 2019](https://alliance.seas.upenn.edu/~cis520/dynamic/2019/wiki/)
 
