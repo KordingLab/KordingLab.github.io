@@ -28,6 +28,11 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Sept. 9 | | |
 | Sept. 16 | | |
 | Sept. 23 | | |
+| Sept. 30 | | |
+| Oct. 7 | Tony | TBD, maybe Shapley values?|
+| Oct. 14 | | |
+| Oct. 21 | | |
+| Oct. 28 | | |
 
 
 **Requests and suggestions**
