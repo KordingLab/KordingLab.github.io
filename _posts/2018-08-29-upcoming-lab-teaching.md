@@ -20,8 +20,8 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 |------|------|-------|
 | Aug. 19 | Ben B | Natural Information & Intentionality |
 | Aug. 26 | Ben | Convex optimization |
-| Sept. 2 | Ilenna | TBD |
-| Sept. 9 | | |
+| Sept. 2 |  |  |
+| Sept. 9 | Ilenna | TBD |
 | Sept. 16 | | |
 | Sept. 23 | | |
 | Sept. 30 | | |
