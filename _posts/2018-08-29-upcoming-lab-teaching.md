@@ -24,7 +24,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Sept. 9 | Ilenna | TBD |
 | Sept. 16 | | |
 | Sept. 23 | | |
-| Sept. 30 | | |
+| Sept. 30 |Amandeep |TBD |
 | Oct. 7 | Tony | TBD, maybe Shapley values?|
 | Oct. 14 | | |
 | Oct. 21 | | |
