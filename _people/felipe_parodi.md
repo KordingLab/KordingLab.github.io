@@ -16,7 +16,7 @@ joined: 2020
 
 ### Bio
 
-Originally from Buenos Aires, Argentina, Felipe graduated from the University of Miami with a B.S. in Neuroscience in 2019. As an undergraduate, Felipe conducted research on neurolinguistic pain modulation in the [Social and Cultural Neuroscience Lab](http://www.losinlab.org/). Following graduation, Felipe worked as a Psychometrician for First Choice Neurology, where he helped refine a screening instrument as a predictor of cognitive dysfunction in white and Hispanic geriatric populations. Outside of the lab, Felipe plays soccer, occasionally engages in people-watching, and is on a quest to make (and find!) the perfect burger.
+Originally from Buenos Aires, Argentina, Felipe studied Neuroscience and Economics at the University of Miami from 2015-2019. As an undergraduate, Felipe conducted research on neurolinguistic pain modulation in the [Social and Cultural Neuroscience Lab](http://www.losinlab.org/). Following graduation, he worked as a Psychometrician for First Choice Neurology, where he helped refine a screening instrument as a predictor of cognitive dysfunction in white and Hispanic geriatric populations. Outside of the lab, Felipe plays soccer, occasionally engages in people-watching, and is on a quest to make (and find!) the perfect burger.
 <hr>
 
 ### Research Interests
