@@ -22,7 +22,9 @@ Building predictive models of real-world human movement with data-driven and nor
 ### Education and Academic Positions
 
 Postdoctoral Researcher in Bioengineering and Neuroscience, University of Pennsylvania (2018 - Now)
+
 PhD in Mechanical Engineering, The Ohio State University (2012 - 2018)
+
 B. Tech in Mechanical Engineering, VJTI, Mumbai, India (2008 - 2012)
 
 <hr>
