@@ -19,6 +19,14 @@ Building predictive models of real-world human movement with data-driven and nor
 
 <hr>
 
+### Education and Academic Positions
+
+Postdoctoral Researcher in Bioengineering and Neuroscience, University of Pennsylvania (2018 - Now)
+PhD in Mechanical Engineering, The Ohio State University (2012 - 2018)
+B. Tech in Mechanical Engineering, VJTI, Mumbai, India (2008 - 2012)
+
+<hr>
+
 ### Publications
 Lysenko, S. , **Seethapathi, N.** , Kording, K. P. & Johnson, M. J. (2020). _Towards automated emotion classification of atypically and typically developing infants, To appear in 2020 8th IEEE International Conference on Biomedical Robotics and Biomechatronics (BioRob)_.
 
