@@ -15,7 +15,7 @@ joined: 2018
 
 ### Current interests
 
-Building predictive models of real-world human movement with data-driven and normative approaches using from data science, nonlinear optimization, control theory, and nonlinear dynamics.
+Building predictive models of real-world human movement with data-driven and normative approaches using data science, nonlinear optimization, control theory, and nonlinear dynamics.
 
 <hr>
 
