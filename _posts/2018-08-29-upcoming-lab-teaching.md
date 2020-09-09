@@ -21,9 +21,9 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Aug. 19 | Ben B | Natural Information & Intentionality |
 | Aug. 26 | Ben | Convex optimization |
 | Sept. 2 | Gene | Recent methods in NLP |
-| Sept. 9 | Ilenna | TBD |
-| Sept. 16 | Nidhi | TBD |
-| Sept. 23 | | |
+| Sept. 9 | Ilenna | A history of transhumanist thought |
+| Sept. 16 | Roozbeh | TBD |
+| Sept. 23 | Nidhi | TBD |
 | Sept. 30 |Amandeep |TBD |
 | Oct. 7 | Tony | TBD, maybe Shapley values?|
 | Oct. 14 | | |
