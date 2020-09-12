@@ -26,7 +26,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Sept. 23 | Nidhi | TBD |
 | Sept. 30 |Amandeep |TBD |
 | Oct. 7 | Tony | TBD, maybe Shapley values?|
-| Oct. 14 | | |
+| Oct. 14 | Justin | TBD, maybe scaling laws in biology|
 | Oct. 21 | | |
 | Oct. 28 | | |
 
