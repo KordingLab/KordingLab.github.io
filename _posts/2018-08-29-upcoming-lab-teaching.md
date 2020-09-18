@@ -22,13 +22,13 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Aug. 26 | Ben | Convex optimization |
 | Sept. 2 | Gene | Recent methods in NLP |
 | Sept. 9 | Ilenna | A history of transhumanist thought |
-| Sept. 16 | Roozbeh | TBD |
-| Sept. 23 |  | No lab teaching due to Interlab Teatime |
-| Sept. 30 |Amandeep |TBD |
-| Oct. 7 | Tony | TBD, maybe Shapley values?|
-| Oct. 14 | Justin | TBD, maybe scaling laws in biology|
-| Oct. 21 | Nidhi | TBD, maybe minimal energy consumption in neuro theory |
-| Oct. 28 | | |
+| Sept. 18 | Roozbeh | TBD |
+| Sept. 25 |  | No lab teaching due to Interlab Teatime |
+| Oct. 2 |Amandeep |TBD |
+| Oct. 9 | Tony | TBD, maybe Shapley values?|
+| Oct. 16 | Justin | TBD, maybe scaling laws in biology|
+| Oct. 23 | Nidhi | TBD, maybe minimal energy consumption in neuro theory |
+| Oct. 30 | | |
 
 
 **Requests and suggestions**
