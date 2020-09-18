@@ -23,11 +23,11 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Sept. 2 | Gene | Recent methods in NLP |
 | Sept. 9 | Ilenna | A history of transhumanist thought |
 | Sept. 16 | Roozbeh | TBD |
-| Sept. 23 | Nidhi | TBD, maybe minimal energy consumption in neuro theory |
+| Sept. 23 |  | No lab teaching due to Interlab Teatime |
 | Sept. 30 |Amandeep |TBD |
 | Oct. 7 | Tony | TBD, maybe Shapley values?|
 | Oct. 14 | Justin | TBD, maybe scaling laws in biology|
-| Oct. 21 | | |
+| Oct. 21 | Nidhi | TBD, maybe minimal energy consumption in neuro theory |
 | Oct. 28 | | |
 
 
