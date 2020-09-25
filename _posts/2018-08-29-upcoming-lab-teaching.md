@@ -24,7 +24,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Sept. 9 | Ilenna | A history of transhumanist thought |
 | Sept. 18 | Roozbeh | TBD |
 | Sept. 25 |  | No lab teaching due to Interlab Teatime |
-| Oct. 2 |Amandeep |TBD |
+| Oct. 2 |Amandeep |In-Memory Compute |
 | Oct. 9 | Tony | TBD, maybe Shapley values?|
 | Oct. 16 | Justin | TBD, maybe scaling laws in biology|
 | Oct. 23 | Nidhi | TBD, maybe minimal energy consumption in neuro theory |
