@@ -1,7 +1,7 @@
 ---
 name: Richard Lange
 position: postdoc
-avatar: RichardLphoto.JPG
+avatar: RichardL2.jpg
 twitter: wrongu
 joined: 2020
 ---
