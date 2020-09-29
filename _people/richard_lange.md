@@ -20,7 +20,7 @@ Along the way, thinking about causal models, modular neural networks, and philos
 
 ### Links
 
-<i class="fa fa-newspaper-o" /> [Google Scholar](https://scholar.google.com/citations?user=xc-Z4CoAAAAJ) <br />
+<i class="fa fa-bar-chart-o" /> [Google Scholar](https://scholar.google.com/citations?user=xc-Z4CoAAAAJ) <br />
 <i class="fa fa-wordpress" /> [Blog](https://boxandarrowbrain.com) <br />
-<i class="fa fa-id-card-o" /> [CV (pdf)](/documents/RDL_CV_20F.pdf) <br />
+<i class="fa fa-newspaper-o" /> [CV (pdf)](/documents/RDL_CV_20F.pdf) <br />
 <i class="fa fa-envelope-o" /> `[lastname].[firstname].d@gmail.com` <br />
