@@ -1,4 +1,4 @@
-# Kording lab page
+# _KORDING_LAB
 
 This is repository for [Kording lab page](http://kordinglab.com/). We use Jekyll to run our Github page. We are welcome for other people to contribute to our site not just lab members. Feel free to fork and pull-request!
 
