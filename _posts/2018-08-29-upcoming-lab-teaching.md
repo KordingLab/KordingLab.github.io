@@ -28,7 +28,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Oct. 9 | Justin | TBD, maybe scaling laws in biology|
 | Oct. 16 | Tony | Interpretable ML|
 | Oct. 23 | Nidhi | TBD, maybe minimal energy consumption in neuro theory |
-| Oct. 30 | | |
+| Oct. 30 | Richard | Discussion of ["Why Philosophers Should Care About Computational Complexity"](http://arxiv.org/abs/1108.1791) |
 
 
 **Requests and suggestions**
