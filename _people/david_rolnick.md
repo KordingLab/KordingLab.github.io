@@ -1,6 +1,6 @@
 ---
 name: David Rolnick
-position: postdoc
+position: alumni
 avatar: david_rolnick.jpg
 twitter:
 joined: 2018
