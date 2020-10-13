@@ -1,6 +1,6 @@
 ---
 name: Shaofei Wang
-position: researchstaff
+position: alumni
 avatar:
 twitter:
 joined: 2018
