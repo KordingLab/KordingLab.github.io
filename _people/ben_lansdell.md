@@ -1,6 +1,6 @@
 ---
 name: Ben Lansdell
-position: postdoc
+position: alumni
 avatar: lansdell.jpg
 twitter:
 joined: 2017
