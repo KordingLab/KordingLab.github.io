@@ -26,9 +26,9 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Sept. 25 |  | No lab teaching due to Interlab Teatime |
 | Oct. 2 |Amandeep |In-Memory Compute |
 | Oct. 9 | Justin | TBD, maybe scaling laws in biology|
-| Oct. 16 | Tony | Interpretable ML|
-| Oct. 23 | Nidhi | TBD, maybe minimal energy consumption in neuro theory |
-| Oct. 30 | Richard | Discussion of ["Why Philosophers Should Care About Computational Complexity"](http://arxiv.org/abs/1108.1791) |
+| Nov. 6 | Nidhi | TBD, maybe minimal energy consumption in neuro theory |
+| Nov. 13 | Tony | Interpretable ML|
+| Nov. 20 | Richard | Discussion of ["Why Philosophers Should Care About Computational Complexity"](http://arxiv.org/abs/1108.1791) |
 
 
 **Requests and suggestions**
