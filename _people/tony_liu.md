@@ -16,7 +16,7 @@ joined: 2018
 
 <hr>
 
-### About Me 
+### About Me
 
 Hello! I'm a PhD student in the Department of Computer Information Science at the University of Pennsylvania, jointly advised by Konrad Kording and Lyle Ungar. Prior to UPenn, I graduated from Williams College in 2016 with a degree in Computer Science and spent two years at IBM Watson Health working as a software engineer.
 
@@ -24,13 +24,24 @@ I'm interested in the intersection of causal inference and machine learning, spe
 
 ---
 
-### Publications and Preprints
+### Publications
 
-- **Liu T**, Ungar LH, Kording KP. Quantifying causality using quasi-experiments. In preparation.
-- Meyerhoff J, **Liu T**, Kording KP, Ungar LH, Kaiser SM, Karr CJ, Mohr DC. Prediction of change in depression, anxiety, and social anxiety using smartphone sensor features: longitudinal cohort study. In preparation.
-- **Liu T**, Meyerhoff J, Mohr DC, Ungar LH, Kording KP. COVID-19 pandemic: every day feels like a weekday to most. medRxiv. 2020. [[DOI]](https://doi.org/10.1101/2020.05.11.20098228)
-- Shen H, **Liu T**, Cui J, Borole P, Benjamin A, Kording K, Issadore D. A web-based automated machine learning platform to analyze liquid biopsy data. Lab on a Chip. 2020. [[DOI]](https://doi.org/10.1039/D0LC00096E)
-- **Liu T**, Nicholas J, Theilig MM, Guntuku SC, Kording K, Mohr DC, Ungar LH. Machine Learning for Phone-Based Relationship Estimation: The Need to Consider Population Heterogeneity. Proceedings of the ACM on interactive, mobile, wearable and ubiquitous technologies. 2019 Dec 11. [[DOI]](https://doi.org/10.1145/3369820)
+- Liu T, Ungar LH, Kording KP. Quantifying causality in data science using quasi-experiments. To appear, Nature Computational Science.
+- Shen H, Liu T, Cui J, Borole P, Benjamin A, Kording K, Issadore D. A web-based automated machine learning platform to analyze liquid biopsy data. Lab on a Chip. 2020. [[DOI]](https://doi.org/10.1039/D0LC00096E)
+- Liu T, Nicholas J, Theilig MM, Guntuku SC, Kording K, Mohr DC, Ungar LH. Machine Learning for Phone-Based Relationship Estimation: The Need to Consider Population Heterogeneity. Proceedings of the ACM on interactive, mobile, wearable and ubiquitous technologies. 2019 Dec 11. [[DOI]](https://doi.org/10.1145/3369820)
+
+---
+
+### Workshop Papers
+
+- Liu T, Ungar LH. Towards Cotenable and Causal Shapley Feature Explanations. To appear, AAAI Workshop on Trustworthy AI in Healthcare. 2020.
+
+---
+
+### Preprints
+
+- Meyerhoff J, Liu T, Kording KP, Ungar LH, Kaiser SM, Karr CJ, Mohr DC. Prediction of change in depression, anxiety, and social anxiety using smartphone sensor features: longitudinal cohort study. In preparation.
+- Liu T, Meyerhoff J, Mohr DC, Ungar LH, Kording KP. COVID-19 pandemic: every day feels like a weekday to most. medRxiv. 2020. [[DOI]](https://doi.org/10.1101/2020.05.11.20098228)
 
 ---
 
@@ -45,7 +56,7 @@ I'm interested in the intersection of causal inference and machine learning, spe
 
 ### Posters and Presentations
 
-- **Liu T**, Lawlor P, Ungar LH, Kording KP. Evaluating clinical guidelines using regression discontinuity design. To appear, AMIA 2020 Annual Symposium. [[PDF]](https://tliu526.github.io/files/upenn_diabetes_rdd_poster.pdf)
+- Liu T, Lawlor P, Ungar LH, Kording KP. Evaluating clinical guidelines using regression discontinuity design. AMIA 2020 Annual Symposium. [[PDF]](https://tliu526.github.io/files/upenn_diabetes_rdd_poster.pdf)
 
 ---
 
