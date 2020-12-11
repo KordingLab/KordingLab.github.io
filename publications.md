@@ -9,8 +9,97 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 <hr>
 
+### 2020
+
+_Reverse-engineering deep ReLU networks_<br>
+David Rolnick, Konrad Kording<br>
+ICML, 2020 ([Article](http://proceedings.mlr.press/v119/rolnick20a/rolnick20a.pdf))
+
+_Computer vision to automatically assess infant neuromotor risk_<br>
+Claire Chambers, Nidhi Seethapathi, Rachit Saluja, Helen Loeb, Samuel R Pierce, Daniel K Bogen, Laura Prosser, Michelle J Johnson, Konrad P Kording<br>
+IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2020 ([Article](https://ieeexplore.ieee.org/iel7/7333/9250399/09214853.pdf))
+
+_Probing the Effective Treatment Thresholds for Alteplase in Acute Ischemic Stroke With Regression Discontinuity Designs_<br>
+Andrew M Naidech, Patrick N Lawlor, Haolin Xu, Gregg C Fonarow, ..., Shyam Prabhakaran, Ioana Marinescu, Konrad P Kording<br>
+Frontiers in neurology, 2020 ([Article](https://www.frontiersin.org/articles/10.3389/fneur.2020.00961/full))
+
+_Can Single Neurons Solve MNIST? The Computational Power of Biological Dendritic Trees_<br>
+Ilenna Simone Jones, Konrad Paul Kording<br>
+arXiv, 2020 ([Article](https://arxiv.org/pdf/2009.01269))
+
+_Different scaling of linear models and deep learning in UKBiobank brain images versus machine-learning datasets_<br>
+Marc-Andre Schulz, BT Thomas Yeo, Joshua T Vogelstein, Janaina Mourao-Miranada, Jakob N Kather, Konrad Kording, Blake Richards, Danilo Bzdok<br>
+Nature communications, 2020 ([Article](https://www.nature.com/articles/s41467-020-18037-z))
+
+_Machine learning for neural decoding_<br>
+Joshua I Glaser, Ari S Benjamin, Raeed H Chowdhury, Matthew G Perich, Lee E Miller, Konrad P Kording<br>
+Eneuro, 2020 ([Article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7470933/))
+
+_An adversarial algorithm for variational inference with a new role for acetylcholine_<br>
+Ari S Benjamin, Konrad P Kording<br>
+arXiv, 2020 ([Article](https://arxiv.org/pdf/2006.10811))
+
+_PDE constraints on smooth hierarchical functions computed by neural networks_<br>
+Khashayar Filom, Konrad Paul Kording, Roozbeh Farhoodi<br>
+arXiv, 2020 ([Article](https://arxiv.org/pdf/2005.08859))
+
+_Point of View: Improving on legacy conferences by moving online_<br>
+Titipat Achakulvisut, Tulakan Ruangrong, Isil Bilgin, Sofie Van Den Bossche, Brad Wyble, Dan FM Goodman, Konrad P Kording<br>
+Elife, 2020 ([Article](https://elifesciences.org/articles/57892))
+
+_From prior information to saccade selection: evolution of frontal eye field activity during natural scene search_<br>
+Joshua I Glaser, Daniel K Wood, Patrick N Lawlor, Mark A Segraves, Konrad P Kording<br>
+Cerebral Cortex, 2020 ([Article](https://academic.oup.com/cercor/article/30/3/1957/5588869))
+
+_MoVi: A Large Multipurpose Motion and Video Dataset_<br>
+Saeed Ghorbani, Kimia Mahdaviani, Anne Thaler, Konrad Kording, Douglas James Cook, Gunnar Blohm, Nikolaus F Troje<br>
+arXiv, 2020 ([Article](https://arxiv.org/pdf/2003.01888))
+
+_Appreciating the variety of goals in computational neuroscience_<br>
+Konrad P Kording, Gunnar Blohm, Paul Schrater, Kendrick Kay<br>
+arXiv, 2020 ([Article](https://arxiv.org/pdf/2002.03211))
+
+_Pubmed parser: A python parser for pubmed open-access xml subset and medline xml dataset xml dataset_<br>
+Titipat Achakulvisut, Daniel E Acuna, Konrad Kording<br>
+Journal of Open Source Software, 2020 ([Article](https://joss.theoj.org/papers/10.21105/joss.01979.pdf))
+
+_Improving on legacy conferences by moving online_<br>
+Achakulvisut Titipat, Ruangrong Tulakan, Bilgin Isil, Brad Wyble, Konrad P Kording<br>
+eLife, 2020 ([Article](http://search.proquest.com/openview/aaeca1db01f6c76d665d9f392c036bca/1?pq-origsite=gscholar&cbl=2045579))
+
+_A three-dimensional thalamocortical dataset for characterizing brain heterogeneity_<br>
+Judy A Prasad, Aishwarya H Balwani, Erik C Johnson, Joseph D Miano, ..., Konrad P Kording, Doga Gürsoy, William Gray-Roncal, Narayanan Kasthuri, Eva L Dyer<br>
+bioRxiv, 2020 ([Article](https://www.biorxiv.org/content/biorxiv/early/2020/05/25/2020.05.22.111617.full.pdf))
+
+_neuromatch: Algorithms to match scientists_<br>
+Titipat Achakulvisut, Tulakan Ruangrong, D Acuna, Brad Wyble, Dan Goodman, Konrad Kording<br>
+eLife Labs, 2020 ([Article](https://elifesciences.org/labs/5ed408f4/neuromatch-algorithms-to-match-scientists))
+
+_COVID-19 pandemic: every day feels like a weekday to most_<br>
+Tony Liu, Jonah Meyerhoff, David C Mohr, Lyle H Ungar, Konrad P Kording<br>
+medRxiv, 2020 ([Article](https://www.medrxiv.org/content/medrxiv/early/2020/05/18/2020.05.11.20098228.full.pdf))
+
+_A web-based automated machine learning platform to analyze liquid biopsy data_<br>
+Hanfei Shen, Tony Liu, Jesse Cui, Piyush Borole, Ari Benjamin, Konrad Kording, David Issadore<br>
+Lab on a Chip, 2020 ([Article](https://pubs.rsc.org/en/content/articlehtml/2020/lc/d0lc00096e))
+
+_Pyglmnet: Python implementation of elastic-net regularized generalized linear models_<br>
+Mainak Jas, Titipat Achakulvisut, Aid Idrizović, Daniel Acuna, ..., Eva Dyer, Matti Hamalainen, Konrad Kording, Pavan Ramkumar<br>
+Journal of Open Source Software, 2020 ([Article](https://biblio.ugent.be/publication/8650816/file/8650817))
+
+_A how-to-model guide for Neuroscience_<br>
+Gunnar Blohm, Konrad P Kording, Paul R Schrater<br>
+Eneuro, 2020 ([Article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7031850/))
 
 ### 2019
+
+_Machine Learning for Phone-Based Relationship Estimation: The Need to Consider Population Heterogeneity_<br>
+Tony Liu, Jennifer Nicholas, Max M Theilig, Sharath C Guntuku, Konrad Kording, David C Mohr, Lyle Ungar<br>
+Proceedings of the ACM on IMWUT 2019 ([Article](https://dl.acm.org/doi/pdf/10.1145/3369820))
+
+_End-to-end Training of CNN-CRF via Differentiable Dual-Decomposition_<br>
+Shaofei Wang, Vishnu Lokhande, Maneesh Singh, Konrad Kording, Julian Yarkony<br>
+arXiv, 2019 ([Article](https://arxiv.org/pdf/1912.02937))
 
 _A deep learning framework for neuroscience_<br>
 Blake A Richards, Timothy P Lillicrap, ..., Konrad P Kording<br>
@@ -575,7 +664,7 @@ American Control Conference, 2011, pp. 618-625. ([Abstract](http://ieeexplore.ie
 
 _Mixture of time-warped trajectory models for movement decoding_<br>
 Corbett E, Perreault EJ, and Kording KP <br>
-Advances in Neural Information Processing Systems ([Abstract](http://nips.cc/Conferences/2010/Program/event.php?ID=2104), [PDF](http://books.nips.cc/papers/files/nips23/NIPS2010_0509.pdf))  
+Advances in Neural Information Processing Systems ([Abstract](http://nips.cc/Conferences/2010/Program/event.php?ID=2104), [PDF](http://books.nips.cc/papers/files/nips23/NIPS2010_0509.pdf))
 
 
 _In praise of “false” models and rich data_<br>
