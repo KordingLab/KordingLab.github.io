@@ -49,6 +49,12 @@ If you need to install your own software, you should create an environment of yo
 
 ### Common Issues
 
+**CUDA**
+
+In Fall 2020, we upgraded to CUDA 10.2 on all machines, which solved some of the past compatibility issues. Still, these things have been known to break in strange ways. When this happens, reboot. If it still fails, reinstall CUDA and reboot.
+
+How to reinstall CUDA, you ask? There are many ways, but here's the recommended one that has worked for us consistently: someone with admin privileges [downloads the runfile from NVIDIA](https://developer.nvidia.com/cuda-downloads). It's not a bad idea to check for `gcc` updates at this point, too. Then follow instructions on the nvidia site (usually this is just a single command like `sudo sh cuda_10.2.89_440.33.01_linux.run` with whatever `.run` file was downloaded). One recommended non-standard option in the installer is `Options > Driver > Update the system X config file`, and everything else is fine as defaults. The machine will need a reboot after this upgrade.
+
 **Dolores**
 
 Spontaneous restarting: A bug in intel's CPU sometimes causes Dolores to restart spontaneously when if Turbo Mode is enabled. To prevent this, run the following command everytime the machine is booted up:
@@ -103,6 +109,24 @@ C-a is the command to detatch from the screen and return to your base terminal.
 The -r command allows you to reconnect to a screen with the name you have given it. To get a list of currently open and running screens, type "screen -r" without a name.
 
 Occasionally a screen will be listed as "attached" while you are actually not connected to it. In that case use the -d command to attach to screens that for some reason remain listed as attached.
+
+**Remote interpreter via PyCharm**
+
+PyCharm can be configured to automagically sync files and run code on the lab machines over SSH. It provides all the features you'd expect like a GUI for interactive debugging, plotting, and a console, all while running remotely.
+
+Recommended setup:
+
+1. Connect to the VPN
+2. Make a virtual environment on the lab server of your choice. Make a note of its path.
+3. In PyCharm preferences, go to "Project > Python Interpreter" and find the button to add an interpreter. Add an SSH interpreter and follow the instructions, setting the python interpreter path to `<path/to/your/new/environment>/bin/python`)
+4. Select the box that says automatically sync files. This means whenever you modify and save a file in the editor, it is immediately uploaded to the server.
+5. You can configure the remote directory structure by going to "Build, Execution, Deployment > Deployment" then selecting the "Mappings" tab.
+
+It is not completely bug-free. PyCharm gets especially confused when you open a project but the VPN is off and it can't figure out how to connect. Occasionally this leaves things in a broken state. To un-break them, you need to
+
+1. Connect to the VPN
+2. SSH to the server and remove the `~/.pycharm_helpers/` directory manually
+3. Follow the instructions to rebuild things [here](https://intellij-support.jetbrains.com/hc/en-us/community/posts/115000738804-How-to-update-skeletons-remote-interpreter?page=1#community_comment_115000623624)
 
 **Jupyter Notebook/Lab**
 
