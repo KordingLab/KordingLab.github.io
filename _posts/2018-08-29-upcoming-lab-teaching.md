@@ -14,6 +14,32 @@ neuroscientific princples, new findings and literature reviews... whatever!
 
 Get on the listserve for announcements: https://groups.google.com/forum/#!forum/kording-lab-teachings
 
+**Spring 2021**
+
+| Date | Name | Topic |
+|------|------|-------|
+| Feb. 12 | |  |
+| Feb. 19 |  |  |
+| Feb. 26 |  |  |
+| Mar. 5 |  |  |
+| Mar. 12 |  |  |
+| Mar. 19 |  |  |
+| Mar. 26 | | |
+| Apr. 2 |  | |
+| Apr. 9 |  |  |
+| Apr. 16 |  | |
+| Apr. 23 |  | |
+
+
+**Requests and suggestions**
+
+1. Recent progress in NLP (Transformer networks, pretraining methods...)
+2. Graph Convolution Technique
+
+**Recently taught topics**
+
+*For inspiration. Add ones you've done!!*
+
 **Summer 2020**
 
 | Date | Name | Topic |
@@ -26,19 +52,9 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Sept. 25 |  | No lab teaching due to Interlab Teatime |
 | Oct. 2 |Amandeep |In-Memory Compute |
 | Oct. 9 | Justin | TBD, maybe scaling laws in biology|
-| Nov. 6 | Nidhi | TBD, maybe minimal energy consumption in neuro theory |
+| Nov. 6 |  | |
 | Nov. 13 | Tony | Interpretable ML|
 | Nov. 20 | Richard | Discussion of ["Why Philosophers Should Care About Computational Complexity"](http://arxiv.org/abs/1108.1791) |
-
-
-**Requests and suggestions**
-
-1. Recent progress in NLP (Transformer networks, pretraining methods...)
-2. Graph Convolution Technique
-
-**Recently taught topics**
-
-*For inspiration. Add ones you've done!!*
 
 **Fall 2018**
 
