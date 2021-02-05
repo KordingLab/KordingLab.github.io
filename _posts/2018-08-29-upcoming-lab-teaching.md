@@ -40,7 +40,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 
 *For inspiration. Add ones you've done!!*
 
-**Summer 2020**
+**Fall 2020**
 
 | Date | Name | Topic |
 |------|------|-------|
@@ -55,53 +55,6 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Nov. 6 |  | |
 | Nov. 13 | Tony | Interpretable ML|
 | Nov. 20 | Richard | Discussion of ["Why Philosophers Should Care About Computational Complexity"](http://arxiv.org/abs/1108.1791) |
-
-**Fall 2018**
-
-| Date | Name | Topic |
-|------|------|-------|
-|Sept. 28| Ilenna | Capacity of Neural Networks   |
-|Oct. 5| Tung Pham    |  GANs for EEG   |
-|Oct. 12|  Ben  | GPUs -- beneath the heatsink [Slides](https://github.com/benlansdell/gpu_samples)    |
-|Oct. 19|   Rachit   |  Graph Convolution Networks  |
-|Oct. 26|  Tony |  Docker for science  |
-|Nov. 2|  Titipat   |  AllenNLP library and a little bit of Pytorch  |
-|Nov. 9|  Roozbeh    |    Multiple Hypothesis Testing   |
-|Nov. 16|   David   |   Reinforcement learning and catastrophic forgetting   |
-|Dec. 3| Ari | Independent Component Analysis |
-
-**Spring 2019**
-
-| Date | Name | Topic |
-|------|------|-------|
-|Jan. 9| Netanel Ofer | Automated Analysis of Interneuron Axonal Tree Morphology and Activity Patterns|
-|Jan. 18| Nidhi | Dynamic Time Warping |
-|Jan. 25| Ben | Bandit problems |
-|Feb. 11| David | Autoencoders & Information Bottleneck |
-|Feb. 27| Adrian Radillo | Perfecting the research process [dropbox doc from the teaching] (https://paper.dropbox.com/doc/Kordings-lab-teaching-on-IT-for-scientists--AYUMIhaJvifuArh1uCfm6BivAQ-wXXjZyfix7HiGu9lcroyR) |
-|Mar. 6| Ari | Biologically plausible backprop|
-|Mar. 13|Greg Corder (http://www.corderlab.com/)|emotional processing of pain in the amygdala|
-|Mar. 20| Ilenna | Topics in the Philosophy of Science |
-|Mar. 27| Tony | Code Workflow for Research |
-|May 1| Edgar Dobriban | Data augmentation |
-|May 15| Ben Baker (Miracchi lab) | Representation and information in neuroscience |
-|May 29| Sebastien Tremblay (Platt Lab)| The limits of neurophys and why we need your help|
-|June 5| Zhihao (Princeton University)| TBA |
-
-**Fall 2019**
-
-| Date | Name | Topic |
-|------|------|-------|
-|October 9|David Rolnick|Climate change|
-|October 16|Ari Benjamin|TBD (plasticity & learning in the brain)|
-|October 23|Ethan Blackwood|Neural models of indirection and abstraction|
-|October 30|Ben Lansdell| Invariance and causality|
-|November 6|Nidhi Seethapathi|Inferring Dynamics from Data|
-|November 13|Tony Liu| Theory of Computation|
-|November 20|Ilenna Jones| Ion Channel Kinetics|
-|November 27|Shaofei Wang| Differentiable Structured Inference and Attention |
-|December 4|Rachit Saluja| Compressed sensing and deep learning|
-|December 18|Titipat Achakulvisut|Reinforcement Learning (introduction)|
 
 **Spring 2020**
 
@@ -125,6 +78,55 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Apr. 29 | Ilenna | TBA |
 | May 6 | Nachi Stern | Design and learning in physical networks |
 | May 13 | Roozbeh | TBA |
+
+**Fall 2019**
+
+| Date | Name | Topic |
+|------|------|-------|
+|October 9|David Rolnick|Climate change|
+|October 16|Ari Benjamin|TBD (plasticity & learning in the brain)|
+|October 23|Ethan Blackwood|Neural models of indirection and abstraction|
+|October 30|Ben Lansdell| Invariance and causality|
+|November 6|Nidhi Seethapathi|Inferring Dynamics from Data|
+|November 13|Tony Liu| Theory of Computation|
+|November 20|Ilenna Jones| Ion Channel Kinetics|
+|November 27|Shaofei Wang| Differentiable Structured Inference and Attention |
+|December 4|Rachit Saluja| Compressed sensing and deep learning|
+|December 18|Titipat Achakulvisut|Reinforcement Learning (introduction)|
+
+**Spring 2019**
+
+| Date | Name | Topic |
+|------|------|-------|
+|Jan. 9| Netanel Ofer | Automated Analysis of Interneuron Axonal Tree Morphology and Activity Patterns|
+|Jan. 18| Nidhi | Dynamic Time Warping |
+|Jan. 25| Ben | Bandit problems |
+|Feb. 11| David | Autoencoders & Information Bottleneck |
+|Feb. 27| Adrian Radillo | Perfecting the research process [dropbox doc from the teaching] (https://paper.dropbox.com/doc/Kordings-lab-teaching-on-IT-for-scientists--AYUMIhaJvifuArh1uCfm6BivAQ-wXXjZyfix7HiGu9lcroyR) |
+|Mar. 6| Ari | Biologically plausible backprop|
+|Mar. 13|Greg Corder (http://www.corderlab.com/)|emotional processing of pain in the amygdala|
+|Mar. 20| Ilenna | Topics in the Philosophy of Science |
+|Mar. 27| Tony | Code Workflow for Research |
+|May 1| Edgar Dobriban | Data augmentation |
+|May 15| Ben Baker (Miracchi lab) | Representation and information in neuroscience |
+|May 29| Sebastien Tremblay (Platt Lab)| The limits of neurophys and why we need your help|
+|June 5| Zhihao (Princeton University)| TBA |
+
+
+**Fall 2018**
+
+| Date | Name | Topic |
+|------|------|-------|
+|Sept. 28| Ilenna | Capacity of Neural Networks   |
+|Oct. 5| Tung Pham    |  GANs for EEG   |
+|Oct. 12|  Ben  | GPUs -- beneath the heatsink [Slides](https://github.com/benlansdell/gpu_samples)    |
+|Oct. 19|   Rachit   |  Graph Convolution Networks  |
+|Oct. 26|  Tony |  Docker for science  |
+|Nov. 2|  Titipat   |  AllenNLP library and a little bit of Pytorch  |
+|Nov. 9|  Roozbeh    |    Multiple Hypothesis Testing   |
+|Nov. 16|   David   |   Reinforcement learning and catastrophic forgetting   |
+|Dec. 3| Ari | Independent Component Analysis |
+
 
 Older:
 1. Generalization in neural networks (Ari)
