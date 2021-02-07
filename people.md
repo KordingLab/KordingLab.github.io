@@ -58,6 +58,7 @@ permalink: /people/
 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
+| [Ben Lansdell](http://benlansdell.github.io) | Postdoc (2017 - 2020) | Data Scientist, Developmental Neurobiology, St. Jude Children's Research Hospital |
 | [David Rolnick](http://kordinglab.com/people/david_rolnick/index.html) | Postdoc (2018 - 2020) | [Assistant Professor](http://www.davidrolnick.com), Computer Science, McGill University and Mila |
 | [Shaofei Wang](http://kordinglab.com/people/shaofei_wang/index.html) | Researcher (2018 - 2020) | PhD Student, Computer Science, ETH Zurich |
 | [Ethan Blackwood](http://kordinglab.com/people/ethan_blackwood/index.html) | Rotation Student (2019) | Alex Proekt's Lab at UPenn |
