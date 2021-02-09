@@ -21,7 +21,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Feb. 12 | |  |
 | Feb. 19 |  |  |
 | Feb. 26 |  |  |
-| Mar. 5 |  |  |
+| Mar. 5 | Richard | TBD (Probably sharing Parametric Sampling results) |
 | Mar. 12 |  |  |
 | Mar. 19 |  |  |
 | Mar. 26 | Ilenna| TBD |
