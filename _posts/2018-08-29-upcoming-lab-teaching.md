@@ -25,7 +25,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Mar. 12 |  |  |
 | Mar. 19 |  |  |
 | Mar. 26 | Ilenna| TBD |
-| Apr. 2 |  | |
+| Apr. 2 | Nidhi (if I don't have interviews)  | Neural basis of energy minimization |
 | Apr. 9 |  |  |
 | Apr. 16 |  | |
 | Apr. 23 |  | |
