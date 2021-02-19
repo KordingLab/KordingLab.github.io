@@ -20,7 +20,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 |------|------|-------|
 | Feb. 12 | |  |
 | Feb. 19 |  |  |
-| Feb. 26 | Tony  | TBD |
+| Feb. 26 | Tony  | Asymptotic theory towards double ML |
 | Mar. 5 | Richard | TBD (Probably sharing Parametric Sampling results) |
 | Mar. 12 |  |  |
 | Mar. 19 | Roozbeh | TBD |
