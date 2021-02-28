@@ -26,7 +26,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Mar. 19 | Roozbeh | TBD |
 | Mar. 26 | Ilenna| TBD |
 | Apr. 2 | Nidhi (if I don't have interviews)  | Neural basis of energy minimization |
-| Apr. 9 |  |  |
+| Apr. 9 | Ben | Probably Embodied Cognition or Affordances in Perception |
 | Apr. 16 |  | |
 | Apr. 23 |  | |
 
