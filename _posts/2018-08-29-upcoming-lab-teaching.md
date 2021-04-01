@@ -21,14 +21,14 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Feb. 12 | |  |
 | Feb. 19 |  |  |
 | Feb. 26 | Tony  | Asymptotic theory towards double ML |
-| Mar. 5 | Richard | TBD (Probably sharing Parametric Sampling results) |
+| Mar. 5 | Richard | MCMC sampling |
 | Mar. 12 |  |  |
-| Mar. 19 | Roozbeh | TBD |
-| Mar. 26 | Ilenna| TBD |
+| Mar. 19 | Roozbeh | AlphaFold |
+| Mar. 26 | Ilenna| The New Problem of Induction |
 | Apr. 2 | Nidhi (if I don't have interviews)  | Neural basis of energy minimization |
 | Apr. 9 | Ben | Probably Embodied Cognition or Affordances in Perception |
-| Apr. 16 |  Ari| Sensory substitution studies |
-| Apr. 23 |  | |
+| Apr. 16 | Ari| Sensory substitution studies |
+| Apr. 23 | Richard | Kernels and Gaussian Processes |
 
 
 **Requests and suggestions**
