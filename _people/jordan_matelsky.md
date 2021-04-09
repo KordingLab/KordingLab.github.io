@@ -1,7 +1,7 @@
 ---
 name: Jordan Matelsky
 position: gradstudent
-avatar: jordan_matelsky.jpg
+avatar: jordan-matelsky.jpg
 twitter: j6m8
 joined: 2021
 ---
