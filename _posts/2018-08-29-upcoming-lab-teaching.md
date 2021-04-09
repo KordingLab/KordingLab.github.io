@@ -29,6 +29,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Apr. 9 | Ben | Probably Embodied Cognition or Affordances in Perception |
 | Apr. 16 | Ari| Sensory substitution studies |
 | Apr. 23 | Richard | Kernels and Gaussian Processes |
+| Apr. 30 | Ilenna | Normal, Extraordinary, and Revolutionary Science |
 
 
 **Requests and suggestions**
