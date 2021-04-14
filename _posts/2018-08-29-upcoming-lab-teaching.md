@@ -26,7 +26,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Mar. 19 | Roozbeh | AlphaFold |
 | Mar. 26 | Ilenna| The New Problem of Induction |
 | Apr. 2 |  |  |
-| Apr. 9 | Ben | Probably Embodied Cognition or Affordances in Perception |
+| Apr. 9 | Ben B. | A Philosophical Understanding of Representations for Neruoscience |
 | Apr. 16 | Joshua Glaser | Interpretable Machine Learning for Neuroscience |
 | Apr. 23 | Richard | Kernels and Gaussian Processes |
 | Apr. 30 | Ilenna | Normal, Extraordinary, and Revolutionary Science |
