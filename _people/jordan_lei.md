@@ -1,5 +1,5 @@
 ---
-name: Jordan Lei (Master's)
+name: Jordan Lei
 position: gradstudent
 avatar: jordan_lei.jpg
 twitter: 
