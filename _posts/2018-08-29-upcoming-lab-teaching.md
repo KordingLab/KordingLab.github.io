@@ -30,8 +30,10 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Apr. 16 | Joshua Glaser | Interpretable Machine Learning for Neuroscience |
 | Apr. 23 | Richard | Kernels and Gaussian Processes |
 | Apr. 30 | Ilenna | Normal, Extraordinary, and Revolutionary Science |
-| May. 7 | Ari | Sensory substitution studies |
-| May. 14 | Nidhi | TBD |
+| May. 7 | Lab break |  |
+| May. 14 | Lab break |  |
+| May. 21 | Nidhi | Energy minimization principle in neuroscience |
+| May. 28 | Ari | Sensory substitution studies |
 
 **Requests and suggestions**
 
