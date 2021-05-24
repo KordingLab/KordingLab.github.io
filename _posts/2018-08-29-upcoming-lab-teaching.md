@@ -1,18 +1,18 @@
 ---
-title: Upcoming lab teachings
+title: Old lab teaching topics
 categories: students
 header-img: images/post/dino2.jpg
 ---
 
 
-# Upcoming lab teachings
+# Old lab teaching topics
 
 Every Friday, we get together (over pizza, sometimes) for lab teachings.
 On a rotating basis, each member of the lab speaks and teaches about something they know.
 Anything, really. Relevant and interesting topics, good skills to know, nice Python packages,
 neuroscientific princples, new findings and literature reviews... whatever!
 
-Get on the listserve for announcements: https://groups.google.com/forum/#!forum/kording-lab-teachings
+[Click here for current (as of spring 2021) topics](http://kordinglab.github.io/2021/01/01/upcoming-lab-teaching.html)
 
 **Spring 2021**
 
@@ -32,17 +32,8 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Apr. 30 | Ilenna | Normal, Extraordinary, and Revolutionary Science |
 | May. 7 | Lab break |  |
 | May. 14 | Lab break |  |
-| May. 21 | Nidhi | Energy minimization principle in neuroscience |
-| May. 28 | Ari | Sensory substitution studies |
-
-**Requests and suggestions**
-
-1. Recent progress in NLP (Transformer networks, pretraining methods...)
-2. Graph Convolution Technique
-
-**Recently taught topics**
-
-*For inspiration. Add ones you've done!!*
+| May. 21 | Lab break |  |
+| May. 28 | Lab break |  |
 
 **Fall 2020**
 
@@ -146,4 +137,4 @@ Older:
 # Previous lab teaching
 
 - [2016 topics](http://kordinglab.com/lab_teaching_2016/)
-- [2015 topics](https://github.com/KordingLab/lab_teaching_2015)
+- [2015 topics](http://github.com/KordingLab/lab_teaching_2015)
