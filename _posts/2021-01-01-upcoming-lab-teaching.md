@@ -18,7 +18,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 
 | Date | Name | Topic |
 |------|------|-------|
-| Jun. 4 | Nidhi | Energy minimization principle in neuroscience |
+| Jun. 7 | Nidhi | Inverse Reinforcement Learning |
 | Jun. 11 | Ari | TBD |
 | Jun. 18 | |  |
 | Jul. 2 | |  |
