@@ -23,7 +23,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Jun. 18 | |  |
 | Jul. 2 | |  |
 | Jul. 9 | |  |
-| Jul. 16 | |  |
+| Jul. 16 | Tony | TBD |
 | Jul. 23 | |  |
 | Jul. 30 | |  |
 | Aug. 6 | |  |
