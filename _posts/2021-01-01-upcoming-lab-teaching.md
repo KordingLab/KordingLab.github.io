@@ -18,9 +18,9 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 
 | Date | Name | Topic |
 |------|------|-------|
-| Jun. 7 | Nidhi | Inverse Reinforcement Learning |
 | Jun. 11 | Ari | TBD |
 | Jun. 18 | |  |
+| Jun. 25 | |  |
 | Jul. 2 | |  |
 | Jul. 9 | |  |
 | Jul. 16 | Tony | TBD |
