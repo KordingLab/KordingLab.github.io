@@ -24,7 +24,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Jul. 2 | |  |
 | Jul. 9 | Felipe | MONET: Semi-supervised learning framework for keypoint detection |
 | Jul. 16 | Tony | TBD |
-| Jul. 23 | |  |
+| Jul. 23 | Roozbeh | TBD |
 | Jul. 30 | |  |
 | Aug. 6 | |  |
 | Aug. 13 | |  |
