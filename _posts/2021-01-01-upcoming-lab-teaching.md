@@ -19,7 +19,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Date | Name | Topic |
 |------|------|-------|
 | Jun. 11 | Ari | TBD |
-| Jun. 18 | |  |
+| Jun. 18 | Mark Badger | Birds of a feather flock together in 3D shape space |
 | Jun. 25 | |  |
 | Jul. 2 | Ilenna | TBD |
 | Jul. 9 | Felipe | MONET: Semi-supervised learning framework for keypoint detection |
