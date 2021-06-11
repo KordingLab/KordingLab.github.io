@@ -18,7 +18,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 
 | Date | Name | Topic |
 |------|------|-------|
-| Jun. 11 | Ari | TBD |
+| Jun. 11 | everyone! | each share a cool thing we've found / are working on |
 | Jun. 18 | Mark Badger | Birds of a feather flock together in 3D shape space |
 | Jun. 25 | |  |
 | Jul. 2 | Ilenna | TBD |
