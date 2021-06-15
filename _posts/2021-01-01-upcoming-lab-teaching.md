@@ -25,7 +25,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Jul. 9 | Felipe | A semi-supervised framework for keypoint detection |
 | Jul. 16 | Tony | TBD |
 | Jul. 23 | Roozbeh | TBD |
-| Jul. 30 | |  |
+| Jul. 30 | Amandeep| TBD |
 | Aug. 6 | |  |
 | Aug. 13 | |  |
 | Aug. 20 | |  |
