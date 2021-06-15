@@ -26,7 +26,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Jul. 16 | Tony | TBD |
 | Jul. 23 | Roozbeh | TBD |
 | Jul. 30 | Amandeep| TBD |
-| Aug. 6 | |  |
+| Aug. 6 | Ben | TBD |
 | Aug. 13 | |  |
 | Aug. 20 | |  |
 | Aug. 27 | |  |
