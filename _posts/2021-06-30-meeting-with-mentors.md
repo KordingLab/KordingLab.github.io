@@ -24,13 +24,13 @@ Like setting meetings in advance in general, this seems hard at first. It’s no
 The work of a meeting could be anything. Some possibilities include asking specific questions, asking about the high-level context of a project, learning their bird-eye view of the field, brainstorming together, writing an abstract live together, reading text you’ve written aloud, re-aligning project directions, and discussing how a project fits into your research portfolio.
 #### 6. Start with the basics. 
 Context-switching takes time and mental resources. Your mentor has, unfortunately, too many contexts to keep up with. Start the meeting with some basic information that your mentor already knows. Especially busy mentors may even have forgotten some basics entirely, and some introductory framing can give much-appreciated cover. If you're meeting about something else, spend some time summarizing or highlighting the issue (such as the content of reviews on a submitted manuscript)
-#### 7. Use time wisely.
-There are some things that really shouldn't be left to meetings. Don't go through written text line-by-line. If you wrote a new version of a manuscript, for example, summarize the key problems you perceived and the key changes you made.
+#### 7. Shared time is precious.
+There are some tasks that shouldn't be left to meetings. Avoid going through written text line-by-line, for example. While some detail-oriented mentors will enjoy or even request this, try to make sure that high-level questions take priority. So if you wrote a new version of a manuscript, instead try to summarize the key problems you perceived and the key changes you made. Also, know that it's okay to end a meeting early if you speed through your agenda.
 
 
 ## Some things to keep in mind
 #### 8. Refuse to be confused.
-It's very important that you be open about what doesn't make sense. But it may be hard to signal confusion when you feel you “should” know something. Professors can be intimidating! But, like it or not, learning comes from exploring points of confusion. Often, the mark of a good academic is not one who "knows everything" but someone who is honest about not understanding even the "basic" things. Of course, don't go overboard: offer to keep the conversation moving forward if you can just look it up later.
+It's very important that you be open about what doesn't make sense to you. But it may be hard to signal confusion when you feel you “should” know something. Professors can be intimidating! But, like it or not, learning comes from exploring points of confusion. Often, the mark of a good academic is not one who "knows everything" but someone who is honest about not understanding even the "basic" things. Of course, don't go overboard: offer to keep the conversation moving forward if you can just look it up later.
 #### 9. Discuss milestones.
 It's good to be transparent about timelines. Some people create a shared calendar about research and career milestone goals: conference submissions, paper submissions, candidacy date, fellowship submission, etc. Regardless of whether you create an actual calendar, have strategic meetings once or twice a semester to chart out plans to achieve the milestones and evaluate progress. It's up to you to keep track of what needs doing when.
 #### 10. Be your own best ally.
