@@ -30,7 +30,7 @@ There are some things that really shouldn't be left to meetings. Don't go throug
 
 ## Some things to keep in mind
 #### 8. Refuse to be confused.
-It may be hard to signal confusion when you feel you “should” know something. Professors can be intimidating! But they're usually nice and have likely thought about how to create an environment of [psychological safety](https://en.wikipedia.org/wiki/Psychological_safety) in which mistakes are okay. Progression comes from exploring points of confusion. Your open confusion can be very helpful, too, since it’s hard for an expert to know what points will be confusing in advance. If you feel the conversation is sidetracked, offer to keep the conversation moving forward if you can just look it up later.
+It's very important that you be open about what doesn't make sense. But it may be hard to signal confusion when you feel you “should” know something. Professors can be intimidating! But, like it or not, learning comes from exploring points of confusion. Often, the mark of a good academic is not one who "knows everything" but someone who is honest about not understanding even the "basic" things. Of course, don't go overboard: offer to keep the conversation moving forward if you can just look it up later.
 #### 9. Discuss milestones.
 It's good to be transparent about timelines. Some people create a shared calendar about research and career milestone goals: conference submissions, paper submissions, candidacy date, fellowship submission, etc. Regardless of whether you create an actual calendar, have strategic meetings once or twice a semester to chart out plans to achieve the milestones and evaluate progress. It's up to you to keep track of what needs doing when.
 #### 10. Be your own best ally.
