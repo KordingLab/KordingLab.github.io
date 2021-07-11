@@ -26,7 +26,7 @@ I'm interested in the intersection of causal inference and machine learning, spe
 
 ### Publications
 
-- Liu T, Ungar LH, Kording KP. Quantifying causality in data science using quasi-experiments. To appear, Nature Computational Science.
+- Liu T, Ungar LH, Kording KP. Quantifying causality in data science using quasi-experiments. Nature Computational Science. 2021. [[DOI]](https://doi.org/10.1038/s43588-020-00005-8)
 - Shen H, Liu T, Cui J, Borole P, Benjamin A, Kording K, Issadore D. A web-based automated machine learning platform to analyze liquid biopsy data. Lab on a Chip. 2020. [[DOI]](https://doi.org/10.1039/D0LC00096E)
 - Liu T, Nicholas J, Theilig MM, Guntuku SC, Kording K, Mohr DC, Ungar LH. Machine Learning for Phone-Based Relationship Estimation: The Need to Consider Population Heterogeneity. Proceedings of the ACM on interactive, mobile, wearable and ubiquitous technologies. 2019 Dec 11. [[DOI]](https://doi.org/10.1145/3369820)
 
@@ -34,13 +34,15 @@ I'm interested in the intersection of causal inference and machine learning, spe
 
 ### Workshop Papers
 
-- Liu T, Ungar LH. Towards Cotenable and Causal Shapley Feature Explanations. To appear, AAAI Workshop on Trustworthy AI in Healthcare. 2020.
+- Liu T, Ungar LH, Kording KP. Data-Driven Exclusion Criteria for Instrumental Variables. To appear, ICML Workshop on Neglected Assumptions in Causal Inference. 2021.
+- Liu T, Ungar LH. Towards Cotenable and Causal Shapley Feature Explanations. AAAI Workshop on Trustworthy AI in Healthcare. 2021. [[Paper]](https://taih20.github.io/papers/25/CameraReady/Medical_Shapley_TAIH_2020_camera_ready.pdf) [[Poster]](https://taih20.github.io/posters/taih_liu_ungar_shapley_poster.pdf)
 
 ---
 
-### Preprints
+### Preprints and submissions
 
-- Meyerhoff J, Liu T, Kording KP, Ungar LH, Kaiser SM, Karr CJ, Mohr DC. Prediction of change in depression, anxiety, and social anxiety using smartphone sensor features: longitudinal cohort study. In preparation.
+- Liu T,  Meyerhoff J, Eichstaedt J, Karr CJ, Kaiser SM, Kording KP, Mohr DC, Ungar LH. Predicting depression severity from text message sentiment. Under submission.
+- Meyerhoff J, Liu T, Kording KP, Ungar LH, Kaiser SM, Karr CJ, Mohr DC. Prediction of change in depression, anxiety, and social anxiety using smartphone sensor features: longitudinal cohort study. Under submission.
 - Liu T, Meyerhoff J, Mohr DC, Ungar LH, Kording KP. COVID-19 pandemic: every day feels like a weekday to most. medRxiv. 2020. [[DOI]](https://doi.org/10.1101/2020.05.11.20098228)
 
 ---
