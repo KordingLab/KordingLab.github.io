@@ -21,8 +21,8 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Jun. 11 | everyone! | each share a cool thing we've found / are working on |
 | Jun. 18 | Mark Badger | Birds of a feather flock together in 3D shape space |
 | Jun. 25 | |  |
-| Jul. 2 | Ilenna | TBD |
-| Jul. 9 | Felipe | A semi-supervised framework for keypoint detection |
+| Jul. 2 | canceled |  |
+| Jul. 9 | everyone! | each share a cool thing we've found / are working on |
 | Jul. 16 | Tony | TBD |
 | Jul. 23 | Roozbeh | TBD |
 | Jul. 30 | Amandeep| TBD |
