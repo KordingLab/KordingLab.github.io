@@ -23,9 +23,9 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Jun. 25 | |  |
 | Jul. 2 | canceled |  |
 | Jul. 9 | everyone! | each share a cool thing we've found / are working on |
-| Jul. 16 | Tony | TBD |
-| Jul. 23 | Roozbeh | TBD |
-| Jul. 30 | Amandeep| TBD |
+| Jul. 16 | Tony | Mini teaching: sensitivity analysis |
+| Jul. 23 | canceled |  |
+| Jul. 30 | |  |
 | Aug. 6 | Ben | TBD |
 | Aug. 13 | |  |
 | Aug. 20 | |  |
