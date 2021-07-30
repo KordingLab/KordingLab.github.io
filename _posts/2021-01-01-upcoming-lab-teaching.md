@@ -25,9 +25,9 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Jul. 9 | everyone! | each share a cool thing we've found / are working on |
 | Jul. 16 | Tony | Mini teaching: sensitivity analysis |
 | Jul. 23 | canceled |  |
-| Jul. 30 | |  |
+| Jul. 30 | Richard | Fancy regression with structured data and measurement error |
 | Aug. 6 | Ben | TBD |
-| Aug. 13 | |  |
+| Aug. 13 | Gene | TBD |
 | Aug. 20 | |  |
 | Aug. 27 | |  |
 
