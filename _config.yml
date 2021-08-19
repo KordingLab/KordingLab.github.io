@@ -23,7 +23,7 @@ nav:
   - name:           "about"
     href:           "/about"
   - name:           "publications"
-    href:           "/publication"
+    href:           "/publications"
   - name:           "people"
     href:           "/people"
   - name:           "blog"
