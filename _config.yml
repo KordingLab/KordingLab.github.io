@@ -1,16 +1,12 @@
-# # # # # # # #
-#   K i k o   #
-# # # # # # # #
-
 # Basic
-name:               "Kording lab"
-title:              "Kording lab at University of Pennsylvania"
-description:        "this is a page for Konrad Kording lab, we are comptational neurosciece and datascience lab at the University of Pennsylvania, Philadelphia"
+name:               "Control and Learning for Autonomous Robotics Lab"
+title:              "CLeAR Lab at UT Austin"
+description:        "This is the official website of the Control and Learning for Autonomous Robotics Lab at UT Austin."
 
 
 # URL
-url:                http://kordinglab.com
-baseurl:            
+url:                https://clearoboticslab.github.io
+baseurl:
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
 
