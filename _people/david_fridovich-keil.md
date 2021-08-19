@@ -10,7 +10,7 @@ avatar: david_fridovich-keil.jpg
 - _Core Faculty, Texas Robotics_
 
 <i class="fa fa-envelope-o"></i> `dfk@utexas.edu`<br>
-<i class="fa fa-newspaper-o"</i> [CV (pdf)](/documents/dfk_cv.pdf)
+<i class="fa fa-newspaper-o"></i> [CV (pdf)](/documents/dfk_cv.pdf)
 
 **Office**<br>
 ASE 3.232, 2617 Wichita St<br>
