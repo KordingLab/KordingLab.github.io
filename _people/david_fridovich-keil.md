@@ -9,7 +9,8 @@ avatar: david_fridovich-keil.jpg
 - _Assistant Professor, Aerospace Engineering and Engineering Mechanics, UT Austin_<br>
 - _Core Faculty, Texas Robotics_
 
-<i class="fa fa-envelope-o"></i> `dfk@utexas.edu`
+<i class="fa fa-envelope-o"></i> `dfk@utexas.edu`<br>
+<i class="fa fa-newspaper-o"</i> [CV (pdf)](/documents/dfk_cv.pdf)
 
 **Office**<br>
 ASE 3.232, 2617 Wichita St<br>
