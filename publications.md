@@ -57,4 +57,4 @@ R. Dobbe\*, David Fridovich-Keil\*, and C. J. Tomlin, _Fully decentralized polic
 
 David Fridovich-Keil, N. Hanford, M. P. Chapman, C. J. Tomlin, M. K. Farrens, and D. Ghosal, _A model predictive control approach to flow pacing for TCP_, in Allerton Conference on Communication, Control, and Compution, pp. 988–994, 2017 ([pdf](https://ieeexplore.ieee.org/abstract/document/8262845/))
 
-David Fridovich-Keil, E. Nelson, and A. Zakhor, _AtomMap: A probabilistic amorphous 3D map rep- resentation for robotics and surface reconstruction_, in IEEE International Conference on Robotics and Automation (ICRA), pp. 3110–3117, 2017 ([pdf](https://ieeexplore.ieee.org/abstract/document/7989355))
+David Fridovich-Keil, E. Nelson, and A. Zakhor, _AtomMap: A probabilistic amorphous 3D map representation for robotics and surface reconstruction_, in IEEE International Conference on Robotics and Automation (ICRA), pp. 3110–3117, 2017 ([pdf](https://ieeexplore.ieee.org/abstract/document/7989355))
