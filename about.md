@@ -15,4 +15,4 @@ Some of our lab's core research interests are:
 
 ### Lab Members
 
-Our group is just getting started. Visit our [people page](http://kordinglab.com/people/) for profiles of lab members.
+Our group is just getting started. Visit our [people page](https://clearoboticslab.github.io/people/) for profiles of lab members.
