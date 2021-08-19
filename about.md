@@ -4,7 +4,7 @@ permalink: /about/
 ---
 
 ### About us
-We are a group of control theorists and roboticists working at the intersection between control theory, machine learning, and game theory to design high performance, interactive autonomous robots.
+We are a group of scientists and engineers working at the intersection between robotics, control theory, machine learning, and game theory to design high performance, interactive autonomous systems. Our lab is based in the [Department of Aerospace Engineering and Engineering Mechanics](https://www.ae.utexas.edu) and the [Robotics Consortium at UT Austin](https://robotics.utexas.edu).
 
 ### Research
 Some of our lab's core research interests are:
@@ -15,4 +15,4 @@ Some of our lab's core research interests are:
 
 ### Lab Members
 
-Our group is just getting started. Visit our [people page](https://clearoboticslab.github.io/people/) for profiles of lab members.
+Our group started in August 2021. Visit our [people page](https://clearoboticslab.github.io/people/) for profiles of lab members.
