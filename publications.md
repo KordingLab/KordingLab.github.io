@@ -9,7 +9,7 @@ For metrics and citations, please refer to David's [Google Scholar profile](http
 
 ### 2021
 
-J. Li, David Fridovich-Keil, S. Sojoudi, and C. Tomlin, _Augmented lagrangian method for instanta- neously constrained reinforcement learning problems_, in IEEE Conference on Decision and Control (CDC), 2021
+J. Li, David Fridovich-Keil, S. Sojoudi, and C. Tomlin, _Augmented lagrangian method for instantaneously constrained reinforcement learning problems_, in IEEE Conference on Decision and Control (CDC), 2021
 
 L. Peters, David Fridovich-Keil, V. Rubies-Royo, C. Tomlin, and C. Stachniss, _Inferring objectives in continuous dynamic games from noise-corrupted partial state observations_, in Robotics: Science and Systems, 2021 ([pdf](https://arxiv.org/pdf/2106.03611.pdf))
 
