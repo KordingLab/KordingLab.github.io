@@ -10,4 +10,4 @@ avatar: hamzah_khan.jpg
 
 <i class="fa fa-envelope-o"></i> `hamzah@utexas.edu`<br>
 
-[Hamzah Khan](https://hamzahkhan.me/) is a Master's and Ph.D. student at the University of Texas at Austin in the Aerospace Engineering department and is advised by Professor David Fridovich-Keil. His interests span distributed control and planning, game theory, interpretability in learned systems, robot safety, and autonomous vehicles. He worked for three years in the self-driving vehicle industry at Uber ATG and subsequently Aurora Innovation. Hamzah completed his undergraduate degree
+[Hamzah Khan](https://hamzahkhan.me/) is a Master's and Ph.D. student at the University of Texas at Austin in the Aerospace Engineering department and is advised by Professor David Fridovich-Keil. His interests span distributed control and planning, game theory, interpretability in learned systems, robot safety, and autonomous vehicles. He worked for three years in the self-driving vehicle industry at Uber ATG and subsequently Aurora Innovation. Hamzah completed his undergraduate degree at Harvey Mudd College in Southern California (Class of 2018).
