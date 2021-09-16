@@ -1,18 +1,33 @@
----
-title: Upcoming lab teachings
-categories: students
-header-img: images/post/dino2.jpg
----
-
 
 # Upcoming lab teachings
 
-Every Friday, we get together (over pizza, sometimes) for lab teachings.
+Every Tuesday, we get together (over pizza, sometimes) for lab teachings.
 On a rotating basis, each member of the lab speaks and teaches about something they know.
 Anything, really. Relevant and interesting topics, good skills to know, nice Python packages,
 neuroscientific princples, new findings and literature reviews... whatever!
 
 Get on the listserve for announcements: https://groups.google.com/forum/#!forum/kording-lab-teachings
+
+### Fall 2021
+
+| Date | Name | Topic |
+|------|------|-------|
+| Sep. 21 | Justin | 'Reward is enough' paper presentation |
+| Sep. 28 |  |  |
+| Oct. 5 |   |  |
+| Oct. 12 |  |  |
+| Oct. 19 |   |  |
+| Oct. 26 |   |  |
+| Nov. 2 |   |  |
+| Nov. 9 |   |  |
+| Nov. 16 |   |  |
+| Nov. 23 |   |  |
+| Nov. 30 |   |  |
+| Dec. 7 |   |  |
+| Dec. 14 |   |  |
+| Dec. 21 |   |  |
+
+### Old lab teaching topics
 
 ### Summer 2021
 
@@ -32,10 +47,6 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Aug. 27 | |  |
 
 *Fall semester begins during the week of Aug 30*
-
-## Recently taught topics
-
-*For inspiration. Add ones you've done!!*
 
 ### Spring 2021
 
