@@ -12,7 +12,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 
 | Date | Name | Topic |
 |------|------|-------|
-| Sep. 21 | Justin | 'Reward is enough' paper presentation |
+| Sep. 21 | Justin | 'Reward is enough, Silver et al. 2021' paper presentation |
 | Sep. 28 |  |  |
 | Oct. 5 |   |  |
 | Oct. 12 |  |  |
@@ -26,6 +26,12 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Dec. 7 |   |  |
 | Dec. 14 |   |  |
 | Dec. 21 |   |  |
+
+### Call for topics
+
+Please list below, topics you would like to learn more about (you may share your name or not, up to you):
+
+hippocampal computations (Nidhi), neural population doctrine (Nidhi), 
 
 ### Old lab teaching topics
 
