@@ -18,6 +18,24 @@ neuroscientific princples, new findings and literature reviews... whatever!
 
 | Date | Name | Topic |
 |------|------|-------|
+| Sep. 21 | Justin | 'Reward is enough' paper presentation |
+| Sep. 28 |  |  |
+| Oct. 5 |   |  |
+| Oct. 12 |  |  |
+| Oct. 19 |   |  |
+| Oct. 26 |   |  |
+| Nov. 2 |   |  |
+| Nov. 9 |   |  |
+| Nov. 16 |   |  |
+| Nov. 23 |   |  |
+| Nov. 30 |   |  |
+| Dec. 7 |   |  |
+| Dec. 14 |   |  |
+| Dec. 21 |   |  |
+
+
+| Date | Name | Topic |
+|------|------|-------|
 | Feb. 12 | |  |
 | Feb. 19 |  |  |
 | Feb. 26 | Tony  | Asymptotic theory towards double ML |
