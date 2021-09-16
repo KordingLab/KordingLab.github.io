@@ -3,26 +3,6 @@
 
 [Click here for current (as of spring 2021) topics](http://kordinglab.github.io/2021/01/01/upcoming-lab-teaching.html)
 
-**Spring 2021**
-
-| Date | Name | Topic |
-|------|------|-------|
-| Feb. 12 | |  |
-| Feb. 19 |  |  |
-| Feb. 26 | Tony  | Asymptotic theory towards double ML |
-| Mar. 5 | Richard | MCMC sampling |
-| Mar. 12 |  |  |
-| Mar. 19 | Roozbeh | AlphaFold |
-| Mar. 26 | Ilenna| The New Problem of Induction |
-| Apr. 2 |  |  |
-| Apr. 9 | Ben B. | A Philosophical Understanding of Representations for Neruoscience |
-| Apr. 16 | Joshua Glaser | Interpretable Machine Learning for Neuroscience |
-| Apr. 23 | Richard | Kernels and Gaussian Processes |
-| Apr. 30 | Ilenna | Normal, Extraordinary, and Revolutionary Science |
-| May. 7 | Lab break |  |
-| May. 14 | Lab break |  |
-| May. 21 | Lab break |  |
-| May. 28 | Lab break |  |
 
 **Fall 2020**
 
