@@ -1,26 +1,3 @@
-Every Tuesday, we get together (over pizza, sometimes) for lab teachings.
-On a rotating basis, each member of the lab speaks and teaches about something they know.
-Anything, really. Relevant and interesting topics, good skills to know, nice Python packages,
-neuroscientific princples, new findings and literature reviews... whatever!
-
-**Fall 2021**
-
-| Date | Name | Topic |
-|------|------|-------|
-| Sep. 21 | Justin | 'Reward is enough' paper presentation |
-| Sep. 28 |  |  |
-| Oct. 5 |   |  |
-| Oct. 12 |  |  |
-| Oct. 19 |   |  |
-| Oct. 26 |   |  |
-| Nov. 2 |   |  |
-| Nov. 9 |   |  |
-| Nov. 16 |   |  |
-| Nov. 23 |   |  |
-| Nov. 30 |   |  |
-| Dec. 7 |   |  |
-| Dec. 14 |   |  |
-| Dec. 21 |   |  |
 
 # Old lab teaching topics
 
