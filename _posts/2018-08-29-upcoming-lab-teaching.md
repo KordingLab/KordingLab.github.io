@@ -4,17 +4,7 @@ categories: students
 header-img: images/post/dino2.jpg
 ---
 
-
-# Old lab teaching topics
-
-Every Friday, we get together (over pizza, sometimes) for lab teachings.
-On a rotating basis, each member of the lab speaks and teaches about something they know.
-Anything, really. Relevant and interesting topics, good skills to know, nice Python packages,
-neuroscientific princples, new findings and literature reviews... whatever!
-
-[Click here for current (as of spring 2021) topics](http://kordinglab.github.io/2021/01/01/upcoming-lab-teaching.html)
-
-**Spring 2021**
+**Fall 2021**
 
 | Date | Name | Topic |
 |------|------|-------|
@@ -33,6 +23,16 @@ neuroscientific princples, new findings and literature reviews... whatever!
 | Dec. 14 |   |  |
 | Dec. 21 |   |  |
 
+# Old lab teaching topics
+
+Every Friday, we get together (over pizza, sometimes) for lab teachings.
+On a rotating basis, each member of the lab speaks and teaches about something they know.
+Anything, really. Relevant and interesting topics, good skills to know, nice Python packages,
+neuroscientific princples, new findings and literature reviews... whatever!
+
+[Click here for current (as of spring 2021) topics](http://kordinglab.github.io/2021/01/01/upcoming-lab-teaching.html)
+
+**Spring 2021**
 
 | Date | Name | Topic |
 |------|------|-------|
