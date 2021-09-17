@@ -33,6 +33,8 @@ B. Tech in Mechanical Engineering, VJTI, Mumbai, India (2008 - 2012)
 Brown, G. L.^ , **Seethapathi, N.**^ & Srinivasan, M. (2021). _A unified energy-optimality criterion predicts human navigation paths and speeds. PNAS_, 118.29.
 ^ equal contribution
 
+**Seethapathi, N.** , Clarke, B. & Srinivasan, M. (2021). _Exploration-based learning of a step to step controller predicts locomotor adaptation. bioRxiv preprint_.
+
 Lysenko, S. , **Seethapathi, N.** , Kording, K. P. & Johnson, M. J. (2020). _Towards automated emotion classification of atypically and typically developing infants, To appear in 2020 8th IEEE International Conference on Biomedical Robotics and Biomechatronics (BioRob)_.
 
 Chambers, C. , **Seethapathi, N.** , Saluja, R. , Loeb, H. , Pierce, S. , Bogen, D. , Prosser, L. , Johnson, M. J. & Kording, K. P. (2019). _Computer vision to automatically assess infant neuromotor risk. bioRxiv preprint_, bioRxiv:756262.
