@@ -15,8 +15,8 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Sep. 21 | Justin | 'Reward is enough, Silver et al. 2021' paper presentation |
 | Sep. 28 |  |  |
 | Oct. 5 |   |  |
-| Oct. 12 | Nidhi | Role of the Cerebellum in Cognition |
-| Oct. 19 |   |  |
+| Oct. 12 | |  |
+| Oct. 19 | Nidhi | Role of the cerebellum in cognition |
 | Oct. 26 |   |  |
 | Nov. 2 |   |  |
 | Nov. 9 |   |  |
