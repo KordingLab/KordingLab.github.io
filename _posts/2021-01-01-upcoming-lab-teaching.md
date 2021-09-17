@@ -18,7 +18,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Oct. 12 | |  |
 | Oct. 19 | Nidhi | Role of the cerebellum in cognition |
 | Oct. 26 |   |  |
-| Nov. 2 |   |  |
+| Nov. 2 | Tony | TBD (maybe heterogeneous treatment effects?) |
 | Nov. 9 |   |  |
 | Nov. 16 |   |  |
 | Nov. 23 |   |  |
