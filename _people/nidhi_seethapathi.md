@@ -30,10 +30,10 @@ B. Tech in Mechanical Engineering, VJTI, Mumbai, India (2008 - 2012)
 <hr>
 
 ### Publications
-Lysenko, S. , **Seethapathi, N.** , Kording, K. P. & Johnson, M. J. (2020). _Towards automated emotion classification of atypically and typically developing infants, To appear in 2020 8th IEEE International Conference on Biomedical Robotics and Biomechatronics (BioRob)_.
-
-Brown, G. L.^ , **Seethapathi, N.**^ & Srinivasan, M. (2020). _Energy optimality predicts curvilinear locomotion_, arXiv:2001.02287.
+Brown, G. L.^ , **Seethapathi, N.**^ & Srinivasan, M. (2021). _A unified energy-optimality criterion predicts human navigation paths and speeds. PNAS_, 118.29.
 ^ equal contribution
+
+Lysenko, S. , **Seethapathi, N.** , Kording, K. P. & Johnson, M. J. (2020). _Towards automated emotion classification of atypically and typically developing infants, To appear in 2020 8th IEEE International Conference on Biomedical Robotics and Biomechatronics (BioRob)_.
 
 Chambers, C. , **Seethapathi, N.** , Saluja, R. , Loeb, H. , Pierce, S. , Bogen, D. , Prosser, L. , Johnson, M. J. & Kording, K. P. (2019). _Computer vision to automatically assess infant neuromotor risk. bioRxiv preprint_, bioRxiv:756262.
 
