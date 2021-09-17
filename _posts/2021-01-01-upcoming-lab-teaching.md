@@ -13,7 +13,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Date | Name | Topic |
 |------|------|-------|
 | Sep. 21 | Justin | 'Reward is enough, Silver et al. 2021' paper presentation |
-| Sep. 28 |  |  |
+| Sep. 28 | Ilenna | 'Parallel and Recurrent Cascade Models, Harkin et al 2021' paper presentation |
 | Oct. 5 |   |  |
 | Oct. 12 | |  |
 | Oct. 19 | Nidhi | Role of the cerebellum in cognition |
@@ -31,7 +31,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 
 Please list below, topics you would like to learn more about (you may share your name or not, up to you):
 
-hippocampal computations (Nidhi), neural population doctrine (Nidhi), 
+hippocampal computations (Nidhi), neural population doctrine (Nidhi), neural odes (Ilenna)
 
 ### Old lab teaching topics
 
