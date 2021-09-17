@@ -9,7 +9,9 @@ For metrics and citations, please refer to David's [Google Scholar profile](http
 
 ### 2021
 
-J. Li, D. Fridovich-Keil, S. Sojoudi, and C. Tomlin, _Augmented lagrangian method for instantaneously constrained reinforcement learning problems_, in IEEE Conference on Decision and Control (CDC), 2021
+D. R. Anthony, D. Fridovich-Keil, and J. F. Fisac, _Back to the future: Efficient, time-consistent solutions in reach-avoid games,_ Robotics and Automation Letters (under review), 2022 ([pdf](http://arxiv.org/abs/2109.07673))
+
+J. Li, D. Fridovich-Keil, S. Sojoudi, and C. Tomlin, _Augmented Lagrangian method for instantaneously constrained reinforcement learning problems_, in IEEE Conference on Decision and Control (CDC), 2021
 
 L. Peters, D. Fridovich-Keil, V. Rubies-Royo, C. Tomlin, and C. Stachniss, _Inferring objectives in continuous dynamic games from noise-corrupted partial state observations_, in Robotics: Science and Systems, 2021 ([pdf](https://arxiv.org/pdf/2106.03611.pdf), [video](https://youtu.be/BogCsYQX9Pc))
 
