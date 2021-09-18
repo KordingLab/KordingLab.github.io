@@ -17,7 +17,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Oct. 5 | | |
 | Oct. 12 | Jordan Matelsky | [Tentative] "Ten things you wanted to know about coffee but were too caffeinated to ask" |
 | Oct. 19 | Nidhi | Role of the cerebellum in cognition |
-| Oct. 26 |   |  |
+| Oct. 26 | Felipe | SOTA Animal Pose Estimation |
 | Nov. 2 |    |  |
 | Nov. 9 | Tony | TBD (maybe heterogeneous treatment effects?) |
 | Nov. 16 |   |  |
