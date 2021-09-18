@@ -14,11 +14,11 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 |------|------|-------|
 | Sep. 21 | Justin | 'Reward is enough, Silver et al. 2021' paper presentation |
 | Sep. 28 | Ilenna | 'Parallel and Recurrent Cascade Models, Harkin et al 2021' paper presentation |
-| Oct. 5 |   |  |
-| Oct. 12 | |  |
+| Oct. 5 | | |
+| Oct. 12 | Jordan Matelsky | [Tentative] "Ten things you wanted to know about coffee but were too caffeinated to ask" |
 | Oct. 19 | Nidhi | Role of the cerebellum in cognition |
 | Oct. 26 |   |  |
-| Nov. 2 |  |  |
+| Nov. 2 |    |  |
 | Nov. 9 | Tony | TBD (maybe heterogeneous treatment effects?) |
 | Nov. 16 |   |  |
 | Nov. 23 |   |  |
