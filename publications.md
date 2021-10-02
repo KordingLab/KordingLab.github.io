@@ -9,7 +9,80 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 <hr>
 
+### 2021
+
+_For love of neuroscience: The Neuromatch movement_<br>
+Konrad Paul Kording<br>
+Neuron, 2021 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=MiFqJGcAAAAJ&sortby=pubdate&citation_for_view=MiFqJGcAAAAJ:xu-w60CxnpAC))
+
+_Evaluation of Changes in Depression, Anxiety, and Social Anxiety Using Smartphone Sensor Features: Longitudinal Cohort Study_<br>
+Jonah Meyerhoff, Tony Liu, Konrad P Kording, Lyle H Ungar, Susan M Kaiser, Chris J Karr, David C Mohr<br>
+Journal of Medical Internet Research, 2021 ([Article](https://www.jmir.org/2021/9/e22844/))
+
+_Machine Learning and Surgical Outcomes Prediction: A Systematic Review_<br>
+Omar Elfanagely, Yoshiko Toyoda, Sammy Othman, Joseph A Mellia, Marten Basta, Tony Liu, Konrad Kording, Lyle Ungar, John P Fischer<br>
+Journal of Surgical Research, 2021 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=MiFqJGcAAAAJ&sortby=pubdate&citation_for_view=MiFqJGcAAAAJ:TRpSR8MJMSgC))
+
+
+_Combining transcranial magnetic stimulation with functional magnetic resonance imaging for probing and modulating neural circuits relevant to affective disorders_<br>
+Desmond J Oathes, Nicholas L Balderston, Konrad P Kording, Joseph A DeLuisi, Gianna M Perez, John D Medaglia, Yong Fan, Romain J Duprat, Theodore D Satterthwaite, Yvette I Sheline, Kristin A Linn<br>
+Wiley Interdisciplinary Reviews: Cognitive Science, 2021 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=MiFqJGcAAAAJ&sortby=pubdate&citation_for_view=MiFqJGcAAAAJ:bxNerZLeg9kC))
+
+_Object Based Attention Through Internal Gating_<br>
+Jordan Lei, Ari S Benjamin, Konrad P Kording<br>
+arXiv preprint arXiv:2106.04540, 2021 ([Article](https://arxiv.org/pdf/2106.04540))
+
+
+_MoVi: A large multi-purpose human motion and video dataset_<br>
+Saeed Ghorbani, Kimia Mahdaviani, Anne Thaler, Konrad Kording, Douglas James Cook, Gunnar Blohm, Nikolaus F Troje<br>
+Plos one, 2021 ([Article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253157))
+
+
+_Might a Single Neuron Solve Interesting Machine Learning Problems Through Successive Computations on Its Dendritic Tree?_<br>
+Ilenna Simone Jones, Konrad Paul Kording<br>
+Neural Computation, 2021 ([Article](https://scholar.archive.org/work/xlfiqboes5do5pskt7d2xna5wy/access/wayback/https://watermark.silverchair.com/neco_a_01390.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAApswggKXBgkqhkiG9w0BBwagggKIMIIChAIBADCCAn0GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMSdpYrxLN6yOjzCsLAgEQgIICTnXqIZURVtzej68zDrqeakr5lApWtvsdCiJ2EhK8vwGMSilZxqGLjDa6XEOivtB0AcRwgvf8gmKyOZE796TTiXuX19t9VIzuZ3ivE34V4U347xxMzMpKdmyJUtRwjWSYQxWYA-JYwLwwR9ja6RGCi_B_Ai_UoOwfFDqeFEjNex0LwWKehVnO1-DGxcXivXxtjHd02xzcuDE02vySExqfk-O37qjeB6a0-L_48Rz5w0SQ7y8rRC-xwUc2BLJZssdRpUmiFs_cbCboPRgqjdXSeMC_U6phkWzHzjdIKGpv0cRoM51wxomlj87kflhS8u2xlAf1ZJAglbqFx8qd9jDqTRuhoutLtKpW-VWRlzartoskVxxqBHcYvW2WR-k_Nufg80sNRc9kYmZ9E2Z_YGOogkFud0qO94sVrrWV-Ef1eik93t_wOZFCFotEAaIRTKOj1G_3wlGpmxTtsS3cwvvaqZdN381oQq0bwQZU6aF295Dq5dRecg18fk40PnR5M9aYiDplc6BGiURgueLSujcq_rEDWwNq047UmBdAZYG4alzkYztUtrJbz5LrM-ZoyfacXdutWwTpgbgoS5qOS6ZBqbvN0e4tFmzQTwjOUmsV8UIJAp-3Gm8n2ZSelZktgY4FBtbfm2va7h9YCDXqnWmIGj2WHSfKOtai8CcFXVhYKzQ53Tp5BRF8FsKyF0qcOLLTTJg6vMs623jsWiv0doW0Ix2NlnnKKobcZf0tGWUPXwKq_61YLkrksmuMyWsOOXRQzyVXAwMZoFhLzGkUCq6D))
+
+_Do biological constraints impair dendritic computation?_<br>
+Ilenna Simone Jones, Konrad Paul Kording<br>
+arXiv preprint arXiv:2103.03274, 2021 ([Article](https://arxiv.org/pdf/2103.03274))
+
+_Augmenting Supervised Learning by Meta-learning Unsupervised Local Rules_<br>
+Jeffrey Cheng, Ari Benjamin, Benjamin Lansdell, Konrad Paul Kordin<br>
+arXiv preprint arXiv:2103.10252, 2021 ([Article](https://arxiv.org/pdf/2103.10252))
+
+_A critical reappraisal of predicting suicidal ideation using fMRI_<br>
+Timothy Verstynen, Konrad Kording<br>
+arXiv preprint arXiv:2103.06114, 2021 ([Article](https://arxiv.org/pdf/2103.06114))
+
+_Towards Democratizing and Automating Online Conferences: Lessons from the Neuromatch Conferences_<br>
+Titipat Achakulvisut, Tulakan Ruangrong, Patrick Mineault, Tim P Vogels, Megan AK Peters, Panayiota Poirazi, Christopher Rozell, Brad Wyble, Dan FM Goodman, Konrad Paul Kording<br>
+Trends in Cognitive Sciences, 2021 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=MiFqJGcAAAAJ&sortby=pubdate&citation_for_view=MiFqJGcAAAAJ:y2egTTA-ddEC))
+
+_A Philosophical Understanding of Representation for Neuroscience_<br>
+Ben Baker, Benjamin Lansdell, Konrad Kording<br>
+arXiv preprint arXiv:2102.06592, 2021 ([Article](https://arxiv.org/pdf/2102.06592))
+
+_A smartphone-based online system for fall detection with alert notifications and contextual information of real-life falls_<br>
+Yaar Harari, Nicholas Shawen, Chaithanya K Mummidisetty, Mark V Albert, Konrad P Kording, Arun Jayaraman<br>
+Journal of neuroengineering and rehabilitation, 2021 ([Article](https://link.springer.com/article/10.1186/s12984-021-00918-z))
+
+_Energy expenditure does not explain step length-width choices during walking_<br>
+Stephen A Antos, Konrad P Kording, Keith E Gordon<br>
+bioRxiv, 2021 ([Article](https://www.biorxiv.org/content/biorxiv/early/2021/04/11/2021.04.11.439375.full.pdf))
+
+_Recording Temporal Signals with Minutes Resolution Using Enzymatic DNA Synthesis_<br>
+Namita Bhan, Alec Callisto, Jonathan Strutz, Joshua Glaser, Reza Kalhor, Edward Boyden, George Church, Konrad Kording, Keith EJ Tyo<br>
+bioRxiv, 2021 ([Article](https://www.biorxiv.org/content/10.1101/2021.07.14.452380.full.pdf))
+
+_Quantifying causality in data science with quasi-experiments_<br>
+Tony Liu, Lyle Ungar, Konrad Kording<br>
+Nature Computational Science, 2021 ([Article](https://www-nature-com-s.caas.cn/articles/s43588-020-00005-8?error=cookies_not_supported&code=c2bb78f9-f88f-46ad-a494-cab9222bb2ff))
+
 ### 2020
+
+_Neuromatch Academy: teaching computational neuroscience with global accessibility_<br>
+Tara van Viegen, Athena Akrami, Kate Bonnen, Eric DeWitt, Alexandre Hyafil, Helena Ledmyr, Grace W Lindsay, Patrick Mineault, John D Murray, Xaq Pitkow, Aina Puce, Madineh Sedigh-Sarvestani, Carsen Stringer, Titipat Achakulvisut, Elnaz Alikarami, Melvin Selim Atay, Eleanor Batty, Jeffrey C Erlich, Byron V Galbraith, Yueqi Guo, Ashley L Juavinett, Matthew R Krause, Songting Li, Marius Pachitariu, Elizabeth Straley, Davide Valeriani, Emma Vaughan, Maryam Vaziri-Pashkam, Michael L Waskom, Gunnar Blohm, Konrad Kording, Paul Schrater, Brad Wyble, Sean Escola, Megan AK Peters<br>
+arXiv preprint arXiv:2012.08973, 2020 ([Article](https://arxiv.org/pdf/2012.08973))
 
 _Reverse-engineering deep ReLU networks_<br>
 David Rolnick, Konrad Kording<br>
