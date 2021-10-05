@@ -20,7 +20,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Oct. 26 | Felipe | SOTA in Animal Pose Estimation |
 | Nov. 2 | Richard | (tentative) fun with numerical differntiation and integration tricks |
 | Nov. 9 | Tony | TBD (maybe heterogeneous treatment effects?) |
-| Nov. 16 |   |  |
+| Nov. 16 | Compute Czars | "Hackathon" for maintaining lab servers |
 | Nov. 23 |   |  |
 | Nov. 30 |   |  |
 | Dec. 7 |   |  |
