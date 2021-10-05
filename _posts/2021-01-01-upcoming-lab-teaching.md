@@ -14,7 +14,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 |------|------|-------|
 | Sep. 21 | Justin | 'Reward is enough, Silver et al. 2021' paper presentation |
 | Sep. 28 | Ilenna | 'Parallel and Recurrent Cascade Models, Harkin et al 2021' paper presentation |
-| Oct. 5 | | |
+| Oct. 5 | Ben | Discussion + Q & A on Ben's CNI seminar on Representations in Neuroscience |
 | Oct. 12 | Jordan Matelsky | [Tentative] "Ten things you wanted to know about coffee but were too caffeinated to ask" |
 | Oct. 19 | Nidhi | Role of the cerebellum in cognition |
 | Oct. 26 | Felipe | Behavioral Diversity for Cognition |
@@ -23,7 +23,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Nov. 16 | Compute Czars | "Hackathon" for maintaining lab servers |
 | Nov. 23 |   |  |
 | Nov. 30 |   |  |
-| Dec. 7 |   |  |
+| Dec. 7 | Saeed Salehi | Julia programming language |
 | Dec. 14 |   |  |
 | Dec. 21 |   |  |
 
