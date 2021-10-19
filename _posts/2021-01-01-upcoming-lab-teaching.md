@@ -24,7 +24,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Nov. 23 | Jordan Matelsky | [Tentative] "Ten things you wanted to know about coffee but were too caffeinated to ask" |
 | Nov. 30 |   |  |
 | Dec. 7 | Saeed Salehi | Julia programming language |
-| Dec. 14 |   |  |
+| Dec. 14 | * | Lab Research Presentations |
 | Dec. 21 |   |  |
 
 ### Call for topics
