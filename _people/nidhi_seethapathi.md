@@ -1,6 +1,6 @@
 ---
 name: Nidhi Seethapathi
-position: postdoc
+position: alumni
 avatar: NidhiS91.png
 joined: 2018
 ---
