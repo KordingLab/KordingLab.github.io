@@ -19,7 +19,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Oct. 19 | Nidhi | Role of the cerebellum in cognition |
 | Oct. 26 | Felipe | Behavioral Diversity for Cognition |
 | Nov. 2 | Richard | (tentative) fun with numerical differentiation and integration tricks |
-| Nov. 9 | Tony | TBD (maybe heterogeneous treatment effects?) |
+| Nov. 9 | Tony | Causal inference through the DoWhy package |
 | Nov. 16 | Compute Czars | "Hackathon" for maintaining lab servers |
 | Nov. 23 | Jordan Matelsky | [Tentative] "Ten things you wanted to know about coffee but were too caffeinated to ask" |
 | Nov. 30 |   |  |
