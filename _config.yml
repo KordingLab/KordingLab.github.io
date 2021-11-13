@@ -3,13 +3,13 @@
 # # # # # # # #
 
 # Basic
-name:               "Kording lab"
-title:              "Kording lab at University of Pennsylvania"
-description:        "this is a page for Konrad Kording lab, we are comptational neurosciece and datascience lab at the University of Pennsylvania, Philadelphia"
+name:               "AAPL Lab"
+title:              "AAPL Lab at Ewha Womans University "
+description:        "this is a page for AAPL Lab datascience lab at Ewha Womans University, Seoul, Korea"
 
 
 # URL
-url:                http://kordinglab.com
+url:                https://bigdataewha.github.io/
 baseurl:            
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
