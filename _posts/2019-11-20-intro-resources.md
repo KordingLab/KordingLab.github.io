@@ -42,12 +42,45 @@ If you need to install your own software, you should create an environment of yo
 
 [creating and managing environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
 
-**Useful Commands**
+### Useful commands and best-practices
 
-[See here](http://kordinglab.com/2018/09/20/bleen-quadcorn-commands.html)
+#### General tips and best practices
 
+Save results to files early and often. Write code that can "pick up where it left off."
 
-### Common Issues
+This includes notebooks! Don't leave lots of notebooks hanging around eating up memory. Check if you have notebooks running and close them when you're done. If you need the same state later, save/load files from inside your notebook.
+
+#### Storage
+
+Please be mindful of the storage you are using, especially in the home folder. All servers have separate storage hardware, one small-but-fast in `/`, which includes your `/home/USERNAME` directory, and others that are big-but-slow. The big-slow storage is in `/data/` or /data2/. Use the command
+
+    df -h
+
+to get a list of all drives and their available space.
+
+To see how much space you are personally using, go to your home directory and run
+
+    cd; du -hs # the simple command
+    cd; du -hs .[^.]* | sort -hr # the fancier command which includes hidden things (names prefixed with "." like "~/.conda") and sorts the results
+    
+This will list all of the files and subdirectories of your home directory in order of their size (`cd;` gets you to home, `du` is the "disk usage" command, `.[^.]*` is a file pattern telling it to include hidden directories, and `sort` puts things in order of size).
+
+**Best practice** is to limit yourself to 100G of `/home`, and you should try to limit this to only one of the servers. One trick you can do is move a directory from `/home/` to `/data/` then "symlink" or "soft link" to its original location. For example, say `/home/myusername/old-project` is a big directory containing data from a project I don't need immediately. I can run
+
+    mkdir /data/myusername/ # make sure I have my own private place to store things inside /data
+    mv /home/myusername/old-project /data/ # move the entire directory (this can take a while)
+    ln -s /data/myusername/old-project ~/old-project # create symbolic link
+    ls -lh ~ # listing files, I should now see that "~/old-project" takes up zero space, and points to a different location in /data
+
+#### CPU/GPU usage
+
+Before running a big job, take a look at current resource-usage using the `htop` command. This will display a live window of running processes, who owns them, memory use, CPU use, etc... Similarly, use the `nvidia-smi` command to see current load on the GPUs. If it looks like someone is hogging all of the resources, your options are
+
+1. ask that person to scale back (after all, they ideally should have written code that can be safely stopped and restarted)
+2. move your data and code to a server with more available resources
+3. consult the compute czars
+
+### Other Common Issues
 
 **CUDA**
 
@@ -147,15 +180,3 @@ Next on your local machine's terminal type:
 Use the same XXXX and above. YYYY is any port number available on your local machine.
 
 Finally, open your browser and connect to 'localhost:YYYY'. You may be prompted to input a password, which is found on the screen in which you launched the jupyter session.
-
-**Matlab**
-
-### Best Practices
-
-Please be mindful of the storage you are using, especially in the home folder. Most machines have seperate hardrives, generally under a folder named /data<X>, where you can store large datasets. Additionally, if you are finished with a project on home, it is best to move it to one of these other drives. Use the command
-
-    df -h
-to get a list of all drives and their available space.
-
-
-### Miscellaneous Tips and Tricks
