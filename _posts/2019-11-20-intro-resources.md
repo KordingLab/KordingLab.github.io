@@ -19,7 +19,7 @@ We currently have three local machines named Bleen, Dolores, and Quadcorn.
 
 ### Getting Started
 
-**Getting an account**
+#### Getting an account
 
 You can either email a senior lab member for help, or, if you know some bash, create an account yourself.
 First, ask around to get the password to the admin account. Type `useradd my_username` to create
@@ -27,7 +27,7 @@ and account, then `passwd my_username` to make a password. Make sure it's a good
 (These servers are on the web and vulnerable to password-guessing hacks.)
 Finally, make sure to copy a `.profile` and `.bash_profile` file from an existing user to steal their setup (with Anaconda, etc.)
 
-**Setting Up Anaconda**
+#### Setting Up Anaconda
 
 Anaconda is a python environment manager. This allows separate users to easily have different versions of python as well as different versions of packages.
 Individual users can also create separate environments if different projects have conflicting version needs.
@@ -71,6 +71,14 @@ This will list all of the files and subdirectories of your home directory in ord
     mv /home/myusername/old-project /data/ # move the entire directory (this can take a while)
     ln -s /data/myusername/old-project ~/old-project # create symbolic link
     ls -lh ~ # listing files, I should now see that "~/old-project" takes up zero space, and points to a different location in /data
+
+**Conda clean-up**
+
+An easy way to free up some space in your home directory is to clean up unused conda tarballs and cached files. Run the following command:
+
+    conda clean -a
+    
+This can free upwards of 1-10 GB, depending on how many conda environments you have!
 
 #### CPU/GPU usage
 
