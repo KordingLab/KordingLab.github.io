@@ -58,7 +58,7 @@ permalink: /people/
 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
-| [Pedro Ribeiro](https://www.linkedin.com/in/pedro-ribeiro/) | Grad Student (2018 - 2021) | Programmer Analyst at Cedars-Sinai Department of Computational Biomedicine|
+| [Pedro Ribeiro](https://www.linkedin.com/in/pedro-ribeiro/) | Graduate Student (2018 - 2021) | Programmer Analyst at Cedars-Sinai Department of Computational Biomedicine|
 [Nidhi Seethapathi](https://www.seethapathilab.org) | Postdoc (2018 - 2021) | Assistant Professor at MIT from Jan 2022 on |
 | [Ben Lansdell](http://benlansdell.github.io) | Postdoc (2017 - 2020) | Data Scientist at St. Jude Children's Research Hospital |
 | [David Rolnick](http://kordinglab.com/people/david_rolnick/index.html) | Postdoc (2018 - 2020) | [Assistant Professor](http://www.davidrolnick.com), Computer Science, McGill University and Mila |
