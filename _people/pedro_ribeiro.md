@@ -1,8 +1,7 @@
 ---
 name: Pedro Ribeiro
-position: gradstudent
+position: alumni
 avatar: pedro.jpg
-twitter: Pedr0_Ribeir0
 joined: 2018
 ---
 
