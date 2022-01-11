@@ -6,7 +6,21 @@ On a rotating basis, each member of the lab speaks and teaches about something t
 Anything, really. Relevant and interesting topics, good skills to know, nice Python packages,
 neuroscientific princples, new findings and literature reviews... whatever!
 
-Get on the listserve for announcements: https://groups.google.com/forum/#!forum/kording-lab-teachings
+Get on the listserv for announcements: https://groups.google.com/forum/#!forum/kording-lab-teachings
+
+### Call for topics
+
+Please list below, topics you would like to learn more about (you may share your name or not, up to you):
+
+
+
+### Spring 2022
+
+| Date | Name | Topic |
+|------|------|-------|
+
+
+### Old lab teaching topics
 
 ### Fall 2021
 
@@ -26,14 +40,6 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Dec. 7 | Saeed Salehi | Julia programming language |
 | Dec. 14 | * | Lab Research Presentations |
 | Dec. 21 |   |  |
-
-### Call for topics
-
-Please list below, topics you would like to learn more about (you may share your name or not, up to you):
-
-hippocampal computations (Nidhi), neural population doctrine (Nidhi), neural odes (Ilenna)
-
-### Old lab teaching topics
 
 ### Summer 2021
 
