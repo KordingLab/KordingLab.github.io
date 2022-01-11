@@ -18,6 +18,8 @@ Please list below, topics you would like to learn more about (you may share your
 
 | Date | Name | Topic |
 |------|------|-------|
+| Jan. 18 | Name(TBD) | Title(TBD)
+| Jan. 25 | Name(TBD) | Title(TBD)
 
 
 ### Old lab teaching topics
