@@ -30,8 +30,8 @@ Please list below, topics you would like to learn more about (you may share your
 | Mar. 22 |  | 
 | Mar. 29 |  | 
 | Apr. 5 |  | 
-| Apr. 12 |  | 
-| Apr. 19 | Felipe  | Practice candidacy talk 
+| Apr. 12 | Felipe | Practice candidacy talk
+| Apr. 19 |  |
 | Apr. 26 |  | 
 
 
