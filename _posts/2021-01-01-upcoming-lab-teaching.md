@@ -20,6 +20,19 @@ Please list below, topics you would like to learn more about (you may share your
 |------|------|-------|
 | Jan. 18 | Name(TBD) | Title(TBD)
 | Jan. 25 | Name(TBD) | Title(TBD)
+| Feb. 1 |  |
+| Feb. 8 |  | 
+| Feb. 15 |  | 
+| Feb. 22 |  | 
+| Mar. 1 |  |
+| Mar. 8 |  | 
+| Mar. 15 |  | 
+| Mar. 22 |  | 
+| Mar. 29 |  | 
+| Apr. 5 |  | 
+| Apr. 12 |  | 
+| Apr. 19 | Felipe  | Practice candidacy talk 
+| Apr. 26 |  | 
 
 
 ### Old lab teaching topics
