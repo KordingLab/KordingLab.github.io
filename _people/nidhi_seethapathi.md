@@ -7,8 +7,7 @@ joined: 2018
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
- Nidhi is now an Assistant Professor at MIT BCS and EECS
- See more details on her [lab page](http://www.seethapathilab.org)
+ Nidhi is now an Assistant Professor at MIT BCS and EECS. Find more details on her [lab page](http://www.seethapathilab.org).
 
 ### Contact
 
