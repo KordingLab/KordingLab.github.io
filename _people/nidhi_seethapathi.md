@@ -11,7 +11,7 @@ joined: 2018
 
 ### Contact
 
-<i class="fa fa-envelope-o"></i> `snidhi@seas.upenn.edu`<br>
+<i class="fa fa-envelope-o"></i> `nidhise@mit.edu`<br>
 
 <hr>
 
