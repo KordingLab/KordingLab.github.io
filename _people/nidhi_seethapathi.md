@@ -7,6 +7,9 @@ joined: 2018
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
+ Nidhi is now an Assistant Professor of at MIT BCS and EECS
+ See more details on her [lab page](http://www.seethapathilab.org)
+
 ### Contact
 
 <i class="fa fa-envelope-o"></i> `snidhi@seas.upenn.edu`<br>
@@ -15,7 +18,7 @@ joined: 2018
 
 ### Current interests
 
-Building predictive models of real-world human movement with data-driven and normative approaches using data science, nonlinear optimization, control theory, and nonlinear dynamics.
+Building predictive models of human movement with normative and data-driven approaches using nonlinear optimization, control theory, nonlinear dynamics, and machine learning.
 
 <hr>
 
