@@ -9,7 +9,7 @@ For metrics and citations, please refer to David's [Google Scholar profile](http
 
 ### 2021
 
-D. R. Anthony, D. Fridovich-Keil, and J. F. Fisac, _Back to the future: Efficient, time-consistent solutions in reach-avoid games,_ Robotics and Automation Letters (under review), 2022 ([pdf](http://arxiv.org/abs/2109.07673))
+D. R. Anthony, D. P. Nguyen, D. Fridovich-Keil, and J. F. Fisac, _Back to the future: Efficient, time-consistent solutions in reach-avoid games,_ Robotics and Automation Letters (under review), 2022 ([pdf](http://arxiv.org/abs/2109.07673))
 
 F. Laine, D. Fridovich-Keil, C.-Y. Chiu, and C. Tomlin, _The computation of approximate generalized feedback nash equilibria,_ SIAM Journal on Optimization (under review), 2022 ([pdf](https://arxiv.org/pdf/2101.02900))
 
