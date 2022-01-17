@@ -22,8 +22,8 @@ Please list below, topics you would like to learn more about (you may share your
 | Jan. 25 | Name(TBD) | Title(TBD) |
 | Feb. 1 | Richard | My (pet) theory of what computation is |
 | Feb. 8 |  | 
-| Feb. 15 | Tony | TBD 
-| Feb. 22 |  | 
+| Feb. 15 |  |
+| Feb. 22 | Tony | TBD
 | Mar. 1 |  |
 | Mar. 8 |  | 
 | Mar. 15 |  | 
