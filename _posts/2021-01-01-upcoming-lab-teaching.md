@@ -18,7 +18,7 @@ Please list below, topics you would like to learn more about (you may share your
 
 | Date | Name | Topic |
 |------|------|-------|
-| Jan. 18 | Name(TBD) | Title(TBD) |
+| Jan. 18 | Ben | Review of some papers on Dance~Intelligence |
 | Jan. 25 | Name(TBD) | Title(TBD) |
 | Feb. 1 | Richard | My (pet) theory of what computation is |
 | Feb. 8 |  | 
