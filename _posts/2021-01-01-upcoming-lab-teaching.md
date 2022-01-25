@@ -24,7 +24,7 @@ Please list below, topics you would like to learn more about (you may share your
 | Feb. 8 |  | 
 | Feb. 15 |  |
 | Feb. 22 | Tony | TBD
-| Mar. 1 |  |
+| Mar. 1 | Nachi Stern | The Physical Effects of Learning |
 | Mar. 8 |  | 
 | Mar. 15 |  | 
 | Mar. 22 |  | 
