@@ -21,7 +21,7 @@ Please list below, topics you would like to learn more about (you may share your
 | Jan. 18 | Ben | Review of some papers on Dance~Intelligence |
 | Jan. 25 | Ari | Kalman Filtering |
 | Feb. 1 | Richard | My (pet) theory of what computation is |
-| Feb. 8 | Sebastien Tremblay | ... | 
+| Feb. 8 | Sebastién Tremblay | Non-necessary computations in the primate brain | 
 | Feb. 15 |  |
 | Feb. 22 | Tony | TBD
 | Mar. 1 | Nachi Stern | The Physical Effects of Learning |
