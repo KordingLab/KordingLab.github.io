@@ -22,7 +22,7 @@ Please list below, topics you would like to learn more about (you may share your
 | Jan. 25 | Ari | Kalman Filtering |
 | Feb. 1 | Richard | My (pet) theory of what computation is |
 | Feb. 8 | Sébastien Tremblay | Non-necessary computations in the primate brain | 
-| Feb. 15 |  |
+| Feb. 15 | Konrad & TBD | Abstract writing |
 | Feb. 22 | Tony | TBD
 | Mar. 1 | Nachi Stern | The Physical Effects of Learning |
 | Mar. 8 |  | 
