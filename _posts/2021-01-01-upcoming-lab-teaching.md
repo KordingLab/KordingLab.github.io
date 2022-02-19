@@ -26,7 +26,7 @@ Please list below, topics you would like to learn more about (you may share your
 | Feb. 22 | Tony | Statistical efficiency and/or heterogeneous treatment effects
 | Mar. 1 | Nachi Stern | The Physical Effects of Learning |
 | Mar. 8 |  | 
-| Mar. 15 |  | 
+| Mar. 15 | Ilenna | TBD
 | Mar. 22 |  | 
 | Mar. 29 |  | 
 | Apr. 5 |  | 
