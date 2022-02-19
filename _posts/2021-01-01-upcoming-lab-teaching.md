@@ -31,7 +31,7 @@ Please list below, topics you would like to learn more about (you may share your
 | Mar. 29 |  | 
 | Apr. 5 |  | 
 | Apr. 12 | Felipe | Practice candidacy talk
-| Apr. 19 |  |
+| Apr. 19 | Xiaowei Jiang | Biomarkers of EEG/fNIRS
 | Apr. 26 |  | 
 
 
