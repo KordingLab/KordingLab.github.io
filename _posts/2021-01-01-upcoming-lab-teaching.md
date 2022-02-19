@@ -29,10 +29,10 @@ Please list below, topics you would like to learn more about (you may share your
 | Mar. 15 | Ilenna | TBD
 | Mar. 22 |  | 
 | Mar. 29 |  | 
-| Apr. 5 |  | 
-| Apr. 12 | Felipe | Practice candidacy talk
+| Apr. 5 | | 
+| Apr. 12 | | 
 | Apr. 19 | Xiaowei Jiang | Biomarkers of EEG/fNIRS
-| Apr. 26 |  | 
+| Apr. 26 | Felipe | Candidacy Talk: Novel Applications of DL to Neuroethology
 
 
 ### Old lab teaching topics
