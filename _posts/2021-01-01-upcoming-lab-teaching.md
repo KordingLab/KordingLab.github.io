@@ -23,7 +23,7 @@ Please list below, topics you would like to learn more about (you may share your
 | Feb. 1 | Richard | My (pet) theory of what computation is |
 | Feb. 8 | Sébastien Tremblay | Non-necessary computations in the primate brain | 
 | Feb. 15 | Konrad & TBD | Abstract writing |
-| Feb. 22 | Tony | Statistical efficiency and/or heterogeneous treatment effects
+| Feb. 22 | Tony | [Heterogeneous treatment effects](https://colab.research.google.com/drive/1-XAQvDt_JbqgFzDxjc2DqImrz4Ens8Mr?usp=sharing)
 | Mar. 1 | Nachi Stern | The Physical Effects of Learning |
 | Mar. 8 |  | 
 | Mar. 15 | Ilenna | TBD
