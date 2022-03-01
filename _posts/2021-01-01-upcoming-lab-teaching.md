@@ -25,7 +25,7 @@ Please list below, topics you would like to learn more about (you may share your
 | Feb. 15 | Konrad & TBD | Abstract writing |
 | Feb. 22 | Tony | [Heterogeneous treatment effects](https://colab.research.google.com/drive/1-XAQvDt_JbqgFzDxjc2DqImrz4Ens8Mr?usp=sharing)
 | Mar. 1 | Nachi Stern | The Physical Effects of Learning |
-| Mar. 8 |  | 
+| Mar. 8 | Jordan | Reproducible science: software best practices | 
 | Mar. 15 | Ilenna | TBD
 | Mar. 22 |  | 
 | Mar. 29 |  | 
