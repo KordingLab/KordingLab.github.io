@@ -27,7 +27,7 @@ Please list below, topics you would like to learn more about (you may share your
 | Mar. 1 | Nachi Stern | The Physical Effects of Learning |
 | Mar. 8 | Jordan | Reproducible science: software best practices | 
 | Mar. 15 | Ilenna | TBD
-| Mar. 22 |  | 
+| Mar. 22 | * | Lab Research Talks 
 | Mar. 29 |  | 
 | Apr. 5 | | 
 | Apr. 12 | | 
