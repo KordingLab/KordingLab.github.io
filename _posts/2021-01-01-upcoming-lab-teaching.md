@@ -27,10 +27,10 @@ Please list below, topics you would like to learn more about (you may share your
 | Mar. 1 | Nachi Stern | The Physical Effects of Learning |
 | Mar. 8 | 
 | Mar. 15 | Jordan | Reproducible science with git, Jupyter, and LaTeX | 
-| Mar. 22 | * | Lab Research Talks 
-| Mar. 29 |  | 
-| Apr. 5 | | 
-| Apr. 12 | | 
+| Mar. 22 | * | Lab Research Talks | 
+| Mar. 29 |  | |
+| Apr. 5 | | |
+| Apr. 12 | Ilenna | TBD | 
 | Apr. 19 | Xiaowei Jiang | Biomarkers of EEG/fNIRS
 | Apr. 26 | Felipe | Candidacy Talk: Novel Applications of DL to Neuroethology
 
