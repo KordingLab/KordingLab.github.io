@@ -9,7 +9,7 @@ For metrics and citations, please refer to David's [Google Scholar profile](http
 
 ### 2022
 
-C.-Y. Chiu and D. Fridovich-Keil, _GTP-SLAM: Game-Theoretic Priors for Simultaneous Localization and Mapping in Multi-Agent Scenarios_, IEEE Conference on Decision and Control (CDC), 2022 ([pdf](https://arxiv.org/abs/2203.16690))
+C.-Y. Chiu and D. Fridovich-Keil, _GTP-SLAM: Game-Theoretic Priors for Simultaneous Localization and Mapping in Multi-Agent Scenarios_, IEEE Conference on Decision and Control (under review), 2022 ([pdf](https://arxiv.org/abs/2203.16690))
 
 R. S. Thakkar, A. S. Samyal, D. Fridovich-Keil, Z. Xu, and U. Topcu, _Hierarchical Control for Multi-Agent Autonomous Racing_, Robotics and Automation Letters (under review), 2022 ([pdf](https://arxiv.org/pdf/2202.12861))
 
