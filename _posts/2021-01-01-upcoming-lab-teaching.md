@@ -30,7 +30,7 @@ Please list below, topics you would like to learn more about (you may share your
 | Mar. 22 | * | Lab Research Talks | 
 | Mar. 29 |  | |
 | Apr. 5 | | |
-| Apr. 12 | Ilenna | TBD | 
+| Apr. 12 |  | | 
 | Apr. 19 | Xiaowei Jiang | Biomarkers of EEG/fNIRS
 | Apr. 26 | Felipe | Candidacy Talk: Novel Applications of DL to Neuroethology
 
