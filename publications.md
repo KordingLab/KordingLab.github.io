@@ -9,6 +9,13 @@ For metrics and citations, please refer to David's [Google Scholar profile](http
 
 ### 2022
 
+J. Sun, S. Kousik, D. Fridovich-Keil, and M. Schwager, _Self-supervised traffic advisors: Distributed, multi-view traffic prediction for smart cities,_ in IEEE International Conference on Intelligent Trans-
+portation Systems (under review), 2022 ([pdf](https://arxiv.org/abs/2204.06171))
+
+C.-Y. Chiu and D. Fridovich-Keil, _GTP-SLAM: Game-theoretic priors for simultaneous localization and mapping in multi-agent scenarios,_ in IEEE Conference on Decision and Control (under review), 2022 ([pdf](https://arxiv.org/abs/2203.16690))
+
+L. Peters, D. Fridovich-Keil, L. Ferranti, J. Alonso-Mora, and F. Laine, _Learning mixed strategies in trajectory games,_ in Robotics: Science and Systems, 2022
+
 D. R. Anthony, D. P. Nguyen, D. Fridovich-Keil, and J. F. Fisac, _Back to the future: Efficient, time-consistent solutions in reach-avoid games,_ in IEEE International Conference on Robotics and Automation (ICRA), 2022 ([pdf](http://arxiv.org/abs/2109.07673))
 
 F. Laine, D. Fridovich-Keil, C.-Y. Chiu, and C. Tomlin, _The computation of approximate generalized feedback nash equilibria,_ SIAM Journal on Optimization (under review), 2022 ([pdf](https://arxiv.org/pdf/2101.02900))
