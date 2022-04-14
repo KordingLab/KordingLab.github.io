@@ -9,12 +9,13 @@ For metrics and citations, please refer to David's [Google Scholar profile](http
 
 ### 2022
 
-J. Sun, S. Kousik, D. Fridovich-Keil, and M. Schwager, _Self-supervised traffic advisors: Distributed, multi-view traffic prediction for smart cities,_ in IEEE International Conference on Intelligent Trans-
-portation Systems (under review), 2022 ([pdf](https://arxiv.org/abs/2204.06171))
+J. Sun, S. Kousik, D. Fridovich-Keil, and M. Schwager, _Self-Supervised Traffic Advisors: Distributed, Multi-View Traffic Prediction for smart cities,_ in IEEE International Conference on Intelligent Transportation Systems (under review), 2022 ([pdf](https://arxiv.org/abs/2204.06171))
 
-C.-Y. Chiu and D. Fridovich-Keil, _GTP-SLAM: Game-theoretic priors for simultaneous localization and mapping in multi-agent scenarios,_ in IEEE Conference on Decision and Control (under review), 2022 ([pdf](https://arxiv.org/abs/2203.16690))
+C.-Y. Chiu and D. Fridovich-Keil, _GTP-SLAM: Game-Theoretic Priors for Simultaneous Localization and Mapping in Multi-Agent Scenarios_, IEEE Conference on Decision and Control (under review), 2022 ([pdf](https://arxiv.org/abs/2203.16690))
 
-L. Peters, D. Fridovich-Keil, L. Ferranti, J. Alonso-Mora, and F. Laine, _Learning mixed strategies in trajectory games,_ in Robotics: Science and Systems, 2022
+R. S. Thakkar, A. S. Samyal, D. Fridovich-Keil, Z. Xu, and U. Topcu, _Hierarchical Control for Multi-Agent Autonomous Racing_, Robotics and Automation Letters (under review), 2022 ([pdf](https://arxiv.org/pdf/2202.12861))
+
+L. Peters, D. Fridovich-Keil, L. Ferranti, J. Alonso-Mora, and F. Laine, _Learning Mixed Strategies in Trajectory Games,_ in Robotics: Science and Systems, 2022
 
 D. R. Anthony, D. P. Nguyen, D. Fridovich-Keil, and J. F. Fisac, _Back to the future: Efficient, time-consistent solutions in reach-avoid games,_ in IEEE International Conference on Robotics and Automation (ICRA), 2022 ([pdf](http://arxiv.org/abs/2109.07673))
 
