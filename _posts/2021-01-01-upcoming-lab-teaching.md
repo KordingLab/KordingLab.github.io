@@ -32,7 +32,7 @@ Please list below, topics you would like to learn more about (you may share your
 | Apr. 5 | | |
 | Apr. 12 |  | | 
 | Apr. 19 | Xiaowei Jiang | Biomarkers of EEG/fNIRS
-| Apr. 26 | Felipe | Candidacy Talk: Novel Applications of DL to Neuroethology
+| Apr. 26 | Felipe | Candidacy Talk: Neural Basis of Social Grooming in Primates
 
 
 ### Old lab teaching topics
