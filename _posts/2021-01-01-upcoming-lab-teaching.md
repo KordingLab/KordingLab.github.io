@@ -33,6 +33,8 @@ Please list below, topics you would like to learn more about (you may share your
 | Apr. 12 |  | | 
 | Apr. 19 | Xiaowei Jiang | Biomarkers of EEG/fNIRS
 | Apr. 26 | Felipe | Candidacy Talk: Neural Basis of Social Grooming in Primates
+| May. 03 | | |
+| May. 10 | Joey | TBD: But the interface of neuroscience and programming language theory :)
 
 
 ### Old lab teaching topics
