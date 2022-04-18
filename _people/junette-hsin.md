@@ -16,7 +16,5 @@ Anna Hiss Gym 2.204<br>
 2501 Wichita St,
 Austin, TX 78712 -->
 
-[Junette Hsin](https://www.linkedin.com/in/junette-hsin/) is an MS student at the University of Texas at Austin. Junette's research covers orbital mechanics, robotics, and estimation. 
-
-After graduating from UC Davis with a Bachelors in Aerospace and Mechanical Engineering, Junette worked for 4 years at Maxar Technologies (formerly Space Systems/Loral). She is currently still working there as a Dynamics and Controls Analyst for spacecraft while completing her Master's degree. 
+[Junette Hsin](https://www.linkedin.com/in/junette-hsin/) is an MS student at the University of Texas at Austin. Junette's research interests span orbital mechanics, robotics, Koopman operators, control theory, and estimation. After graduating from UC Davis with a Bachelors in Aerospace and Mechanical Engineering, Junette worked for 4 years at Maxar Technologies (formerly Space Systems/Loral). Her previous roles include Mass Properties Engineer and Flight Engineer in the Mission Control Center, and she is currently still working there as a Dynamics and Controls Analyst while completing her Master's degree. 
 
