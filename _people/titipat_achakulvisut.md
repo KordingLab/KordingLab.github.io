@@ -1,6 +1,6 @@
 ---
 name: Titipat Achakulvisut
-position: gradstudent
+position: alumni
 avatar: titipat_2.jpg
 twitter: titipat_a
 github: titipata
