@@ -1,6 +1,6 @@
 ---
 name: Jordan Lei
-position: gradstudent
+position: alumni
 avatar: jordan_lei.jpg
 twitter: 
 joined: 2020
