@@ -1,6 +1,6 @@
 ---
 name: Rachit Saluja
-position: researchstaff
+position: alumni
 avatar: rachit_saluja.jpg
 twitter:
 joined: 2018
