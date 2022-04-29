@@ -21,4 +21,4 @@ Originally from Buenos Aires, Argentina, Felipe studied Neuroscience and Economi
 
 ### Research Interests
 
-Felipe is conducting a co-rotation under Konrad Kording and Michael L. Platt on non-human primate tracking. His project largely involves attempting to define (and refine) methods that combine analysis of naturalistic, unrestrained behavior with measures of neural activity. He is also interested in applying machine learning techniques to understand how real and artificial brains can optimize behavior.
+Felipe is a PhD candidate in Neuroscience under Konrad Kording and Michael Platt. His work focus on the neural basis of social primate grooming and spends most of his time building deep learning-based tools to analyze natural primate behavior and wirelessly collected neural data. Felipe also studies how we can  use deep reinforcement learning approaches (imitation learning and inverse RL) to model animal strategies in social contexts.
