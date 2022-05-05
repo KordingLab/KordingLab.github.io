@@ -1,6 +1,6 @@
 ---
 name: Roozbeh Farhoodi
-position: postdoc
+position: alumni
 avatar: roozbeh_2.jpg
 twitter: https://twitter.com/aha_momentum
 joined: 2015
