@@ -14,7 +14,6 @@ joined: 2018
 <i class="fa fa-building"></i> 400B Richards <br>
 <i class="fa fa-bar-chart"></i> [google scholar](https://scholar.google.com/citations?user=R3yolm0AAAAJ&hl=en) <br>
  [Homepage](http://ilennaj.github.io) <br>
- [@IlennaJ](https://twitter.com/IlennaJ)
 
 <hr>
 
