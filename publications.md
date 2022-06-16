@@ -11,7 +11,7 @@ For metrics and citations, please refer to David's [Google Scholar profile](http
 
 R. S. Thakkar, A. S. Samyal, D. Fridovich-Keil, Z. Xu, and U. Topcu, _Hierarchical Control for Cooperative Teams in Competitive Autonomous Racing_, IEEE Transactions on Control Systems Technology (under review), 2022 ([pdf](https://arxiv.org/abs/2204.13070))
 
-J. Sun, S. Kousik, D. Fridovich-Keil, and M. Schwager, _Self-Supervised Traffic Advisors: Distributed, Multi-View Traffic Prediction for smart cities,_ in IEEE International Conference on Intelligent Transportation Systems (under review), 2022 ([pdf](https://arxiv.org/abs/2204.06171))
+J. Sun, S. Kousik, D. Fridovich-Keil, and M. Schwager, _Self-Supervised Traffic Advisors: Distributed, Multi-View Traffic Prediction for smart cities,_ in IEEE International Conference on Intelligent Transportation Systems, 2022 ([pdf](https://arxiv.org/abs/2204.06171))
 
 C.-Y. Chiu and D. Fridovich-Keil, _GTP-SLAM: Game-Theoretic Priors for Simultaneous Localization and Mapping in Multi-Agent Scenarios_, IEEE Conference on Decision and Control (under review), 2022 ([pdf](https://arxiv.org/abs/2203.16690))
 
