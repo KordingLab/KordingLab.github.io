@@ -38,6 +38,7 @@ Every week, more or less, we chat about current lab practices and sometimes vote
 Here are some cool people in fields that interest us. **note:** This list is in no way complete. We have a lot of collaborators -- if you've collaborated with us and want a link here, let us know!
 
 **University of Pennsylvania:**
+- [Michael Platt - Dept of Neuroscience](http://plattlabs.rocks/)
 - [David Issadore - Dept of Bioengineering](http://cnt.upenn.edu/david-issadore)
 - [Jay Gottfried - Dept of Neurology](http://labs.feinberg.northwestern.edu/gottfried/)
 - [Raquel and Ruben Gur - Dept of Neuropsychiatry](http://www.med.upenn.edu/bbl/faculty-regur.html)
