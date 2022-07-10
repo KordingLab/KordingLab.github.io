@@ -17,7 +17,7 @@ C.-Y. Chiu and D. Fridovich-Keil, _GTP-SLAM: Game-Theoretic Priors for Simultane
 
 R. S. Thakkar, A. S. Samyal, D. Fridovich-Keil, Z. Xu, and U. Topcu, _Hierarchical Control for Multi-Agent Autonomous Racing_, IEEE/RSJ International Conference on Intelligent Robotics and Systems (under review), 2022 ([pdf](https://arxiv.org/pdf/2202.12861))
 
-L. Peters, D. Fridovich-Keil, L. Ferranti, C. Stachniss, J. Alonso-Mora, and F. Laine, _Learning Mixed Strategies in Trajectory Games,_ in Robotics: Science and Systems, 2022 ([pdf](https://arxiv.org/abs/2205.00291), [website](https://lasse-peters.net/pub/lifted-games/))
+L. Peters, D. Fridovich-Keil, L. Ferranti, C. Stachniss, J. Alonso-Mora, and F. Laine, _Learning Mixed Strategies in Trajectory Games,_ in Robotics: Science and Systems, 2022 ([pdf](https://arxiv.org/abs/2205.00291), [website](https://lasse-peters.net/pub/lifted-games/), [talk](https://youtu.be/gT52cKH9pvg))
 
 D. R. Anthony, D. P. Nguyen, D. Fridovich-Keil, and J. F. Fisac, _Back to the future: Efficient, time-consistent solutions in reach-avoid games,_ in IEEE International Conference on Robotics and Automation (ICRA), 2022 ([pdf](http://arxiv.org/abs/2109.07673))
 
