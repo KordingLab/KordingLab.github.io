@@ -9,13 +9,15 @@ For metrics and citations, please refer to David's [Google Scholar profile](http
 
 ### 2022
 
+M. O. Karabag, D. Fridovich-Keil, and U. Topcu, _Alternating direction method of multipliers for decomposable saddle-point problems,_ in 2022 58th Annual Allerton Conference on Communication, Control, and Computing (under review), IEEE, 2022
+
+Y. Yue, J. Salfity, D. Fridovich-Keil, and U. Topcu, _Inverse matrix games with unique nash equilibrium,_ IEEE Control Systems Letters (under review), 2022 ([pdf](https://arxiv.org/abs/2207.08275), [video](https://www.youtube.com/watch?v=EvtPp_DWqgU))
+
 R. S. Thakkar, A. S. Samyal, D. Fridovich-Keil, Z. Xu, and U. Topcu, _Hierarchical Control for Cooperative Teams in Competitive Autonomous Racing_, IEEE Transactions on Control Systems Technology (under review), 2022 ([pdf](https://arxiv.org/abs/2204.13070))
 
 J. Sun, S. Kousik, D. Fridovich-Keil, and M. Schwager, _Self-Supervised Traffic Advisors: Distributed, Multi-View Traffic Prediction for smart cities,_ in IEEE International Conference on Intelligent Transportation Systems, 2022 ([pdf](https://arxiv.org/abs/2204.06171))
 
-C.-Y. Chiu and D. Fridovich-Keil, _GTP-SLAM: Game-Theoretic Priors for Simultaneous Localization and Mapping in Multi-Agent Scenarios_, IEEE Conference on Decision and Control (under review), 2022 ([pdf](https://arxiv.org/abs/2203.16690))
-
-R. S. Thakkar, A. S. Samyal, D. Fridovich-Keil, Z. Xu, and U. Topcu, _Hierarchical Control for Multi-Agent Autonomous Racing_, IEEE/RSJ International Conference on Intelligent Robotics and Systems (under review), 2022 ([pdf](https://arxiv.org/pdf/2202.12861))
+C.-Y. Chiu and D. Fridovich-Keil, _GTP-SLAM: Game-Theoretic Priors for Simultaneous Localization and Mapping in Multi-Agent Scenarios_, IEEE Conference on Decision and Control, 2022 ([pdf](https://arxiv.org/abs/2203.16690))
 
 L. Peters, D. Fridovich-Keil, L. Ferranti, C. Stachniss, J. Alonso-Mora, and F. Laine, _Learning Mixed Strategies in Trajectory Games,_ in Robotics: Science and Systems, 2022 ([pdf](https://arxiv.org/abs/2205.00291), [website](https://lasse-peters.net/pub/lifted-games/), [talk](https://youtu.be/gT52cKH9pvg))
 
