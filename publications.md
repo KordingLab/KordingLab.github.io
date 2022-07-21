@@ -11,7 +11,9 @@ For metrics and citations, please refer to David's [Google Scholar profile](http
 
 M. O. Karabag, D. Fridovich-Keil, and U. Topcu, _Alternating direction method of multipliers for decomposable saddle-point problems,_ in 2022 58th Annual Allerton Conference on Communication, Control, and Computing (under review), IEEE, 2022
 
-Y. Yue, J. Salfity, D. Fridovich-Keil, and U. Topcu, _Inverse matrix games with unique nash equilibrium,_ IEEE Control Systems Letters (under review), 2022 ([pdf](https://arxiv.org/abs/2207.08275), [video](https://www.youtube.com/watch?v=EvtPp_DWqgU))
+Y. Yue, J. Salfity, D. Fridovich-Keil, and U. Topcu, _Inverse matrix games with unique Nash equilibrium,_ IEEE Control Systems Letters (under review), 2022 ([pdf](https://arxiv.org/abs/2207.08275), [video](https://www.youtube.com/watch?v=EvtPp_DWqgU))
+
+S. Chen, Y. E. Bayiz, D. Fridovich-Keil, Y. Yue, and U. Topcu, _Relationship Design for Socially Desirable Behavior in Static Games,_ IEEE Transactions on Automatic Control (under review), 2022 ([pdf](https://arxiv.org/abs/2207.06392))
 
 R. S. Thakkar, A. S. Samyal, D. Fridovich-Keil, Z. Xu, and U. Topcu, _Hierarchical Control for Cooperative Teams in Competitive Autonomous Racing_, IEEE Transactions on Control Systems Technology (under review), 2022 ([pdf](https://arxiv.org/abs/2204.13070))
 
