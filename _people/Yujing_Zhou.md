@@ -1,6 +1,6 @@
 ---
 name: Bryant Zhou
-position: gradstudent
+position: alumni
 avatar: bryant_zhou.jpg
 ---
 
@@ -11,6 +11,6 @@ avatar: bryant_zhou.jpg
 <i class="fa fa-envelope-o"></i> `yz009@utexas.edu`<br>
 <i class="fa fa-newspaper-o"></i> [CV](/documents/Bryant_CV.pdf)
 
-[Bryant Zhou](https://www.linkedin.com/in/yujing-zhou-938962151) is a Master's student at the University of Texas at Austin in the Mechanical Engineering department. Bryant is co-advised by Prof. David Fridovich-Keil and Prof. Takashi Tanaka. Bryant's research interests include robotics, data-driven control, learning for control, control theory, and game theory. His motivations stem from the goal to achieve safety guaranteed autonomous systems. 
+[Bryant Zhou](https://www.linkedin.com/in/yujing-zhou-938962151) is a Master's student at the University of Texas at Austin in the Mechanical Engineering department. Bryant is co-advised by Prof. David Fridovich-Keil and Prof. Takashi Tanaka. Bryant's research interests include robotics, data-driven control, learning for control, control theory, and game theory. His motivations stem from the goal to achieve safety guaranteed autonomous systems.
 
 Prior to working with David, Bryant worked on ground vehicle dynamics and control, lane detection and following, and electric motor speed control for a year at UT. Bryant completed his undergraduate degree in Mechanical Engineering at Bucknell University in Pennsylvania.
