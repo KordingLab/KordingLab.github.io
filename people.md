@@ -56,8 +56,8 @@ permalink: /people/
 
 <br>
 
-<!-- | Who are they | When were they here | Where they went | -->
-<!-- | :------------- |:-------------| :-----------| -->
+| Who are they | When were they here | Where they went |
+| :------------- |:-------------| :-----------|
 | [Bryant Zhou](https://www.linkedin.com/in/yujing-zhou-938962151) | MS in ME (2021 - 2022) | PhD student in MAE at Princeton |
 
 {% endif %}
