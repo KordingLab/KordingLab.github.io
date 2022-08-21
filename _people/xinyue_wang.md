@@ -10,17 +10,17 @@ joined: 2021
 
 ### About Me
 
-Hi! I am a master graduate student in the Department of Bioengineering at University of Pennsylvania, advised by Konrad Kording.
+Hi! I am a master graduate student in the Department of Bioengineering at University of Pennsylvania, doing independent study and thesis advised by Konrad Kording.
 <hr>
 
 ### Research Interests
 
-Currently, I am insterested in Causal Discovery, Causal Machine Learning and Machine Learning Application in Biomedical Informatics. Prior to Penn, 
+Currently, I am interested in Causal Discovery, Causal Representation Learning and Machine Learning Application in Biomedical Engineering. Prior to Penn, 
 I was doing research about Brain Computer Interface, mainly in Phase Locked Neural Feedback System development. Besides, I am a data science enthusiast, 
-have won multiple medals on Kaggle.
+who is often active on Kaggle in spare time!
 <hr>
 
 ### Contact
-<i class="fa fa-wordpress" /> [Home](https://www.charonwangg.com/) <br />
-<i class="fa fa-kaggle" /> [Kaggle](https://www.kaggle.com/charonwangg) <br />
+[Home](https://www.charonwangg.com/) <br />
+[Kaggle](https://www.kaggle.com/charonwangg) <br />
 <i class="fa fa-envelope-o"></i>  `wsinyue@seas.upenn.edu`<br>
