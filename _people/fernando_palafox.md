@@ -1,7 +1,7 @@
 ---
 name: Fernando Palafox
 position: gradstudent
-avatar: fernando_palafox.jpeg
+avatar: fernando_palafox.jpg
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
@@ -18,4 +18,4 @@ Austin, TX 78712
 
 [Fernando Palafox](www.linkedin.com/in/fernando-palafox) is a PhD student at the University of Texas at Austin. Fernando is interested in understanding multi-agent autonomous systems through the lens of controls, game theory, and artificial intelligence.  
 
-Fernando holds a BS and MS in Aerospace Engineering from the University of Colorado Boulder. Outside of research, he is a competetive cyclist and enjoys photography.  
+Fernando holds a BS and MS in Aerospace Engineering from the University of Colorado Boulder. Outside of research, he is a competitive cyclist and enjoys photography.  
