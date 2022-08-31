@@ -9,7 +9,7 @@ avatar: fernando_palafox.jpeg
 - _PhD Student, Aerospace Engineering, UT Austin_<br>
 
 <i class="fa fa-envelope-o"></i> `fernandopalafox@utexas.edu`<br>
-<i class="fa fa-newspaper-o"></i> [Resume (pdf)](/documents/fp_resume.pdf)
+<i class="fa fa-newspaper-o"></i> [CV (pdf)](/documents/fp_resume.pdf)
 
 **Office**<br>
 Anna Hiss Gym 2.204<br>
