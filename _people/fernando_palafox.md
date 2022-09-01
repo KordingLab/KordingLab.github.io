@@ -16,6 +16,6 @@ Anna Hiss Gym 2.204<br>
 2501 Wichita St,
 Austin, TX 78712
 
-[Fernando Palafox](www.linkedin.com/in/fernando-palafox) is a PhD student at the University of Texas at Austin. Fernando is interested in understanding multi-agent autonomous systems through the lens of controls, game theory, and artificial intelligence.  
+[Fernando Palafox](https://www.linkedin.com/in/fernando-palafox/) is a PhD student at the University of Texas at Austin. Fernando is interested in understanding multi-agent autonomous systems through the lens of controls, game theory, and artificial intelligence.  
 
 Fernando holds a BS and MS in Aerospace Engineering from the University of Colorado Boulder. Outside of research, he is a competitive cyclist and enjoys photography.  
