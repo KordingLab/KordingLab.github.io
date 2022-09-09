@@ -12,7 +12,23 @@ Get on the listserv for announcements: https://groups.google.com/forum/#!forum/k
 
 Please list below, topics you would like to learn more about (you may share your name or not, up to you):
 
+### Fall 2022
 
+
+| Date    | Name | Topic |
+|---------|------|-------|
+| Sep. 16 |      |       |
+| Sep. 23 |      |       |
+| Sep. 30 |      |       |
+| Oct. 7  |      |       |
+| Oct. 14 |      |       |
+| Oct. 21 |      |       |
+| Oct. 28 |      |       |
+| Nov. 4  |      |       |
+| Nov. 11 |      |       |
+| Nov. 18 |      |       |
+| Dec. 2  |      |       |
+| Dec. 9  |      |       |
 
 ### Spring 2022
 
