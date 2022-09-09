@@ -20,7 +20,7 @@ Please list below, topics you would like to learn more about (you may share your
 | Sep. 16 |      |       |
 | Sep. 23 |      |       |
 | Sep. 30 |      |       |
-| Oct. 7  |      |       |
+| Oct. 7  | Fall break | ? |
 | Oct. 14 |      |       |
 | Oct. 21 |      |       |
 | Oct. 28 |      |       |
