@@ -118,7 +118,7 @@ def print_markdown(paper_dict):
         ))
 
 if __name__ == "__main__":
-    konrad_profile_url = "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=MiFqJGcAAAAJ&sortby=pubdate"
+    konrad_profile_url = "https://scholar.google.com/citations?hl=en&user=MiFqJGcAAAAJ&view_op=list_works&sortby=pubdate"
     session = HTMLSession()
     citation_links = get_citation_links(session, konrad_profile_url)
 
