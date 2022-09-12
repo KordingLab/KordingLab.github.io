@@ -18,7 +18,7 @@ Please list below, topics you would like to learn more about (you may share your
 | Date    | Name | Topic |
 |---------|------|-------|
 | Sep. 16 | Ilenna Jones | sequential Monte Carlo / Particle Filtering (and other things I learned at summer school) |
-| Sep. 23 |      |       |
+| Sep. 23 | Justin Brantley | What I learned about writing/figures after getting my a$$ kicked by Brett Mensh |
 | Sep. 30 |      |       |
 | Oct. 7  | Fall break | ? |
 | Oct. 14 |      |       |
