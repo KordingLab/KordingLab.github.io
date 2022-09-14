@@ -85,10 +85,6 @@ _For love of neuroscience: The Neuromatch movement_<br>
 Konrad Paul Kording<br>
 Neuron, 2021 ([Article](https://upenn.alma.exlibrisgroup.com/discovery/openurl?institution=01UPENN_INST&vid=01UPENN_INST:Services&=?sid=google&auinit=KP&aulast=Kording&atitle=For+love+of+neuroscience:+The+Neuromatch+movement&id=doi:10.1016/j.neuron.2021.07.021&title=Neuron.&volume=109&issue=19&date=2021&spage=3034&issn=0896-6273))
 
-(py37) tliu@quadcorn:scripts$ python citations.py 
-/home/tliu/.conda/envs/py37/lib/python3.7/site-packages/requests/__init__.py:91: RequestsDependencyWarning: urllib3 (1.26.12) or chardet (3.0.4) doesn't match a supported version!
-  RequestsDependencyWarning)
-
 _Neural Networks as Paths through the Space of Representations_<br>
 Richard D Lange, Jordan Matelsky, Xinyue Wang, Devin Kwok, David S Rolnick, Konrad P Kording<br>
 arXiv preprint arXiv:2206.10999, 2022 ([Article](https://arxiv.org/pdf/2206.10999))
