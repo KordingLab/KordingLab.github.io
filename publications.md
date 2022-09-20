@@ -13,7 +13,7 @@ S. Agarwal, D. Fridovich-Keil, and S. Chinchali, _Robust Forecasting for Robotic
 
 M. O. Karabag, D. Fridovich-Keil, and U. Topcu, _Alternating direction method of multipliers for decomposable saddle-point problems,_ in 2022 58th Annual Allerton Conference on Communication, Control, and Computing, IEEE, 2022 [pdf](https://arxiv.org/pdf/2209.04536.pdf)
 
-Y. Yue, J. Salfity, D. Fridovich-Keil, and U. Topcu, _Inverse matrix games with unique Nash equilibrium,_ IEEE Control Systems Letters (under review), 2022 ([pdf](https://arxiv.org/abs/2207.08275), [video](https://www.youtube.com/watch?v=EvtPp_DWqgU))
+Y. Yue, J. Salfity, D. Fridovich-Keil, and U. Topcu, _Inverse matrix games with unique quantal response equilibrium,_ IEEE Control Systems Letters (under review), 2022 ([pdf](https://arxiv.org/abs/2207.08275), [video](https://www.youtube.com/watch?v=EvtPp_DWqgU))
 
 S. Chen, Y. E. Bayiz, D. Fridovich-Keil, Y. Yue, and U. Topcu, _Relationship Design for Socially Desirable Behavior in Static Games,_ IEEE Transactions on Automatic Control (under review), 2022 ([pdf](https://arxiv.org/abs/2207.06392))
 
