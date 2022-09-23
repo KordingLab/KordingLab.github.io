@@ -26,7 +26,7 @@ Please list below, topics you would like to learn more about (you may share your
 | Oct. 28 |      |       |
 | Nov. 4  |      |       |
 | Nov. 11 |      |       |
-| Nov. 18 |      |       |
+| Nov. 18 | Tony | Influence functions (?) |
 | Dec. 2  |      |       |
 | Dec. 9  |      |       |
 
