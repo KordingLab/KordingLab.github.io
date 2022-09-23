@@ -9,7 +9,7 @@ For metrics and citations, please refer to David's [Google Scholar profile](http
 
 ### 2022
 
-S. Agarwal, D. Fridovich-Keil, and S. Chinchali, _Robust Forecasting for Robotic Control: A Game-Theoretic Approach_, in IEEE International Conference on Robotics and Automation (under review), 2023
+S. Agarwal, D. Fridovich-Keil, and S. Chinchali, _Robust Forecasting for Robotic Control: A Game-Theoretic Approach_, in IEEE International Conference on Robotics and Automation (under review), 2023 [pdf](https://arxiv.org/abs/2209.10802)
 
 M. O. Karabag, D. Fridovich-Keil, and U. Topcu, _Alternating direction method of multipliers for decomposable saddle-point problems,_ in 2022 58th Annual Allerton Conference on Communication, Control, and Computing, IEEE, 2022 [pdf](https://arxiv.org/pdf/2209.04536.pdf)
 
