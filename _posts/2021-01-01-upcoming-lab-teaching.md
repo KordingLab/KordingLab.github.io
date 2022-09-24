@@ -24,7 +24,7 @@ Please list below, topics you would like to learn more about (you may share your
 | Oct. 14 |      |       |
 | Oct. 21 |      |       |
 | Oct. 28 |      |       |
-| Nov. 4  |      |       |
+| Nov. 4  | Felipe | MacTrack + OT review |
 | Nov. 11 |      |       |
 | Nov. 18 | Tony | Influence functions (?) |
 | Dec. 2  |      |       |
