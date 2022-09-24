@@ -1,7 +1,7 @@
 
 # Upcoming lab teachings
 
-Every Tuesday, we get together (over pizza, sometimes) for lab teachings.
+Every Friday at 2:30pm, we get together (over pizza, sometimes) for lab teachings.
 On a rotating basis, each member of the lab speaks and teaches about something they know.
 Anything, really. Relevant and interesting topics, good skills to know, nice Python packages,
 neuroscientific princples, new findings and literature reviews... whatever!
