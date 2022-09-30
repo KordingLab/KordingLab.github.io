@@ -19,16 +19,16 @@ Please list below, topics you would like to learn more about (you may share your
 |---------|------|-------|
 | Sep. 16 | Ilenna Jones | sequential Monte Carlo / Particle Filtering (and other things I learned at summer school) |
 | Sep. 23 | Justin Brantley | What I learned about writing/figures after getting my a$$ kicked by Brett Mensh |
-| Sep. 30 | group | busy-ness |
-| Oct. 7  | David Barack | ? |
-| Oct. 14 | Gene | ? |
-| Oct. 21 | Ben Baker |       |
-| Oct. 28 | Jordan |       |
+| Sep. 30 | Joey R | Decoding & Optimizing Episodic Memory |
+| Oct. 7  | David Barack | The New Central Executive |
+| Oct. 14 | Gene | ... |
+| Oct. 21 | Ben Baker | ... |
+| Oct. 28 | Jordan | ... |
 | Nov. 4  | Felipe | MacTrack + OT review |
-| Nov. 11 | Richard |       |
+| Nov. 11 | Richard | ... |
 | Nov. 18 | Tony | Influence functions (?) |
-| Dec. 2  | Joey 1 |       |
-| Dec. 9  |      |       |
+| Dec. 2  | Joey G | ... |
+| Dec. 9  | up for grabs! |       |
 
 ### Spring 2022
 
