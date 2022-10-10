@@ -11,7 +11,7 @@ For metrics and citations, please refer to David's [Google Scholar profile](http
 
 P. Washington, D. Fridovich-Keil, and M. Schwager, _GrAVITree: Graph-based Approximate Value Function In a Tree_, in American Control Conference (under review), 2023
 
-Y. Yu, S. Chen, D. Fridovich-Keil, and U. Topcu, _Cost Design in Atomic Routing Games_, in American Control Conference (under review), 2023
+Y. Yu, S. Chen, D. Fridovich-Keil, and U. Topcu, _Cost Design in Atomic Routing Games_, in American Control Conference (under review), 2023 [pdf](https://arxiv.org/pdf/2210.01221)
 
 A. Patil, Y. Zhou, D. Fridovich-Keil, and T. Tanaka, _Risk-Minimizing Two-Player Zero-Sum Stochastic Differential Game via Path Integral Control_, in American Control Conference (under review), 2023
 
