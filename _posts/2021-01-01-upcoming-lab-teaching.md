@@ -12,6 +12,9 @@ Get on the listserv for announcements: https://groups.google.com/forum/#!forum/k
 
 Please list below, topics you would like to learn more about (you may share your name or not, up to you):
 
+* cloud computing
+* current state of deep reinforcement learning, control, robotics, and all that
+
 ### Fall 2022
 
 
