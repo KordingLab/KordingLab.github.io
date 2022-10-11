@@ -28,7 +28,7 @@ Please list below, topics you would like to learn more about (you may share your
 | Oct. 14 | Gene | ... |
 | Oct. 21 | Ben Baker | ... |
 | Oct. 28 | Jordan | ... |
-| Nov. 4  | Felipe | MacTrack + OT review |
+| Nov. 4  | Felipe | ... |
 | Nov. 11 | Richard | ... |
 | Nov. 18 | Tony | Influence functions (?) |
 | Dec. 2  | Joey G | ... |
