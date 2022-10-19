@@ -27,7 +27,7 @@ Please list below, topics you would like to learn more about (you may share your
 | Oct. 7  | David Barack | The New Central Executive |
 | Oct. 14 | Gene | ... |
 | Oct. 21 | Ben Baker | ... |
-| Oct. 28 | Jordan | ... |
+| Oct. 28 | Jordan | Using Docker for reproducible science |
 | Nov. 4  | Felipe | ... |
 | Nov. 11 | Richard | ... |
 | Nov. 18 | Tony | Influence functions (?) |
