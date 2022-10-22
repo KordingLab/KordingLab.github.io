@@ -6,7 +6,7 @@ avatar: junette_hsin.jpg
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-- _MS Student, Mechanical Engineering, UT Austin_<br>
+- _MS Student, Aerospace Engineering, UT Austin_<br>
 
 <i class="fa fa-envelope-o"></i> `jhsin@utexas.edu`<br>
 <i class="fa fa-newspaper-o"></i> [CV (pdf)](/documents/JunetteHsinCV.pdf)
