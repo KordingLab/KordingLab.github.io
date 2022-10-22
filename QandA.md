@@ -9,21 +9,21 @@ This Q&A is divided into 4 main categories: Research, Advisor, Funding, and Lab 
 
 ### Research
 
-**When working on new ideas, how do you know when it looks like a dead end, and how do you determine that?** 
+**What kind of progress do you expect from me?**
 
-I think the secret is to just have multiple projects going on at any one time. Your first project is usually going to be something that I help suggest… and therefore it'll almost certainly be "low risk" from a technical perspective. In future, you should have multiple of "your own" things going on at once so that you can bounce between them as you feel one of them hitting a snag, then come back when you want to.
+Once you have (essentially) finished courses in your second year, you should be able to spend full cycles on research.
 
 **How many papers you expect from your students? What is the typical lifecycle of a project/paper?**
 
 1-2 a year is a decent number. You should be able to hit that with absolutely no problem by your third year. More is better, if they are high quality. It is worse if they are getting in the way of you being able to think deeply about more significant research problems. 
 
-**What kind of progress do you expect from me?**
-
-Once you have (essentially) finished courses in your second year, you should be able to spend full cycles on research.
-
 **What kind of projects do you see me working on?**
 
 I want them to be mostly coming from you, and adapted based on our discussions. But you will be the driver. I hope that your projects will teach me!
+
+**When working on new ideas, how do you know when it looks like a dead end, and how do you determine that?** 
+
+I think the secret is to just have multiple projects going on at any one time. Your first project is usually going to be something that I help suggest… and therefore it'll almost certainly be "low risk" from a technical perspective. In future, you should have multiple of "your own" things going on at once so that you can bounce between them as you feel one of them hitting a snag, then come back when you want to.
 
 **How do you stay motivated and disciplined?**
 
