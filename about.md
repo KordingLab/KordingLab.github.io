@@ -19,4 +19,5 @@ Our group started in August 2021. Visit our [people page](https://clearoboticsla
 
 ### Q&A 
 
-Visit the [Q&A](https://clearoboticslab.github.io/QandA/) page to learn more about what research is like in our lab. 
+Visit the [Q&A]({% link QandA.md %}) page to learn more about what research is like in our lab. 
+

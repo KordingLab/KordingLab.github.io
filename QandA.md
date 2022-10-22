@@ -1,5 +1,6 @@
 ---
 title: Q&A
+permalink: /QandA/
 ---
 
 ### Questions and Answers for Graduate Students
