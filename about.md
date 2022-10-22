@@ -15,7 +15,7 @@ Some of our lab's core research interests are:
 
 ### Lab Members
 
-Our group started in August 2021. Visit our [people page](https://clearoboticslab.github.io/people/) for profiles of lab members.
+Our group started in August 2021. Visit our [people page]({% link people.md %}) for profiles of lab members.
 
 ### Q&A 
 
