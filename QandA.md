@@ -35,7 +35,7 @@ Keep a normal 8-5 schedule. Don't work too hard on the weekend (maybe just 4 hrs
 
 **What do you do when students are struggling? How do you know when to step in and help more vs. letting the student figure it out?**
 
-I air on the side of letting students figure things out themselves, with only minimal technical pointers from me. A PhD is not about being taught by an advisor, at least not in the sense of learning lots of technical details from him/her. It's about being "advised** to investigate interesting questions, and learning to find the resources and technical capabilities you need to figure them out. An advisor can help point, but is not the person who teaches those capabilities, at least not most of the time.
+I air on the side of letting students figure things out themselves, with only minimal technical pointers from me. A PhD is not about being taught by an advisor, at least not in the sense of learning lots of technical details from him/her. It's about being *advised* to investigate interesting questions, and learning to find the resources and technical capabilities you need to figure them out. An advisor can help point, but is not the person who teaches those capabilities, at least not most of the time.
 
 Put another way: if a student will always be struggling without their advisor's support, then the advisor has failed to train a self-reliant student who will be capable of success in the future. You are in charge of your own education, and I expect students to take charge!
 
@@ -51,7 +51,7 @@ It varies from project to project, and should be organic in my opinion. People s
 
 With difficulty and much grant writing. Also, I expect every student to TA at least two semesters during the PhD. This will vary depending upon funding needs, but TAing is a really important educational experience and provides a great way to practice technical communication. I found it essential as a graduate student.
 
-**What do you see me doing during summer? internships?**
+**What do you see me doing during summer? Internships?**
 
 Whatever you want, for the most part. There is a small chance I might prefer you to intern certain summers if I am short $$. The sooner we talk about things the better.
 
