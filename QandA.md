@@ -57,7 +57,7 @@ It varies from project to project, and should be organic in my opinion. People s
 
 With difficulty and much grant writing. Also, I expect every student to TA at least two semesters during the PhD. This will vary depending upon funding needs, but TAing is a really important educational experience and provides a great way to practice technical communication. I found it essential as a graduate student.
 
-**What do you see me doing during summer? internships?**
+**What do you see me doing during summer? Internships?**
 
 Whatever you want, for the most part. There is a small chance I might prefer you to intern certain summers if I am short $$. The sooner we talk about things the better.
 
