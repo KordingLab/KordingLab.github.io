@@ -75,7 +75,7 @@ Yes, the source will definitely change. I will do my best to make sure it does n
 
 **Should I apply for fellowships?**
 
-If you are eligible and have good grades, yes. A (partial) list of fellowships is: [NSF GRFP](https://www.nsfgrfp.org/), [NASA NSTGRO](https://www.nasa.gov/directorates/spacetech/strg/nstgro), [DOD NDSEG](https://ndseg.sysplus.com/), [DOD SMART](https://www.smartscholarship.org/smart), [Hertz](https://www.hertzfoundation.org/the-fellowship/), [Siebel](https://www.siebelscholars.com/), [Microsoft](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/), [Google](https://research.google/outreach/phd-fellowship/), [NVIDIA](https://www.nvidia.com/en-us/research/graduate-fellowships/), [Apple](https://machinelearning.apple.com/updates/introducing-apple-scholars-aiml).
+If you are eligible and have good grades, yes. A (partial) list of fellowships is: [NSF GRFP](https://www.nsfgrfp.org/), [NASA NSTGRO](https://www.nasa.gov/directorates/spacetech/strg/nstgro), [DOD NDSEG](https://ndseg.sysplus.com/), [DOD SMART](https://www.smartscholarship.org/smart), [Hertz](https://www.hertzfoundation.org/the-fellowship/), [Siebel](https://www.siebelscholars.com/), [Microsoft](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/), [Google](https://research.google/outreach/phd-fellowship/), [NVIDIA](https://www.nvidia.com/en-us/research/graduate-fellowships/), [Apple](https://machinelearning.apple.com/updates/introducing-apple-scholars-aiml). For a more comprehensive list, you can check out the one maintained by [CMU](https://www.cs.cmu.edu/~gradfellowships/).
 
 ### Lab Culture
 
