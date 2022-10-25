@@ -15,6 +15,8 @@ You are in the driver's seat here, so at the end of the day it's up to you! That
 
 Note that I have very explicitly _not_ recommended that you jump right into a course on machine learning or reinforcement learning. My experience is that taking these courses before nailing down your fundamentals in optimization and control theory can be inefficient. If you are interested in these topics, I certainly encourage you to take courses on them, but you will get more out of those courses if you are already familiar with the fundamentals. Walk before you run.
 
+Besides classes, there are a lot of other really great resources out there you should be familiar with. Some particular favorites of mine: [the matrix cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf), [MIT OpenCourseWare](https://ocw.mit.edu), [5 minutes with Cyrill](https://www.ipb.uni-bonn.de/5min/).
+
 **What kind of progress do you expect from me?**
 
 Once you have (essentially) finished courses in your second year, you should be able to spend full cycles on research. _In your first year_, I expect that you will focus on taking classes, building your ability to read and present academic papers, and start to get your feet wet with research by working on an existing (or new!) research project in the lab. The first year will look different for different people, but the bottom line is that I expect that, by the end of your first year, you should have mastered most of the essential skills you need to engage with research and passed your written qualifying exam. A good goal for all first year students is to think about submitting a conference paper in the fall of second year.
@@ -47,7 +49,7 @@ Put another way: if a student will always be struggling without their advisor's 
 
 **How do you approach the writing process with students?**
 
-Communication is probably the most important part of science and engineering. I expect students to develop excellent communication skills, both in writing and in speaking. I will happily look at drafts and give feedback, but you need to be proactive in writing early, soliciting feedback, revising, and repeating the loop as much as needed until you have a manuscript you are proud of. Please consult the [lab writing guide](https://github.com/CLeARoboticsLab/resources/blob/main/CLeAR_lab_writing_guide.pdf) for more details.
+Communication is probably the most important part of science and engineering. I expect students to develop excellent communication skills, both in writing and in speaking. I will happily look at drafts and give feedback, but you need to be proactive in writing early, soliciting feedback, revising, and repeating the loop as much as needed until you have a manuscript you are proud of. Please consult the [lab writing guide](https://github.com/CLeARoboticsLab/resources/blob/main/CLeAR_lab_writing_guide.pdf) for more details. For advice on giving talks, I strongly recommend watching [Talks that Don't Suck](https://www.youtube.com/watch?v=Rfo5dFD3DLQ) from Cyrill Stachniss.
 
 **For collaborative projects, what is the expected level of contribution from everyone for the collaboration to work?**
 
@@ -73,7 +75,7 @@ Yes, the source will definitely change. I will do my best to make sure it does n
 
 **Should I apply for fellowships?**
 
-If you are eligible and have good grades, yes.
+If you are eligible and have good grades, yes. A (partial) list of fellowships is: [NSF GRFP](https://www.nsfgrfp.org/), [NASA NSTGRO](https://www.nasa.gov/directorates/spacetech/strg/nstgro), [DOD NDSEG](https://ndseg.sysplus.com/), [DOD SMART](https://www.smartscholarship.org/smart), [Hertz](https://www.hertzfoundation.org/the-fellowship/), [Siebel](https://www.siebelscholars.com/), [Microsoft](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/), [Google](https://research.google/outreach/phd-fellowship/), [NVIDIA](https://www.nvidia.com/en-us/research/graduate-fellowships/), [Apple](https://machinelearning.apple.com/updates/introducing-apple-scholars-aiml).
 
 ### Lab Culture
 
