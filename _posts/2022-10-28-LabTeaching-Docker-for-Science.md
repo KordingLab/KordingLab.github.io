@@ -1,11 +1,11 @@
 ---
 title: 'Lab Teaching: Docker 101 for reproducible science'
 description: Using Docker for a reproducible and reusable data science workflow
-categories: discussion
+categories: newblog
 ---
 
-
 # Docker 101 for Reproducible Science
+*By [Jordan Matelsky](https://twitter.com/j6m8)*
 
 > See the video version of this Lab Teaching [on YouTube](https://www.youtube.com/watch?v=fs1ko2UNVOo).
 
