@@ -1,19 +1,13 @@
 ---
-title: Lab Teaching: Docker 101 for reproducible science
+title: 'Lab Teaching: Docker 101 for reproducible science'
 description: Using Docker for a reproducible and reusable data science workflow
-categories:
-  - labteaching
-  - docker
-  - compute
-  - data-science
+categories: discussion
 ---
 
 
-See the video version of this Lab Teaching [on YouTube](https://www.youtube.com/watch?v=fs1ko2UNVOo).
+# Docker 101 for Reproducible Science
 
-----
-
-# Docker for Research
+> See the video version of this Lab Teaching [on YouTube](https://www.youtube.com/watch?v=fs1ko2UNVOo).
 
 > A brief note — I will use the term "Docker" to refer to a container management system, even though Docker is not the only one. I will use the term "container" to refer to a running instance of a Docker image.
 
