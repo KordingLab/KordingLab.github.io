@@ -27,7 +27,7 @@ Please list below, topics you would like to learn more about (you may share your
 | Oct. 7  | David Barack | The New Central Executive |
 | Oct. 14 | Gene | Gradio and Streamlit for making online interfaces to your models |
 | Oct. 21 | n/a | time for 1:1s |
-| Oct. 28 | Jordan | Using Docker for reproducible science |
+| Oct. 28 | Jordan | [Docker 101 for reproducible science](https://www.youtube.com/watch?v=fs1ko2UNVOo) |
 | Nov. 4  | Felipe | Building a face ID app for monkeys |
 | Nov. 11 | Richard | Neural networks and kernels (NTK and all that jazz) |
 | Nov. 18 | Tony | Influence functions (?) |
