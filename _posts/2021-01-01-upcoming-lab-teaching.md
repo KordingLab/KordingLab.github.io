@@ -14,7 +14,6 @@ Please list below, topics you would like to learn more about (you may share your
 
 * cloud computing
 * current state of deep reinforcement learning, control, robotics, and all that
-* the neural tangent kernel
 
 ### Fall 2022
 
