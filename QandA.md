@@ -37,7 +37,7 @@ I think the secret is to just have multiple projects going on at any one time. Y
 
 **How do you recommend that students stay motivated and disciplined?**
 
-Keep a normal 8-5 schedule. Don't work too hard on the weekend (maybe just 4 hrs on a typical weekend once you have finished taking all your classes and are in "research-only" mode**. Make sure you have multiple projects, with multiple different collaborators. That helps keep things exciting.
+Keep a normal 8-5 schedule. Don't work too hard on the weekend (maybe just 4 hrs on a typical weekend once you have finished taking all your classes and are in "research-only" mode. Make sure you have multiple projects, with multiple different collaborators. That helps keep things exciting.
 
 **How do you recommend balancing research with other commitments such as classes, teaching, and quals?**
 
