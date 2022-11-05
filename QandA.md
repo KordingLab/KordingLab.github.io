@@ -35,9 +35,17 @@ I want them to be mostly coming from you, and adapted based on our discussions. 
 
 I think the secret is to just have multiple projects going on at any one time. Your first project is usually going to be something that I help suggest… and therefore it'll almost certainly be "low risk" from a technical perspective. In future, you should have multiple of "your own" things going on at once so that you can bounce between them as you feel one of them hitting a snag, then come back when you want to.
 
-**How do you stay motivated and disciplined?**
+**How do you recommend that students stay motivated and disciplined?**
 
-Keep a normal 8-5 schedule. Don't work too hard on the weekend (maybe just 4 hrs on a typical weekend once you have finished taking all your classes and are in "research-only" mode). Make sure you have multiple projects, with multiple different collaborators. That helps keep things exciting.
+Keep a normal 8-5 schedule. Don't work too hard on the weekend (maybe just 4 hrs on a typical weekend once you have finished taking all your classes and are in "research-only" mode**. Make sure you have multiple projects, with multiple different collaborators. That helps keep things exciting.
+
+**How do you recommend balancing research with other commitments such as classes, teaching, and quals?**
+
+Research should be your highest priority at the end of the day. The whole point of a PhD is to learn to be an independent technical thinker, and research is the way you build that skill. At times some commitments will take temporary priority, e.g., you need to make sure you study hard for quals a couple weeks before the exam in order to make sure you pass. However, it is important to keep your research progress in mind. For example, _do not_ fall into the trap of automatically prioritizing homework assignments because they have a due date and research does not.
+
+That said, you should absolutely be attending all of your classes and spending the time you need with the material in order to understand it. After all, the point of classes is to learn the material, not to spend the minimum amount of time in order to get a decent grade. In your first year (and for MS students), this will mean you have less time for research. However, you should make sure that you regularly still carve out at least some significant blocks of time to do research.
+
+A final note: if you have difficulty balancing research with other commitments such as classes, do not be surprised if I recommend that you TA at least part time while you are finishing your classes. This will allow you to gain valuable experience presenting technical material during the semesters in which classes are impeding your ability to prioritize research. In this situation, we will discuss expectations regarding research productivity on a case-by-case basis.
 
 ### Advising
 
