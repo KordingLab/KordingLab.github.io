@@ -30,7 +30,7 @@ Please list below, topics you would like to learn more about (you may share your
 | Nov. 4  | Felipe | Building a face ID app for monkeys |
 | Nov. 11 | Richard | Neural networks and kernels (NTK and all that jazz) |
 | Nov. 18 | Tony | Influence functions (?) |
-| Dec. 2  | Joey G | ... |
+| Dec. 2  | n/a | time for 1:1s |
 | Dec. 9  | Ben Baker |  ... |
 
 ### Spring 2022
