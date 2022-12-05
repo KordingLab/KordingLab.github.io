@@ -31,7 +31,8 @@ Please list below, topics you would like to learn more about (you may share your
 | Nov. 11 | Richard | Neural networks and kernels (NTK and all that jazz) |
 | Nov. 18 | Tony | Influence functions (?) |
 | Dec. 2  | n/a | time for 1:1s |
-| Dec. 9  | Ben Baker |  ... |
+| Dec. 9  | ??? |  ... |
+| Dec. 16  | Ben Baker |  Aristotle's _De Anima_ |
 
 ### Spring 2022
 
