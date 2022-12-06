@@ -9,6 +9,10 @@ This Q&A is divided into four main categories: Research, Advising, Funding, and 
 
 ### Research
 
+**What type of research do you like to do? Theoretical vs applied? Software vs hardware?**
+
+I like to stay somewhere in the middle on the "theory vs application" spectrum. I have a hard time getting excited about something unless I can see some (mathematical) abstraction that explains _why_ it works that way, but I also have a hard time staying excited for a long time unless I can see it working in a realistic application. I expect that each student will have their own preference for where to be on these spectra. The main thing from my perspective as an advisor is that regardless of your specific interests, you should have a strong background in mathematics and be comfortable connecting (your own and others') abstract research ideas to (your own and others') more concrete applications.
+
 **What types of classes should I be thinking about taking? Any other topics you'd recommend I read up on in my first year?**
 
 You are in the driver's seat here, so at the end of the day it's up to you! That said, I will _strongly recommend_ that you become proficient in the following material, either by taking classes or by self-study: optimization (not just convex!), probability and stochastic processes, linear and nonlinear system theory. If you are interested in multi-agent systems, you should plan to take my graduate course on game theory in your second year (it presumes familiarity with optimization).
@@ -43,11 +47,17 @@ Keep a normal 8-5 schedule. Don't work too hard on the weekend (maybe just 4 hrs
 
 Research should be your highest priority at the end of the day. The whole point of a PhD is to learn to be an independent technical thinker, and research is the way you build that skill. At times some commitments will take temporary priority, e.g., you need to make sure you study hard for quals a couple weeks before the exam in order to make sure you pass. However, it is important to keep your research progress in mind. For example, _do not_ fall into the trap of automatically prioritizing homework assignments because they have a due date and research does not.
 
-That said, you should absolutely be attending all of your classes and spending the time you need with the material in order to understand it. After all, the point of classes is to learn the material, not to spend the minimum amount of time in order to get a decent grade. In your first year (and for MS students), this will mean you have less time for research. However, you should make sure that you regularly still carve out at least some significant blocks of time to do research.
+That said, you should absolutely be attending all of your classes and spending the time you need with the material in order to understand it. After all, the point of classes is to learn the material, not to spend the minimum amount of time in order to get a decent grade. In your first year (and for MS students**, this will mean you have less time for research. However, you should make sure that you regularly still carve out at least some significant blocks of time to do research.
 
 A final note: if you have difficulty balancing research with other commitments such as classes, do not be surprised if I recommend that you TA at least part time while you are finishing your classes. This will allow you to gain valuable experience presenting technical material during the semesters in which classes are impeding your ability to prioritize research. In this situation, we will discuss expectations regarding research productivity on a case-by-case basis.
 
 ### Advising
+
+**How do you prefer students to communicate with you?**
+
+Effective communication is absolutely essential for us to work together well. Typically, we will have a 1-1 meeting for 30 minutes every week, although this may vary on a case-by-case basis. I expect that, during this meeting, we will check in on technical, administrative, and general life updates. When I was a PhD student, this was usually the high point of my week, and I hope it can be for you as well.
+
+A few other things to note: (1) I try to be very responsive on email and on Slack, but I find that these media are not particularly efficient for conveying technical ideas and are best used for quick messages like "I can't make our meeting tomorrow" or "Can you take a look at my latest paper draft?" (2) While communication is good, too much communication can become inefficient and tiring. Please try to keep our communication channels clear so that each message remains important. (3) Relatedly, "ghosting" is never appropriate. I will not ghost you, and I expect you not to ghost me.
 
 **What do you do when students are struggling? How do you know when to step in and help more vs. letting the student figure it out?**
 
@@ -57,7 +67,7 @@ Put another way: if a student will always be struggling without their advisor's 
 
 **How do you approach the writing process with students?**
 
-Communication is probably the most important part of science and engineering. I expect students to develop excellent communication skills, both in writing and in speaking. I will happily look at drafts and give feedback, but you need to be proactive in writing early, soliciting feedback, revising, and repeating the loop as much as needed until you have a manuscript you are proud of. Please consult the [lab writing guide](https://github.com/CLeARoboticsLab/resources/blob/main/CLeAR_lab_writing_guide.pdf) for more details. For advice on giving talks, I strongly recommend watching [Talks that Don't Suck](https://www.youtube.com/watch?v=Rfo5dFD3DLQ) from Cyrill Stachniss.
+Communication is probably the most important part of science and engineering. I expect students to develop excellent communication skills, both in writing and in speaking. I will happily look at (a bounded number of reasonably polished) drafts and give feedback, but you need to be proactive in writing early, soliciting feedback, revising, and repeating the loop as much as needed until you have a manuscript you are proud of. Please consult the [lab writing guide](https://github.com/CLeARoboticsLab/resources/blob/main/CLeAR_lab_writing_guide.pdf) for more details. For advice on giving talks, I strongly recommend watching [Talks that Don't Suck](https://www.youtube.com/watch?v=Rfo5dFD3DLQ) from Cyrill Stachniss.
 
 **For collaborative projects, what is the expected level of contribution from everyone for the collaboration to work?**
 
