@@ -29,9 +29,9 @@ Please list below, topics you would like to learn more about (you may share your
 | Oct. 28 | Jordan | [Docker 101 for reproducible science](https://www.youtube.com/watch?v=fs1ko2UNVOo) |
 | Nov. 4  | Felipe | Building a face ID app for monkeys |
 | Nov. 11 | Richard | Neural networks and kernels (NTK and all that jazz) |
-| Nov. 18 | Tony | Influence functions (?) |
+| Nov. 18 | Tony | Influence functions |
 | Dec. 2  | n/a | time for 1:1s |
-| Dec. 9  | ??? |  ... |
+| Dec. 9  | Konrad |  ChatGPT |
 | Dec. 16  | Ben Baker |  Aristotle's _De Anima_ |
 
 ### Spring 2022
