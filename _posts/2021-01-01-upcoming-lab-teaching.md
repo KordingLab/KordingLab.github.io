@@ -15,6 +15,30 @@ Please list below, topics you would like to learn more about (you may share your
 * cloud computing
 * current state of deep reinforcement learning, control, robotics, and all that
 
+### Spring 2023
+
+
+| Date    | Name | Topic |
+|---------|------|-------|
+| Jan. 6  |  Konrad  |       |
+| Jan. 13 |  Joey VG |       |
+| Jan. 20 |      |       |
+| Jan. 27 |      |       |
+| Feb. 10 |      |       |
+| Feb. 17 |      |       |
+| Feb. 24 |      |       |
+| Mar. 3  |      |       |
+| Mar. 10 |      |       | # spring break
+| Mar. 17 |      |       |
+| Mar. 24 |  Felipe    |       |
+| Mar. 31 |      |       |
+| Apr. 7  |      |       |
+| Apr. 14 |      |       |
+| Apr. 21 |      |       |
+| Apr. 28 |      |       |
+| May 5   |      |       |
+| May 12  |      |       |
+
 ### Fall 2022
 
 
