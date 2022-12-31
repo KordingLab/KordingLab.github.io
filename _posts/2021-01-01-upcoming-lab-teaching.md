@@ -20,10 +20,9 @@ Please list below, topics you would like to learn more about (you may share your
 
 | Date    | Name | Topic |
 |---------|------|-------|
-| Jan. 6  |  Konrad  |       |
-| Jan. 13 |  Joey VG |       |
+| Jan. 13 |   |       |
 | Jan. 20 |      |       |
-| Jan. 27 |      |       |
+| Jan. 27 |   Joey VG   |       |
 | Feb. 10 |      |       |
 | Feb. 17 |      |       |
 | Feb. 24 |      |       |
