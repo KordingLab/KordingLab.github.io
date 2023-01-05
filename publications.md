@@ -37,7 +37,7 @@ L. Peters, D. Fridovich-Keil, L. Ferranti, C. Stachniss, J. Alonso-Mora, and F. 
 
 D. R. Anthony, D. P. Nguyen, D. Fridovich-Keil, and J. F. Fisac, _Back to the future: Efficient, time-consistent solutions in reach-avoid games,_ in IEEE International Conference on Robotics and Automation (ICRA), 2022 ([pdf](http://arxiv.org/abs/2109.07673))
 
-F. Laine, D. Fridovich-Keil, C.-Y. Chiu, and C. Tomlin, _The computation of approximate generalized feedback Nash equilibria,_ SIAM Journal on Optimization (under review), 2022 ([pdf](https://arxiv.org/pdf/2101.02900))
+F. Laine, D. Fridovich-Keil, C.-Y. Chiu, and C. Tomlin, _The computation of approximate generalized feedback Nash equilibria,_ SIAM Journal on Optimization (accepted), 2022 ([pdf](https://arxiv.org/pdf/2101.02900))
 
 ### 2021
 
