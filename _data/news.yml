@@ -1,3 +1,11 @@
+- date: 2023-01-03
+  details: >-
+    D. Fridovich-Keil's paper <a https://arxiv.org/pdf/2301.01398.pdf>Cost Inference for Feedback Dynamic Games from Noisy Partial State Observations and Incomplete Trajectories</a> was accepted to AAMAS 2023.
+
+- date: 2022-12-15
+  details: >-
+    D. Fridovich-Keil co-organized the <a href="https://sites.google.com/view/corl-2022-games-workshop/home?pli=1">Workshop on Strategic Multi-Agent Interactions</a> at CoRL 2022.
+
 - date: 2022-10-26
   details: >-
     D. Fridovich-Keil gave a talk titled "Dynamic Game Models for Multi-Agent Interactions: Forward and Inverse Solutions" at <a href="https://www.nuro.ai">Nuro</a>.

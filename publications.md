@@ -9,6 +9,8 @@ For metrics and citations, please refer to David's [Google Scholar profile](http
 
 ### 2023
 
+J. Li, C.-Y. Chiu, L. Peters, S. Sojoudi, C. Tomlin, and D. Fridovich-Keil, _Cost Inference for Feedback Dynamic Games from Noisy Partial State Observations and Incomplete Trajectories_, in 22nd International Conference on Autonomous Agents and Multiagent Systems, 2023 [pdf](https://arxiv.org/pdf/2301.01398.pdf)
+
 P. Washington, D. Fridovich-Keil, and M. Schwager, _GrAVITree: Graph-based Approximate Value Function In a Tree_, in American Control Conference (under review), 2023
 
 Y. Yu, S. Chen, D. Fridovich-Keil, and U. Topcu, _Cost Design in Atomic Routing Games_, in American Control Conference (under review), 2023 [pdf](https://arxiv.org/pdf/2210.01221)
@@ -21,7 +23,7 @@ S. Agarwal, D. Fridovich-Keil, and S. Chinchali, _Robust Forecasting for Robotic
 
 ### 2022
 
-M. O. Karabag, D. Fridovich-Keil, and U. Topcu, _Alternating direction method of multipliers for decomposable saddle-point problems,_ in 2022 58th Annual Allerton Conference on Communication, Control, and Computing, IEEE, 2022 [pdf](https://arxiv.org/pdf/2209.04536.pdf)
+M. O. Karabag, D. Fridovich-Keil, and U. Topcu, _Alternating direction method of multipliers for decomposable saddle-point problems,_ in 58th Annual Allerton Conference on Communication, Control, and Computing, IEEE, 2022 [pdf](https://arxiv.org/pdf/2209.04536.pdf)
 
 Y. Yue, J. Salfity, D. Fridovich-Keil, and U. Topcu, _Inverse matrix games with unique quantal response equilibrium,_ IEEE Control Systems Letters, 2022 ([pdf](https://arxiv.org/abs/2207.08275), [video](https://www.youtube.com/watch?v=EvtPp_DWqgU))
 
@@ -35,7 +37,7 @@ L. Peters, D. Fridovich-Keil, L. Ferranti, C. Stachniss, J. Alonso-Mora, and F. 
 
 D. R. Anthony, D. P. Nguyen, D. Fridovich-Keil, and J. F. Fisac, _Back to the future: Efficient, time-consistent solutions in reach-avoid games,_ in IEEE International Conference on Robotics and Automation (ICRA), 2022 ([pdf](http://arxiv.org/abs/2109.07673))
 
-F. Laine, D. Fridovich-Keil, C.-Y. Chiu, and C. Tomlin, _The computation of approximate generalized feedback nash equilibria,_ SIAM Journal on Optimization (under review), 2022 ([pdf](https://arxiv.org/pdf/2101.02900))
+F. Laine, D. Fridovich-Keil, C.-Y. Chiu, and C. Tomlin, _The computation of approximate generalized feedback Nash equilibria,_ SIAM Journal on Optimization (under review), 2022 ([pdf](https://arxiv.org/pdf/2101.02900))
 
 ### 2021
 
