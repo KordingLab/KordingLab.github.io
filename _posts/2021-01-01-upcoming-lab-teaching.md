@@ -29,13 +29,13 @@ Please list below, topics you would like to learn more about (you may share your
 | Mar. 3  |      |       |
 | Mar. 10 |      |       | # spring break
 | Mar. 17 |      |       |
-| Mar. 24 |  Felipe    |       |
+| Mar. 24 |      |       |
 | Mar. 31 |      |       |
 | Apr. 7  |      |       |
 | Apr. 14 |      |       |
 | Apr. 21 |      |       |
 | Apr. 28 |  Xinyue    |   Intro to Causal Discovery    |
-| May 5   |      |       |
+| May 5   |    Felipe  |       |
 | May 12  |      |       |
 
 ### Fall 2022
