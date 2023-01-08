@@ -21,8 +21,8 @@ Please list below, topics you would like to learn more about (you may share your
 | Date    | Name | Topic |
 |---------|------|-------|
 | Jan. 13 |  Konrad |       |
-| Jan. 20 |   David B   |   Job talk    |
-| Jan. 27 |   Joey VG   |       |
+| Jan. 20 |   Joey VG   |   When does a neuron represent True    |
+| Jan. 27 |   David B   |   Job talk    |
 | Feb. 10 |      |       |
 | Feb. 17 |      |       |
 | Feb. 24 |      |       |
