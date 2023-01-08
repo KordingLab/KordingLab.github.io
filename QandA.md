@@ -103,7 +103,7 @@ I want to build a vibrant lab where ~6-10 PhD students are intellectually curiou
 
 **How much are we expected to work on papers alone vs. with other colleagues/students? How would we compartmentalize tasks?**
 
-You should have something — a "story" — that is your own, primarily. This will be your thesis. On the other hand, that "story" can and should intersect with others' and you should collaborate to your heart's content. For example, my "story** was fast algorithms for N-player smooth dynamic games, with applications to human-robot interaction. I was the primary driver behind the algorithmic part for games, but literally every single paper had at least one other student coauthor, and in half/most I was not the first author. This was great. I would have quit the PhD if it had all been solo.
+You should have something — a "story" — that is your own, primarily. This will be your thesis. On the other hand, that "story" can and should intersect with others' and you should collaborate to your heart's content. For example, my "stor" was fast algorithms for N-player smooth dynamic games, with applications to human-robot interaction. I was the primary driver behind the algorithmic part for games, but literally every single paper had at least one other student coauthor, and in half/most I was not the first author. This was great. I would have quit the PhD if it had all been solo.
 
 **What about travel and vacation?**
 
