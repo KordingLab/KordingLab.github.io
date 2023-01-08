@@ -30,7 +30,7 @@ Please list below, topics you would like to learn more about (you may share your
 | Mar. 10 |      |       | # spring break
 | Mar. 17 |      |       |
 | Mar. 24 |      |       |
-| Mar. 31 |      |       |
+| Mar. 31 |Ilenna|       |
 | Apr. 7  |      |       |
 | Apr. 14 |      |       |
 | Apr. 21 |      |       |
