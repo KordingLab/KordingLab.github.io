@@ -1,3 +1,4 @@
+---
 name: Melanie Segado
 position: postdoc
 avatar: melanie.jpg
