@@ -23,7 +23,7 @@ Please list below, topics you would like to learn more about (you may share your
 | Jan. 13 |  Konrad |   lab philosophy    |
 | Jan. 20 |   Joey VG   |   When does a neuron represent True    |
 | Jan. 27 |   David B   |   Job talk    |
-| Feb. 10 |  Camille & Seb    |   A neuro-ethogram in socializing macaques    |
+| Feb. 10 |      |       |
 | Feb. 17 |      |       |
 | Feb. 24 |      |       |
 | Mar. 3  |      |       |
