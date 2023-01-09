@@ -20,7 +20,7 @@ Please list below, topics you would like to learn more about (you may share your
 
 | Date    | Name | Topic |
 |---------|------|-------|
-| Jan. 13 |  Konrad |       |
+| Jan. 13 |  Konrad |   lab philosophy    |
 | Jan. 20 |   Joey VG   |   When does a neuron represent True    |
 | Jan. 27 |   David B   |   Job talk    |
 | Feb. 10 |      |       |
