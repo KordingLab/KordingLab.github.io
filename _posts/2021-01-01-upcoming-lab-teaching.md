@@ -24,7 +24,7 @@ Please list below, topics you would like to learn more about (you may share your
 | Jan. 20 |   Joey VG   |   When does a neuron represent True    |
 | Jan. 27 |   David B   |   Job talk    |
 | Feb. 10 | Richard | TBD |
-| Feb. 17 |      |       |
+| Feb. 17 | Tony    | TBD      |
 | Feb. 24 |      |       |
 | Mar. 3  |      |       |
 | Mar. 10 |      |       | # spring break
