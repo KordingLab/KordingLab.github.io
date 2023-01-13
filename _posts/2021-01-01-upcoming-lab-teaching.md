@@ -35,7 +35,7 @@ Please list below, topics you would like to learn more about (you may share your
 | Apr. 14 |      |       |
 | Apr. 21 |      |       |
 | Apr. 28 |  Xinyue    |   Intro to Causal Discovery    |
-| May 5   |  Jiang Xiaowei | Neurofeedback |
+| May 5   |  Xiaowei | Neurofeedback |
 | May 12  |      |       |
 
 ### Fall 2022
