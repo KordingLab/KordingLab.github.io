@@ -1,7 +1,7 @@
 
 # Upcoming lab teachings
 
-Every Friday at 2:30pm, we get together (over pizza, sometimes) for lab teachings.
+Every Friday at 2pm, we get together (over pizza, sometimes) for lab teachings.
 On a rotating basis, each member of the lab speaks and teaches about something they know.
 Anything, really. Relevant and interesting topics, good skills to know, nice Python packages,
 neuroscientific princples, new findings and literature reviews... whatever!
@@ -23,7 +23,7 @@ Please list below, topics you would like to learn more about (you may share your
 | Jan. 13 |  Konrad |   lab philosophy    |
 | Jan. 20 |   Joey VG   |   When does a neuron represent True    |
 | Jan. 27 |   David B   |   Job talk    |
-| Feb. 10 |      |       |
+| Feb. 10 | Richard | TBD |
 | Feb. 17 |      |       |
 | Feb. 24 |      |       |
 | Mar. 3  |      |       |
