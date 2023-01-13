@@ -29,9 +29,9 @@ Please list below, topics you would like to learn more about (you may share your
 | Mar. 3  |      |       |
 | Mar. 10 |      |       | # spring break
 | Mar. 17 |      |       |
-| Mar. 24 |  Felipe    |       |
-| Mar. 31 |Ilenna|       |
-| Apr. 7  |  Joey R.    |       |
+| Mar. 24 |  Felipe    |    TBD   |
+| Mar. 31 |Ilenna|   TBD    |
+| Apr. 7  |  Joey R.    |    TBD   |
 | Apr. 14 |      |       |
 | Apr. 21 |      |       |
 | Apr. 28 |  Xinyue    |   Intro to Causal Discovery    |
