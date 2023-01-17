@@ -19,7 +19,7 @@ A. Patil, Y. Zhou, D. Fridovich-Keil, and T. Tanaka, _Risk-Minimizing Two-Player
 
 R. S. Thakkar, A. S. Samyal, D. Fridovich-Keil, Z. Xu, and U. Topcu, _Hierarchical Control for Head-to-Head Autonomous Racing_, Journal of Field Robotics (under review), 2023
 
-S. Agarwal, D. Fridovich-Keil, and S. Chinchali, _Robust Forecasting for Robotic Control: A Game-Theoretic Approach_, in IEEE International Conference on Robotics and Automation (under review), 2023 [pdf](https://arxiv.org/abs/2209.10802)
+S. Agarwal, D. Fridovich-Keil, and S. Chinchali, _Robust Forecasting for Robotic Control: A Game-Theoretic Approach_, in IEEE International Conference on Robotics and Automation, 2023 [pdf](https://arxiv.org/abs/2209.10802)
 
 ### 2022
 
