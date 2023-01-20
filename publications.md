@@ -11,11 +11,11 @@ For metrics and citations, please refer to David's [Google Scholar profile](http
 
 J. Li, C.-Y. Chiu, L. Peters, S. Sojoudi, C. Tomlin, and D. Fridovich-Keil, _Cost Inference for Feedback Dynamic Games from Noisy Partial State Observations and Incomplete Trajectories_, in 22nd International Conference on Autonomous Agents and Multiagent Systems, 2023 [pdf](https://arxiv.org/pdf/2301.01398.pdf)
 
-P. Washington, D. Fridovich-Keil, and M. Schwager, _GrAVITree: Graph-based Approximate Value Function In a Tree_, in American Control Conference (under review), 2023
+P. Washington, D. Fridovich-Keil, and M. Schwager, _GrAVITree: Graph-based Approximate Value Function In a Tree_, in American Control Conference, 2023 [pdf](https://arxiv.org/abs/2301.07822)
 
-Y. Yu, S. Chen, D. Fridovich-Keil, and U. Topcu, _Cost Design in Atomic Routing Games_, in American Control Conference (under review), 2023 [pdf](https://arxiv.org/pdf/2210.01221)
+Y. Yu, S. Chen, D. Fridovich-Keil, and U. Topcu, _Cost Design in Atomic Routing Games_, in American Control Conference, 2023 [pdf](https://arxiv.org/pdf/2210.01221)
 
-A. Patil, Y. Zhou, D. Fridovich-Keil, and T. Tanaka, _Risk-Minimizing Two-Player Zero-Sum Stochastic Differential Game via Path Integral Control_, in American Control Conference (under review), 2023
+<!-- A. Patil, Y. Zhou, D. Fridovich-Keil, and T. Tanaka, _Risk-Minimizing Two-Player Zero-Sum Stochastic Differential Game via Path Integral Control_, in American Control Conference (under review), 2023 -->
 
 R. S. Thakkar, A. S. Samyal, D. Fridovich-Keil, Z. Xu, and U. Topcu, _Hierarchical Control for Head-to-Head Autonomous Racing_, Journal of Field Robotics (under review), 2023
 
