@@ -29,7 +29,7 @@ Please list below, topics you would like to learn more about (you may share your
 | Mar. 3  |Ilenna|  TBD or COSYNE talk  |
 | Mar. 10 |      |       | # spring break
 | Mar. 17 |      |       |
-| Mar. 24 |  Felipe    |    TBD   |
+| Mar. 24 |      |       |
 | Mar. 31 |      |       |
 | Apr. 7  |  Joey R.    |    TBD   |
 | Apr. 14 |      |       |
