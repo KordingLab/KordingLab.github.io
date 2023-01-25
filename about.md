@@ -4,7 +4,7 @@ permalink: /about/
 ---
 
 ### About us
-We are a group of scientists and engineers working at the intersection between robotics, control theory, machine learning, and game theory to design high performance, interactive autonomous systems. Our lab is based in the [Department of Aerospace Engineering and Engineering Mechanics](https://www.ae.utexas.edu) and the [Robotics Consortium at UT Austin](https://robotics.utexas.edu).
+We are a group of scientists and engineers working at the intersection between robotics, control theory, machine learning, and game theory to design high performance, interactive autonomous systems. Our lab is based in the [Department of Aerospace Engineering and Engineering Mechanics](https://www.ae.utexas.edu) and is affiliated with [Texas Robotics](https://robotics.utexas.edu) and the [Oden Institute for Computational Engineering and Sciences](https://oden.utexas.edu).
 
 ### Research
 Some of our lab's core research interests are:
