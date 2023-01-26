@@ -56,11 +56,12 @@ defaults:
     values:
       layout:       "profile"
 
-
 collections:
   people:
     output: true
     permalink: /people/:title/index.html
+
+plugins_dir: [jekyll-scholar]
 
 scholar:
   style: american-institute-of-aeronautics-and-astronautics #modern-language-association  #chicago-author-date #, apa, chicago-author-date, ieee, , nature, vancouver
