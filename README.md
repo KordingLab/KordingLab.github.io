@@ -57,7 +57,7 @@ For lab position, you can choose position from 4 classes including `postdoc`, `g
 
 ### Add your publications
 
-Copy the BibTex entry of your paper from Google Scholar and paste it in `_bibliography/references.bib`, after the first 4 lines. Make sure to include PDF and video links as relevant.
+Copy the BibTex entry of your paper from Google Scholar and paste it in `_bibliography/references.bib`somewhere after the header. Make sure to include PDF and video links as relevant.
 
 ### Publish an update
 
