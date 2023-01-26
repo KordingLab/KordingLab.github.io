@@ -73,6 +73,7 @@ scholar:
   group_order: descending
   bibliography_group_tag: h3
   bibliography_list_tag: ul
+  bibliography_item_tag: nobull
 
   source: ./_bibliography
   bibliography: references.bib
