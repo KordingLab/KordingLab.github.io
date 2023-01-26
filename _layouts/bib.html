@@ -1,0 +1,17 @@
+---
+---
+<div class="text-justify">
+    {{reference}}
+
+    {% if entry.pdf %}
+    <span><a href="{{ entry.pdf }}">pdf</a></span>
+    {% endif %}
+    {% if entry.website %}
+    <span><a href="{{ entry.website }}">website</a></span>
+    {% endif %}
+    {% if entry.video %}
+    <span><a href="{{ entry.video }}">video</a></span>
+    {% endif %}
+</div>
+
+<!-- <div><pre>{{ entry.bibtex }}</pre></div> -->
