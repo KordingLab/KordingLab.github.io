@@ -63,12 +63,15 @@ collections:
     permalink: /people/:title/index.html
 
 scholar:
-  style: chicago-author-date  #american-institute-of-aeronautics-and-astronautics #modern-language-association  #chicago-author-date #, apa, chicago-author-date, ieee, , nature, vancouver
+  style: american-institute-of-aeronautics-and-astronautics #modern-language-association  #chicago-author-date #, apa, chicago-author-date, ieee, , nature, vancouver
   locale: en
 
   sort_by: none
   order: ascending
-  bibliography-list-tag: ul
+  group_by: year
+  group_order: descending
+  bibliography_group_tag: h3
+  bibliography_list_tag: ul
 
   source: ./_bibliography
   bibliography: references.bib
