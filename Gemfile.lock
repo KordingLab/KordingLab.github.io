@@ -84,6 +84,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll-scholar
+  webrick
 
 BUNDLED WITH
    2.4.2
