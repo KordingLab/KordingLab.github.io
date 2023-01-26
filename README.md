@@ -55,10 +55,17 @@ joined: 2021
 If you don't have information, just leave it blank. The avatar will bring photo from `images/people` folder and display it on people page.
 For lab position, you can choose position from 4 classes including `postdoc`, `gradstudent`, `visiting`, `others` (so called Honorary members). Position will put you into section that you choose.
 
-### Add new publications
+### Add your publications
 
-All publications from the lab are located in `publications.md`. Please upload new publication on your own!
+Copy the BibTex entry of your paper from Google Scholar and paste it in `_bibliography/references.bib`, after the first 4 lines. Make sure to include PDF and video links as relevant.
+
+### Publish an update
+
+If you're part of the CLeAR lab GitHub organization and you've made a change, reviewed and merged a pull request, you can do the following to publish your updates to the website. This assumes you have a local version of this repository on your PC.
+
+- `git pull` the most recent merged changes locally
+- `rake publish` to convert the files in `source` branch to static site in `master branch`. This automatically calls a GitHub _action_ to deploy the contents of `master` branch to https://clearoboticslab.github.io
 
 ### Add news
 
-All news presented in the front page by editing `_data/news.yml`. There are some symbol that cannot be used directly e.g. `:`, be careful
+All news presented in the front page by editing `_data/news.yml`. There are some symbol that cannot be used directly e.g. `:`, be careful!
