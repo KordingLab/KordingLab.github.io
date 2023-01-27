@@ -31,7 +31,7 @@ Please list below, topics you would like to learn more about (you may share your
 | Mar. 17 |      |       |
 | Mar. 24 |      |       |
 | Mar. 31 |      |       |
-| Apr. 7  |  Joey R.    |    TBD   |
+| Apr. 7  |  Joey R.    |    Quarto  |
 | Apr. 14 |      |       |
 | Apr. 21 |      |       |
 | Apr. 28 |  Xinyue    |   Intro to Causal Discovery    |
