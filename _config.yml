@@ -64,7 +64,7 @@ collections:
 plugins_dir: [jekyll-scholar]
 
 scholar:
-  style: american-institute-of-aeronautics-and-astronautics #modern-language-association  #chicago-author-date #, apa, chicago-author-date, ieee, , nature, vancouver
+  style: ieee #american-institute-of-aeronautics-and-astronautics #modern-language-association  #chicago-author-date #, apa, chicago-author-date, ieee, , nature, vancouver
   locale: en
 
   sort_by: none
