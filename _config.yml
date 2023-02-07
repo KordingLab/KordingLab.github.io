@@ -64,7 +64,7 @@ collections:
 plugins_dir: [jekyll-scholar]
 
 scholar:
-  style: ieee #american-institute-of-aeronautics-and-astronautics #modern-language-association  #chicago-author-date #, apa, chicago-author-date, ieee, , nature, vancouver
+  style: apa #american-institute-of-aeronautics-and-astronautics #modern-language-association  #chicago-author-date #, apa, chicago-author-date, ieee, , nature, vancouver
   locale: en
 
   sort_by: none
@@ -73,7 +73,7 @@ scholar:
   group_order: descending
   bibliography_group_tag: h3
   bibliography_list_tag: ul
-  bibliography_item_tag: nobull
+  bibliography_item_tag: ul #nobull
 
   source: ./_bibliography
   bibliography: references.bib
