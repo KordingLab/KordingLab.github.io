@@ -27,8 +27,8 @@ Please list below, topics you would like to learn more about (you may share your
 | Feb. 17 | Tony    | TBD      |
 | Feb. 24 |   Melanie   |       |
 | Mar. 3  |Ilenna|  TBD or COSYNE talk  |
-| Mar. 10 |      |       | # spring break
-| Mar. 17 |      |       |
+| Mar. 10 |   Justin   |       | # spring break
+| Mar. 17 |   Jordan   |       |
 | Mar. 24 |   Felipe   |       |
 | Mar. 31 |      |       |
 | Apr. 7  |  Joey R.    |    Quarto  |
