@@ -24,7 +24,7 @@ Please list below, topics you would like to learn more about (you may share your
 | Jan. 20 |   Joey VG   |   When does a neuron represent True    |
 | Jan. 27 |   David B   |   Job talk    |
 | Feb. 10 | Richard | Job talk |
-| Feb. 17 | Tony    | Variations on an Instrument |
+| Feb. 17 | Tony    | Variations on an Instrument OR Interference |
 | Feb. 24 |   Melanie   |       |
 | Mar. 3  |Ilenna|  TBD or COSYNE talk  |
 | Mar. 10 |   Justin   |       | # spring break
