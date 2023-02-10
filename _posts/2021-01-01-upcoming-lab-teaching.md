@@ -25,11 +25,11 @@ Please list below, topics you would like to learn more about (you may share your
 | Jan. 27 |   David B   |   Job talk    |
 | Feb. 10 | Richard | Job talk |
 | Feb. 17 | Tony    | TBD      |
-| Feb. 24 |      |       |
+| Feb. 24 |   Melanie   |       |
 | Mar. 3  |Ilenna|  TBD or COSYNE talk  |
 | Mar. 10 |      |       | # spring break
 | Mar. 17 |      |       |
-| Mar. 24 |      |       |
+| Mar. 24 |   Felipe   |       |
 | Mar. 31 |      |       |
 | Apr. 7  |  Joey R.    |    Quarto  |
 | Apr. 14 |      |       |
