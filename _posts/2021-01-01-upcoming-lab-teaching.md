@@ -25,7 +25,7 @@ Please list below, topics you would like to learn more about (you may share your
 | Jan. 27 |   David B   |   Job talk    |
 | Feb. 10 | Richard | Job talk |
 | Feb. 17 | Tony    | "Variations on an Instrument" OR "Interference" |
-| Feb. 24 |   Melanie   |       |
+| Feb. 24 |   Melanie   | Keypoint extraction/pose estimation for human adults/infants      |
 | Mar. 3  |Ilenna|  TBD or COSYNE talk  |
 | Mar. 10 |   Justin   |       | # spring break
 | Mar. 17 |   Jordan   |       |
