@@ -16,32 +16,32 @@ jekyll serve
 
 Below, we explain how to edit the lab webpage
 
-### Add posts
+<!-- ### Add posts -->
 
-It's very easy to add post. All the posts are located in `_posts` folder. It arrangement is based on
-date. Each post can be written in markdown format. You just have to state headers before writing: `title`, `description` and `categories`. `description` will be shown when you share on social media like Facebook or twitter. See the following headers:
+<!-- It's very easy to add posts. All the posts are located in `_posts` folder. It arrangement is based on -->
+<!-- date. Each post can be written in markdown format. You just have to state headers before writing: `title`, `description` and `categories`. `description` will be shown when you share on social media like Facebook or twitter. See the following headers: -->
 
-``` markdown
----
-title: <your title here>
-description: <concise description here>
-categories: blog
----
-```
+<!-- ``` markdown -->
+<!-- --- -->
+<!-- title: <your title here> -->
+<!-- description: <concise description here> -->
+<!-- categories: blog -->
+<!-- --- -->
+<!-- ``` -->
 
-We have 4 categories: `scientists`, `students`, `discussion`, `blog` you can choose and this will be rendered to different location.
+<!-- We have 4 categories: `scientists`, `students`, `discussion`, `blog` you can choose and this will be rendered to different location. -->
 
-### How to add posts
+<!-- ### How to add posts -->
 
-- **Directly edit on Github**, you can simply go to `_posts` and click `New file` then put some markdown file e.g. `2016-02-03-post-name.md` and start writing blog post. Github also allows you to preview it so it's nice for people who don't want to clone the repo.
+<!-- - **Directly edit on Github**, you can simply go to `_posts` and click `New file` then put some markdown file e.g. `2016-02-03-post-name.md` and start writing blog post. Github also allows you to preview it so it's nice for people who don't want to clone the repo. -->
 
-- **Clone the repository**, kind of the same as directly add post on Github. You just have to clone the repository. Then add new post file, commit and push to the repo. Please make all changes via Pull Request.
+<!-- - **Clone the repository**, kind of the same as directly add post on Github. You just have to clone the repository. Then add new post file, commit and push to the repo. Please make all changes via Pull Request. -->
 
-The changes will take approximately half a minute to render.
+<!-- The changes will take approximately half a minute to render. -->
 
 ### Add yourself
 
-You can add yourself to the page in `_people` folder just create file name `<firstname>_<lastname>.md` in the folder. We require few line of header before you start writing your own page. See the following for the header
+You can add yourself to the page in the `_people` folder. Create a file named `<firstname>_<lastname>.md` in the folder. We require a few line of header before you start writing your own page, e.g.
 
 ``` markdown
 ---
@@ -52,20 +52,20 @@ joined: 2021
 ---
 ```
 
-If you don't have information, just leave it blank. The avatar will bring photo from `images/people` folder and display it on people page.
-For lab position, you can choose position from 4 classes including `postdoc`, `gradstudent`, `visiting`, `others` (so called Honorary members). Position will put you into section that you choose.
+If you don't have information, just leave it blank. Add a photo of yourself to the `images/people` folder; this will be displayed on the people page.
+For lab position, you can choose position from 4 classes including `postdoc`, `gradstudent`, `visiting`, `others`. The site generator will automatically sort you into that section.
 
 ### Add your publications
 
-Copy the BibTex entry of your paper from Google Scholar and paste it in `_bibliography/references.bib`somewhere after the header. Make sure to include PDF and video links as relevant.
-
-### Publish an update
-
-If you're part of the CLeAR lab GitHub organization and you've made a change, reviewed and merged a pull request, you can do the following to publish your updates to the website. This assumes you have a local version of this repository on your PC.
-
-- `git pull` the most recent merged changes locally
-- `rake publish` to convert the files in `source` branch to static site in `master branch`. This automatically calls a GitHub _action_ to deploy the contents of `master` branch to https://clearoboticslab.github.io
+Copy the BibTex entry of your paper from Google Scholar and paste it in `_bibliography/references.bib`somewhere after the header. Make sure to include PDF and video links as relevant; you can find examples in the aforementioned file.
 
 ### Add news
 
 All news presented in the front page by editing `_data/news.yml`. There are some symbol that cannot be used directly e.g. `:`, be careful!
+
+### Publish an update
+
+If you're part of the CLeAR lab GitHub organization and you've made a change, reviewed and merged a pull request into the `develop` branch, you can do the following to publish your updates to the website. This assumes you have a local version of this repository on your computer.
+
+- `git pull` the most recent merged changes locally
+- `rake publish` to convert the files in the `develop` branch to a static site in the `master` branch. This automatically calls a GitHub _action_ to deploy the contents of `master` branch to https://clearoboticslab.github.io
