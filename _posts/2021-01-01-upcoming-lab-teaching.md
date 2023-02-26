@@ -29,11 +29,11 @@ Please list below, topics you would like to learn more about (you may share your
 | Mar. 3  |Ilenna|  TBD or COSYNE talk  |
 | Mar. 10 |   Justin   |       | # spring break
 | Mar. 17 |   Jordan   |       |
-| Mar. 24 |   Felipe   |       |
+| Mar. 24 |      |       |
 | Mar. 31 |    Melanie   |  Keypoint extraction/pose estimation for human adults/infants     |
 | Apr. 7  |  Joey R.    |    Quarto  |
 | Apr. 14 |      |       |
-| Apr. 21 |      |       |
+| Apr. 21 |   Felipe   |       |
 | Apr. 28 |  Xinyue    |   Intro to Causal Discovery    |
 | May 5   |  Xiaowei | Neurofeedback |
 | May 12  |      |       |
