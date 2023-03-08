@@ -36,7 +36,7 @@ Please list below, topics you would like to learn more about (you may share your
 | Apr. 21 |   Felipe   |       |
 | Apr. 28 |  Xinyue    |   Intro to Causal Discovery    |
 | May 5   |  Xiaowei | Neurofeedback |
-| May 12  |      |       |
+| May 12  |    Cornelia Walther  |   POZE paradigm    |
 
 ### Fall 2022
 
