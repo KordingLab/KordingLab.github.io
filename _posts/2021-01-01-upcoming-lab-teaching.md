@@ -25,15 +25,15 @@ Please list below, topics you would like to learn more about (you may share your
 | Jan. 27 |   David B   |   Job talk    |
 | Feb. 10 | Richard | Job talk |
 | Feb. 17 | Tony    | "Variations on an Instrument" OR "Interference" |
-| Feb. 24 |     |       |
-| Mar. 3  ||    |
-| Mar. 10 |   Ilenna   |    TBD or COSYNE talk   | # spring break
-| Mar. 17 |   Jordan   |       |
-| Mar. 24 |  Sebastien Tremblay    |       |
+| Feb. 24 |    1-1s      |
+| Mar. 3  | tutorial   |
+| Mar. 10 |   Ilenna   |    COSYNE talk   | # spring break
+| Mar. 17 |   Jordan   |  TBD     |
+| Mar. 24 |  Sebastien Tremblay    |  TBD     |
 | Mar. 31 |    Melanie   |  Keypoint extraction/pose estimation for human adults/infants     |
 | Apr. 7  |  Joey R.    |    Quarto  |
 | Apr. 14 |   Hannah Hao   | Emotion Transition  |
-| Apr. 21 |   Felipe   |       |
+| Apr. 21 |   Felipe   |    TBD   |
 | Apr. 28 |  Xinyue    |   Intro to Causal Discovery    |
 | May 5   |  Xiaowei | Neurofeedback |
 | May 12  |    Cornelia Walther  |   POZE paradigm    |
