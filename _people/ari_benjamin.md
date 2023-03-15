@@ -1,6 +1,6 @@
 ---
 name: Ari Benjamin
-position: gradstudent
+position: alumni
 avatar: ari_benjamin.jpg
 twitter:
 joined: 2016
