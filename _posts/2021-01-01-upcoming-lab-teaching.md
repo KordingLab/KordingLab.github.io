@@ -33,7 +33,7 @@ Please list below, topics you would like to learn more about (you may share your
 | Mar. 31 |    Jordan   |  Serverless cloud stack for academic research  |
 | Apr. 7  |    Melanie  |    Keypoint extraction/pose estimation for human adults/infants     |
 | Apr. 14 |   Hannah Hao   | Emotion Transition  |
-| Apr. 21 |   Felipe   |    TBD   |
+| Apr. 21 |   Felipe   |    HuggingFace Ecosystem or CleanLab   |
 | Apr. 28 |  Xinyue    |   Intro to Causal Discovery    |
 | May 5   |  Xiaowei | Neurofeedback |
 | May 12  |    Cornelia Walther  |   POZE paradigm    |
