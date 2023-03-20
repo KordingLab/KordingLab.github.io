@@ -30,8 +30,8 @@ Please list below, topics you would like to learn more about (you may share your
 | Mar. 10 |   Ilenna   |    COSYNE talk   | # spring break
 | Mar. 17 |   Konrad   |   Landscape of DL-inspired thinking in neuro    |
 | Mar. 24 |  Sebastien Tremblay    |  TBD     |
-| Mar. 31 |    Melanie   |  Keypoint extraction/pose estimation for human adults/infants     |
-| Apr. 7  |  Jordan    |    TBD  |
+| Mar. 31 |    Jordan   |  Serverless cloud stack for academic research  |
+| Apr. 7  |    Melanie  |    Keypoint extraction/pose estimation for human adults/infants     |
 | Apr. 14 |   Hannah Hao   | Emotion Transition  |
 | Apr. 21 |   Felipe   |    TBD   |
 | Apr. 28 |  Xinyue    |   Intro to Causal Discovery    |
