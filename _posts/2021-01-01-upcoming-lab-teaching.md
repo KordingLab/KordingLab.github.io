@@ -29,7 +29,7 @@ Please list below, topics you would like to learn more about (you may share your
 | Mar. 3  | tutorial   |
 | Mar. 10 |   Ilenna   |    COSYNE talk   | # spring break
 | Mar. 17 |   Konrad   |   Landscape of DL-inspired thinking in neuro    |
-| Mar. 24 |  Sebastien Tremblay    |  TBD     |
+| Mar. 24 |  Sebastien Tremblay    |  Non-necessary neural activity     |
 | Mar. 31 |    Jordan   |  Serverless cloud stack for academic research  |
 | Apr. 7  |    Melanie  |    Keypoint extraction/pose estimation for human adults/infants     |
 | Apr. 14 |   Hannah Hao   | Emotion Transition  |
