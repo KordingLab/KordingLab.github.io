@@ -30,7 +30,7 @@ Please list below, topics you would like to learn more about (you may share your
 | Mar. 10 |   Ilenna   |    COSYNE talk   | # spring break
 | Mar. 17 |   Konrad   |   Landscape of DL-inspired thinking in neuro    |
 | Mar. 24 |  Sebastien Tremblay    |  Non-necessary neural activity     |
-| Mar. 31 |    Chris   |  project update and goodbye >:(  (title here) |
+| Mar. 31 |    Chris   |  Metalearning plasticity rules with gradients |
 | Apr. 7  |   Camille Testard   |    Neural signatures of natural behavior in socializing macaques     |
 | Apr. 14 |   Hannah Hao   | Emotion Transition  |
 | Apr. 21 |   Melanie   |    Keypoint extraction/pose estimation for human adults/infants   |
