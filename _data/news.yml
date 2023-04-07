@@ -2,6 +2,10 @@
   details: >-
     We submitted <a href="https://arxiv.org/pdf/2304.01945.pdf">Scenario-Game ADMM: A Parallelized Scenario-Based Solver for Stochastic Noncooperative Games</a> to CDC 2023.
 
+- date: 2023-03-31
+  details: >-
+    We submitted <a href="https://arxiv.org/abs/2304.00163">Soft-Bellman Equilibrium in Affine Markov Games: Forward Solutions and Inverse Learning</a> to CDC 2023.
+
 - date: 2023-02-25
   details: >-
     We submitted <a href="https://arxiv.org/abs/2303.09744">Identifying Occluded Agents in Dynamic Games with Noise-Corrupted Observations</a> to IROS 2023.
