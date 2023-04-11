@@ -31,10 +31,10 @@ Please list below, topics you would like to learn more about (you may share your
 | Mar. 17 |   Konrad   |   Landscape of DL-inspired thinking in neuro    |
 | Mar. 24 |  Sebastien Tremblay    |  Non-necessary neural activity     |
 | Mar. 31 |    Chris   |  Metalearning plasticity rules with gradients |
-| Apr. 7  |   Camille Testard   |    Neural signatures of natural behavior in socializing macaques     |
+| Apr. 7  |   1-1 |    |
 | Apr. 14 |   Hannah Hao   | Emotion Transition  |
 | Apr. 21 |   Melanie   |    Keypoint extraction/pose estimation for human adults/infants   |
-| Apr. 28 |  Felipe    |  HuggingFace ecosystem or CleanLab    |
+| Apr. 28 |  Felipe    |  PrimateFace    |
 | May 5   |  Xinyue | Intro to Causal Discovery |
 | May 12  |    Cornelia Walther  |   POZE paradigm    |
 
