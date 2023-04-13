@@ -61,7 +61,7 @@ Copy the BibTex entry of your paper from Google Scholar and paste it in `_biblio
 
 ### Add news
 
-All news presented in the front page by editing `_data/news.yml`. There are some symbol that cannot be used directly e.g. `:`, be careful!
+All news presented in the front page by editing `_data/news.yml`. There are some symbols that cannot be used directly e.g. `:`, be careful!
 
 ### Publish an update
 
