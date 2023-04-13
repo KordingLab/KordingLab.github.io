@@ -12,7 +12,7 @@ avatar: brett_barkley.jpg
 <i class="fa fa-newspaper-o"></i> [CV (pdf)](/documents/barkley_resume_2023_web.pdf)
 
 **Office**<br>
-Gates Dell Complex 3.408D<br>
+Gates Dell Complex 3.504C<br>
 2317 Speedway,
 Austin, TX 78712
 
