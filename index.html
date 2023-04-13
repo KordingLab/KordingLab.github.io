@@ -23,10 +23,10 @@ layout: default
       <div class="w3-container" style="   background: #f0f8ff; padding: 25px; border-radius:10px; border: 1px solid #5d8aa8">
         <div style="text-align:left">
           <h3> Recent News </h3>
-          <u>Happenings of the last two months. Updated {{ 'now' | date: "%m/%d/%y" }}.</u>
+          <u>Happenings of the last three months. Updated {{ 'now' | date: "%m/%d/%y" }}.</u>
           <span style="display: block; margin-bottom: 1em"></span>
           <div class="news">
-              {% capture now %}{{'now' | date: '%s' | minus: 5184000 %}}{% endcapture %}
+              {% capture now %}{{'now' | date: '%s' | minus: 7862000 %}}{% endcapture %}
               <ul style="list-style-position:outside;padding:20px" >
                 {% for new in site.data.news %}
                   {% capture date %}{{new.date | date: '%s' | plus: 0 %}}{% endcapture %}
