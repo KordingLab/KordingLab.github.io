@@ -34,7 +34,7 @@ Please list below, topics you would like to learn more about (you may share your
 | Apr. 7  |   1-1 |    |
 | Apr. 14 |   Hannah Hao   | Emotion Transition  |
 | Apr. 21 |   Melanie   |    Keypoint extraction/pose estimation for human adults/infants   |
-| Apr. 28 |  Felipe    |  PrimateFace    |
+| Apr. 28 |  Jordan M    |  ...    |
 | May 5   |  Xinyue | Intro to Causal Discovery |
 | May 12  |    Cornelia Walther  |   POZE paradigm    |
 
