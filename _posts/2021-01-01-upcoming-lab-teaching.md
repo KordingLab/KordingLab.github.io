@@ -33,8 +33,8 @@ Please list below, topics you would like to learn more about (you may share your
 | Mar. 31 |    Chris   |  Metalearning plasticity rules with gradients |
 | Apr. 7  |   1-1 |    |
 | Apr. 14 |   Hannah Hao   | Emotion Transition  |
-| Apr. 21 |   Melanie   |    Keypoint extraction/pose estimation for human adults/infants   |
-| Apr. 28 |  Jordan M    |  ...    |
+| Apr. 21 | Ad Hoc with Jordan Matelsky   | [The architectures and math behind Large Language Models]https://github.com/CIS-522/course-content/tree/main/W10_NLP) |
+| Apr. 28 | Jordan Matelsky | Tentative: Cloud Computing for Academic Research |
 | May 5   |  Xinyue | Intro to Causal Discovery |
 | May 12  |    Cornelia Walther  |   POZE paradigm    |
 
