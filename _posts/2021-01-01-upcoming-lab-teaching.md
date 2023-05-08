@@ -25,18 +25,18 @@ Please list below, topics you would like to learn more about (you may share your
 | Jan. 27 |   David B   |   Job talk    |
 | Feb. 10 | Richard | Job talk |
 | Feb. 17 | Tony    | "Variations on an Instrument" OR "Interference" |
-| Feb. 24 |    1-1s      |
-| Mar. 3  | tutorial   |
+| Feb. 24 |    misc      |
+| Mar. 3  | misc   |
 | Mar. 10 |   Ilenna   |    COSYNE talk   | # spring break
 | Mar. 17 |   Konrad   |   Landscape of DL-inspired thinking in neuro    |
 | Mar. 24 |  Sebastien Tremblay    |  Non-necessary neural activity     |
 | Mar. 31 |    Chris   |  Metalearning plasticity rules with gradients |
-| Apr. 7  |   1-1 |    |
-| Apr. 14 |   Hannah Hao   | Emotion Transition  |
+| Apr. 7  |   misc |    |
+| Apr. 14 |   misc   | misc  |
 | Apr. 21 | Ad Hoc with Jordan Matelsky   | [The architectures and math behind Large Language Models](https://github.com/CIS-522/course-content/tree/main/W10_NLP) |
-| Apr. 28 | Jordan Matelsky | Tentative: Cloud Computing for Academic Research |
+| Apr. 28 | Melanie | 3d pose  |
 | May 5   |  Xinyue | Intro to Causal Discovery |
-| May 12  |    Cornelia Walther  |   POZE paradigm    |
+| May 12  |    misc  |       |
 
 ### Fall 2022
 
