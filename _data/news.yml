@@ -1,3 +1,7 @@
+- date: 2023-05-12
+  details: >-
+    D. Fridovich-Keil gave a talk titled <i>Dynamic Game Models of Multi-Agent Interactions: The Role of Information in Designing Efficient Algorithms</i> at the Princeton Robotics Seminar.
+
 - date: 2023-03-31
   details: >-
     We submitted <a href="https://arxiv.org/pdf/2304.01945.pdf">Scenario-Game ADMM: A Parallelized Scenario-Based Solver for Stochastic Noncooperative Games</a> to CDC 2023.
