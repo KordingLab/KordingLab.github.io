@@ -7,7 +7,7 @@ avatar: david_fridovich-keil.jpg
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 - _Assistant Professor, Aerospace Engineering and Engineering Mechanics, UT Austin_<br>
-- _Core Faculty, Texas Robotics_
+- Other affilitations: _Texas Robotics, Oden Institute, Center for Autonomy_<br>
 
 <i class="fa fa-envelope-o"></i> `dfk@utexas.edu`<br>
 <i class="fa fa-newspaper-o"></i> [CV (pdf)](/documents/dfk_cv.pdf)
