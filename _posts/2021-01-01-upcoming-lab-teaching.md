@@ -37,6 +37,7 @@ Please list below, topics you would like to learn more about (you may share your
 | Apr. 28 | Melanie | 3d pose  |
 | May 5   |  Xinyue | Intro to Causal Discovery |
 | May 12  |    misc  |       |
+| May 19  | everyone | no teaching - lab reredesign day! |
 
 ### Fall 2022
 
