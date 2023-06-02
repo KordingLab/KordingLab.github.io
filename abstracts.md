@@ -19,6 +19,8 @@ title: Project Abstracts
 
 **Point Person:** Jane Doe
 
+**Expected timeline:** 1 year
+
 **Skill Level:** Suitable for a masters student with understanding of Quantum Computing and Machine Learning.
 
 ---
@@ -33,5 +35,7 @@ title: Project Abstracts
 - Facial Recognition
 
 **Point Person:** John Doe
+
+**Expected timeline:** 1 semester
 
 **Skill Level:** This project is ideal for a senior with knowledge of Python, Machine Learning, and a basic understanding of Computer Vision.
