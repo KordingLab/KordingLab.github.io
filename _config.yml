@@ -32,7 +32,7 @@ nav:
     href:           "/people"
 #   - name:           "blog"
 #     href:           "/blog"
-  - name:           "projects" # felipe added 230602
+  - name:           "abstracts" # felipe added 230602
     href:           "/abstracts"
   - name:           "resources"
     href:           "/resources"
