@@ -4,7 +4,7 @@ position: gradstudent
 avatar: felipe.jpg
 twitter:
 joined: 2020
-title: Felipe Parodi  <!-- Added this line -->
+title: Felipe Parodi
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
