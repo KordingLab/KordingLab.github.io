@@ -511,6 +511,27 @@ tbody tr:nth-child(odd) th {
 .page-title {
   margin-bottom: 0.6em;
 }
+//robot customization
+.robot-thumbnail {
+  max-width: 200px; /* Adjust the maximum width as per your requirement */
+  height: auto;
+}
+
+.list-item-robot {
+  display: inline-block;
+  width: 50%;
+  box-sizing: border-box;
+  padding: 10px;
+  text-align: center; /* Center the images and captions */
+}
+.robot-name {
+  text-align: center; /* Center the name of the robot */
+}
+.row {
+  clear: both;
+  overflow: hidden;
+}
+
 
 .navbar-brand {
   //font-weight: bold;
