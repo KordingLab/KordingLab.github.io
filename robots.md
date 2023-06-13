@@ -90,7 +90,7 @@ permalink: /robots/
 
     <div class="list-item-robot">
       <img class="robot-thumbnail" src="{{ site.baseurl }}/images/robots/roomba.jpg">
-      <span class="robot-name">Roomba</span>
+      <span class="robot-name">iRobot Create3</span>
       <div class="robot-caption-container">
         <span class="robot-caption">Robot equipped with useful sensors and used for path planning testing</span>
       </div>
@@ -98,7 +98,7 @@ permalink: /robots/
 
     <div class="list-item-robot">
       <img class="robot-thumbnail" src="{{ site.baseurl }}/images/robots/turtlebot.jpg">
-      <span class="robot-name">Turtlebot</span>
+      <span class="robot-name">Turtlebot3 Burger</span>
       <div class="robot-caption-container">
         <span class="robot-caption">Robot running Raspberry Pi often used for algorithmic testing</span>
       </div>
