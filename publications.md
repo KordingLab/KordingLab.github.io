@@ -7,4 +7,4 @@ For metrics and citations, please refer to David's [Google Scholar profile](http
 
 <hr>
 
-
+{% bibliography %}
