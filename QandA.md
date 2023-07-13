@@ -19,11 +19,11 @@ You are in the driver's seat here, so at the end of the day it's up to you! That
 
 Note that I have very explicitly _not_ recommended that you jump right into a course on machine learning or reinforcement learning. My experience is that taking these courses before nailing down your fundamentals in optimization and control theory can be inefficient. If you are interested in these topics, I certainly encourage you to take courses on them, but you will get more out of those courses if you are already familiar with the fundamentals. Walk before you run.
 
-Besides classes, there are a lot of other really great resources out there you should be familiar with. Some particular favorites of mine: [the matrix cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf), [MIT OpenCourseWare](https://ocw.mit.edu), [5 minutes with Cyrill](https://www.ipb.uni-bonn.de/5min/).
+Besides classes, there are a lot of other really great resources out there you should be familiar with. Some particular favorites of mine: [the matrix cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf), [MIT OpenCourseWare](https://ocw.mit.edu), [5 minutes with Cyrill](https://www.ipb.uni-bonn.de/5min/), and [Maths for Intelligent Systems](https://www.user.tu-berlin.de/mtoussai/teaching/Lecture-Maths.pdf).
 
 **What kind of progress do you expect from me?**
 
-Once you have (essentially) finished courses in your second year, you should be able to spend full cycles on research. _In your first year_, I expect that you will focus on taking classes, building your ability to read and present academic papers, and start to get your feet wet with research by working on an existing (or new!) research project in the lab. The first year will look different for different people, but the bottom line is that I expect that, by the end of your first year, you should have mastered most of the essential skills you need to engage with research and passed your written qualifying exam. A good goal for all first year students is to think about submitting a conference paper in the fall of second year.
+Once you have (essentially) finished courses in your second year, you should be able to spend full cycles on research. _In your first year_, I expect that you will focus on taking classes, building your ability to read and present academic papers, and start to get your feet wet with research by working on an existing (or new!) research project in the lab. The first year will look different for different people, but the bottom line is that I expect that by the end of your first year, you should have mastered most of the essential skills you need to engage with research and passed your written qualifying exam. A good goal for all first year students is to submit a first-authored conference paper in the fall of second year (e.g., ICRA, ACC).
 
 _In subsequent years,_ I expect that you focus almost all work-related effort on research and at any given time maintain a mix of projects you are "leading" and those you are "helping out with." Every student's journey will be different, though, so if you are not sure how things are going or how to plan your schedule, let's talk.
 
@@ -41,7 +41,7 @@ I think the secret is to just have multiple projects going on at any one time. Y
 
 **How do you recommend that students stay motivated and disciplined?**
 
-Keep a normal 8-5 schedule. Don't work too hard on the weekend (maybe just 4 hrs on a typical weekend once you have finished taking all your classes and are in "research-only" mode). Make sure you have multiple projects, with multiple different collaborators. That helps keep things exciting.
+Keep a normal 8-5 schedule. Don't work too hard on the weekend (maybe just 4 hrs on a typical weekend once you have finished taking all your classes and are in "research-only" mode, more before then). Make sure you have multiple projects, with multiple different collaborators. That helps keep things exciting.
 
 **How do you recommend balancing research with other commitments such as classes, teaching, and quals?**
 
@@ -57,7 +57,7 @@ A final note: if you have difficulty balancing research with other commitments s
 
 **How do you prefer students to communicate with you?**
 
-Effective communication is absolutely essential for us to work together well. Typically, we will have a 1-1 meeting for 30 minutes every week, although this may vary on a case-by-case basis. I expect that, during this meeting, we will check in on technical, administrative, and general life updates. When I was a PhD student, this was usually the high point of my week, and I hope it can be for you as well.
+Effective communication is absolutely essential for us to work together well. Typically, we will have a 1-1 meeting for 30 minutes every week, although this may vary on a case-by-case basis. I expect that during this meeting we will check in on technical, administrative, and general life updates. When I was a PhD student, this was usually the high point of my week, and I hope it can be for you as well.
 
 A few other things to note: (1) I try to be very responsive on email and on Slack, but I find that these media are not particularly efficient for conveying technical ideas and are best used for quick messages like "I can't make our meeting tomorrow" or "Can you take a look at my latest paper draft?" (2) While communication is good, too much communication can become inefficient and tiring. Please try to keep our communication channels clear so that each message remains important. (3) Relatedly, "ghosting" is never appropriate. I will not ghost you, and I expect you not to ghost me.
 
@@ -65,7 +65,7 @@ A few other things to note: (1) I try to be very responsive on email and on Slac
 
 I air on the side of letting students figure things out themselves, with only minimal technical pointers from me. A PhD is not about being _taught_ by an advisor, at least not in the sense of learning lots of technical details from him/her. It's about being _advised_ to investigate interesting questions, and learning to find the resources and technical capabilities you need to figure them out. An advisor can help point, but is not the person who teaches those capabilities, at least not most of the time.
 
-Put another way: if a student will always be struggling without their advisor's support, then the advisor has failed to train a self-reliant student who will be capable of success in the future. You are in charge of your own education, and I expect you to take charge!
+Put another way: if a student will always be struggling without their advisor's support, then the advisor has failed to train a self-reliant student who will be capable of success in the future. You are in charge of your own education, and I expect you to take the lead!
 
 **How do you approach the writing process with students?**
 
@@ -77,11 +77,11 @@ It varies from project to project, and should be organic in my opinion. People s
 
 **The lab seems to be growing larger pretty quickly. How do you support everyone?**
 
-With difficulty and much grant writing. Also, I expect every student to TA at least two semesters during the PhD. This will vary depending upon funding needs, but TAing is a really important educational experience and provides a great way to practice technical communication. I found it essential as a graduate student.
+With difficulty and much proposal writing. Also, I expect every student to TA at least two semesters during the PhD. This will vary depending upon funding needs, but TAing is a really important educational experience and provides a great way to practice technical communication. I found it essential as a graduate student.
 
 **What do you see me doing during summer? Internships?**
 
-Whatever you want, for the most part. There is a small chance I might prefer you to intern certain summers if I am short $$. The sooner we talk about things the better.
+Whatever you want, for the most part. There is a chance I might prefer you to intern certain summers if I am short $$. The sooner we talk about things the better.
 
 **Would you help students enter the job market?**
 
@@ -91,7 +91,7 @@ Definitely!
 
 **Do you anticipate funding to change during my time as a student?**
 
-Yes, the source will definitely change. I will do my best to make sure it does not affect your research at all.
+Yes, the source will definitely change. I will do my best to make sure it does not affect your research at all. However, I may ask you to attend meetings and present your work to sponsors; I did this many times as a PhD student and it can be a great way to get some face time with important people, meet potential collaborators, etc.
 
 **Should I apply for fellowships?**
 
