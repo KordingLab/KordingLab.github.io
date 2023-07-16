@@ -13,6 +13,9 @@ Some of our lab's core research interests are:
 - inferring properties of game-theoretic interactions, such as equilibrium type, player objectives, and constraints
 - building a rapprochement between machine learning methods and classical techniques for robust, adaptive, and geometric control
 
+### Outreach
+Our lab aims to make a positive impact beyond research. We participate in a broad program of academic outreach organized through the [Center for Autonomy](https://autonomy.oden.utexas.edu), run hands-on events for local high school students, and mentor interested high school and undergraduate students.
+
 ### Lab members
 
 Our group started in August 2021. Visit our [people page]({% link people.md %}) for profiles of lab members.
@@ -25,4 +28,4 @@ Visit the [Q&A]({% link QandA.md %}) page to learn more about what research is l
 
 If you are a prospective *graduate student*, please feel free to reach out to David by email to express your interest. In your note, please identify one recent publication from the lab that you find interesting, and explain the technical nugget you found most exciting. Please also mention your favorite math class and the most exciting topic you learned in that class.
 
-If you are an *undergraduate student* who is interested in doing research in the lab, e.g. for a summer internship, please _first_ reach out to students or postdocs in the lab and try to identify a potential mentor. Once you have identified a potential mentor, please email David and cc that mentor.
+If you are an *undergraduate (or high school) student* who is interested in doing research in the lab, e.g. for a summer internship, please _first_ reach out to students or postdocs in the lab and try to identify a potential mentor. Once you have identified a potential mentor, please email David and cc that mentor.
