@@ -2,6 +2,10 @@
   details: >-
     Our papers <a href="https://arxiv.org/pdf/2304.01945.pdf">Scenario-Game ADMM: A Parallelized Scenario-Based Solver for Stochastic Noncooperative Games</a>, <a href="https://arxiv.org/abs/2304.00163">Soft-Bellman Equilibrium in Affine Markov Games: Forward Solutions and Inverse Learning</a>, and <i>Risk-Minimizing Two-Player Zero-Sum Stochastic Differential Game via Path Integral Control</i> were accepted to CDC 2023.
 
+- date: 2023-06-08
+  details: >-
+    We submitted <a href="https://arxiv.org/pdf/2307.08168.pdf">Feedback is All You Need: Real-World Reinforcement Learning with Approximate Physics-Based Models</a> and <i>An Investigation of Time Reversal Symmetry in Reinforcement Learning</i> to CoRL 2023.
+
 - date: 2023-03-31
   details: >-
     We submitted <a href="https://arxiv.org/pdf/2304.01945.pdf">Scenario-Game ADMM: A Parallelized Scenario-Based Solver for Stochastic Noncooperative Games</a> to CDC 2023.
