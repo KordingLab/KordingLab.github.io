@@ -45,13 +45,26 @@ Keep a normal 8-5 schedule. Don't work too hard on the weekend (maybe just 4 hrs
 
 **How do you recommend balancing research with other commitments such as classes, teaching, and quals?**
 
-Research should be your highest priority at the end of the day. The whole point of a PhD is to learn to be an independent technical thinker, and research is the way you build that skill. At times some commitments will take temporary priority, e.g., you need to make sure you study hard for quals a couple weeks before the exam in order to make sure you pass. However, it is important to keep your research progress in mind. For example, _do not_ fall into the trap of automatically prioritizing homework assignments because they have a due date and research does not.
+Research should be your highest priority at the end of the day. The whole point of a PhD is to learn to be an independent technical thinker, and research is the way you build that skill. At times some commitments will take temporary priority, e.g., you need to make sure you study hard for quals a couple weeks before the exam in order to make sure you pass. However, it is important to keep your research progress in mind. For example, _do not** fall into the trap of automatically prioritizing homework assignments because they have a due date and research does not.
 
 Grades are a bit less meaningful in graduate classes than in undergraduate classes; typically, grad classes are graded very generously and are not intended to eat too much time that could be used for research. As a rough guideline, anything lower than an A- should start to sound some alarm bells.
 
 That said, you should absolutely be attending all of your classes and spending the time you need with the material in order to understand it. After all, the point of classes is to learn the material, not to spend the minimum amount of time in order to get a decent grade. In your first year, this will mean you have a bit less time for research. However, you should make sure that you regularly still carve out at least some significant blocks of time to do research.
 
 A final note: if you have difficulty balancing research with other commitments such as classes, do not be surprised if I recommend that you TA at least part time while you are finishing your classes. This will allow you to gain valuable experience presenting technical material during the semesters in which classes are impeding your ability to prioritize research. In this situation, we will discuss expectations regarding research productivity on a case-by-case basis.
+
+**I just got reviews back on my paper. Now what should I do?**
+
+First things first: it is very tempting to look at a negative review and think "Oh man, those reviewers were totally out to lunch and they missed the whole point of the paper because they were so incompetent. I can totally disregard what they have to say." _NO! Do not do this!_ Reviewers are doing a public service by reading our papers, and should always be thought of---not just treated---with respect. Even when you get a review that you don't agree with or that demonstrates an egregious misunderstanding of the paper, you should think to yourself: "Ok. The reviewer is a very smart person who might have been reading this on a plane or in a hurry. They misunderstood something important about my ideas. How can I present the ideas more clearly to minimize the chance of a reader doing the same thing." Of course, sometimes reviewers point out serious technical flaws; again, take these seriously and do not ignore or whitewash these issues. If it means removing an improper result or even retracting the submission, do it---better to find out before publication than afterward.
+
+Another perspective: when I review papers, part of me is trying to learn something new about the topic at hand, but part of me is also trying to save the authors from potential future embarassment, e.g., from incorrect results, poor literature review, theoretical issues, bad writing, .... Interpret reviewer comments accordingly.
+
+Now, if you need to prepare a rebuttal, a few pieces of advice:
+
+- Be humble. The reviewer is _always right_, in the sense that every single comment they make deserves a respectful, thoughtful response which at the very least acknowledges their point of view as a reasonable conclusion one could have reached by reading the paper. If it is an incorrect conclusion or demonstrates a misunderstanding: take ownership of the problem, clarify the language, and tell the reviewer how you addressed the issue.
+- It's a good idea to prepare a "meta response" summarizing all the changes, and then also respond to each reviewer individually. When you do this, it is generally a good idea to restate the reviewer's concern, discuss your position, and explicitly copy in any changes you have made to the manuscript. You should also color code these changes in the revised draft so that reviewers can spot changes easily.
+- Neglecting time to run new experiments or add new results, it should take you at most 1 day of effort to write a polished response. If it takes longer your first time, or requires significant input from me, that's fine - but expect to be more efficient next time.
+- Submit your rebuttal early, especially if there is supposed to be time for reviewers to respond and ask more questions.
 
 ### Advising
 
