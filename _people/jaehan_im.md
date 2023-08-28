@@ -13,7 +13,7 @@ joined: 2023
 <i class="fa fa-newspaper-o"></i> [CV (pdf)](/documents/jh_CV.pdf)
 
 **Office**<br>
-POB 5.104<br>
+POB 5.204<br>
 2317 Speedway,
 Austin, TX 78712
 
