@@ -15,6 +15,6 @@ POB 5.200<br>
 201 E 24th St,
 Austin, TX 78712
 
-[Dong Ho Lee](https://www.linkedin.com/in/dong-ho-lee-708551147/) is a Master's and PhD student at the University of Texas at Austin. Jake is interested in advancing techniques in control theory and autonomy for unmanned spacecraft applications.  
+[Dong Ho Lee](https://www.linkedin.com/in/dong-ho-lee-708551147/) is a PhD student at the University of Texas at Austin. Dong Ho's research interests lie at the intersection between optimization, control theory and learning for autonomous multi-agent systems.  
 
-Prior to enrolling at UT Austin, Jake worked for 10 years at Parker Aerospace in Fort Worth, TX. His previous roles include Engineering Test Lab Manager and Test Engineer. Jake completed his B.S. in Aerospace Engineering at the University of Texas at Arlington.
+Prior to UT Austin, Dong Ho served as a First Lieutenant (Research Officer) in the ROK army for 3 years in Daejeon, South Korea. He received his B.S. and M.S. in Aerospace Engineering at the Korea Advanced Institute of Science and Technology (KAIST).
