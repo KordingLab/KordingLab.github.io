@@ -9,7 +9,7 @@ avatar: vincent_spada.png
 - _Undergraduate, Aerospace Engineering, UT Austin_<br>
 
 <i class="fa fa-envelope-o"></i> `vinspada@utexas.edu`<br>
-<i class="fa fa-newspaper-o"></i> [Resume (pdf)](/documents/Spada.Vincent.Resume.pdf)<br>
+<i class="fa fa-newspaper-o"></i> [Resume (pdf)](/documents/VincentSpada_Resume.pdf)<br>
 
 **Office**<br>
 Anna Hiss Gym 2.204<br>
