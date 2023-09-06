@@ -8,7 +8,7 @@ avatar: Dong_Ho_Lee.jpg
 
 - _PhD Student, Aerospace Engineering, UT Austin_<br>
 
-<i class="fa fa-envelope-o"></i> `jake.levy@utexas.edu`<br>
+<i class="fa fa-envelope-o"></i> `leedh0124@utexas.edu`<br>
 
 **Office**<br>
 POB 5.200<br>
