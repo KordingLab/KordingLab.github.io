@@ -1,7 +1,7 @@
 ---
 name: Kushagra Gupta
 position: gradstudent
-avatar: jaehan_im.jpg
+avatar: kushagra_gupta.jpg
 joined: 2023
 ---
 
