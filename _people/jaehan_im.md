@@ -9,7 +9,7 @@ joined: 2023
 
 - _PhD Student, Aerospace Engineering, UT Austin_<br>
 
-<i class="fa fa-envelope-o"></i> `jaehan.im@utexas.edu'`<br>
+<i class="fa fa-envelope-o"></i> `jaehan.im@utexas.edu`<br>
 <i class="fa fa-newspaper-o"></i> [CV (pdf)](/documents/jh_CV.pdf)
 
 **Office**<br>
