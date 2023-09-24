@@ -9,7 +9,7 @@ joined: 2023
 
 - _PhD Student, Electrical and Computer Engineering, UT Austin_<br>
 
-<i class="fa fa-envelope-o"></i> `kushagrag@utexas.edu'`<br>
+<i class="fa fa-envelope-o"></i> `kushagrag@utexas.edu`<br>
 <i class="fa fa-newspaper-o"></i> [CV (pdf)](/documents/KushagraGupta_CV.pdf)
 
 **Office**<br>
