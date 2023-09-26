@@ -21,13 +21,8 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
-<<<<<<< HEAD
-    ffi (1.16.0)
-    ffi (1.16.0-x64-mingw-ucrt)
-=======
     ffi (1.16.1)
     ffi (1.16.1-x64-mingw-ucrt)
->>>>>>> 0fa45f78c53f9a8444a8ffee4652ae005cf472d5
     forwardable-extended (2.6.0)
     google-protobuf (3.22.2-arm64-darwin)
     google-protobuf (3.22.2-x64-mingw-ucrt)
