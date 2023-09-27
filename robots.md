@@ -104,6 +104,26 @@ permalink: /robots/
       </div>
     </div>
   </div>
+  <div class="row">
+    <div class="list-item-robot">
+      <img class="robot-thumbnail" src="{{ site.baseurl }}/images/robots/Husky.jpg">
+      <span class="robot-name">Husky</span>
+      <div class="robot-caption-container">
+        <span class="robot-caption">A rugged, all terrain UGV robot for outdoor field research, featuring stereo cameras, IMUs, and LIDAR.</span>
+      </div>
+    </div>
+
+    <div class="list-item-robot">
+      <img class="robot-thumbnail" src="{{ site.baseurl }}/images/robots/Jackal.jpg">
+      <span class="robot-name">Jackal</span>
+      <div class="robot-caption-container">
+        <span class="robot-caption">Compact autonomy research robot with ROS, LIDAR, laser rangefinder, and FLIR Backfly camera.</span>
+      
+      </div>
+    </div>
+
+
+  </div>
 </div>
 
 
