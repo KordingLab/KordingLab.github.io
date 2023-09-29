@@ -45,7 +45,7 @@ Keep a normal 8-5 schedule. Don't work too hard on the weekend (maybe just 4 hrs
 
 **How do you recommend balancing research with other commitments such as classes, teaching, and quals?**
 
-Research should be your highest priority at the end of the day. The whole point of a PhD is to learn to be an independent technical thinker, and research is the way you build that skill. At times some commitments will take temporary priority, e.g., you need to make sure you study hard for quals a couple weeks before the exam in order to make sure you pass. However, it is important to keep your research progress in mind. For example, _do not** fall into the trap of automatically prioritizing homework assignments because they have a due date and research does not.
+Research should be your highest priority at the end of the day. The whole point of a PhD is to learn to be an independent technical thinker, and research is the way you build that skill. At times some commitments will take temporary priority, e.g., you need to make sure you study hard for quals a couple weeks before the exam in order to make sure you pass. However, it is important to keep your research progress in mind. For example, _do not_ fall into the trap of automatically prioritizing homework assignments because they have a due date and research does not.
 
 Grades are a bit less meaningful in graduate classes than in undergraduate classes; typically, grad classes are graded very generously and are not intended to eat too much time that could be used for research. As a rough guideline, anything lower than an A- should start to sound some alarm bells.
 
