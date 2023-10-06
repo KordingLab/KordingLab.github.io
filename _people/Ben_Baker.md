@@ -1,6 +1,6 @@
 ---
 name: Ben Baker
-position: postdoc
+position: alumni
 avatar: BenBphoto.JPG
 twitter: tbbake
 joined: 2020
