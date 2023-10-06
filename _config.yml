@@ -30,11 +30,11 @@ nav:
     href:           "/publication"
   - name:           "people"
     href:           "/people"
-  - name:           "blog"
-    href:           "/blog"
-#   - name:           "abstracts" # felipe added 230602
+  # - name:           "blog"
+    # href:           "/blog"
+#   - name:           "abstracts"
 #     href:           "/abstracts"
-  - name:           "resources"
+  - name:           "lab teachings"
     href:           "/resources"
 
 # Sass
