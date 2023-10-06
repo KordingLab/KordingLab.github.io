@@ -1,6 +1,6 @@
 ---
 name: Justin Brantley
-position: postdoc
+position: alumni
 avatar: Brantley-Photo-LowerRes.jpeg
 joined: 2020
 ---
