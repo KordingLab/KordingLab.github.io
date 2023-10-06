@@ -1,6 +1,6 @@
 ---
 name: Xiaowei Jiang
-position: gradstudent
+position: alumni
 avatar: xiaowei_jiang.jpg
 twitter: 
 joined: 2021
