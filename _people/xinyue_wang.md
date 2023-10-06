@@ -1,6 +1,6 @@
 ---
 name: Xinyue Wang
-position: gradstudent
+position: alumni
 avatar: xinyue_wang.jpg
 twitter: 
 joined: 2021
