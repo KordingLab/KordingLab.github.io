@@ -1,6 +1,6 @@
 ---
 name: Ilenna Jones
-position: gradstudent
+position: alumni
 avatar: ilenna_jones.jpg
 twitter: ilennaj
 joined: 2018
