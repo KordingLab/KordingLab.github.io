@@ -22,7 +22,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Nov. 3 |  |  |
 | Nov. 10 | Tony | Job talk |
 | Nov. 17 |  |  |
-| Nov. 24 | Thanksgiving | _Feast_ |
+| Nov. 24 | (US) Thanksgiving | _nomnomnom_ |
 | Dec. 1 |  |  |
 | Dec. 8 |  |  |
 | Dec. 15 | tbd | tbd |
