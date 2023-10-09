@@ -16,7 +16,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 
 | Date | Name | Topic |
 |------|------|-------|
-| Oct. 13 | |  |
+| Oct. 13 | Xiao | TBD |
 | Oct. 20 |  |  |
 | Oct. 27 |  |  |
 | Nov. 3 |  |  |
