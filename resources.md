@@ -19,7 +19,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Oct. 13 | Xiao | TBD |
 | Oct. 20 |  |  |
 | Oct. 27 |  |  |
-| Nov. 3 |  |  |
+| Nov. 3 | Felipe | PrimateFace OR NeoGaze updates |
 | Nov. 10 | Tony | Job talk |
 | Nov. 17 |  |  |
 | Nov. 24 | (US) Thanksgiving | _nomnomnom_ |
