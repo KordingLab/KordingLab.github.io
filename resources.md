@@ -20,7 +20,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Oct. 20 |  |  |
 | Oct. 27 |  |  |
 | Nov. 3 |  |  |
-| Nov. 10 |  |  |
+| Nov. 10 | Tony | Job talk |
 | Nov. 17 |  |  |
 | Nov. 24 | Thanksgiving | _Feast_ |
 | Dec. 1 |  |  |
