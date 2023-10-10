@@ -21,7 +21,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Oct. 27 |  |  |
 | Nov. 3 | Felipe | PrimateFace OR NeoGaze updates |
 | Nov. 10 | Tony | Job talk |
-| Nov. 17 |  |  |
+| Nov. 17 |  Joey | tbd  |
 | Nov. 24 | (US) Thanksgiving | _nomnomnom_ |
 | Dec. 1 |  |  |
 | Dec. 8 |  |  |
