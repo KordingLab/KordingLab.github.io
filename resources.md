@@ -23,7 +23,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Nov. 10 | Tony | Job talk |
 | Nov. 17 |  Joey | tbd  |
 | Nov. 24 | (US) Thanksgiving | _nomnomnom_ |
-| Dec. 1 |  |  |
+| Dec. 1 | Melanie | WiggleFormer |
 | Dec. 8 |  |  |
 | Dec. 15 | tbd | tbd |
 
