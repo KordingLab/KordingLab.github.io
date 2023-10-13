@@ -24,7 +24,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Nov. 17 |  Joey | tbd  |
 | Nov. 24 | (US) Thanksgiving | _nomnomnom_ |
 | Dec. 1 | Melanie | WiggleFormer |
-| Dec. 8 |  |  |
+| Dec. 8 | Kevin | NeuroPAL (tentative) |
 | Dec. 15 | tbd | tbd |
 
 <!--[Click here for current topics (as of summer 2021)](http://kordinglab.com/2021/01/01/upcoming-lab-teaching.html)-->
