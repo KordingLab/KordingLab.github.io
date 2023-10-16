@@ -17,7 +17,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Date | Name | Topic |
 |------|------|-------|
 | Oct. 13 | Xiao | TBD |
-| Oct. 20 | Hao | Learning/Teaching |
+| Oct. 20 | Hao | Go / Weiqi / Baduk |
 | Oct. 27 |  |  |
 | Nov. 3 | Felipe | PrimateFace OR NeoGaze updates |
 | Nov. 10 | Tony | Job talk |
