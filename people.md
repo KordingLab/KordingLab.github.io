@@ -58,6 +58,7 @@ permalink: /people/
 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
+| [Xinyue Wang](https://www.charonwangg.com/) | Graduate Student (2021-2023) | PhD Student, Halıcıoğlu Data Science Institute, UCSD |
 | Ilenna Jones | Graduate Student (2017-2023) | 
 | Ben Baker | Post-doc (2021-2023) | 
 | Richard Lange | Post-doc (2021-2023) | |
