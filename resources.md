@@ -18,14 +18,14 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 |------|------|-------|
 | Oct. 13 | Xiao | TBD |
 | Oct. 20 | Hao | Go / Weiqi / Baduk |
-| Oct. 27 |  |  |
-| Nov. 3 | Felipe | PrimateFace OR NeoGaze updates |
+| Oct. 27 | Lab | 1-1s |
+| Nov. 3 | Felipe | NeoGaze |
 | Nov. 10 | Tony | Job talk |
 | Nov. 17 |  Joey | tbd  |
 | Nov. 24 | (US) Thanksgiving | _nomnomnom_ |
 | Dec. 1 | Melanie | WiggleFormer |
 | Dec. 8 | Kevin | NeuroPAL (tentative) |
-| Dec. 15 | tbd | tbd |
+| Dec. 15 | Jordan | tbd |
 
 <!--[Click here for current topics (as of summer 2021)](http://kordinglab.com/2021/01/01/upcoming-lab-teaching.html)-->
 
