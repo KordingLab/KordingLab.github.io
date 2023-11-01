@@ -1,5 +1,5 @@
 ---
-name:  Ryan PArk
+name:  Ryan Park
 position: undergraduate
 avatar: ryan_park.png
 ---
