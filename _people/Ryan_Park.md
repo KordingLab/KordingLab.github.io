@@ -1,7 +1,7 @@
 ---
 name:  Ryan Park
 position: undergraduate
-avatar: ryan_park.png
+avatar: ryan_park.jpg
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
