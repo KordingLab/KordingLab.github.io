@@ -22,10 +22,10 @@ GEM
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
     ffi (1.15.5)
-    ffi (1.15.5-x64-mingw-ucrt)
+    ffi (1.15.5-x64-unknown)
     forwardable-extended (2.6.0)
     google-protobuf (3.22.2-arm64-darwin)
-    google-protobuf (3.22.2-x64-mingw-ucrt)
+    google-protobuf (3.22.2-x64-unknown)
     google-protobuf (3.22.2-x86_64-darwin)
     google-protobuf (3.22.2-x86_64-linux)
     http_parser.rb (0.8.0)
@@ -87,7 +87,8 @@ GEM
 
 PLATFORMS
   arm64-darwin-22
-  x64-mingw-ucrt
+  arm64-darwin-23
+  x64-unknown
   x86_64-darwin-22
   x86_64-linux
 
@@ -96,4 +97,4 @@ DEPENDENCIES
   webrick
 
 BUNDLED WITH
-   2.4.19
+   2.4.2
