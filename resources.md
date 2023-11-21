@@ -23,7 +23,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Nov. 10 | Tony | Job talk |
 | Nov. 17 |  Joey | tbd  |
 | Nov. 24 | (US) Thanksgiving | _nomnomnom_ |
-| Dec. 1 | Melanie | WiggleFormer |
+| Dec. 1 | Melanie | Brainstorm: Intro to Computer Behaviour |
 | Dec. 8 | Kevin | NeuroPAL (tentative) |
 | Dec. 15 | Jordan | tbd |
 
