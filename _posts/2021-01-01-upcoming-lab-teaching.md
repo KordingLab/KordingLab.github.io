@@ -19,16 +19,16 @@ Please list below, topics you would like to learn more about (you may share your
 
 | Date | Name | Topic |
 |------|------|-------|
-| Oct. 13 | |  |
-| Oct. 20 |  |  |
-| Oct. 27 |  |  |
-| Nov. 3 |  |  |
-| Nov. 10 |  |  |
-| Nov. 17 |  |  |
-| Nov. 24 | Thanksgiving | _Feast_ |
-| Dec. 1 |  |  |
-| Dec. 8 |  |  |
-| Dec. 15 | tbd | tbd |
+| Oct. 13 | Xiao | TBD |
+| Oct. 20 | Hao | Go / Weiqi / Baduk |
+| Oct. 27 | Lab | 1-1s |
+| Nov. 3 | Felipe | NeoGaze |
+| Nov. 10 | Tony | Job talk |
+| Nov. 17 |  Joey | tbd  |
+| Nov. 24 | (US) Thanksgiving | _nomnomnom_ |
+| Dec. 1 | Melanie | Brainstorm: Intro to Computer Behaviour |
+| Dec. 8 | Kevin | NeuroPAL (tentative) |
+| Dec. 15 | Jordan | tbd |
 
 ### Spring 2023
 
