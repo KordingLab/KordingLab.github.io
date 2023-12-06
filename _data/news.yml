@@ -1,3 +1,7 @@
+- date: 2023-11-15
+  details: >-
+    We submitted Learning Hyperplanes for Multi-Agent Collision Avoidance in Space to RA-L. <a href="https://arxiv.org/abs/2311.09439">[paper]</a><a href="https://github.com/CLeARoboticsLab/InverseHyperplanes.jl">[code]</a>
+
 - date: 2023-10-26
   details: >-
     We submitted <a href="https://arxiv.org/abs/2310.18171">Leadership Inference for Multi-Agent Interactions</a> to RA-L.
