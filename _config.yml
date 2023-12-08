@@ -59,9 +59,20 @@ defaults:
       type:         "people"
     values:
       layout:       "profile"
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      comments: false
 
 
 collections:
   people:
     output: true
     permalink: /people/:title/index.html
+  publications:
+    output: true
+    permalink: /:collection/:path/
