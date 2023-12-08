@@ -1,7 +1,7 @@
 ---
 name: Shan Chen
 position: gradstudent
-avatar: shan_chen.jpg
+avatar: sc_headshot.jpg
 twitter: shan23chen
 ---
 
