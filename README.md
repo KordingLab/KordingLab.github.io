@@ -1,6 +1,6 @@
-# Kording lab page
+# MLML lab page
 
-This is repository for [Kording lab page](http://kordinglab.com/). We use Jekyll to run our Github page. We are welcome for other people to contribute to our site not just lab members. Feel free to fork and pull-request!
+This is repository for [MLML lab page](http://kordinglab.com/). We use Jekyll to run our Github page. We are welcome for other people to contribute to our site not just lab members. Feel free to fork and pull-request!
 
 ## Run the page locally using Jekyll
 

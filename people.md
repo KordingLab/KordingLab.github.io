@@ -56,6 +56,7 @@ permalink: /people/
 
 <br>
 
+<!-- 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
 | [Xinyue Wang](https://www.charonwangg.com/) | Graduate Student (2021-2023) | PhD Student, Halıcıoğlu Data Science Institute, UCSD |
@@ -122,6 +123,7 @@ permalink: /people/
 | Taro Kiritani | Rotation Student (Winter 2007) | ExaWizards Inc. in Tokyo |
 | Rashmi Sarnaik | Rotation Student (Winter 2007) | Scientific Editor at Neuron |
 | Emily Oby | Rotation Student (Fall 2006) | Postdoc w/ Aaron Batista at University of Pittsburgh |
+-->
 
 {% endif %}
 {% endfor %}
