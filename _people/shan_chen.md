@@ -3,6 +3,7 @@ name: Shan Chen
 position: gradstudent
 avatar: shan_chen.jpg
 twitter: shan23chen
+---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
