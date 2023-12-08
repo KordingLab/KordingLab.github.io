@@ -1,0 +1,10 @@
+---
+title: "Two-Stage Fine-Tuning for Improved Bias and Variance for Large Pretrained Language Models"
+collection: publications
+permalink: /publications/2023-07-01-two-stage-fine-tuning
+date: 2023-07-01
+venue: 'Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)'
+paperurl: 'https://aclanthology.org/2023.acl-long.877/'
+citation: '<b>Lijing Wang</b>, Yingya Li, <b>Timothy Miller</b>, Steven Bethard, and Guergana Savova. 2023. Two-Stage Fine-Tuning for Improved Bias and Variance for Large Pretrained Language Models. In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 15746–15761, Toronto, Canada. Association for Computational Linguistics.'
+---
+Abstract: The bias-variance tradeoff is the idea that learning methods need to balance model complexity with data size to minimize both under-fitting and over-fitting. Recent empirical work and theoretical analysis with over-parameterized neural networks challenges the classic bias-variance trade-off notion suggesting that no such trade-off holds: as the width of the network grows, bias monotonically decreases while variance initially increases followed by a decrease. In this work, we first provide a variance decomposition-based justification criteria to examine whether large pretrained neural models in a fine-tuning setting are generalizable enough to have low bias and variance. We then perform theoretical and empirical analysis using ensemble methods explicitly designed to decrease variance due to optimization. This results in essentially a two-stage fine-tuning algorithm that first ratchets down bias and variance iteratively, and then uses a selected fixed-bias model to further reduce variance due to optimization by ensembling. We also analyze the nature of variance change with the ensemble size in low- and high-resource classes. Empirical results show that this two-stage method obtains strong results on SuperGLUE tasks and clinical information extraction tasks. Code and settings are available: https://github.com/christa60/bias-var-fine-tuning-plms.git
