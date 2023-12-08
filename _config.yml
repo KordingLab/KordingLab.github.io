@@ -3,13 +3,13 @@
 # # # # # # # #
 
 # Basic
-name:               "Kording Lab"
-title:              "Kording Lab at the University of Pennsylvania"
-description:        "The Kording Lab is a computational neuroscience and causality research group at the University of Pennsylvania."
+name:               "MLML Lab"
+title:              "MLML Lab at Boston Chidlren's Hospital and Harvard Medical School"
+description:        "The Machine Learning for Medical Language (MLML) Lab at the Computational Health Informatics Program of Boston Children's Hospital does natural language processing research with deep neural networks.""
 
 
 # URL
-url:                http://kordinglab.com
+url:                https://machine-learning-for-medical-language.github.io/
 baseurl:            
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
@@ -34,8 +34,6 @@ nav:
     # href:           "/blog"
 #   - name:           "abstracts"
 #     href:           "/abstracts"
-  - name:           "lab teachings"
-    href:           "/resources"
 
 # Sass
 sass:
