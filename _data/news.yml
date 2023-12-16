@@ -1,6 +1,10 @@
+- date: 2023-11-29
+  details: >-
+    We submitted <a href="https://arxiv.org/pdf/2311.17008.pdf">An Investigation of Time Reversal Symmetry in Reinforcement Learning</a> to L4DC.
+
 - date: 2023-11-15
   details: >-
-    We submitted <a href="https://arxiv.org/abs/2311.09439">Learning Hyperplanes for Multi-Agent Collision Avoidance in Space</a> to RA-L. <a href="https://github.com/CLeARoboticsLab/InverseHyperplanes.jl">[code]</a>
+    We submitted <a href="https://arxiv.org/abs/2311.09439">Learning Hyperplanes for Multi-Agent Collision Avoidance in Space</a> to RA-L. Code can be found <a href="https://github.com/CLeARoboticsLab/InverseHyperplanes.jl">here</a>.
 
 - date: 2023-10-26
   details: >-
