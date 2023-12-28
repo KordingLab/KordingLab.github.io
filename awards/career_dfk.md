@@ -5,7 +5,7 @@ permalink: /CAREER/
 
 ## Game Theoretic Models for Robust Cyber-Physical Interactions: Inference and Design under Uncertainty
 
-D. Fridovich-Keil is a recipient of an [NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2336840&HistoricalAwards=false) to study models and algorithms for large-scale, multi-agent, and uncertain cyber-physical systems.
+D. Fridovich-Keil is a recipient of a [CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2336840&HistoricalAwards=false) from the NSF's CPS Program to study models and algorithms for large-scale, multi-agent, and uncertain cyber-physical systems.
 
 ### Overview
 
