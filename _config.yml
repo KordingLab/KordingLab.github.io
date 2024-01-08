@@ -35,7 +35,7 @@ nav:
 #   - name:           "abstracts"
 #     href:           "/abstracts"
   - name:           "lab teachings"
-    href:           "/resourcesNteaching"
+    href:           "/presentations"
 
 # Sass
 sass:
