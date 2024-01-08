@@ -1,6 +1,6 @@
 ---
 title: Reference
-permalink: /resources/
+permalink: /resourcesNteaching/
 ---
 
 ### Upcoming lab teachings
@@ -12,20 +12,25 @@ neuroscientific princples, new findings and literature reviews... whatever!
 
 Get on the listserve for announcements: https://groups.google.com/forum/#!forum/kording-lab-teachings
 
-### Fall 2023
-
+### Spring 2024
 | Date | Name | Topic |
 |------|------|-------|
-| Oct. 13 | Xiao | TBD |
-| Oct. 20 | Hao | Go / Weiqi / Baduk |
-| Oct. 27 | Lab | 1-1s |
-| Nov. 3 | Felipe | NeoGaze |
-| Nov. 10 | Tony | Job talk |
-| Nov. 17 |  Joey | tbd  |
-| Nov. 24 | (US) Thanksgiving | _nomnomnom_ |
-| Dec. 1 | Melanie | Brainstorm: Intro to Computer Behaviour |
-| Dec. 8 | Kevin | NeuroPAL (tentative) |
-| Dec. 15 | Jordan | tbd |
+| Jan 19 | Konrad K | TBD |
+| Jan 26 | K-lab retreat | N/A |
+| Feb 2 |  |  |
+| Feb 9 |  |  |
+| Feb 16 |  |  |
+| Feb 23 |   |   |
+| Mar 1 | |  |
+| Mar 8 |  |  |
+| Mar 15 |  |  |
+| Mar 22 |  |  |
+| Mar 29 |  |  |
+| Apr 5 |  |  |
+| Apr 12 |  |  |
+| Apr 19 |  |  |
+| Apr 26 |  |  |
+| May 3 |  |  |
 
 <!--[Click here for current topics (as of summer 2021)](http://kordinglab.com/2021/01/01/upcoming-lab-teaching.html)-->
 
