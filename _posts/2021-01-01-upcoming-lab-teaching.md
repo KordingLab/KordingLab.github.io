@@ -15,8 +15,27 @@ Please list below, topics you would like to learn more about (you may share your
 * cloud computing
 * current state of deep reinforcement learning, control, robotics, and all that
 
-### Fall 2023
+### Spring 2024
+| Date | Name | Topic |
+|------|------|-------|
+| Jan 19 | Konrad K | TBD |
+| Jan 26 | K-lab retreat | N/A |
+| Feb 2 |  |  |
+| Feb 9 |  |  |
+| Feb 16 |  |  |
+| Feb 23 |   |   |
+| Mar 1 | |  |
+| Mar 8 |  |  |
+| Mar 15 |  |  |
+| Mar 22 |  |  |
+| Mar 29 |  |  |
+| Apr 5 |  |  |
+| Apr 12 |  |  |
+| Apr 19 |  |  |
+| Apr 26 |  |  |
+| May 3 |  |  |
 
+### Fall 2023
 | Date | Name | Topic |
 |------|------|-------|
 | Oct. 13 | Xiao | TBD |
