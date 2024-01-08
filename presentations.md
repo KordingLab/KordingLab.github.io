@@ -1,6 +1,6 @@
 ---
 title: Reference
-permalink: /l/
+permalink: /presentations/
 ---
 
 ### Upcoming lab teachings
