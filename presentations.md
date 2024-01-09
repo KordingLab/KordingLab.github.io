@@ -10,9 +10,10 @@ On a rotating basis, each member of the lab speaks and teaches about something t
 Anything, really. Relevant and interesting topics, good skills to know, nice Python packages,
 neuroscientific princples, new findings and literature reviews... whatever!
 
-Get on the listserve for announcements: https://groups.google.com/forum/#!forum/kording-lab-teachings
+Get on the [listserv for announcements](https://groups.google.com/forum/#!forum/kording-lab-teachings)
 
 ### Spring 2024
+{% raw %}
 | Date | Name | Topic |
 |------|------|-------|
 | Jan 19 | Konrad K | TBD |
@@ -31,7 +32,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 | Apr 19 | ... | ... |
 | Apr 26 | ... | ... |
 | May 3 | ... | ... |
-<!--[Click here for current topics (as of summer 2021)](http://kordinglab.com/2021/01/01/upcoming-lab-teaching.html)-->
+{% endraw %}
 
 {% assign reference_types = "scientists|students" | split: "|" %}
 
