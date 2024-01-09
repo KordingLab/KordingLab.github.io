@@ -32,6 +32,7 @@ Get on the [listserv for announcements](https://groups.google.com/forum/#!forum/
 | Apr 19 | ... | ... |
 | Apr 26 | ... | ... |
 | May 3 | ... | ... |
+
 {% endraw %}
 
 {% assign reference_types = "scientists|students" | split: "|" %}
