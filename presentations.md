@@ -17,21 +17,20 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 |------|------|-------|
 | Jan 19 | Konrad K | TBD |
 | Jan 26 | K-lab retreat | N/A |
-| Feb 2 | | |
-| Feb 9 | | |
-| Feb 16 | | |
-| Feb 23 | | |
-| Mar 1 | | |
-| Mar 8 | | |
-| Mar 15 | | |
-| Mar 22 | | |
-| Mar 29 | | |
-| Apr 5 | | |
-| Apr 12 | | |
-| Apr 19 | | |
-| Apr 26 | | |
-| May 3 | | |
-
+| Feb 2 | ... | ... |
+| Feb 9 |... | ... |
+| Feb 16 | ... | ... |
+| Feb 23 | ... | ... |
+| Mar 1 | ... | ... |
+| Mar 8 | ... | ... |
+| Mar 15 | ... | ... |
+| Mar 22 | ... | ... |
+| Mar 29 | ... | ... |
+| Apr 5 |... | ... |
+| Apr 12 | ... | ... |
+| Apr 19 | ... | ... |
+| Apr 26 | ... | ... |
+| May 3 | ... | ... |
 <!--[Click here for current topics (as of summer 2021)](http://kordinglab.com/2021/01/01/upcoming-lab-teaching.html)-->
 
 {% assign reference_types = "scientists|students" | split: "|" %}
