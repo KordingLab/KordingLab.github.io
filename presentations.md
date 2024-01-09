@@ -22,7 +22,7 @@ Get on the [listserv for announcements](https://groups.google.com/forum/#!forum/
 | Feb 9 |... | ... |
 | Feb 16 | ... | ... |
 | Feb 23 | ... | ... |
-| Mar 1 | Felipe | DREADDs? matrix arrays? |
+| Mar 1 | Felipe P | DREADDs? matrix arrays? |
 | Mar 8 | ... | ... |
 | Mar 15 | ... | ... |
 | Mar 22 | ... | ... |
