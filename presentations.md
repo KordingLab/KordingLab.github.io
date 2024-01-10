@@ -17,7 +17,7 @@ Get on the [listserv for announcements](https://groups.google.com/forum/#!forum/
 | Date | Name | Topic |
 |------|------|-------|
 | Jan 16 [Tues] | Konrad K | TBD |
-| Jan 26 | K-lab retreat | N/A |
+| Jan 26 [Fri] | K-lab retreat | N/A |
 | Feb 2 | ... | ... |
 | Feb 9 |... | ... |
 | Feb 16 | ... | ... |
