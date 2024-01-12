@@ -21,7 +21,7 @@ Get on the [listserv for announcements](https://groups.google.com/forum/#!forum/
 | Feb 2 | ... | ... |
 | Feb 9 |... | ... |
 | Feb 16 | ... | ... |
-| Feb 23 | ... | ... |
+| Feb 23 | Melanie S | How to decide what to tokenize |
 | Mar 1 | Felipe P | DREADDs? matrix arrays? |
 | Mar 8 | ... | ... |
 | Mar 15 | ... | ... |
