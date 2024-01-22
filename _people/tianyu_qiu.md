@@ -9,6 +9,8 @@ avatar: Tianyu_Qiu.jpg
 - _PhD Student, Aerospace Engineering, UT Austin_<br>
 
 <i class="fa fa-envelope-o"></i> `tianyuqiu@utexas.edu`<br>
+<i class="fa fa-newspaper-o"></i> [Personal Website](https://tianyuq.github.io/me/)
+
 
 **Office**<br>
 POB 5.200<br>
