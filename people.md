@@ -60,6 +60,7 @@ permalink: /people/
 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
+| [Vincent Spada](https://www.linkedin.com/in/vincent-spada-6450a3234/) | Undergraduate in ASE | Flight dynamics, NASA Langley
 | [Tyler Westenbroek](https://tyler-westenbroek.github.io) | Postdoc in Oden Institute (2023) | Postdoc in CS at UW |
 | [Bryant Zhou](https://www.linkedin.com/in/yujing-zhou-938962151) | MS in ME (2021 - 2022) | PhD student in MAE at Princeton |
 
