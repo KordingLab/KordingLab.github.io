@@ -20,7 +20,7 @@ Get on the [listserv for announcements](https://groups.google.com/forum/#!forum/
 | Jan 26 [Fri] | K-lab retreat | N/A |
 | Feb 2 | Lab business | Discussion |
 | Feb 9 |Joey R. | Conformal Prediction |
-| Feb 16 | ... | ... |
+| Feb 16 | Alessandro Lamacchia | Servers! |
 | Feb 23 | Melanie S | How to decide what to tokenize |
 | Mar 1 | Felipe P | DREADDs? matrix arrays? |
 | Mar 8 | ... | ... |
