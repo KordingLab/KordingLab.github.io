@@ -22,9 +22,9 @@ Get on the [listserv for announcements](https://groups.google.com/forum/#!forum/
 | Feb 9 |Joey R. | Conformal Prediction |
 | Feb 16 | Alessandro Lamacchia | Servers! |
 | Feb 23 | Melanie S | How to decide what to tokenize |
-| Mar 1 | Felipe P | DREADDs? matrix arrays? |
+| Mar 1 | ... | ... |
 | Mar 8 | ... | ... |
-| Mar 15 | ... | ... |
+| Mar 15 | Felipe P | DREADDs? matrix arrays? |
 | Mar 22 | Tony | "Modern" Causal Inference |
 | Mar 29 | ... | ... |
 | Apr 5 |... | ... |
