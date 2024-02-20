@@ -26,7 +26,7 @@ Get on the [listserv for announcements](https://groups.google.com/forum/#!forum/
 | Mar 8 | ... | ... |
 | Mar 15 | Felipe P | DREADDs? matrix arrays? |
 | Mar 22 | Tony | "Modern" Causal Inference |
-| Mar 29 | ... | ... |
+| Mar 29 | Joey | Introduction to type theory |
 | Apr 5 |... | ... |
 | Apr 12 | ... | ... |
 | Apr 19 | ... | ... |
