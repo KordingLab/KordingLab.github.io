@@ -21,7 +21,7 @@ Get on the [listserv for announcements](https://groups.google.com/forum/#!forum/
 | Feb 2 | Lab business | Discussion |
 | Feb 9 |Joey R. | Conformal Prediction |
 | Feb 16 | Alessandro Lamacchia | Servers! |
-| Feb 23 | Melanie S | How to decide what to tokenize |
+| Feb 23 | Reading club | Episodic Memory |
 | Mar 1 | ... | ... |
 | Mar 8 | ... | ... |
 | Mar 15 | Felipe P | DREADDs? matrix arrays? |
