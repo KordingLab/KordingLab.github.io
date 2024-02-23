@@ -24,9 +24,9 @@ Get on the [listserv for announcements](https://groups.google.com/forum/#!forum/
 | Feb 23 | Reading club | Episodic Memory |
 | Mar 1 | ... | ... |
 | Mar 8 | ... | ... |
-| Mar 15 | Felipe P | DREADDs? matrix arrays? |
+| Mar 15 | ... | ... |
 | Mar 22 | Tony | "Modern" Causal Inference |
-| Mar 29 | ... | ... |
+| Mar 29 | Felipe P | mactrack i think |
 | Apr 5 |... | ... |
 | Apr 12 | Joey | How to program a brain |
 | Apr 19 | ... | ... |
