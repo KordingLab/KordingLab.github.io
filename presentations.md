@@ -22,8 +22,8 @@ Get on the [listserv for announcements](https://groups.google.com/forum/#!forum/
 | Feb 9 |Joey R. | Conformal Prediction |
 | Feb 16 | Alessandro Lamacchia | Servers! |
 | Feb 23 | Reading club | Episodic Memory |
-| Mar 1 | ... | ... |
-| Mar 8 | ... | ... |
+| Mar 1 | Lab 1-1s | do 'em |
+| Mar 8 | Lab 1-1s | do 'em |
 | Mar 15 | ... | ... |
 | Mar 22 | Tony | "Modern" Causal Inference |
 | Mar 29 | Felipe P | mactrack & friends i think |
