@@ -26,10 +26,10 @@ Get on the [listserv for announcements](https://groups.google.com/forum/#!forum/
 | Mar 8 | Lab 1-1s | do 'em |
 | Mar 15 | ... | ... |
 | Mar 22 | Tony | "Modern" Causal Inference |
-| Mar 29 | Felipe P | mactrack & friends i think |
-| Apr 5 |... | ... |
+| Mar 29 | ... | ... |
+| Apr 5 |Felipe P | sts experiments, tracking |
 | Apr 12 | Joey | How to program a brain |
-| Apr 19 | ... | ... |
+| Apr 19 | 
 | Apr 26 | ... | ... |
 | May 3 | ... | ... |
 
