@@ -1,3 +1,7 @@
+- date: 2024-03-19
+  details: >-
+    We submitted <a href="https://arxiv.org/abs/2403.12210">Decomposing Control Lyapunov Functions for Efficient Reinforcement Learning to RA-L. Code can be found <a href="https://github.com/CLeARoboticsLab/DCLF-RL">here</a>.
+
 - date: 2024-02-19
   details: >-
     Our paper <a href="https://arxiv.org/abs/2310.18171">Leadership Inference for Multi-Agent Interactions</a> was accepted to RA-L.
