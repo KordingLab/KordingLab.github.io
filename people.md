@@ -61,9 +61,9 @@ permalink: /people/
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
 | [Junette Hsin](https://junettehsin.com) | MS in ASE (2023) | PhD student in [HCRL](https://sites.utexas.edu/hcrl/) |
-| [Vincent Spada](https://www.linkedin.com/in/vincent-spada-6450a3234/) | Undergraduate in ASE | Flight dynamics, NASA Langley |
+| [Vincent Spada](https://www.linkedin.com/in/vincent-spada-6450a3234/) | Undergraduate in ASE (2023)| Flight dynamics, NASA Langley |
 | [Tyler Westenbroek](https://tyler-westenbroek.github.io) | Postdoc in Oden Institute (2023) | Postdoc in CS at UW |
-| [Bryant Zhou](https://www.linkedin.com/in/yujing-zhou-938962151) | MS in ME ()2022) | PhD student in MAE at Princeton |
+| [Bryant Zhou](https://www.linkedin.com/in/yujing-zhou-938962151) | MS in ME (2022) | PhD student in MAE at Princeton |
 
 {% endif %}
 {% endfor %}
