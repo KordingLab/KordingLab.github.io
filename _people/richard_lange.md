@@ -8,6 +8,8 @@ joined: 2020
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
+Richard Lange is now assistant professor at Rochester.
+
 ### Research Interests
 
 I'm working on a variety of topics, loosely collected under the heading of **finding or creating useful structure in neural representations**
