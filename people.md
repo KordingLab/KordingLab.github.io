@@ -59,9 +59,9 @@ permalink: /people/
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
 | [Xinyue Wang](https://www.charonwangg.com/) | Graduate Student (2021-2023) | PhD Student, Halıcıoğlu Data Science Institute, UCSD |
-| Ilenna Jones | Graduate Student (2017-2023) | 
-| Ben Baker | Post-doc (2021-2023) | 
-| Richard Lange | Post-doc (2021-2023) | |
+| [Ilenna Jones](https://www.ilenna.com/) | Graduate Student (2017-2023) | 
+| [Ben Baker](https://www.tbenbaker.com/) | Post-doc (2021-2023) | Assistant Professor of Philosophy at Colby|
+| [Richard Lange](https://www.rit.edu/directory/rdlvcs-richard-lange)  | Post-doc (2021-2023) | Assistant Professor at Rochester University|
 | Justin Brantley | Post-doc (2021-2023) | |
 | [Ari Benjamin](https://ari-benjamin.com/) | Graduate student (2016-2022) | Postdoc with Tony Zador at Cold Spring Harbor Laboratory |
 | [Titipat Achakulvisut](https://kordinglab.com/people/titipat_achakulvisut/.index.html) | Graduate Student (2014 - 2021) | [Biomedical and Data Lab](https://biodatlab.github.io/), Dept of Biomedical Engineering, Mahidol University, Thailand |
