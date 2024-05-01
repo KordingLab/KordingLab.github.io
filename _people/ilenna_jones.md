@@ -8,6 +8,8 @@ joined: 2018
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
+Ilenna is now postdoc at Kemptner institute, Harvard where she studies differentiable neuron models.
+
 ### Contact
 
 <i class="fa fa-envelope-o"></i>  `ilennaj@pennmedicine.upenn.edu`<br>
