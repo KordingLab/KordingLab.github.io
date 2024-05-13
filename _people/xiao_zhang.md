@@ -6,6 +6,6 @@ twitter:
 joined: 2023
 ---
 
-<img width="300" src="http://xzhang.art/img/profile.JPG" data-action="zoom">
+<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 xzhang11@seas.upenn.edu
