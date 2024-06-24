@@ -4,7 +4,7 @@ permalink: /about/
 ---
 
 ### About us
-We are a group of scientists and engineers working at the intersection between robotics, control theory, machine learning, and game theory to design high performance, interactive autonomous systems. Our lab is based in the [Department of Aerospace Engineering and Engineering Mechanics](https://www.ae.utexas.edu) and is affiliated with [Texas Robotics](https://robotics.utexas.edu) and the [Oden Institute for Computational Engineering and Sciences](https://oden.utexas.edu).
+We are a group of scientists and engineers working at the intersection between robotics, control theory, machine learning, and game theory to design high performance, interactive autonomous systems. Our lab is based in the [Department of Aerospace Engineering and Engineering Mechanics](https://www.ae.utexas.edu) and is affiliated with [Texas Robotics](https://robotics.utexas.edu), the [Center for Autonomy](https://autonomy.oden.utexas.edu), and the [Oden Institute for Computational Engineering and Sciences](https://oden.utexas.edu).
 
 ### Research
 Some of our lab's core research interests are:
@@ -12,6 +12,9 @@ Some of our lab's core research interests are:
 - posing interactive motion planning problems as multi-player, noncooperative dynamic games and designing efficient algorithms to solve them
 - inferring properties of game-theoretic interactions, such as equilibrium type, player objectives, and constraints
 - building a rapprochement between machine learning methods and classical techniques for robust, adaptive, and geometric control
+
+### Outreach
+Our lab aims to make a positive impact beyond research. We participate in a broad program of academic outreach organized through the [Center for Autonomy](https://autonomy.oden.utexas.edu), run hands-on events for local high school students, and mentor interested high school and undergraduate students.
 
 ### Lab members
 
@@ -25,4 +28,4 @@ Visit the [Q&A]({% link QandA.md %}) page to learn more about what research is l
 
 If you are a prospective *graduate student*, please feel free to reach out to David by email to express your interest. In your note, please identify one recent publication from the lab that you find interesting, and explain the technical nugget you found most exciting. Please also mention your favorite math class and the most exciting topic you learned in that class.
 
-If you are an *undergraduate student* who is interested in doing research in the lab, e.g. for a summer internship, please _first_ reach out to students or postdocs in the lab and try to identify a potential mentor. Once you have identified a potential mentor, please email David and cc that mentor.
+Our lab also supports highly motivated undergraduate researchers. If you are an *undergraduate student* and would like to get involved, please understand that the vast majority of work we do is mathematically-oriented. To see if you might be a good fit, please do the following: _(i)_ read the first two chapters of [this textbook](https://www.math.uci.edu/~qnie/Publications/NumericalOptimization.pdf), and if you find the concepts exciting then _(ii)_ email David to set up a time to chat about how you might get involved in the lab. At the meeting, be ready to explain key technical ideas you learned from your reading.

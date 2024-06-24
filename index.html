@@ -10,22 +10,24 @@ layout: default
       <p>
           <i>Department of Aerospace Engineering and Engineering Mechanics</i><br>
           <i>Texas Robotics</i><br>
+          <i>Center for Autonomy</i><br>
           <i>Oden Institute for Computational Engineering and Sciences</i><br>
           <i>The University of Texas at Austin</i>
 
         <span style="display: block; margin-bottom: 3em"></span>
 
-      <a href="https://github.com/CLeARoboticsLab"><i class="fa fa-github"></i> CLeAR Lab</a>&nbsp;&nbsp;&nbsp;
-      <a href="mailto:dfk@utexeas.edu"><i class="fa fa-envelope-o"></i> dfk@utexas.edu</a>
+      <a href="https://github.com/CLeARoboticsLab"><i class="fa fa-github"></i> CLeAR Lab on GitHub</a>&nbsp;&nbsp;&nbsp;
+      <a href="mailto:dfk@utexas.edu"><i class="fa fa-envelope-o"></i> dfk@utexas.edu</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://www.youtube.com/@CLeARLabUT/featured"><i class="fa fa-youtube-play"></i> CLeAR Lab on YouTube</a>
       </p>
 
       <div class="w3-container" style="   background: #f0f8ff; padding: 25px; border-radius:10px; border: 1px solid #5d8aa8">
         <div style="text-align:left">
           <h3> Recent News </h3>
-          <u>Happenings of the last two months. Updated {{ 'now' | date: "%m/%d/%y" }}.</u>
+          <u>Happenings of the last three months. Updated {{ 'now' | date: "%m/%d/%y" }}.</u>
           <span style="display: block; margin-bottom: 1em"></span>
           <div class="news">
-              {% capture now %}{{'now' | date: '%s' | minus: 5184000 %}}{% endcapture %}
+              {% capture now %}{{'now' | date: '%s' | minus: 7862000 %}}{% endcapture %}
               <ul style="list-style-position:outside;padding:20px" >
                 {% for new in site.data.news %}
                   {% capture date %}{{new.date | date: '%s' | plus: 0 %}}{% endcapture %}

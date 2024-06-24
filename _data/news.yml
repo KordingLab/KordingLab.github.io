@@ -1,6 +1,90 @@
+- date: 2024-06-18
+  details: >-
+    We submitted <a href="https://arxiv.org/abs/2406.03565">Second-Order Algorithms for Finding Local Nash Equilibria in Zero-Sum Games</a>.
+
+- date: 2024-06-06
+  details: >-
+    We submitted <a href="https://arxiv.org/abs/2402.08902">Auto-Encoding Bayesian Inverse Games</a> and <a href="https://arxiv.org/abs/2309.10901">Game-theoretic Occlusion-Aware Motion Planning - an Efficient Hybrid-Information Approach</a> to WAFR 2024.
+
+- date: 2024-05-29
+  details: >-
+    We submitted <a href="https://arxiv.org/abs/2405.19292">Act Natural! Projecting Autonomous System Trajectories Into Naturalistic Behavior Sets</a> to CPHS 2024.
+
+- date: 2024-03-22
+  details: >-
+    We submitted <a href="https://arxiv.org/pdf/2404.00733.pdf">Smooth Information Gathering in Two-Player Noncooperative Games</a>, <a href="https://arxiv.org/pdf/2404.02876.pdf">Sensing Resource Allocation Against Data-Poisoning Attacks in Traffic Routing</a>, and <a href="https://arxiv.org/pdf/2309.11076.pdf">Symbolic Regression on Sparse and Noisy Data with Gaussian Processes</a> to CDC 2024.
+
+- date: 2024-03-19
+  details: >-
+    We submitted <a href="https://arxiv.org/abs/2403.12210">Decomposing Control Lyapunov Functions for Efficient Reinforcement Learning</a> to RA-L. Code can be found <a href="https://github.com/CLeARoboticsLab/DCLF-RL">here</a>.
+
+- date: 2024-03-08
+  details: >-
+    We submitted <a href="https://arxiv.org/abs/2403.10384">Coordination in Noncooperative Multiplayer Matrix Games via Reduced Rank Correlated Equilibria</a> to L-CSS and CDC 2024.
+
+- date: 2024-02-19
+  details: >-
+    Our paper <a href="https://arxiv.org/abs/2310.18171">Leadership Inference for Multi-Agent Interactions</a> was accepted to RA-L.
+
+- date: 2024-02-02
+  details: >-
+    We submitted <a href="https://arxiv.org/pdf/2402.08902.pdf">Auto-Encoding Bayesian Inverse Games</a>.
+
+- date: 2024-01-26
+  details: >-
+    We submitted <a href="https://arxiv.org/pdf/2401.15745.pdf">The Computation of Approximate Feedback Stackelberg Equilibria in Multi-Player Nonlinear Constrained Dynamic Games</a> to the SIAM Journal on Optimization.
+
+- date: 2023-12-28
+  details: >-
+    D. Fridovich-Keil won the <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2336840&HistoricalAwards=false">NSF CAREER Award</a> to study flexible models and efficient algorithms for large-scale, multi-agent, and uncertain cyber-physical systems.
+
+- date: 2023-11-29
+  details: >-
+    We submitted <a href="https://arxiv.org/pdf/2311.17008.pdf">An Investigation of Time Reversal Symmetry in Reinforcement Learning</a> to L4DC.
+
+- date: 2023-11-15
+  details: >-
+    We submitted <a href="https://arxiv.org/abs/2311.09439">Learning Hyperplanes for Multi-Agent Collision Avoidance in Space</a> to RA-L. Code can be found <a href="https://github.com/CLeARoboticsLab/InverseHyperplanes.jl">here</a>.
+
+- date: 2023-10-26
+  details: >-
+    We submitted <a href="https://arxiv.org/abs/2310.18171">Leadership Inference for Multi-Agent Interactions</a> to RA-L.
+
+- date: 2023-09-29
+  details: >-
+    We submitted <a href="https://arxiv.org/pdf/2310.00468.pdf">Encouraging Inferable Behavior for Autonomy: Repeated Bimatrix Stackelberg Games with Observations</a> to ACC 2024.
+
+- date: 2023-09-15
+  details: >-
+    We submitted <a href="http://arxiv.org/abs/2309.10901">Game-theoretic Occlusion-Aware Motion Planning: an Efficient Hybrid-Information Approach</a>, <a href="https://arxiv.org/abs/2303.09744">Inferring Occluded Agent Behavior in Dynamic Games with Noise-Corrupted Observations</a>, and <a href="https://arxiv.org/abs/2309.11076">GPSINDy: Data-Driven Discovery of Equations of Motion</a> to ICRA 2024.
+
+- date: 2023-08-17
+  details: >-
+    We submitted <a href="https://arxiv.org/pdf/2304.05483">Contingency Games for Multi-Agent Interaction</a> to RA-L.
+
+- date: 2023-07-11
+  details: >-
+    Our papers <a href="https://arxiv.org/pdf/2304.01945.pdf">Scenario-Game ADMM: A Parallelized Scenario-Based Solver for Stochastic Noncooperative Games</a>, <a href="https://arxiv.org/abs/2304.00163">Soft-Bellman Equilibrium in Affine Markov Games: Forward Solutions and Inverse Learning</a>, and <a href="https://arxiv.org/pdf/2308.11546.pdf">Risk-Minimizing Two-Player Zero-Sum Stochastic Differential Game via Path Integral Control</a> were accepted to CDC 2023.
+
+- date: 2023-06-08
+  details: >-
+    We submitted <a href="https://arxiv.org/pdf/2307.08168.pdf">Feedback is All You Need: Real-World Reinforcement Learning with Approximate Physics-Based Models</a> and <i>An Investigation of Time Reversal Symmetry in Reinforcement Learning</i> to CoRL 2023.
+
+- date: 2023-03-31
+  details: >-
+    We submitted <a href="https://arxiv.org/pdf/2304.01945.pdf">Scenario-Game ADMM: A Parallelized Scenario-Based Solver for Stochastic Noncooperative Games</a> to CDC 2023.
+
+- date: 2023-03-31
+  details: >-
+    We submitted <a href="https://arxiv.org/abs/2304.00163">Soft-Bellman Equilibrium in Affine Markov Games: Forward Solutions and Inverse Learning</a> to CDC 2023.
+
 - date: 2023-02-25
   details: >-
     We submitted <a href="https://arxiv.org/abs/2303.09744">Identifying Occluded Agents in Dynamic Games with Noise-Corrupted Observations</a> to IROS 2023.
+
+- date: 2023-02-03
+  details: >-
+    We submitted <a href="https://arxiv.org/abs/2304.05483">Contingency Games for Multi-Agent Interaction</a> to RSS 2023 (<a href="https://youtu.be/WVzK7yBejlU">video</a>). An interactive widget and other supplementary material is available <a href="https://lasse-peters.net/pub/contingency-games/">here</a>.
 
 - date: 2023-01-19
   details: >-
@@ -8,15 +92,15 @@
 
 - date: 2023-01-19
   details: >-
-    D. Fridovich-Keil's papers <a href="https://arxiv.org/abs/2301.07822">GrAVITree: Graph-based Approximate Value Function In a Tree</a> and <a href="https://arxiv.org/pdf/2210.01221">Cost Design in Atomic Routing Games</a> were accepted to ACC 2023.
+    Our papers <a href="https://arxiv.org/abs/2301.07822">GrAVITree: Graph-based Approximate Value Function In a Tree</a> and <a href="https://arxiv.org/pdf/2210.01221">Cost Design in Atomic Routing Games</a> were accepted to ACC 2023.
 
 - date: 2023-01-16
   details: >-
-    D. Fridovich-Keil's paper <a href="https://arxiv.org/abs/2209.10802">Robust Forecasting for Robotic Control: A Game-Theoretic Approach</a> was accepted to ICRA 2023.
+    Our paper <a href="https://arxiv.org/abs/2209.10802">Robust Forecasting for Robotic Control: A Game-Theoretic Approach</a> was accepted to ICRA 2023.
 
 - date: 2023-01-03
   details: >-
-    D. Fridovich-Keil's paper <a href="https://arxiv.org/pdf/2301.01398.pdf">Cost Inference for Feedback Dynamic Games from Noisy Partial State Observations and Incomplete Trajectories</a> was accepted to AAMAS 2023.
+    Our paper <a href="https://arxiv.org/pdf/2301.01398.pdf">Cost Inference for Feedback Dynamic Games from Noisy Partial State Observations and Incomplete Trajectories</a> was accepted to AAMAS 2023.
 
 - date: 2022-12-15
   details: >-

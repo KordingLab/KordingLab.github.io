@@ -4,7 +4,7 @@ permalink: /people/
 ---
 
 {% assign people_sorted = site.people | sort: 'joined' %}
-{% assign role_array = "pi|postdoc|gradstudent|researchstaff|visiting|others|alumni" | split: "|" %}
+{% assign role_array = "pi|postdoc|gradstudent|researchstaff|visiting|others|undergraduate|alumni" | split: "|" %}
 
 {% for role in role_array %}
 
@@ -28,6 +28,8 @@ permalink: /people/
 <h3>Visiting Scholars</h3>
  {% elsif role == 'others' %}
 <h3>Honorary Members</h3>
+{% elsif role == 'undergraduate' %}
+<h3>Undergraduate Students</h3>
  {% elsif role == 'alumni' %}
 <h3>Alumni</h3>
 {% endif %}
@@ -58,7 +60,10 @@ permalink: /people/
 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
-| [Bryant Zhou](https://www.linkedin.com/in/yujing-zhou-938962151) | MS in ME (2021 - 2022) | PhD student in MAE at Princeton |
+| [Junette Hsin](https://junettehsin.com) | MS in ASE (2023) | PhD student in [HCRL](https://sites.utexas.edu/hcrl/) |
+| [Vincent Spada](https://www.linkedin.com/in/vincent-spada-6450a3234/) | Undergraduate in ASE (2023)| Flight dynamics, NASA Langley |
+| [Tyler Westenbroek](https://tyler-westenbroek.github.io) | Postdoc in Oden Institute (2023) | Postdoc in CS at UW |
+| [Bryant Zhou](https://www.linkedin.com/in/yujing-zhou-938962151) | MS in ME (2022) | PhD student in MAE at Princeton |
 
 {% endif %}
 {% endfor %}

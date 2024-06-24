@@ -57,11 +57,11 @@ For lab position, you can choose position from 4 classes including `postdoc`, `g
 
 ### Add your publications
 
-Copy the BibTex entry of your paper from Google Scholar and paste it in `_bibliography/references.bib`somewhere after the header. Make sure to include PDF and video links as relevant; you can find examples in the aforementioned file.
+Copy the BibTex entry of your paper from Google Scholar and paste it in `_bibliography/references.bib`somewhere after the header. Make sure to include PDF and video links as relevant; you can find examples in the aforementioned file. Also, please create a news item (see below) announcing your paper and providing a link to the PDF and any other supplementary material you wish to publicize.
 
 ### Add news
 
-All news presented in the front page by editing `_data/news.yml`. There are some symbol that cannot be used directly e.g. `:`, be careful!
+All news presented in the front page by editing `_data/news.yml`. There are some symbols that cannot be used directly e.g. `:`, be careful!
 
 ### Publish an update
 

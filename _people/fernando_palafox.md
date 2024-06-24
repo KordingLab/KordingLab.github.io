@@ -9,13 +9,13 @@ avatar: fernando_palafox.jpg
 - _PhD Student, Aerospace Engineering, UT Austin_<br>
 
 <i class="fa fa-envelope-o"></i> `fernandopalafox@utexas.edu`<br>
-<i class="fa fa-newspaper-o"></i> [CV (pdf)](/documents/fp_resume.pdf)
+<i class="fa fa-newspaper-o"></i> [Website](https://palafox.info)
 
-**Office**<br>
-Anna Hiss Gym 2.204<br>
-2501 Wichita St,
-Austin, TX 78712
+Fernando Palafox is a Ph.D. student at the Department of Aerospace Engineering at UT Austin.
+He is interested in building artificial intelligence that can reason about multi-agent interactions. 
+His research leverages control theory, game theory, and machine learning.  
+Learn more about his research [here](https://palafox.info/research/).
 
-[Fernando Palafox](https://www.linkedin.com/in/fernando-palafox/) is a PhD student at the University of Texas at Austin. Fernando is interested in understanding multi-agent autonomous systems through the lens of controls, game theory, and artificial intelligence.  
-
-Fernando holds a BS and MS in Aerospace Engineering from the University of Colorado Boulder. Outside of research, he is a competitive cyclist and enjoys photography.  
+Fernando was born and raised in Mexico City and holds a B.S. and M.S. in Aerospace Engineering from the University of Colorado Boulder. 
+Outside of research, he enjoys reading and exercising. 
+Read more about him [here](https://palafox.info/about). 

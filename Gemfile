@@ -6,3 +6,6 @@ source "https://rubygems.org"
 
 gem "webrick"
 gem "jekyll-scholar"
+gem "rake"
+
+gem "racc", "~> 1.7"
