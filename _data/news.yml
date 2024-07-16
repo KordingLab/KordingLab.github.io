@@ -1,3 +1,43 @@
+- date: 2024-07-13
+  details: >-
+    We submitted <a href="https://arxiv.org/abs/2303.09744">Inferring Occluded Agent Behavior in Dynamic Games from Noise Corrupted Observations</a> to to RA-L.
+
+- date: 2024-06-18
+  details: >-
+    We submitted <a href="https://arxiv.org/abs/2406.03565">Second-Order Algorithms for Finding Local Nash Equilibria in Zero-Sum Games</a>.
+
+- date: 2024-06-06
+  details: >-
+    We submitted <a href="https://arxiv.org/abs/2402.08902">Auto-Encoding Bayesian Inverse Games</a> and <a href="https://arxiv.org/abs/2309.10901">Game-theoretic Occlusion-Aware Motion Planning - an Efficient Hybrid-Information Approach</a> to WAFR 2024.
+
+- date: 2024-05-29
+  details: >-
+    We submitted <a href="https://arxiv.org/abs/2405.19292">Act Natural! Projecting Autonomous System Trajectories Into Naturalistic Behavior Sets</a> to CPHS 2024.
+
+- date: 2024-03-22
+  details: >-
+    We submitted <a href="https://arxiv.org/pdf/2404.00733.pdf">Smooth Information Gathering in Two-Player Noncooperative Games</a>, <a href="https://arxiv.org/pdf/2404.02876.pdf">Sensing Resource Allocation Against Data-Poisoning Attacks in Traffic Routing</a>, and <a href="https://arxiv.org/pdf/2309.11076.pdf">Symbolic Regression on Sparse and Noisy Data with Gaussian Processes</a> to CDC 2024.
+
+- date: 2024-03-19
+  details: >-
+    We submitted <a href="https://arxiv.org/abs/2403.12210">Decomposing Control Lyapunov Functions for Efficient Reinforcement Learning</a> to RA-L. Code can be found <a href="https://github.com/CLeARoboticsLab/DCLF-RL">here</a>.
+
+- date: 2024-03-08
+  details: >-
+    We submitted <a href="https://arxiv.org/abs/2403.10384">Coordination in Noncooperative Multiplayer Matrix Games via Reduced Rank Correlated Equilibria</a> to L-CSS and CDC 2024.
+
+- date: 2024-02-19
+  details: >-
+    Our paper <a href="https://arxiv.org/abs/2310.18171">Leadership Inference for Multi-Agent Interactions</a> was accepted to RA-L.
+
+- date: 2024-02-02
+  details: >-
+    We submitted <a href="https://arxiv.org/pdf/2402.08902.pdf">Auto-Encoding Bayesian Inverse Games</a>.
+
+- date: 2024-01-26
+  details: >-
+    We submitted <a href="https://arxiv.org/pdf/2401.15745.pdf">The Computation of Approximate Feedback Stackelberg Equilibria in Multi-Player Nonlinear Constrained Dynamic Games</a> to the SIAM Journal on Optimization.
+
 - date: 2023-12-28
   details: >-
     D. Fridovich-Keil won the <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2336840&HistoricalAwards=false">NSF CAREER Award</a> to study flexible models and efficient algorithms for large-scale, multi-agent, and uncertain cyber-physical systems.
