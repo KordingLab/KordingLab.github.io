@@ -65,6 +65,7 @@ collections:
     output: true
     permalink: /people/:title/index.html
 
+plugins: ['jekyll/scholar']
 plugins_dir: [jekyll-scholar]
 
 scholar:
