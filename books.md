@@ -5,7 +5,7 @@ permalink: /books/
 
 ### Smooth Game Theory
 
-This monograph accompanies the graduate class **ASE 389: Game-Theoretic Modeling of Multi-Agent Systems** at UT Austin. It provides a general overview of both static and dynamic games, with a focus on developing an optimization-oriented perspective for defining---and solving for---equilibria of games in which players have differentiable objectives and constraints.
+This monograph accompanies the graduate class _ASE 389: Game-Theoretic Modeling of Multi-Agent Systems_ at UT Austin. It provides a general overview of both static and dynamic games, with a focus on developing an optimization-oriented perspective for defining---and solving for---equilibria of games in which players have differentiable objectives and constraints.
 
 A preprint is available [here](/documents/smooth_game_theory.pdf), and below. If you find this monograph useful in your work, please cite it as follows:
 ```
