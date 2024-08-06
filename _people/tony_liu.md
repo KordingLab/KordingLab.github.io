@@ -1,6 +1,6 @@
 ---
 name: Tony Liu
-position: gradstudent
+position: alumni
 avatar: tony_liu.jpg
 twitter:
 joined: 2018
