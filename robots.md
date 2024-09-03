@@ -58,7 +58,7 @@ permalink: /robots/
       <img class="robot-thumbnail" src="{{ site.baseurl }}/images/robots/bigarm.jpg">
       <span class="robot-name">Frank Emika Panda</span>
       <div class="robot-caption-container">
-        <span class="robot-caption">2 7DoF robots arms that provide access to creative ranges of motion</span>
+        <span class="robot-caption">2x 7DoF robots arms that provide access to creative ranges of motion</span>
       </div>
     </div>
 
@@ -66,7 +66,7 @@ permalink: /robots/
       <img class="robot-thumbnail" src="{{ site.baseurl }}/images/robots/jetracer.jpg">
       <span class="robot-name">NVIDIA Jetracer</span>
       <div class="robot-caption-container">
-        <span class="robot-caption">Programmable RC Car with a sensor suite and onboard computation by Nvidia Jetson</span>
+        <span class="robot-caption">3x programmable RC cars with a sensor suite and onboard computation by Nvidia Jetson</span>
       </div>
     </div>
 
@@ -82,9 +82,9 @@ permalink: /robots/
   <div class="row">
     <div class="list-item-robot">
       <img class="robot-thumbnail" src="{{ site.baseurl }}/images/robots/quadruped.jpg">
-      <span class="robot-name">Unitree Go1 Edu</span>
+      <span class="robot-name">Unitree Go1/2 Edu</span>
       <div class="robot-caption-container">
-        <span class="robot-caption">Quadrupedal robot with low-level torque control and a fancy sensor suite</span>
+        <span class="robot-caption">3x quadrupedal robots with low-level torque control and a fancy sensor suite</span>
       </div>
     </div>
 
@@ -118,25 +118,10 @@ permalink: /robots/
       <span class="robot-name">Jackal</span>
       <div class="robot-caption-container">
         <span class="robot-caption">Compact autonomy research robot with ROS, LIDAR, laser rangefinder, and FLIR Backfly camera.</span>
-      
+
       </div>
     </div>
 
 
   </div>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
