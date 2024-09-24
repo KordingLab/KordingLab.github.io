@@ -60,10 +60,12 @@ permalink: /people/
 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
-| [Junette Hsin](https://junettehsin.com) | MS in ASE (2023) | PhD student in [HCRL](https://sites.utexas.edu/hcrl/) |
-| [Vincent Spada](https://www.linkedin.com/in/vincent-spada-6450a3234/) | Undergraduate in ASE (2023)| Flight dynamics, NASA Langley |
+| [Antonio Lopez](https://mx.linkedin.com/in/antonio-lopez-guzman-55a060213) | MS in ASE (2021-2023) | Pacific Northwest National Lab |
+| [Jonathan Salfity](https://www.linkedin.com/in/jsalfity) | PhD student in ME (2021-2023) | PhD student with [NRG](https://robotics.me.utexas.edu) |
+| [Junette Hsin](https://junettehsin.com) | MS student in ASE (2022-2023) | PhD student in [HCRL](https://sites.utexas.edu/hcrl/) |
+| [Vincent Spada](https://www.linkedin.com/in/vincent-spada-6450a3234/) | Undergraduate student in ASE (2023)| Flight dynamics, NASA Langley |
 | [Tyler Westenbroek](https://tyler-westenbroek.github.io) | Postdoc in Oden Institute (2023) | Postdoc in CS at UW |
-| [Bryant Zhou](https://www.linkedin.com/in/yujing-zhou-938962151) | MS in ME (2022) | PhD student in MAE at Princeton |
+| [Bryant Zhou](https://www.linkedin.com/in/yujing-zhou-938962151) | MS student in ME (2021-2022) | PhD student in MAE at Princeton |
 
 {% endif %}
 {% endfor %}
