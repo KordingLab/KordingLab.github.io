@@ -60,7 +60,8 @@ permalink: /people/
 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
-| [Antonio Lopez](https://mx.linkedin.com/in/antonio-lopez-guzman-55a060213) | MS in ASE (2021-2023) | Pacific Northwest National Lab |
+| [Antonio Lopez](https://mx.linkedin.com/in/antonio-lopez-guzman-55a060213) | MS student in ASE (2021-2023) | Pacific Northwest National Lab |
+| [Andriy Malyshchak](https://www.linkedin.com/in/andriy-malyshchak-a19709232) | Undergraduate student in ECE (2022-2023) | Texas Robotics
 | [Jonathan Salfity](https://www.linkedin.com/in/jsalfity) | PhD student in ME (2021-2023) | PhD student with [NRG](https://robotics.me.utexas.edu) |
 | [Junette Hsin](https://junettehsin.com) | MS student in ASE (2022-2023) | PhD student in [HCRL](https://sites.utexas.edu/hcrl/) |
 | [Vincent Spada](https://www.linkedin.com/in/vincent-spada-6450a3234/) | Undergraduate student in ASE (2023)| Flight dynamics, NASA Langley |
