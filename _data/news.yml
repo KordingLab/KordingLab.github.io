@@ -1,6 +1,10 @@
+- date: 2024-10-22
+  details: >-
+    Our paper <a href="https://arxiv.org/abs/2303.09744">Inferring Occluded Agent Behavior in Dynamic Games from Noise Corrupted Observations</a> was accepted to RA-L.
+
 - date: 2024-10-16
   details: >-
-    We submitted <a href="">Policies with Sparse Inter-Agent Dependencies in Dynamic Games</a>, <a href="">Decentralized Equilibrium Selection via Trading Auction</a>, <a href="">You Can’t Always Get What You Want: Games of Ordered Preference</a>, and <a href="">Improving DeFi Mechanisms with Dynamic Games and Optimal Control: A Case Study in Stablecoins</a>
+    We submitted <a href="https://arxiv.org/pdf/2410.16441">Policies with Sparse Inter-Agent Dependencies in Dynamic Games</a>, <a href="https://arxiv.org/pdf/2404.00733">Smooth Information Gathering in Two-Player Noncooperative Games</a>, <a href="https://arxiv.org/abs/2410.21447">You Can't Always Get What You Want: Games of Ordered Preference</a>, and <a href="https://arxiv.org/abs/2410.21446">Improving DeFi Mechanisms with Dynamic Games and Optimal Control: A Case Study in Stablecoins</a>.
 
 - date: 2024-10-02
   details: >-
@@ -12,7 +16,7 @@
 
 - date: 2024-09-20
   details: >-
-    Our paper <i>When Should a Leader Act Suboptimally? The Role of Inferability in Repeated Stackelberg Games</i> was submitted to T-AC.
+    Our paper <a href="https://arxiv.org/pdf/2310.00468">When Should a Leader Act Suboptimally? The Role of Inferability in Repeated Stackelberg Games</a> was submitted to T-AC.
 
 - date: 2024-09-15
   details: >-
@@ -20,7 +24,7 @@
 
 - date: 2024-09-05
   details: >-
-    Our paper <a href="https://openreview.net/pdf?id=evCXwlCMIi">Learning to walk from three minutes of data with semi-structured dynamics models</a> was accepted to CoRL 2024.
+    Our paper <a href="https://openreview.net/pdf?id=evCXwlCMIi">Learning to Walk from Three Minutes of Real-World Data with Semi-structured Dynamics Models</a> was accepted to CoRL 2024.
 
 - date: 2024-09-03
   details: >-
