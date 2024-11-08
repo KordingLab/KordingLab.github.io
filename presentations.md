@@ -19,8 +19,8 @@ Get on the [listserv for announcements](https://groups.google.com/forum/#!forum/
 | Sept 30    | Joey Rudoler | "How to explain LLMs" / general-audience science talks | 
 | Oct 28     | None    | Lab 1:1 meetings   |
 | Nov 4      | Melanie Segado    | Foundation models for movement (or similar) |
-| Nov 11     | TBD    | TBD   |
-| Nov 18     | TBD    | TBD   |
+| Nov 11     | Riley DeHaan | TBD   |
+| Nov 18     | Ansh Soni  | TBD   |
 | Nov 25     | TBD    | TBD   |
 | Dec 2      | TBD    | TBD   |
 | Dec 9      | TBD    | TBD   |
