@@ -21,7 +21,7 @@ Get on the [listserv for announcements](https://groups.google.com/forum/#!forum/
 | Nov 4      | Melanie Segado    | Foundation models for movement (or similar) |
 | Nov 11     | Riley DeHaan | TBD   |
 | Nov 18     | Ansh Soni  | TBD   |
-| Nov 25     | TBD    | TBD   |
+| Nov 25     | Mialy Rasetarinera | TBD   |
 | Dec 2      | TBD    | TBD   |
 | Dec 9      | TBD    | TBD   |
 | Dec 16     | TBD    | TBD   |
