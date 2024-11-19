@@ -20,10 +20,10 @@ Get on the [listserv for announcements](https://groups.google.com/forum/#!forum/
 | Oct 28     | None    | Lab 1:1 meetings   |
 | Nov 4      | Melanie Segado    | Foundation models for movement (or similar) |
 | Nov 11     | Joey Rudoler | Structured outputs for LLMs  |
-| Nov 18     | Ansh Soni  | TBD   |
-| Nov 25     | Mialy Rasetarinera | TBD   |
+| Nov 18     | Ansh Soni  | Conclusions about neural network to brain alignment are profoundly impacted by the similarity measure   |
+| Nov 25     | Georgios Mentzelopoulos | Neural decoding from stereotactic EEG: accounting for electrode variability across subjects  |
 | Dec 2      | Yihao Li  | TBD   |
-| Dec 9      | TBD    | TBD   |
+| Dec 9      | Mialy Rasetarinera    | TBD   |
 | Dec 16     | TBD    | TBD   |
 
 {% endraw %}
