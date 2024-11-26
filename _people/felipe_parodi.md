@@ -11,9 +11,8 @@ title: Felipe Parodi
 
 ### Contact
 
-<i class="fa fa-envelope-o"></i>  `fparodi@pennmedicine.upenn.edu`<br>
+n/a
 
-<hr>
 
 ### Bio
 
