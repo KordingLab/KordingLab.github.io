@@ -4,7 +4,7 @@
 
 - date: 2024-11-30
   details: >-
-    Check out our <a href="https://github.com/CLeARoboticsLab/MixedComplementarityProblems.jl">MixedComplementarityProblems.jl</a>, which is a custom, hackable interior point solver for mixed complementarity problems! The library is built on top of Julia's symbolic math toolchain, and solutions can be automatically differentiated with respect to problem parameters in order to support ML applications.
+    Check out our new package <a href="https://github.com/CLeARoboticsLab/MixedComplementarityProblems.jl">MixedComplementarityProblems.jl</a>, which is a custom, hackable interior point solver for mixed complementarity problems! The library is built on top of Julia's symbolic math toolchain, and solutions can be automatically differentiated with respect to problem parameters in order to support ML applications.
 
 - date: 2024-10-22
   details: >-
