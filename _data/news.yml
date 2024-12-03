@@ -1,3 +1,11 @@
+- date: 2024-12-03
+  details: >-
+    We submitted <a href="https://arxiv.org/pdf/2412.01114">Dense Dynamics-Aware Reward Synthesis: Integrating Prior Experience with Demonstrations</a> to L4DC 2025.
+
+- date: 2024-11-30
+  details: >-
+    Check out our <a href="https://github.com/CLeARoboticsLab/MixedComplementarityProblems.jl">MixedComplementarityProblems.jl</a>, which is a custom, hackable interior point solver for mixed complementarity problems! The library is built on top of Julia's symbolic math toolchain, and solutions can be automatically differentiated with respect to problem parameters in order to support ML applications.
+
 - date: 2024-10-22
   details: >-
     Our paper <a href="https://arxiv.org/abs/2303.09744">Inferring Occluded Agent Behavior in Dynamic Games from Noise Corrupted Observations</a> was accepted to RA-L.
