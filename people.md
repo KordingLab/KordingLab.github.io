@@ -60,6 +60,7 @@ permalink: /people/
 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
+| [Nick Strohmeyer](https://www.linkedin.com/in/nick-strohmeyer-209a3a157/) | MS student in ECE (2022-2024) | MITRE |
 | [Antonio Lopez](https://mx.linkedin.com/in/antonio-lopez-guzman-55a060213) | MS student in ASE (2021-2023) | Pacific Northwest National Lab |
 | [Andriy Malyshchak](https://www.linkedin.com/in/andriy-malyshchak-a19709232) | Undergraduate student in ECE (2022-2023) | Texas Robotics
 | [Jonathan Salfity](https://www.linkedin.com/in/jsalfity) | PhD student in ME (2021-2023) | PhD student with [NRG](https://robotics.me.utexas.edu) |

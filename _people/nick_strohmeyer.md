@@ -1,6 +1,6 @@
 ---
 name: Nick Strohmeyer
-position: gradstudent
+position: alumni
 avatar: nick_strohmeyer.png
 ---
 
