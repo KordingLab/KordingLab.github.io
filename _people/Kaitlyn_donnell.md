@@ -6,7 +6,7 @@ avatar: kaitlyn_donnel.jpeg
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-- Undergraduate Student, Aerospace Engineering & Plan II, UT Austin_<br>
+- _Undergraduate Student, Aerospace Engineering & Plan II, UT Austin_<br>
 
 <i class="fa fa-envelope-o"></i> `kaitlyndonnel@utexas.edu`<br>
 
