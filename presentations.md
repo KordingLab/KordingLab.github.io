@@ -11,8 +11,31 @@ Anything, really. Relevant and interesting topics, good skills to know, nice Pyt
 neuroscientific princples, new findings and literature reviews... anything!
 
 Get on the [listserv for announcements](https://groups.google.com/forum/#!forum/kording-lab-teachings)
+### Spring 2025
+{% raw %}
+| Date       | Name | Topic |
+|------------|------|-------|
+| Jan 20     | Konrad Körding | Evolution for brains and machines |
+| Jan 27     | TBD  | TBD   |
+| Feb 3      | Mialy Rasetarinera | TBD   |
+| Feb 10     | None  | TBD   |
+| Feb 17     | Melanie Segado  | TBD   |
+| Feb 24     | TBD  | TBD   |
+| Mar 3      | TBD  | TBD   |
+| Mar 10     | TBD  | TBD   |
+| Mar 17     | TBD  | TBD   |
+| Mar 24     | TBD  | TBD   |
+| Mar 31     | TBD  | TBD   |
+| Apr 7      | TBD  | TBD   |
+| Apr 14     | TBD  | TBD   |
+| Apr 21     | TBD  | TBD   |
+| Apr 28     | TBD  | TBD   |
+| May 5      | TBD  | TBD   |
+| May 12     | TBD  | TBD   |
 
-### Spring 2024
+{% endraw %}
+
+### Fall 2024
 {% raw %}
 | Date       | Name   | Topic |
 |------------|--------|-------|
