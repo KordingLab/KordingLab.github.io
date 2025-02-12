@@ -17,9 +17,9 @@ Get on the [listserv for announcements](https://groups.google.com/forum/#!forum/
 |------------|------|-------|
 | Jan 20     | Konrad Körding | Evolution for brains and machines |
 | Jan 27     | TBD  | TBD   |
-| Feb 3      | Mialy Rasetarinera | TBD   |
+| Feb 3      | Mialy Rasetarinera | Musings about algorithmic fairness in AI  |
 | Feb 10     | None  | TBD   |
-| Feb 17     | Melanie Segado  | TBD   |
+| Feb 17     | Melanie Segado  | How to pretrain a model  |
 | Feb 24     | TBD  | TBD   |
 | Mar 3      | TBD  | TBD   |
 | Mar 10     | TBD  | TBD   |
