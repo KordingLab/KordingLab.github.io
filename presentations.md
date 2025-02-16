@@ -20,7 +20,7 @@ Get on the [listserv for announcements](https://groups.google.com/forum/#!forum/
 | Feb 3      | Mialy Rasetarinera | Musings about algorithmic fairness in AI  |
 | Feb 10     | None  | TBD   |
 | Feb 17     | Melanie Segado  | How to pretrain a model  |
-| Feb 24     | TBD  | TBD   |
+| Feb 24     | Joey Rudoler  | TBD  |
 | Mar 3      | TBD  | TBD   |
 | Mar 10     | TBD  | TBD   |
 | Mar 17     | TBD  | TBD   |
