@@ -19,9 +19,9 @@ Get on the [listserv for announcements](https://groups.google.com/forum/#!forum/
 | Jan 27     | TBD  | TBD   |
 | Feb 3      | Mialy Rasetarinera | Musings about algorithmic fairness in AI  |
 | Feb 10     | None  | TBD   |
-| Feb 17     | Melanie Segado  | How to pretrain a model  |
-| Feb 24     | Joey Rudoler  | TBD  |
-| Mar 3      | TBD  | TBD   |
+| Feb 17     | None  | None  |
+| Feb 24     | Melanie Segado  | How to pretrain a model |
+| Mar 3      | Joey Rudoler| TBD  |
 | Mar 10     | TBD  | TBD   |
 | Mar 17     | TBD  | TBD   |
 | Mar 24     | TBD  | TBD   |
