@@ -27,7 +27,7 @@ Get on the [listserv for announcements](https://groups.google.com/forum/#!forum/
 | Mar 24     | TBD  | TBD   |
 | Mar 31     | TBD  | TBD   |
 | Apr 7      | TBD  | TBD   |
-| Apr 14     | TBD  | TBD   |
+| Apr 14     | Ansh Soni  | TBD   |
 | Apr 21     | TBD  | TBD   |
 | Apr 28     | TBD  | TBD   |
 | May 5      | TBD  | TBD   |
