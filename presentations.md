@@ -23,7 +23,7 @@ Get on the [listserv for announcements](https://groups.google.com/forum/#!forum/
 | Feb 24     | Melanie Segado  | How to pretrain a model |
 | Mar 3      | Joey Rudoler| Representations in neural networks  |
 | Mar 10     | Jordan Matelsky  | TBD   |
-| Mar 17     | TBD  | TBD   |
+| Mar 17     | Ansh Soni  | NeuroAI & Benchmarking   |
 | Mar 24     | TBD  | TBD   |
 | Mar 31     | TBD  | TBD   |
 | Apr 7      | TBD  | TBD   |
