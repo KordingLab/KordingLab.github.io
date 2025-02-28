@@ -31,7 +31,7 @@ Get on the [listserv for announcements](https://groups.google.com/forum/#!forum/
 | Apr 21     | TBD  | TBD   |
 | Apr 28     | TBD  | TBD   |
 | May 5      | TBD  | TBD   |
-| May 12     | TBD  | TBD   |
+| May 12     | Joey V.  | Compiling to linear neurons  |
 
 {% endraw %}
 
