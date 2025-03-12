@@ -1,6 +1,82 @@
+- date: 2025-02-28
+  details: >-
+    Our paper <a href="https://arxiv.org/pdf/2412.01114">Dense Dynamics-Aware Reward Synthesis: Integrating Prior Experience with Demonstrations</a> was accepted to L4DC 2025.
+
+- date: 2025-02-28
+  details: >-
+    We submitted <i>A Framework for Finding Local Saddle Points in Two-Player Zero-Sum Black-Box Games</i> to TMLR.
+
+- date: 2025-02-05
+  details: >-
+    We submitted <a href="https://arxiv.org/pdf/2502.03616">Noncooperative Equilibrium Selection via a Trading-based Auction</a> to T-AC.
+
+- date: 2025-02-01
+  details: >-
+    Our paper <a href="https://arxiv.org/pdf/2207.06392">Relationship Design for Socially-Aware Behavior in Static Games</a> was accepted to JAAMAS.
+
+- date: 2025-01-21
+  details: >-
+    We submitted <a href="https://arxiv.org/pdf/2410.21447">You Can't Always Get What You Want: Games of Ordered Preference</a> to RA-L.
+
+- date: 2025-01-16
+  details: >-
+    Our papers <a href="https://arxiv.org/abs/2308.08017">Active Inverse Learning in Stackelberg Trajectory Games</a>, <a href="https://arxiv.org/abs/2403.12210">Decomposing Control Lyapunov Functions for Efficient Reinforcement Learning</a>, <a href="https://arxiv.org/pdf/2309.11076.pdf">Symbolic Regression on Sparse and Noisy Data with Gaussian Processes</a>, and <a href="https://arxiv.org/pdf/2410.07409">Learning responsibility allocations for multi-agent interactions: A differentiable optimization approach with control barrier functions</a> were accepted to ACC 2025.
+
+- date: 2024-12-19
+  details: >-
+    Our paper <a href="https://arxiv.org/pdf/2404.00733">Smooth Information Gathering in Two-Player Noncooperative Games</a> was accepted to AAMAS 2025.
+
+- date: 2024-12-03
+  details: >-
+    We submitted <a href="https://arxiv.org/pdf/2412.01114">Dense Dynamics-Aware Reward Synthesis: Integrating Prior Experience with Demonstrations</a> to L4DC 2025.
+
+- date: 2024-11-30
+  details: >-
+    Check out our new package <a href="https://github.com/CLeARoboticsLab/MixedComplementarityProblems.jl">MixedComplementarityProblems.jl</a>, which is a custom, hackable interior point solver for mixed complementarity problems! The library is built on top of Julia's symbolic math toolchain, and solutions can be automatically differentiated with respect to problem parameters in order to support ML applications.
+
+- date: 2024-10-22
+  details: >-
+    Our paper <a href="https://arxiv.org/abs/2303.09744">Inferring Occluded Agent Behavior in Dynamic Games from Noise Corrupted Observations</a> was accepted to RA-L.
+
+- date: 2024-10-16
+  details: >-
+    We submitted <a href="https://arxiv.org/pdf/2410.16441">Policies with Sparse Inter-Agent Dependencies in Dynamic Games</a>, <a href="https://arxiv.org/pdf/2404.00733">Smooth Information Gathering in Two-Player Noncooperative Games</a>, <a href="https://arxiv.org/abs/2410.21447">You Can't Always Get What You Want: Games of Ordered Preference</a>, and <a href="https://arxiv.org/abs/2410.21446">Improving DeFi Mechanisms with Dynamic Games and Optimal Control: A Case Study in Stablecoins</a>.
+
+- date: 2024-10-02
+  details: >-
+    We submitted <a href="https://arxiv.org/pdf/2406.03565">Second-Order Algorithms for Finding Local Nash Equilibria in Zero-Sum Games</a> and <i>A Framework for Finding Local Saddle Points in Two-Player Zero-Sum Black-Box Games</i>.
+
+- date: 2024-10-02
+  details: >-
+    Our papers <a href="https://arxiv.org/abs/2308.08017">Active Inverse Learning in Stackelberg Trajectory Games</a>, <a href="https://arxiv.org/abs/2403.12210">Decomposing Control Lyapunov Functions for Efficient Reinforcement Learning</a>, <a href="https://arxiv.org/pdf/2309.11076.pdf">Symbolic Regression on Sparse and Noisy Data with Gaussian Processes</a>, and <a href="https://arxiv.org/pdf/2410.07409">Learning responsibility allocations for multi-agent interactions: A differentiable optimization approach with control barrier functions</a> were submitted to ACC 2025.
+
+- date: 2024-09-20
+  details: >-
+    Our paper <a href="https://arxiv.org/pdf/2310.00468">When Should a Leader Act Suboptimally? The Role of Inferability in Repeated Stackelberg Games</a> was submitted to T-AC.
+
+- date: 2024-09-15
+  details: >-
+    Our paper <a href="https://arxiv.org/pdf/2405.19292">Act Natural! Projecting Autonomous System Trajectories Into Naturalistic Behavior Sets</a> was accepted to CPHS 2024.
+
+- date: 2024-09-05
+  details: >-
+    Our paper <a href="https://openreview.net/pdf?id=evCXwlCMIi">Learning to Walk from Three Minutes of Real-World Data with Semi-structured Dynamics Models</a> was accepted to CoRL 2024.
+
+- date: 2024-09-03
+  details: >-
+    Our paper <a href="https://arxiv.org/pdf/2401.15745.pdf">The Computation of Approximate Feedback Stackelberg Equilibria in Multi-Player Nonlinear Constrained Dynamic Games</a> was accepted to the SIAM Journal on Optimization.
+
+- date: 2024-08-17
+  details: >-
+    Our paper <a href="https://arxiv.org/abs/2402.08902">Auto-Encoding Bayesian Inverse Games</a> was accepted to WAFR 2024.
+
+- date: 2024-07-24
+  details: >-
+    Our paper <a href="https://arxiv.org/pdf/2404.02876">Sensing Resource Allocation Against Data-Poisoning Attacks in Traffic Routing</a> was accepted to CDC 2024.
+
 - date: 2024-07-13
   details: >-
-    We submitted <a href="https://arxiv.org/abs/2303.09744">Inferring Occluded Agent Behavior in Dynamic Games from Noise Corrupted Observations</a> to to RA-L.
+    We submitted <a href="https://arxiv.org/abs/2303.09744">Inferring Occluded Agent Behavior in Dynamic Games from Noise Corrupted Observations</a> to RA-L.
 
 - date: 2024-06-18
   details: >-

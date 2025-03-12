@@ -22,8 +22,10 @@ nav:
     href:           "/"
   - name:           "about"
     href:           "/about"
-  - name:           "publications"
+  - name:           "papers"
     href:           "/publications"
+  - name:           "books"
+    href:           "/books"
   - name:           "people"
     href:           "/people"
   - name:           "robots"
@@ -63,6 +65,7 @@ collections:
     output: true
     permalink: /people/:title/index.html
 
+plugins: ['jekyll/scholar']
 plugins_dir: [jekyll-scholar]
 
 scholar:

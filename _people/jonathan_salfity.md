@@ -1,6 +1,6 @@
 ---
 name: Jonathan Salfity
-position: gradstudent
+position: alumni
 avatar: jonathan_salfity.jpeg
 ---
 

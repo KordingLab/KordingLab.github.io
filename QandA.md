@@ -76,7 +76,7 @@ A few other things to note: (1) I try to be very responsive on email and on Slac
 
 **What do you do when students are struggling? How do you know when to step in and help more vs. letting the student figure it out?**
 
-I air on the side of letting students figure things out themselves, with only minimal technical pointers from me. A PhD is not about being _taught_ by an advisor, at least not in the sense of learning lots of technical details from him/her. It's about being _advised_ to investigate interesting questions, and learning to find the resources and technical capabilities you need to figure them out. An advisor can help point, but is not the person who teaches those capabilities, at least not most of the time.
+I err on the side of letting students figure things out themselves, with only minimal technical pointers from me. A PhD is not about being _taught_ by an advisor, at least not in the sense of learning lots of technical details from him/her. It's about being _advised_ to investigate interesting questions, and learning to find the resources and technical capabilities you need to figure them out. An advisor can help point, but is not the person who teaches those capabilities, at least not most of the time.
 
 Put another way: if a student will always be struggling without their advisor's support, then the advisor has failed to train a self-reliant student who will be capable of success in the future. You are in charge of your own education, and I expect you to take the lead!
 
