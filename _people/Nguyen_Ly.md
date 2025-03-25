@@ -14,4 +14,4 @@ joined: 2024
 
 [Nguyen Ly](https://www.linkedin.com/in/ngly712/) is a third-year aerospace engineering and physics student. His research interests lie in the planning and autonomy of multibody systems, focusing on exploring potential habitable planetary bodies and their natural satellites.
 
-Outside academia, he enjoys reading, collecting frame data for Super Smash Bros. Ultimate, and checking out indie animators.
+Outside academia, he enjoys reading, collecting frame data for Super Smash Bros. Ultimate, and checking out the latest indie animations.
