@@ -22,11 +22,11 @@ Get on the [listserv for announcements](https://groups.google.com/forum/#!forum/
 | Feb 17     | None  | None  |
 | Feb 24     | Melanie Segado  | How to pretrain a model |
 | Mar 3      | Joey Rudoler| Representations in neural networks  |
-| Mar 10     | Jordan Matelsky  | TBD   |
+| Mar 10     | None  | TBD   |
 | Mar 17     | Ansh Soni  | NeuroAI & Benchmarking   |
-| Mar 24     | TBD  | TBD   |
+| Mar 24     | Jordan Matelsky  | Intro to Quantum Computing   |
 | Mar 31     | TBD  | TBD   |
-| Apr 7      | TBD  | TBD   |
+| Apr 7      | Felipe Parodi  | TBD   |
 | Apr 14     | Ansh Soni  | TBD   |
 | Apr 21     | TBD  | TBD   |
 | Apr 28     | TBD  | TBD   |
