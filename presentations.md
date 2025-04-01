@@ -25,10 +25,10 @@ Get on the [listserv for announcements](https://groups.google.com/forum/#!forum/
 | Mar 10     | None  | TBD   |
 | Mar 17     | Ansh Soni  | NeuroAI & Benchmarking   |
 | Mar 24     | Jordan Matelsky  | Intro to Quantum Computing   |
-| Mar 31     | TBD  | TBD   |
-| Apr 7      | Felipe Parodi  | TBD   |
+| Mar 31     | None  | None   |
+| Apr 7      | Joey Rudoler  | C4R testing   |
 | Apr 14     | Ansh Soni  | TBD   |
-| Apr 21     | TBD  | TBD   |
+| Apr 21     | Felipe Parodi  | TBD   |
 | Apr 28     | TBD  | TBD   |
 | May 5      | TBD  | TBD   |
 | May 12     | Joey V.  | Compiling to linear neurons  |
