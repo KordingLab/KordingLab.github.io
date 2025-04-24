@@ -28,9 +28,9 @@ Get on the [listserv for announcements](https://groups.google.com/forum/#!forum/
 | Mar 31     | None  | None   |
 | Apr 7      | Joey Rudoler  | C4R testing   |
 | Apr 14     | Ansh Soni  | TBD   |
-| Apr 21     | Felipe Parodi  | TBD   |
-| Apr 28     | TBD  | TBD   |
-| May 5      | TBD  | TBD   |
+| Apr 21     | None  | TBD   |
+| Apr 28     | Felipe Parodi  | TBD   |
+| May 5      | Melanie Segado  | TBD   |
 | May 12     | Joey V.  | Compiling to linear neurons  |
 
 {% endraw %}
