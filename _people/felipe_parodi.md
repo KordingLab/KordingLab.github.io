@@ -1,7 +1,7 @@
 ---
 name: Felipe Parodi
 position: gradstudent
-avatar: felipe-na.jpg
+avatar: felipe.jpg
 twitter:
 joined: 2020
 title: Felipe Parodi
@@ -11,7 +11,7 @@ title: Felipe Parodi
 
 ### Contact
 
-n/a
+[Website](https://felipe-parodi.github.io/)
 
 
 ### Bio
