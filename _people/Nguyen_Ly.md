@@ -1,7 +1,7 @@
 ---
 name: Nguyen Ly
 position: undergraduate
-avatar: NLyProfile.jpg
+avatar: NLyProfile.jpeg
 joined: 2024
 ---
 
