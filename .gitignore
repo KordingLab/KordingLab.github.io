@@ -2,6 +2,8 @@ vendor/
 _bibliography/auto/
 *~
 .bundle
+.ruby-version
+Gemfile.lock
 
 # Created by https://www.gitignore.io/api/jekyll,pycharm,osx
 
