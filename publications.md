@@ -13,19 +13,19 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 _Grounding Intelligence in Movement_<br>
 M Segado, F Parodi, JK Matelsky, ML Platt, EB Dyer, KP Kording<br>
-arXiv preprint arXiv:2507.02771, 2025
+arXiv preprint arXiv:2507.02771, 2025 ([Article](https://arxiv.org/abs/2507.02771))
 
 _Who Does What in Deep Learning? Multidimensional Game-Theoretic Attribution of Function of Neural Units_<br>
 S Dixit, K Fakhar, F Hadaeghi, P Mineault, KP Kording, CC Hilgetag<br>
-arXiv preprint arXiv:2506.19732, 2025
+arXiv preprint arXiv:2506.19732, 2025 ([Article](https://arxiv.org/abs/2506.19732))
 
 _Causality in the human niche: lessons for machine learning_<br>
 RD Lange, KP Kording<br>
-arXiv preprint arXiv:2506.13803, 2025
+arXiv preprint arXiv:2506.13803, 2025 ([Article](https://arxiv.org/abs/2506.13803))
 
 _Falcon: Fractional Alternating Cut with Overcoming Minima in Unsupervised Segmentation_<br>
 X Zhang, X Han, X Lai, Y Sun, P Zhang, K Kording<br>
-arXiv preprint arXiv:2504.05613, 2025
+arXiv preprint arXiv:2504.05613, 2025 ([Article](https://arxiv.org/abs/2504.05613))
 
 _Computer Vision Systems and Methods for End-to-End Training of Convolutional Neural Networks Using Differentiable Dual-Decomposition Techniques_<br>
 S Wang, VSRS Lokhande, MK Singh, K Kording, J Yarkony<br>
@@ -33,29 +33,29 @@ US Patent App. 18/903,493, 2025
 
 _Data-Driven Early Prediction of Cerebral Palsy Using AutoML and interpretable kinematic features_<br>
 M Segado, L Prosser, AF Duncan, MJ Johnson, KP Kording<br>
-medRxiv, 2025
+medRxiv, 2025 ([Article](https://www.medrxiv.org/content/10.1101/2025.02.10.25322007v1))
 
 _Humans can learn bimodal priors in complex sensorimotor behaviour_<br>
 S Zahno, D Beck, EJ Hossner, K Kording<br>
-bioRxiv, 2025.02.12.637788, 2025
+bioRxiv, 2025.02.12.637788, 2025 ([Article](https://www.biorxiv.org/content/10.1101/2025.02.12.637788v1))
 
 _The interplay of uncertainty, relevance and learning influences auditory categorization_<br>
 J Sheth, JS Collina, E Piasini, KP Kording, YE Cohen, MN Geffen<br>
-Scientific Reports 15 (1), 3348, 2025
+Scientific Reports 15 (1), 3348, 2025 ([Article](https://www.nature.com/articles/s41598-025-86856-5))
 
 _Individual-specific strategies inform category learning_<br>
 JS Collina, G Erdil, M Xia, CF Angeloni, KC Wood, J Sheth, KP Kording, et al.<br>
-Scientific Reports 15 (1), 2984, 2025
+Scientific Reports 15 (1), 2984, 2025 ([Article](https://www.nature.com/articles/s41598-024-82219-8))
 
 _PrimateFace: A Machine Learning Resource for Automated Face Analysis in Human and Non-human Primates_<br>
 F Parodi, J Matelsky, A Lamacchia, M Segado, Y Jiang, A Regla-Vargas, et al.<br>
-bioRxiv, 2025.08.12.669927, 2025
+bioRxiv, 2025.08.12.669927, 2025 ([Article](https://www.biorxiv.org/content/10.1101/2025.08.12.669927v1))
 
 ### 2024
 
 _Neural decoding from stereotactic EEG: accounting for electrode variability across subjects_<br>
 G Mentzelopoulos, E Chatzipantazis, AG Ramayya, MJ Hedlund, VP Buch, et al.<br>
-Advances in Neural Information Processing Systems 37, 108600-108624, 2024
+Advances in Neural Information Processing Systems 37, 108600-108624, 2024 ([Article](https://proceedings.neurips.cc/paper_files/paper/2024/hash/c473b9c8897f50203fa23570687c6b30-Abstract-Conference.html))
 
 _Systems and methods for detecting corrupt or inaccurate sensory representations_<br>
 M Angle, E Huber, RC Gerkin, K Kording<br>
@@ -63,19 +63,19 @@ US Patent 12,161,443, 2024
 
 _The landscape of causal discovery data: Grounding causal discovery in real-world applications_<br>
 P Brouillard, C Squires, J Wahl, KP Kording, K Sachs, A Drouin, D Sridhar<br>
-arXiv preprint arXiv:2412.01953, 2024
+arXiv preprint arXiv:2412.01953, 2024 ([Article](https://arxiv.org/abs/2412.01953))
 
 _Homogenized Neural Activity and Connectivity Data_<br>
 Q Simeon, A Kashyap, KP Kording, ES Boyden<br>
-arXiv preprint arXiv:2411.12091, 2024
+arXiv preprint arXiv:2411.12091, 2024 ([Article](https://arxiv.org/abs/2411.12091))
 
 _A Pre-Registered, Open Pipeline for Early Cerebral Palsy Risk Assessment from Infant Videos_<br>
 M Segado, LA Prosser, AF Duncan, MJ Johnson, KP Kording<br>
-medRxiv, 2024.11.06.24316844, 2024
+medRxiv, 2024.11.06.24316844, 2024 ([Article](https://www.medrxiv.org/content/10.1101/2024.11.06.24316844))
 
 _Automated segmentation of synchrotron-scanned fossils_<br>
 MAD During, JK Matelsky, FK Gustafsson, DFAE Voeten, D Chen, et al.<br>
-bioRxiv, 2024.10.23.619778, 2024
+bioRxiv, 2024.10.23.619778, 2024 ([Article](https://www.biorxiv.org/content/10.1101/2024.10.23.619778v1))
 
 _Computer vision systems and methods for end-to-end training of convolutional neural networks using differentiable dual-decomposition techniques_<br>
 S Wang, VSRS Lokhande, MK Singh, K Kording, J Yarkony<br>
@@ -83,35 +83,35 @@ US Patent 12,106,481, 2024
 
 _Modeling attention and binding in the brain through bidirectional recurrent gating_<br>
 S Salehi, J Lei, AS Benjamin, KR Müller, KP Kording<br>
-BioRxiv, 2024.09.09.612033, 2024
+BioRxiv, 2024.09.09.612033, 2024 ([Article](https://www.biorxiv.org/content/10.1101/2024.09.09.612033v1))
 
 _Conclusions about neural network to brain alignment are profoundly impacted by the similarity measure_<br>
 A Soni, S Srivastava, K Kording, M Khosla<br>
-bioRxiv, 2024.08.07.607035, 2024
+bioRxiv, 2024.08.07.607035, 2024 ([Article](https://www.biorxiv.org/content/10.1101/2024.08.07.607035v1))
 
 _Causal inference on human behaviour_<br>
 DH Bailey, AJ Jung, AM Beltz, MI Eronen, C Gische, EL Hamaker, et al.<br>
-Nature human behaviour 8 (8), 1448-1459, 2024
+Nature human behaviour 8 (8), 1448-1459, 2024 ([Article](https://www.nature.com/articles/s41562-024-01939-z))
 
 _Efficient optimization of ODE neuron models using gradient descent_<br>
 IS Jones, KP Kording<br>
-arXiv preprint arXiv:2407.04025, 2024
+arXiv preprint arXiv:2407.04025, 2024 ([Article](https://arxiv.org/abs/2407.04025))
 
 _Empirical influence functions to understand the logic of fine-tuning_<br>
 JK Matelsky, L Ungar, KP Kording<br>
-arXiv preprint arXiv:2406.00509, 2024
+arXiv preprint arXiv:2406.00509, 2024 ([Article](https://arxiv.org/abs/2406.00509))
 
 _Measuring causal effects of civil communication without randomization_<br>
 T Liu, L Ungar, K Kording, M McGuire<br>
-Proceedings of the International AAAI Conference on Web and Social Media 18, 2024
+Proceedings of the International AAAI Conference on Web and Social Media 18, 2024 ([Article](https://ojs.aaai.org/index.php/ICWSM/article/view/31350))
 
 _Computational kinematics of dance: distinguishing hip hop genres_<br>
 B Baker, T Liu, J Matelsky, F Parodi, B Mensh, JW Krakauer, K Kording<br>
-Frontiers in Robotics and AI 11, 1295308, 2024
+Frontiers in Robotics and AI 11, 1295308, 2024 ([Article](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2024.1295308/full))
 
 _Neural signatures of natural behaviour in socializing macaques_<br>
 C Testard, S Tremblay, F Parodi, RW DiTullio, A Acevedo-Ithier, et al.<br>
-Nature 628 (8007), 381-390, 2024
+Nature 628 (8007), 381-390, 2024 ([Article](https://www.nature.com/articles/s41586-024-07178-6))
 
 _PrimateFace: Large-scale resource for cross-species primate facial analysis_<br>
 F Parodi, JK Matelsky, C Kimock, ML Platt, KP Kording<br>
@@ -127,7 +127,7 @@ K Kording<br>
 
 _Downstream network transformations dissociate neural activity from causal functional contributions_<br>
 K Fakhar, S Dixit, F Hadaeghi, KP Kording, CC Hilgetag<br>
-Scientific Reports 14 (1), 2103, 2024
+Scientific Reports 14 (1), 2103, 2024 ([Article](https://www.nature.com/articles/s41598-024-52423-7))
 
 _Vision-language models for decoding provider attention during neonatal resuscitation_<br>
 F Parodi, JK Matelsky, A Regla-Vargas, EE Foglia, C Lim, D Weinberg, et al.<br>
@@ -141,63 +141,63 @@ US Patent App. 18/250,140, 2023
 
 _Why the simplest explanation isn't always the best_<br>
 EL Dyer, K Kording<br>
-Proceedings of the National Academy of Sciences 120 (52), e2319169120, 2023
+Proceedings of the National Academy of Sciences 120 (52), e2319169120, 2023 ([Article](https://www.pnas.org/doi/10.1073/pnas.2319169120))
 
 _Deep neural networks are not a single hypothesis but a language for expressing computational hypotheses_<br>
 T Golan, JM Taylor, H Schütt, B Peters, RP Sommers, K Seeliger, et al.<br>
-Behavioral and Brain Sciences 46, 2023
+Behavioral and Brain Sciences 46, 2023 ([Article](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/deep-neural-networks-are-not-a-single-hypothesis-but-a-language-for-expressing-computational-hypotheses/E73CF26095E082D0E91343FDC63B8340))
 
 _Prospective learning: Principled extrapolation to the future_<br>
 A De Silva, R Ramesh, L Ungar, MH Shuler, NJ Cowan, M Platt, C Li, et al.<br>
-Conference on Lifelong Learning Agents, 347-357, 2023
+Conference on Lifelong Learning Agents, 347-357, 2023 ([Article](https://proceedings.mlr.press/v232/de-silva23a.html))
 
 _Inferring causal connectivity from pairwise recordings and optogenetics_<br>
 ME Lepperød, T Stöber, T Hafting, M Fyhn, KP Kording<br>
-PLoS Computational Biology 19 (11), e1011574, 2023
+PLoS Computational Biology 19 (11), e1011574, 2023 ([Article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011574))
 
 _Quantifying interaction with robotic toys in pre-term and full-term infants_<br>
 C Kather, FS Shofer, JI Park, D Bogen, SR Pierce, K Kording, KA Nilan, et al.<br>
-Frontiers in Pediatrics 11, 1153841, 2023
+Frontiers in Pediatrics 11, 1153841, 2023 ([Article](https://www.frontiersin.org/journals/pediatrics/articles/10.3389/fped.2023.1153841/full))
 
 _A role for cortical interneurons as adversarial discriminators_<br>
 AS Benjamin, KP Kording<br>
-PLOS Computational Biology 19 (9), e1011484, 2023
+PLOS Computational Biology 19 (9), e1011484, 2023 ([Article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011484))
 
 _Deep networks as paths on the manifold of neural representations_<br>
 RD Lange, D Kwok, JK Matelsky, X Wang, D Rolnick, K Kording<br>
-Topological, Algebraic and Geometric Learning Workshops 2023, 102-133, 2023
+Topological, Algebraic and Geometric Learning Workshops 2023, 102-133, 2023 ([Article](https://openreview.net/forum?id=PhpCHXUx9D))
 
 _Fixing the problems of deep neural networks will require better training data and learning algorithms_<br>
 D Linsley, T Serre<br>
-arXiv preprint arXiv:2311.12819, 2023
+arXiv preprint arXiv:2311.12819, 2023 ([Article](https://arxiv.org/abs/2311.12819))
 
 _To reverse engineer an entire nervous system_<br>
 G Haspel, ES Boyden, J Brown, G Church, N Cohen, C Fang-Yen, et al.<br>
-arXiv preprint arXiv:2308.06578, 2023
+arXiv preprint arXiv:2308.06578, 2023 ([Article](https://arxiv.org/abs/2308.06578))
 
 _The time is ripe to reverse engineer an entire nervous system: simulating behavior from neural interactions_<br>
 G Haspel, B Baker, I Beets, ES Boyden, J Brown, G Church, N Cohen, et al.<br>
-arXiv preprint arXiv:2308.06578, 2023
+arXiv preprint arXiv:2308.06578, 2023 ([Article](https://arxiv.org/abs/2308.06578))
 
 _Bayesian models of perception and action: An introduction_<br>
 WJ Ma, KP Kording, D Goldreich<br>
-MIT press, 2023
+MIT press, 2023 ([Article](https://mitpress.mit.edu/9780262047593/bayesian-models-of-perception-and-action/))
 
 _The study of plasticity has always been about gradients_<br>
 BA Richards, KP Kording<br>
-The Journal of Physiology 601 (15), 3141-3149, 2023
+The Journal of Physiology 601 (15), 3141-3149, 2023 ([Article](https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/JP282747))
 
 _A large language model-assisted education tool to provide feedback on open-ended responses_<br>
 JK Matelsky, F Parodi, T Liu, RD Lange, KP Kording<br>
-arXiv preprint arXiv:2308.02439, 2023
+arXiv preprint arXiv:2308.02439, 2023 ([Article](https://arxiv.org/abs/2308.02439))
 
 _Comparing dendritic trees with actual trees_<br>
 R Farhoodi, P Wilkes, AM Natarajan, S Esteves, JL Lefebvre, M Disney, et al.<br>
-arXiv preprint arXiv:2307.01499, 2023
+arXiv preprint arXiv:2307.01499, 2023 ([Article](https://arxiv.org/abs/2307.01499))
 
 _The neuroconnectionist research programme_<br>
 A Doerig, RP Sommers, K Seeliger, B Richards, J Ismael, GW Lindsay, et al.<br>
-Nature Reviews Neuroscience 24 (7), 431-450, 2023
+Nature Reviews Neuroscience 24 (7), 431-450, 2023 ([Article](https://www.nature.com/articles/s41583-023-00705-w))
 
 _When Neural Activity Fails to Reveal Causal Contributions_<br>
 K Fakhar, S Dixit, F Hadaeghi, KP Kording, CC Hilgetag<br>
@@ -205,23 +205,23 @@ bioRxiv, 2023
 
 _Overfitting to 'predict' suicidal ideation_<br>
 T Verstynen, KP Kording<br>
-Nature human behaviour 7 (5), 680-681, 2023
+Nature human behaviour 7 (5), 680-681, 2023 ([Article](https://www.nature.com/articles/s41562-023-01560-6))
 
 _Neural spiking for causal inference and learning_<br>
 BJ Lansdell, KP Kording<br>
-PLOS Computational Biology 19 (4), e1011005, 2023
+PLOS Computational Biology 19 (4), e1011005, 2023 ([Article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011005))
 
 _Aligning latent representations of neural activity_<br>
 M Dabagia, KP Kording, EL Dyer<br>
-Nature Biomedical Engineering 7 (4), 337-343, 2023
+Nature Biomedical Engineering 7 (4), 337-343, 2023 ([Article](https://www.nature.com/articles/s41551-022-00962-7))
 
 _Catalyzing next-generation artificial intelligence through neuroai_<br>
 A Zador, S Escola, B Richards, B Ölveczky, Y Bengio, K Boahen, et al.<br>
-Nature communications 14 (1), 1597, 2023
+Nature communications 14 (1), 1597, 2023 ([Article](https://www.nature.com/articles/s41467-023-37180-x))
 
 _From puzzle to progress: How engaging with neurodiversity can improve cognitive science_<br>
 MAR Manalili, A Pearson, J Sulik, L Creechan, M Elsherif, I Murkumbi, et al.<br>
-Cognitive Science 47 (2), e13255, 2023
+Cognitive Science 47 (2), e13255, 2023 ([Article](https://onlinelibrary.wiley.com/doi/10.1111/cogs.13255))
 
 _Quantifying grooming in paired macaques_<br>
 F Parodi, M Platt, K Kording<br>
@@ -229,7 +229,7 @@ APS March Meeting Abstracts 2023, N00.332, 2023
 
 _Automated detection of causal inference opportunities: regression discontinuity subgroup discovery_<br>
 T Liu, P Lawlor, L Ungar, K Kording, R Ladhania<br>
-Transactions on Machine Learning Research, 2023
+Transactions on Machine Learning Research, 2023 ([Article](https://openreview.net/forum?id=cdRYoTyHZh))
 
 _The Interplay of Relevance, Sensory Uncertainty and Statistical Learning Influences Auditory Categorization_<br>
 J Sheth, JS Collina, K Kording, Y Cohen, M Geffen<br>
