@@ -11,9 +11,9 @@ The [Community for Rigor (C4R)](https://c4r.io) is an initiative founded by Konr
 
 C4R is a user-friendly, open-source educational platform launched in 2023 with support from the National Institutes of Health. The platform addresses critical challenges in research methodology through interactive modules and community engagement.
 
-### Core Educational Modules
+### Core Educational Modules (Examples)
 
-C4R provides training in essential areas of research rigor:
+C4R provides training in essential areas of research rigor. Examples of topics covered include:
 
 - **Biases in Research** - Identifying and mitigating cognitive biases, selection bias, confirmation bias, and other systematic errors that can affect research outcomes
 - **Causal Inference** - Understanding the difference between correlation and causation, and learning proper techniques for establishing causal relationships
