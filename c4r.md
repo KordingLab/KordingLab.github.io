@@ -9,7 +9,7 @@ The [Community for Rigor (C4R)](https://c4r.io) is an initiative founded by Konr
 
 ### What is C4R?
 
-C4R is a user-friendly, open-source educational platform launched in 2023 with support from the National Institutes of Health. The platform addresses critical challenges in research methodology through interactive modules and community engagement.
+C4R is a free, user-friendly, open-source educational platform launched in 2023 with support from the National Institutes of Health's National Institute of Neurological Disorders and Stroke (NINDS). The platform addresses critical challenges in research methodology through interactive modules and community engagement.
 
 ### Core Educational Modules (Examples)
 
