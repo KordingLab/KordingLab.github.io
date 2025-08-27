@@ -37,7 +37,8 @@ I love those that desire the impossible - Goethe.
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-  <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+  <script src="https://code.jquery.com/jquery-migrate-3.4.1.min.js" integrity="sha256-UnTxHm+zKuDPLfufgEMnKGXDl6fEIjtM+n1Q6lL73ok=" crossorigin="anonymous"></script>
   <link href="{{ site.url }}/css/zoom.css" rel="stylesheet">
   <script src="{{ site.url }}/js/zoom.js"></script>
   <script src="{{ site.url }}/js/transition.js"></script>
@@ -93,16 +94,9 @@ s.setAttribute('data-timestamp', +new Date());
     {{ content }}
 
     <script id="dsq-count-scr" src="//kordinglab.disqus.com/count.js" async></script>
-    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <!-- jQuery already loaded in head -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
-    <script type="text/javascript">
-    var gaJsHost = "https://www.";
-    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    </script>
-    <script type="text/javascript">
-    var pageTracker = _gat._getTracker("UA-34145995-1");
-    pageTracker._trackPageview();
-    </script>
+    <!-- Legacy Google Analytics removed - using gtag.js below -->
 
     <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-34145995-1"></script>
