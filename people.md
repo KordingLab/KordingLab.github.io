@@ -3,6 +3,10 @@ title: People
 permalink: /people/
 ---
 
+### Lab Members
+
+Our research group is remarkably interdisciplinary. Our interests span statistics, physics, biology, applied mathematics, molecular biology, metascience, cognitive science, and many other disciplines. Each person brings unique expertise that contributes to our mission of understanding intelligence, causality, and complex systems.
+
 {% assign people_sorted = site.people | sort: 'joined' %}
 {% assign role_array = "pi|postdoc|gradstudent|researchstaff|visiting|others|alumni" | split: "|" %}
 

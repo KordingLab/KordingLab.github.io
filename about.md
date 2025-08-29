@@ -13,12 +13,6 @@ The lab has pioneered several major educational initiatives that have transforme
 
 Recent projects span from developing [methods for causal inference in high-dimensional neural data](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011574) to exploring how evolution shapes both biological and artificial neural networks. We've shown that [cultural evolution provides a powerful framework](https://arxiv.org/abs/2205.10320) for understanding why certain deep learning architectures succeed while others fail. Our work increasingly focuses on the [credit assignment problem](https://arxiv.org/abs/1906.00889)—both how brains solve this fundamental learning problem and how we can better assign credit in real-world causal systems. The lab's approach to AI and causality has been featured in recent talks at [Stanford](https://symsys.stanford.edu/events/konrad-kording-causality-neuroscience) and [Wharton](https://neuro.wharton.upenn.edu/events-hq/a1W3a000004DbNpEAK/).
 
-The best way to get a sense of what's currently going on in the lab is to check out the work of individual lab members:
-
-### Lab Members
-
-Our research group is remarkably interdisciplinary. Our interests span statistics, physics, biology, applied mathematics, molecular biology, metascience, cognitive science, and many other disciplines. Visit our [people page](http://kordinglab.com/people/) to see more information on each person who works in the lab (publications, contact information, photos).
-
 ### Lab Culture
 
 Our lab is a wonderful spot for anyone who is super driven by curiosity and likes to learn/move through ideas quickly. Instead of one big "lab project", everyone is generally the chief of their own individual projects.
