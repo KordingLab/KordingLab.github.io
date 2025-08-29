@@ -126,7 +126,7 @@ Our research group is remarkably interdisciplinary. Our interests span statistic
 | Nicholas Bowman | Rotation Student (Winter 2007) | Senior Data Scientist, IsoPlexis (now PhenomeX) |
 | Taro Kiritani | Rotation Student (Winter 2007) | AI Engineer, ExaWizards, Inc. (Tokyo) |
 | Rashmi Sarnaik | Rotation Student (Winter 2007) | Scientific Editor, Neuron |
-| Emily Oby | Rotation Student (Fall 2006) | Assistant Professor, Queen's University |
+| Emily Oby | Rotation Student (Fall 2006) | Assistant Professor, Queen's University, Kingston |
 
 {% endif %}
 {% endfor %}
