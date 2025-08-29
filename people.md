@@ -100,33 +100,33 @@ Our research group is remarkably interdisciplinary. Our interests span statistic
 | [Mohammad Azar](http://mgazar.net/academic/) | Postdoc (2016) | Google Deepmind, London |
 | [Cong Yin (Lily)](http://kordinglab.com/people/cong_yin/index.html) | Visiting scholar (2015-2016) | Peking University |
 | [Youguo Chen](https://scholar.google.com/citations?user=wZQdEFAAAAAJ&hl=zh-CN) | Visiting scholar (2014 - 2015) | Associate Professor, Southwest University, Chongqing, China |
-| [Max Berniker](http://sensorimotorcontrolatorium.uic.edu/)   | Postdoc (2014) | Data Scientist at Intuitive |
-| [Mathieu d'Acremont](https://scholar.google.com/citations?user=D7ys4VQAAAAJ&hl=en) | Postdoc (2014) | Lead Data Scientist at CVS Health |
-| [Iris Vilares](https://scholar.google.com/citations?user=Ztwn608AAAAJ&hl=en)   | Graduate Student (2009-2013) | Assistant Professor of Psychology at University of Minnesota |
-| Ben Walker     | Research Engineer (2010-2013) | MS in ME at Northwestern University, Masanet lab |
-| Bill Lotter    | Research Scientist (2012-2013)| PhD at MIT |
-| Mark Albert	   | (Dec 2009 - Dec 2012) | Asst Prof, Loyola University, Computer Science |
-| Yoshiyuki (Yoshi) Sato | Visiting Professor (2012 - 2013) | Asst Prof, Univ of Electro-Communications, Tokyo |
-| Petra Conaway	Clinical | Coordinator (2012) | Continuing her work at RIC |
+| [Max Berniker](http://sensorimotorcontrolatorium.uic.edu/) | Postdoc (2014) | Senior Data Scientist, Intuitive Surgical |
+| [Mathieu d'Acremont](https://scholar.google.com/citations?user=D7ys4VQAAAAJ&hl=en) | Postdoc (2014) | Lead Data Scientist, CVS Health |
+| [Iris Vilares](https://scholar.google.com/citations?user=Ztwn608AAAAJ&hl=en) | Graduate Student (2009-2013) | Assistant Professor of Psychology, University of Minnesota |
+| Ben Walker | Research Engineer (2010-2013) | M.S. Graduate, Mechanical Engineering, Northwestern University |
+| [William Lotter](https://semenovlab.org/) | Research Scientist (2012-2013) | Assistant Professor, Harvard Medical School & Dana-Farber |
+| Mark Albert | (Dec 2009-Dec 2012) | Associate Professor, Computer Engineering, University of North Texas |
+| Yoshiyuki "Yoshi" Sato | Visiting Professor (2012-2013) | Assistant Professor, University of Electro-Communications, Tokyo |
+| Petra Conaway | Clinical Coordinator (2012) | Clinical Coordinator, Shirley Ryan AbilityLab |
 | Rich Li | Rotation Student (Fall 2012) | Continuing Rotations |
 | James Ellis | Rotation Student (Fall 2012) | Continuing Rotations |
-| Hamid Buini | Summer Intern (2012) | University of Southern Florida |
+| Hamid Buini | Summer Intern (2012) | University of South Florida |
 | AmberLace Moore | Summer Intern (2012) | Spelman College |
-| Mayowa Agbaje-Williams | Clinical Coordinator (Summer 2012) | Univ. Illinois Chicago School of Pharmacy |
-| Florian Neubauer | Visiting Scholar (2011 - 2012) | PostDoc in Switerland |
-| Qiang (Chris) Chen | Rotation Student (Spring 2012) | Raphael Pinaud's lab at Northwestern |
+| Mayowa Agbaje-Williams | Clinical Coordinator (Summer 2012) | U. of Illinois Chicago, College of Pharmacy |
+| Florian Neubauer | Visiting Scholar (2011-2012) | Postdoctoral Researcher, Switzerland |
+| Qiang "Chris" Chen | Rotation Student (Spring 2012) | Postdoctoral Researcher, Northwestern (Pinaud Lab) |
 | Ranit Sengupta | Rotation Student (Fall 2011) | Data Analyst |
-| [Ian Stevenson](http://stevenson.lab.uconn.edu/) | Grad Student (2006-2011) | Associate Professor of Psychology at University of Connecticut |
-| Andrew Cichowski | MD rotation student (Summer 2011) | Neurologist at Guadalupe Regional Medical Center |
-| James Howard | Rotation Student (Winter 2009) | Assistant Professor of Psychology at Brandeis University |
-| Kunlin Wei | Postdoc (2006-2009) | Professor of Psychology and Cog Sci at Peking University |
-| Ricardo Ruiz Torres | Rotation Student (Spring 2009) | Vicarious Surgical Inc. |
-| Gregory Dam | Grad Student (2006-2009) | Assistant Professor of Psychology at Indiana University |
+| [Ian Stevenson](http://stevenson.lab.uconn.edu/) | Grad Student (2006-2011) | Associate Professor of Psychology, University of Connecticut |
+| Andrew Cichowski | MD rotation student (Summer 2011) | Neurologist, Guadalupe Regional Medical Center (Texas) |
+| James Howard | Rotation Student (Winter 2009) | Assistant Professor of Psychology, Brandeis University |
+| Kunlin Wei | Postdoc (2006-2009) | Professor of Psychology & Cognitive Science, Peking University |
+| Ricardo Ruiz Torres | Rotation Student (Spring 2009) | Engineer (Robotics), Vicarious Surgical, Inc. |
+| Gregory Dam | Grad Student (2006-2009) | Assistant Professor of Psychology, Indiana University |
 | Daniel Wert | SINE Intern (2008) | ALIVE Industries |
-| Nicholas Bowman | Rotation Student (Winter 2007) | Senior Data Scientist at IsoPlexis |
-| Taro Kiritani | Rotation Student (Winter 2007) | ExaWizards Inc. in Tokyo |
-| Rashmi Sarnaik | Rotation Student (Winter 2007) | Scientific Editor at Neuron |
-| Emily Oby | Rotation Student (Fall 2006) | Postdoc w/ Aaron Batista at University of Pittsburgh |
+| Nicholas Bowman | Rotation Student (Winter 2007) | Senior Data Scientist, IsoPlexis (now PhenomeX) |
+| Taro Kiritani | Rotation Student (Winter 2007) | AI Engineer, ExaWizards, Inc. (Tokyo) |
+| Rashmi Sarnaik | Rotation Student (Winter 2007) | Scientific Editor, Neuron |
+| Emily Oby | Rotation Student (Fall 2006) | Assistant Professor, Queen's University |
 
 {% endif %}
 {% endfor %}
