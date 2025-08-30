@@ -76,6 +76,22 @@ When leaving the lab:
 4. **Keep your profile** - don't delete it! Alumni remain part of the lab community
 5. **Commit and push** the changes
 
+### Conference Presentation Policy
+
+**Important Lab Policy:** Any significant piece of work from the lab should be presented at exactly one conference before submitting to a journal.
+
+This policy ensures:
+- Work receives feedback from the community before publication
+- Ideas are tested and refined through presentation
+- Lab members gain presentation experience
+- The lab maintains visibility in the research community
+
+Guidelines:
+- Choose the most appropriate conference for your work
+- Coordinate with Konrad about conference selection
+- Budget for conference attendance should be discussed in advance
+- After presentation, incorporate feedback before journal submission
+
 ### Adding Publications
 
 When you publish a paper:
