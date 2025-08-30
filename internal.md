@@ -76,7 +76,25 @@ When leaving the lab:
 4. **Keep your profile** - don't delete it! Alumni remain part of the lab community
 5. **Commit and push** the changes
 
-### Conference Presentation Policy
+### Lab Policies
+
+#### Office Attendance Expectations
+
+**Lab members are expected to be in the office 4 days a week unless discussed otherwise with Konrad.**
+
+This policy promotes:
+- Collaboration and spontaneous discussions
+- Stronger lab community and culture
+- Better mentorship opportunities
+- Quick problem-solving and idea exchange
+
+Exceptions can be discussed for:
+- Remote collaborations
+- Data collection off-site
+- Conference attendance
+- Personal circumstances (discuss with Konrad)
+
+#### Conference Presentation Policy
 
 **Important Lab Policy:** Any significant piece of work from the lab should be presented at exactly one conference before submitting to a journal.
 
