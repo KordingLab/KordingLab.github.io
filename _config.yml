@@ -30,6 +30,8 @@ nav:
     href:           "/publication"
   - name:           "people"
     href:           "/people"
+  - name:           "resources"
+    href:           "/resources"
   - name:           "C4R"
     href:           "/c4r"
   - name:           "internal"
