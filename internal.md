@@ -147,6 +147,7 @@ Then visit `localhost:4000` to preview
 
 ### Getting Help
 
+- **Administrative questions**: Email Thomas McDonald <taomcd@seas.upenn.edu>
 - **Git/GitHub issues**: Ask any lab member familiar with Git
 - **Website technical issues**: Contact the designated website maintainer
 - **Content questions**: Check with Konrad or senior lab members
