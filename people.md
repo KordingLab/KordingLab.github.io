@@ -62,6 +62,11 @@ Our research group is remarkably interdisciplinary. Our interests span statistic
 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
+| [Jordan Matelsky](https://kordinglab.com/people/jordan_matelsky/) | Graduate Student (2021 - 2026) | [Mindspan Institute](https://mindspan.org/) |
+| [Felipe Parodi](https://kordinglab.com/people/felipe_parodi/) | Graduate Student (2020 - 2026) |  |
+| [Davy Deng](https://kordinglab.com/people/davy_deng/) | Graduate Student (2024 - 2026) |  |
+| [Melanie Segado](https://kordinglab.com/people/melanie_segado/) | Post-doc (2023 - 2026) | [Stanford University](https://www.stanford.edu/) |
+| [Xiao Zhang](https://kordinglab.com/people/xiao_zhang/) | Post-doc (2023 - 2026) |  |
 | [Tony Liu](https://tliutony.github.io/) | Graduate Student (2018-2024) | Assistant Professor of Computer Science, [Mount Holyoke College](https://www.mtholyoke.edu/) |
 | [Xinyue Wang](https://www.charonwangg.com/) | Graduate Student (2021-2023) | PhD Student, Halıcıoğlu Data Science Institute, [UCSD](https://datascience.ucsd.edu/) |
 | [Ilenna Jones](https://www.ilenna.com/) | Graduate Student (2017-2023) | Postdoc, Kemptner Institute, [Harvard](https://www.kempnerinstitute.harvard.edu/)|

@@ -1,6 +1,6 @@
 ---
 name: Davy Deng
-position: gradstudent
+position: alumni
 avatar: davy.jpg
 twitter:
 joined: 2024

@@ -5,6 +5,8 @@ permalink: /blog/
 
 ### **Blog posts from the lab**
 
+> **Konrad's blog has moved to Substack.** New posts appear at [Rethinking Brains, Data, and Science](https://kording.substack.com). The posts below are kept here as an archive.
+
 <div class="content list">
   {% for post in site.posts %}
     {% if post.categories contains 'newblog' %}

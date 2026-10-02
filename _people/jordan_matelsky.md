@@ -1,6 +1,6 @@
 ---
 name: Jordan Matelsky
-position: gradstudent
+position: alumni
 avatar: jordan-matelsky.jpg
 twitter: j6m8
 joined: 2021

@@ -1,6 +1,6 @@
 ---
 name: Melanie Segado
-position: postdoc
+position: alumni
 avatar: melanie.jpg
 twitter: 
 joined: 2023

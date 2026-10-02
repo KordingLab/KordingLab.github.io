@@ -1,6 +1,6 @@
 ---
 name: Xiao Zhang
-position: postdoc
+position: alumni
 avatar: XiaoZhang.JPG
 twitter: 
 joined: 2023

@@ -5,6 +5,9 @@ layout: default
   <h3><strong>{{ page.title }}</strong><br/>
   <small>posted on {{ page.date | date: '%B %-d, %Y'}}</small></h3>
   <hr>
+  {% if page.categories contains 'blog' or page.categories contains 'newblog' %}
+  <p><em>Konrad's blog has moved to Substack. Find new posts at <a href="https://kording.substack.com">kording.substack.com</a>.</em></p>
+  {% endif %}
   {{ content }}
   {% include social-share.html %}
   <div id="disqus_thread"></div>

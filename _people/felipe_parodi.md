@@ -1,6 +1,6 @@
 ---
 name: Felipe Parodi
-position: gradstudent
+position: alumni
 avatar: felipe.jpg
 twitter:
 joined: 2020
